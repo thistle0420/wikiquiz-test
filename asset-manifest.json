@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/wikiquiz-test/static/css/main.bab0b925.chunk.css",
-    "main.js": "/wikiquiz-test/static/js/main.7b1a2f5b.chunk.js",
-    "main.js.map": "/wikiquiz-test/static/js/main.7b1a2f5b.chunk.js.map",
+    "main.js": "/wikiquiz-test/static/js/main.48fa8004.chunk.js",
+    "main.js.map": "/wikiquiz-test/static/js/main.48fa8004.chunk.js.map",
     "runtime-main.js": "/wikiquiz-test/static/js/runtime-main.b595de9e.js",
     "runtime-main.js.map": "/wikiquiz-test/static/js/runtime-main.b595de9e.js.map",
-    "static/js/2.1b2abe20.chunk.js": "/wikiquiz-test/static/js/2.1b2abe20.chunk.js",
-    "static/js/2.1b2abe20.chunk.js.map": "/wikiquiz-test/static/js/2.1b2abe20.chunk.js.map",
+    "static/js/2.8d6a1558.chunk.js": "/wikiquiz-test/static/js/2.8d6a1558.chunk.js",
+    "static/js/2.8d6a1558.chunk.js.map": "/wikiquiz-test/static/js/2.8d6a1558.chunk.js.map",
     "static/js/3.857c4d61.chunk.js": "/wikiquiz-test/static/js/3.857c4d61.chunk.js",
     "static/js/3.857c4d61.chunk.js.map": "/wikiquiz-test/static/js/3.857c4d61.chunk.js.map",
     "index.html": "/wikiquiz-test/index.html",
     "static/css/main.bab0b925.chunk.css.map": "/wikiquiz-test/static/css/main.bab0b925.chunk.css.map",
-    "static/js/2.1b2abe20.chunk.js.LICENSE.txt": "/wikiquiz-test/static/js/2.1b2abe20.chunk.js.LICENSE.txt"
+    "static/js/2.8d6a1558.chunk.js.LICENSE.txt": "/wikiquiz-test/static/js/2.8d6a1558.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b595de9e.js",
-    "static/js/2.1b2abe20.chunk.js",
+    "static/js/2.8d6a1558.chunk.js",
     "static/css/main.bab0b925.chunk.css",
-    "static/js/main.7b1a2f5b.chunk.js"
+    "static/js/main.48fa8004.chunk.js"
   ]
 }
