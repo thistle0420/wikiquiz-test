@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年08月10日 03時の問題",
+                "url": "https://ja.wikipedia.org/?curid=390130",
+                "title": "申不害",
+                "text": "〇〇は、中国戦国時代の韓の政治家。昭侯に仕えて宰相となった。"
+            },
+            {
                 "datetime": "2023年08月10日 02時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2791919",
                 "title": "下村由理恵",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1472336",
                 "title": "田川啓二",
                 "text": "〇〇は、東京都出身の実業家、服飾デザイナー。ビーズ刺繍が専門。"
-            },
-            {
-                "datetime": "2023年08月08日 10時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4289351",
-                "title": "泉谷淑夫",
-                "text": "〇〇は、日本の洋画家、美術教育者。"
             }
         ]
     }
