@@ -1,0 +1,30 @@
+name: Tweet0
+
+# masterにpushされたら実行 
+#on:
+#  push:
+#    branches:
+#      - master
+
+# 毎時30分に実行
+on:
+  schedule:
+    - cron: '30 * * * *'
+
+jobs:
+  Tweet0:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Setup Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.8'
+          architecture: 'x64'
+      - name: Get Python version
+        run: python -V
+      - name: Install dependencies
+        run: pip install -r src/python/requirements.txt
+      - name: Run Python
+        run: python src/python/tweet.py 0
