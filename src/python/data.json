@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年08月10日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2057066",
+                "title": "天と地と SOUNDTRACK",
+                "text": "〇〇は、小室哲哉が1990年6月1日にEPIC・ソニーレコードよりリリースした、同年6月23日公開角川映画『天と地と』サウンドトラック・アルバム。規格品番はESCB-1057。"
+            },
+            {
                 "datetime": "2023年08月10日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=981968",
                 "title": "ミヤギテレビNewsリアルタイムサタデー",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4270753",
                 "title": "小林瞭",
                 "text": "〇〇は、日本のメモリーアスリート。2021年MLC日本チャンピオン。2021年世界大会準優勝。青山学院大学文学部英米文学科。"
-            },
-            {
-                "datetime": "2023年08月09日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3819248",
-                "title": "マッターホルン作戦",
-                "text": "〇〇は、第二次世界大戦における連合国による日本空襲作戦。"
             }
         ]
     }
