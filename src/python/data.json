@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年08月12日 04時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2479534",
+                "title": "伊藤田インターチェンジ",
+                "text": "〇〇は、大分県中津市に位置する中津日田道路のインターチェンジである。"
+            },
+            {
                 "datetime": "2023年08月12日 03時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4337707",
                 "title": "日和が丘",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=371746",
                 "title": "MESSAGE (MONGOL800のアルバム)",
                 "text": "〇〇は、MONGOL800のインディーズデビュー後2枚目のアルバムで、2001年9月16日にハイ・ウェーブ内のレーベル”TISSUE FREAK RECORDS”からリリースされた。"
-            },
-            {
-                "datetime": "2023年08月10日 11時の問題",
-                "url": "https://ja.wikipedia.org/?curid=762533",
-                "title": "岐阜県道260号宮地片山線",
-                "text": "〇〇は、岐阜県揖斐郡池田町宮地大門南から岐阜県揖斐郡池田町片山大畑に至る一般県道である。"
             }
         ]
     }
