@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年08月12日 05時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2952905",
+                "title": "キ111 (航空機)",
+                "text": "〇〇は、第二次世界大戦中に日本陸軍が日本国際航空工業（日国）に試作を内示した輸送機。"
+            },
+            {
                 "datetime": "2023年08月12日 04時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2479534",
                 "title": "伊藤田インターチェンジ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=976569",
                 "title": "鈴木政江",
                 "text": "〇〇は、千葉県千葉市出身の元女子サッカー選手・元指導者。選手時代のポジションはゴールキーパー 。日本女子サッカーのパイオニアの1人である。"
-            },
-            {
-                "datetime": "2023年08月10日 12時の問題",
-                "url": "https://ja.wikipedia.org/?curid=371746",
-                "title": "MESSAGE (MONGOL800のアルバム)",
-                "text": "〇〇は、MONGOL800のインディーズデビュー後2枚目のアルバムで、2001年9月16日にハイ・ウェーブ内のレーベル”TISSUE FREAK RECORDS”からリリースされた。"
             }
         ]
     }
