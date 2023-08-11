@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年08月12日 01時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3529582",
+                "title": "岡村弘之",
+                "text": "〇〇は、日本の材料強度学・破壊力学者。東京大学名誉教授、東京理科大学元学長。日本機械学会・日本高圧力協会技術協会の会長など歴任。瑞宝中綬章受章。"
+            },
+            {
                 "datetime": "2023年08月12日 00時の問題",
                 "url": "https://ja.wikipedia.org/?curid=947751",
                 "title": "ゆきゆきて、神軍",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=214497",
                 "title": "AKIA",
                 "text": "〇〇は、タイの反韓テロ組織の名称。"
-            },
-            {
-                "datetime": "2023年08月10日 07時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4577683",
-                "title": "フリーダ・グスタフション",
-                "text": "〇〇は、スウェーデンのモデル、女優である。ストックホルム出身。"
             }
         ]
     }
