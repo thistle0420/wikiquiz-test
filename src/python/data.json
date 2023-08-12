@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年08月12日 22時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4382447",
+                "title": "United Flow",
+                "text": "〇〇は、久保田利伸の10枚目のアルバム。2002年4月10日に、SME Recordsから発売された。"
+            },
+            {
                 "datetime": "2023年08月12日 21時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2047879",
                 "title": "ルクヌッディーン・フィールーズ・シャー",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2355322",
                 "title": "大竹勝",
                 "text": "〇〇は、日本のアメリカ文学者、翻訳家。東京経済大学名誉教授。"
-            },
-            {
-                "datetime": "2023年08月11日 04時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3454013",
-                "title": "293型レーダー",
-                "text": "〇〇は、イギリスで開発されたレーダー。"
             }
         ]
     }
