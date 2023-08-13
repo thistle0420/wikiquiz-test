@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年08月13日 22時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4470",
+                "title": "紀元前45年",
+                "text": "〇〇は、ローマ暦の709年である。ユリウス暦が施行された年である。"
+            },
+            {
                 "datetime": "2023年08月13日 21時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2809055",
                 "title": "イワヒゲ属",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2952905",
                 "title": "キ111 (航空機)",
                 "text": "〇〇は、第二次世界大戦中に日本陸軍が日本国際航空工業（日国）に試作を内示した輸送機。"
-            },
-            {
-                "datetime": "2023年08月12日 04時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2479534",
-                "title": "伊藤田インターチェンジ",
-                "text": "〇〇は、大分県中津市に位置する中津日田道路のインターチェンジである。"
             }
         ]
     }
