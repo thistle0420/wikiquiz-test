@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年08月13日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2809055",
+                "title": "イワヒゲ属",
+                "text": "〇〇は、ツツジ科に属する属の一つ。"
+            },
+            {
                 "datetime": "2023年08月13日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4424164",
                 "title": "第1回国会",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2479534",
                 "title": "伊藤田インターチェンジ",
                 "text": "〇〇は、大分県中津市に位置する中津日田道路のインターチェンジである。"
-            },
-            {
-                "datetime": "2023年08月12日 03時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4337707",
-                "title": "日和が丘",
-                "text": "〇〇は、宮城県石巻市にある町丁であり、1丁目から4丁目までを擁する。郵便番号は986-0833。"
             }
         ]
     }
