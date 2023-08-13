@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年08月13日 15時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4192039",
+                "title": "愛ある世界へ",
+                "text": "〇〇は、ジャクソンズの楽曲。"
+            },
+            {
                 "datetime": "2023年08月13日 14時の問題",
                 "url": "https://ja.wikipedia.org/?curid=463915",
                 "title": "マリリン・マックー",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2488956",
                 "title": "伯東",
                 "text": "〇〇は、エレクトロニクスを主とした専門商社である。"
-            },
-            {
-                "datetime": "2023年08月11日 21時の問題",
-                "url": "https://ja.wikipedia.org/?curid=731829",
-                "title": "月-WINGS",
-                "text": "〇〇は、1999年11月3日に発表された中島みゆきの27作目のオリジナルアルバムである。"
             }
         ]
     }
