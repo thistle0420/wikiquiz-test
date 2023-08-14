@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年08月14日 19時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3625302",
+                "title": "Lazy Sunday",
+                "text": "〇〇は、2007年7月からInterFM897で放送されているラジオ番組。"
+            },
+            {
                 "datetime": "2023年08月14日 18時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3710474",
                 "title": "HYBRID BANK",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2788114",
                 "title": "中西俊彦",
                 "text": "〇〇は、日本の男性声優。東京都出身。以前はテアトル・エコー、東京俳優生活協同組合所属していた。"
-            },
-            {
-                "datetime": "2023年08月13日 01時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3740950",
-                "title": "盧坵",
-                "text": "〇〇は、朝鮮氏族の長淵盧氏の始祖である。父親は中国唐の翰林学士を務めていた時に新羅に派遣された盧穂である。その盧穂の4番目の息子として生まれ、その後長淵伯に封じられた。"
             }
         ]
     }
