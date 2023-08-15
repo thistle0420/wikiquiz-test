@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年08月15日 23時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3706207",
+                "title": "孫本文",
+                "text": "〇〇は、中国の社会学者。"
+            },
+            {
                 "datetime": "2023年08月15日 22時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1106028",
                 "title": "大内早苗",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=848135",
                 "title": "落陽",
                 "text": "〇〇は、沈みゆく夕日。日没、落日。1992年に公開された伴野朗監督映画、〇〇 (映画)。日本のシンガーソングライター、吉田拓郎の楽曲「〇〇 (吉田拓郎の曲)」。日本のミクスチャーバンド、ORANGE RANGEの4枚目のシングル「〇〇 (ORANGE RANGEの曲)」。"
-            },
-            {
-                "datetime": "2023年08月14日 05時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1417059",
-                "title": "ロバート・バロー",
-                "text": "〇〇は、アメリカのマクロ経済学者、ハーバード大学教授。景気循環論、経済成長論、新古典派総合、公共政策の分野で貢献がある。"
             }
         ]
     }
