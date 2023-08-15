@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年08月15日 15時の問題",
+                "url": "https://ja.wikipedia.org/?curid=430617",
+                "title": "東京都災害拠点病院",
+                "text": "〇〇は、東京都にある災害時の救急医療の拠点となる災害拠点病院。"
+            },
+            {
                 "datetime": "2023年08月15日 14時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1500393",
                 "title": "張在亨",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4470",
                 "title": "紀元前45年",
                 "text": "〇〇は、ローマ暦の709年である。ユリウス暦が施行された年である。"
-            },
-            {
-                "datetime": "2023年08月13日 21時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2809055",
-                "title": "イワヒゲ属",
-                "text": "〇〇は、ツツジ科に属する属の一つ。"
             }
         ]
     }
