@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年08月16日 12時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1499269",
+                "title": "埼玉県道339号平沼中老袋線",
+                "text": "〇〇は、埼玉県比企郡川島町から川越市に至る一般県道である。"
+            },
+            {
                 "datetime": "2023年08月16日 11時の問題",
                 "url": "https://ja.wikipedia.org/?curid=278986",
                 "title": "福井県道26号大野勝山線",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3625302",
                 "title": "Lazy Sunday",
                 "text": "〇〇は、2007年7月からInterFM897で放送されているラジオ番組。"
-            },
-            {
-                "datetime": "2023年08月14日 18時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3710474",
-                "title": "HYBRID BANK",
-                "text": "〇〇は、日本のモデルプロダクション。本社は大阪府大阪市中央区。"
             }
         ]
     }
