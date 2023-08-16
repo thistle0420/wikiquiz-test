@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年08月16日 11時の問題",
+                "url": "https://ja.wikipedia.org/?curid=278986",
+                "title": "福井県道26号大野勝山線",
+                "text": "〇〇は、福井県大野市から勝山市に至る県道（主要地方道）である。"
+            },
+            {
                 "datetime": "2023年08月16日 10時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1300894",
                 "title": "ハインツ・ロンドン",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3710474",
                 "title": "HYBRID BANK",
                 "text": "〇〇は、日本のモデルプロダクション。本社は大阪府大阪市中央区。"
-            },
-            {
-                "datetime": "2023年08月14日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4287298",
-                "title": "ベスティ",
-                "text": "〇〇は、朝日放送グループホールディングスの完全子会社であり、スポーツ関連コンテンツを制作する企業。2021年1月5日に設立された。"
             }
         ]
     }
