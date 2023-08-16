@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年08月17日 05時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1234661",
+                "title": "GEOS (オペレーティングシステム)",
+                "text": "〇〇は、Berkeley Softworks（後の GeoWorks Corporation）が開発した一連のオペレーティングシステム (OS) の名称。1986年、コモドール64向けにGUIを提供するOSとして登場した。その後1990年、IBM PCおよび互換機向けの PC/GEOS（GeoWorks とも）がリリースされた。最新版は2009年に Breadbox Computer Company LLC から Breadbox Ensemble としてリリースされた PC/〇〇4.1.3 である。"
+            },
+            {
                 "datetime": "2023年08月17日 04時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4717949",
                 "title": "小関陽星",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=204780",
                 "title": "讃岐財田駅",
                 "text": "〇〇は、香川県三豊市財田町財田上にある四国旅客鉄道（JR四国）土讃線の駅である。駅番号はD18。標高151.6 m。三豊市財田地区唯一の駅だが、その中心部からは離れた丘陵上にあり、普通列車のみ停車する。地名の読みは「さいた」だが駅名の読みは「さいだ」となっている。"
-            },
-            {
-                "datetime": "2023年08月15日 12時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1224006",
-                "title": "サザン・パシフィック",
-                "text": "〇〇は、クリント・イーストウッドが主演の映画「ピンク・キャデラック」(1989年)のエンディング・テーマである「風にまかせて」(Any Way The Wind Blows)である。"
             }
         ]
     }
