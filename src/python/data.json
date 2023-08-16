@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年08月17日 04時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4717949",
+                "title": "小関陽星",
+                "text": "〇〇は、東京都町田市出身のプロサッカー選手。J2・藤枝MYFC所属。ポジションは、ミッドフィールダー（MF）。"
+            },
+            {
                 "datetime": "2023年08月17日 03時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1035134",
                 "title": "昭和の森 (豊田市)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1224006",
                 "title": "サザン・パシフィック",
                 "text": "〇〇は、クリント・イーストウッドが主演の映画「ピンク・キャデラック」(1989年)のエンディング・テーマである「風にまかせて」(Any Way The Wind Blows)である。"
-            },
-            {
-                "datetime": "2023年08月15日 11時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3773752",
-                "title": "原谷直樹",
-                "text": "〇〇は、日本の社会経済学者。群馬県立女子大学国際コミュニケーション学部准教授。"
             }
         ]
     }
