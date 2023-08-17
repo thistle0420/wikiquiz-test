@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年08月17日 23時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4120546",
+                "title": "平群安麻呂",
+                "text": "〇〇は、飛鳥時代から奈良時代にかけての貴族。姓は朝臣。官位は正五位下・尾張守。"
+            },
+            {
                 "datetime": "2023年08月17日 22時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2946327",
                 "title": "ラブレターズのオールナイトニッポン0(ZERO)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2990922",
                 "title": "サイハド語",
                 "text": "〇〇は、アフロ・アジア語族のセム語派に属する言語群。古代南アラビア語 (Old South Arabian, OSA)、碑文南アラビア語 (Epigraphic South Arabian, ESA) とも呼ばれる。現代の南アラビア諸語とは別系統である。サイハドとは、中世アラブの地理学者が現在のイエメンにある砂漠（ラムラト・アル＝サバタイン）につけた名前である。現代の北西イエメンで話されるラジフ語は、〇〇の生き残りとされる。"
-            },
-            {
-                "datetime": "2023年08月16日 05時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1408535",
-                "title": "Prohibited User Operation",
-                "text": "〇〇は、VideoDVDにおけるデジタル著作権管理技術である。主にタイトル画面などで、ユーザーによる操作を禁止することができる。"
             }
         ]
     }
