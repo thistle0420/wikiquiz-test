@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年08月18日 06時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2289180",
+                "title": "麻衣的亜州電波〜Mai's Asian Wave〜",
+                "text": "〇〇は、2010年10月10日から2012年9月30日までTBSラジオをキーステーションとしてJRN各局で放送されていたラジオ番組である。"
+            },
+            {
                 "datetime": "2023年08月18日 05時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2763705",
                 "title": "Dream Park〜野球場へゆこう〜",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=21593",
                 "title": "万能倉駅",
                 "text": "〇〇は、広島県福山市駅家町大字万能倉にある、西日本旅客鉄道（JR西日本）福塩線の駅。"
-            },
-            {
-                "datetime": "2023年08月16日 13時の問題",
-                "url": "https://ja.wikipedia.org/?curid=850408",
-                "title": "コンスタンチン・メーリニコフ",
-                "text": "〇〇は、ロシアの建築家。20世紀初頭におけるロシア構成主義建築、アバンギャルドの巨人のひとり。"
             }
         ]
     }
