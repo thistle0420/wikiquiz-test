@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年08月17日 17時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2436340",
+                "title": "R.O.U",
+                "text": "〇〇は、千葉県千葉市に本社を置く日本の小売事業者で、イオン株式会社の子会社。"
+            },
+            {
                 "datetime": "2023年08月17日 16時の問題",
                 "url": "https://ja.wikipedia.org/?curid=683039",
                 "title": "額取山",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2956679",
                 "title": "民間軍事会社が登場する作品の一覧",
                 "text": "〇〇は、作中に民間軍事会社（PMC）が登場する作品の一覧である。フィクションの作品の場合、現実の民間軍事会社を大きく超えた軍事力や権限を持った組織として登場することが多い。"
-            },
-            {
-                "datetime": "2023年08月15日 23時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3706207",
-                "title": "孫本文",
-                "text": "〇〇は、中国の社会学者。"
             }
         ]
     }
