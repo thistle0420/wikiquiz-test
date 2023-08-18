@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年08月18日 12時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1491622",
+                "title": "126.000",
+                "text": "〇〇は、フィアットのフィアット・500R及びフィアット・126が搭載するエンジンの名称。"
+            },
+            {
                 "datetime": "2023年08月18日 11時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3209328",
                 "title": "李淑賢",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2868215",
                 "title": "有村架純",
                 "text": "〇〇は、兵庫県出身の女優。フラーム所属。"
-            },
-            {
-                "datetime": "2023年08月16日 18時の問題",
-                "url": "https://ja.wikipedia.org/?curid=642055",
-                "title": "ヒメシャガ",
-                "text": "〇〇は、アヤメ科アヤメ属の多年草。和名はシャガより小型で、似ているから。"
             }
         ]
     }
