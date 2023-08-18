@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年08月19日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=97446",
+                "title": "鼻音",
+                "text": "〇〇は、口（腔）音と対立する調音である。"
+            },
+            {
                 "datetime": "2023年08月18日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3908760",
                 "title": "Inside you EP",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1256022",
                 "title": "芦北町立小田浦小学校",
                 "text": "〇〇は、かつて熊本県葦北郡芦北町小田浦にあった公立小学校。"
-            },
-            {
-                "datetime": "2023年08月17日 06時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2500122",
-                "title": "カンバーランド駅",
-                "text": "〇〇は、メリーランド州カンバーランドイースト・ハリソン・ストリート201にある駅。 ボルチモア・ワシントン国際空港行きバスの乗り換えが出来る。無人駅である。"
             }
         ]
     }
