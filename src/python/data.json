@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年08月18日 22時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1756149",
+                "title": "ロイ・Z",
+                "text": "〇〇は、アメリカ合衆国のギタリスト、音楽プロデューサー。主にヘヴィメタルの分野で活動。ブルース・ディッキンソンとの仕事で知名度を高めた後、1996年、自分のバンドであるトライブ・オブ・ジプシーズを率いてデビュー。"
+            },
+            {
                 "datetime": "2023年08月18日 21時の問題",
                 "url": "https://ja.wikipedia.org/?curid=350065",
                 "title": "栗橋茂",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1234661",
                 "title": "GEOS (オペレーティングシステム)",
                 "text": "〇〇は、Berkeley Softworks（後の GeoWorks Corporation）が開発した一連のオペレーティングシステム (OS) の名称。1986年、コモドール64向けにGUIを提供するOSとして登場した。その後1990年、IBM PCおよび互換機向けの PC/GEOS（GeoWorks とも）がリリースされた。最新版は2009年に Breadbox Computer Company LLC から Breadbox Ensemble としてリリースされた PC/〇〇4.1.3 である。"
-            },
-            {
-                "datetime": "2023年08月17日 04時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4717949",
-                "title": "小関陽星",
-                "text": "〇〇は、東京都町田市出身のプロサッカー選手。J2・藤枝MYFC所属。ポジションは、ミッドフィールダー（MF）。"
             }
         ]
     }
