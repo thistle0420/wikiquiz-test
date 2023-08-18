@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年08月19日 01時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2563960",
+                "title": "Ivy Bridgeマイクロアーキテクチャ",
+                "text": "〇〇は、インテルによって開発されたマイクロプロセッサのマイクロアーキテクチャである。前身であるSandy Bridgeマイクロアーキテクチャを22nmにシュリンクし開発され、2012年4月24日に第3世代Coreプロセッサーとして製品化が正式発表された。"
+            },
+            {
                 "datetime": "2023年08月19日 00時の問題",
                 "url": "https://ja.wikipedia.org/?curid=97446",
                 "title": "鼻音",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2599997",
                 "title": "里 (川口市)",
                 "text": "〇〇は、埼玉県川口市の大字。郵便番号は334-0005。"
-            },
-            {
-                "datetime": "2023年08月17日 07時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1256022",
-                "title": "芦北町立小田浦小学校",
-                "text": "〇〇は、かつて熊本県葦北郡芦北町小田浦にあった公立小学校。"
             }
         ]
     }
