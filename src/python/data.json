@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年08月18日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=350065",
+                "title": "栗橋茂",
+                "text": "〇〇は、東京都板橋区出身の元プロ野球選手（外野手）、野球解説者。"
+            },
+            {
                 "datetime": "2023年08月18日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=845536",
                 "title": "羽曳野市立西浦東小学校",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4717949",
                 "title": "小関陽星",
                 "text": "〇〇は、東京都町田市出身のプロサッカー選手。J2・藤枝MYFC所属。ポジションは、ミッドフィールダー（MF）。"
-            },
-            {
-                "datetime": "2023年08月17日 03時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1035134",
-                "title": "昭和の森 (豊田市)",
-                "text": "〇〇は、愛知県豊田市西中山町にある公園である。愛知県緑化センターに隣接している。"
             }
         ]
     }
