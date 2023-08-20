@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年08月20日 11時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3230004",
+                "title": "西浦達吉",
+                "text": "〇〇は、日本の元ラグビー選手。"
+            },
+            {
                 "datetime": "2023年08月20日 10時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4129280",
                 "title": "IBMフェロー",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1943105",
                 "title": "桝本清",
                 "text": "〇〇は、日本の演出家、劇作家、映画監督、脚本家である。"
-            },
-            {
-                "datetime": "2023年08月18日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2053031",
-                "title": "ニュースおじさん",
-                "text": "〇〇は、1991年10月3日にフジテレビの『世にも奇妙な物語 秋の特別編』で放送されたテレビドラマ。ここでは続編となる「〇〇、ふたたび」についても記述する。"
             }
         ]
     }
