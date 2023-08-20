@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年08月20日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2368947",
+                "title": "ビジネスマナー",
+                "text": "〇〇は、社会人が企業等で働く上で必要となるマナー(作法)のことである。和製英語であり、英語では\"business etiquette\"と表記する。"
+            },
+            {
                 "datetime": "2023年08月20日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1629962",
                 "title": "モーリス・ファルマン",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=350065",
                 "title": "栗橋茂",
                 "text": "〇〇は、東京都板橋区出身の元プロ野球選手（外野手）、野球解説者。"
-            },
-            {
-                "datetime": "2023年08月18日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=845536",
-                "title": "羽曳野市立西浦東小学校",
-                "text": "〇〇は、大阪府羽曳野市にある公立小学校。1993年に羽曳野市立西浦小学校より分離開校した。"
             }
         ]
     }
