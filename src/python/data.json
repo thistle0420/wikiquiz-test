@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年08月21日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=934064",
+                "title": "愛知県",
+                "text": "〇〇は、日本の中部地方に位置する県。県庁所在地は名古屋市。"
+            },
+            {
                 "datetime": "2023年08月20日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=608839",
                 "title": "ブシュロン",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1044192",
                 "title": "北国街道安藤家",
                 "text": "〇〇は、滋賀県長浜市にある歴史的建造物。庭園にある離れの書院「小蘭亭」（しょうらんてい）の美術は北大路魯山人の代表作として知られる。"
-            },
-            {
-                "datetime": "2023年08月19日 06時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1521591",
-                "title": "後藤安彦",
-                "text": "〇〇は、日本の翻訳家、歌人。本名、二日市 安。"
             }
         ]
     }
