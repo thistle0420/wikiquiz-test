@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年08月20日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1372740",
+                "title": "エリメナ",
+                "text": "〇〇は、ウラルトゥ王国末期の王と推定されている人物。推定在位期間：紀元前620年 - 605年頃。ウラルトゥ王ルサ3世の父。"
+            },
+            {
                 "datetime": "2023年08月20日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2444880",
                 "title": "大嶋良介",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2563960",
                 "title": "Ivy Bridgeマイクロアーキテクチャ",
                 "text": "〇〇は、インテルによって開発されたマイクロプロセッサのマイクロアーキテクチャである。前身であるSandy Bridgeマイクロアーキテクチャを22nmにシュリンクし開発され、2012年4月24日に第3世代Coreプロセッサーとして製品化が正式発表された。"
-            },
-            {
-                "datetime": "2023年08月19日 00時の問題",
-                "url": "https://ja.wikipedia.org/?curid=97446",
-                "title": "鼻音",
-                "text": "〇〇は、口（腔）音と対立する調音である。"
             }
         ]
     }
