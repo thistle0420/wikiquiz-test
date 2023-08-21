@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年08月22日 04時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3596651",
+                "title": "ウィーン・シュトラウス・カペレ",
+                "text": "〇〇は、オーストリアのオーケストラ。日本では「〇〇」の楽団名でコンサートを開くことが多い。"
+            },
+            {
                 "datetime": "2023年08月22日 03時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1038821",
                 "title": "脱亜",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1842376",
                 "title": "ディアブロ (競走馬)",
                 "text": "〇〇は、アメリカ合衆国生産の競走馬、種牡馬。産駒にエキサイティングストーリー、ナイキアディライトなどがいる。"
-            },
-            {
-                "datetime": "2023年08月20日 11時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3230004",
-                "title": "西浦達吉",
-                "text": "〇〇は、日本の元ラグビー選手。"
             }
         ]
     }
