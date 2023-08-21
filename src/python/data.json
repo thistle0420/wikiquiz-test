@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年08月22日 03時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1038821",
+                "title": "脱亜",
+                "text": "〇〇は、日本が亜細亜（特に東アジア）の枠組みから脱すること。以下の項目を参照。〇〇論〇〇入欧〇〇思想"
+            },
+            {
                 "datetime": "2023年08月22日 02時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1973064",
                 "title": "氷帽",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3230004",
                 "title": "西浦達吉",
                 "text": "〇〇は、日本の元ラグビー選手。"
-            },
-            {
-                "datetime": "2023年08月20日 10時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4129280",
-                "title": "IBMフェロー",
-                "text": "〇〇は、IBMのCEOにより任命されるIBMにおける役職である。通常、〇〇は毎年5月または6月に、4 - 9名（2014年は11名）が任命される。〇〇は、IBMに所属する技術系社員（科学者、技術者、プログラマ）に与えられる最高の栄誉である。"
             }
         ]
     }
