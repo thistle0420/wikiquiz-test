@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年08月21日 12時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4657324",
+                "title": "フォーエバーモア (競走馬)",
+                "text": "〇〇は、日本の競走馬、繁殖牝馬。主な勝ち鞍は2014年のクイーンカップ。馬名の意味は、「永久に」。"
+            },
+            {
                 "datetime": "2023年08月21日 11時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3264633",
                 "title": "堀江小学校",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3915920",
                 "title": "テゲバジャーロ宮崎の選手一覧",
                 "text": "〇〇は、テゲバジャーロ宮崎に在籍する選手・スタッフおよび過去に在籍した選手・スタッフの一覧を記す。"
-            },
-            {
-                "datetime": "2023年08月19日 18時の問題",
-                "url": "https://ja.wikipedia.org/?curid=690661",
-                "title": "Hate tell a lie",
-                "text": "〇〇は、華原朋美の6枚目のシングル。1997年4月23日にORUMOK RECORDSから発売された。"
             }
         ]
     }
