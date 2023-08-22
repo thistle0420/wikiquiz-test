@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年08月22日 12時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2254437",
+                "title": "西村渚",
+                "text": "〇〇は、日本のモデル・タレント。"
+            },
+            {
                 "datetime": "2023年08月22日 11時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1117787",
                 "title": "江南市立布袋中学校",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1673297",
                 "title": "アニソン★カフェ ゆめが丘",
                 "text": "〇〇は、tvk他で2009年1月から同年9月まで放送していた声優に関するバラエティ番組。"
-            },
-            {
-                "datetime": "2023年08月20日 18時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1372740",
-                "title": "エリメナ",
-                "text": "〇〇は、ウラルトゥ王国末期の王と推定されている人物。推定在位期間：紀元前620年 - 605年頃。ウラルトゥ王ルサ3世の父。"
             }
         ]
     }
