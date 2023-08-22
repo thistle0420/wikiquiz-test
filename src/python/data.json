@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年08月22日 22時の問題",
+                "url": "https://ja.wikipedia.org/?curid=558646",
+                "title": "平時範",
+                "text": "〇〇は、平安時代後期の貴族。桓武平氏高棟流、尾張守・平定家の子。官位は正四位下・右大弁。"
+            },
+            {
                 "datetime": "2023年08月22日 21時の問題",
                 "url": "https://ja.wikipedia.org/?curid=317896",
                 "title": "勝山公園 (仙台市)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4454076",
                 "title": "峰停留場",
                 "text": "〇〇は、栃木県宇都宮市峰に開業予定の宇都宮ライトレール宇都宮芳賀ライトレール線の停留場。"
-            },
-            {
-                "datetime": "2023年08月21日 04時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4032255",
-                "title": "中嶋星奈",
-                "text": "〇〇は、日本のカーリング選手。中部電力カーリング部に所属。"
             }
         ]
     }
