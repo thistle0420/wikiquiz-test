@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年08月23日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=433238",
+                "title": "ENDLESS DREAM",
+                "text": "〇〇は、織田哲郎の9作目のオリジナル・アルバム。1992年6月24日に発売された。"
+            },
+            {
                 "datetime": "2023年08月22日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=29881",
                 "title": "羽島郡",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=422615",
                 "title": "伊地知貞馨",
                 "text": "〇〇は、幕末期の薩摩藩士。明治時代の官僚。名前は堀 次郎とも。"
-            },
-            {
-                "datetime": "2023年08月21日 06時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4211057",
-                "title": "韓龍国",
-                "text": "〇〇は、朝鮮民主主義人民共和国の政治家。林業相、朝鮮労働党中央委員会委員。"
             }
         ]
     }
