@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年08月22日 13時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1245470",
+                "title": "マカマカBUNBUN",
+                "text": "〇〇は、1993年5月19日に発売されたウルフルズ2枚目のシングル。発売元は東芝EMI。"
+            },
+            {
                 "datetime": "2023年08月22日 12時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2254437",
                 "title": "西村渚",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1078365",
                 "title": "オーストラリア準備銀行",
                 "text": "〇〇は、オーストラリア連邦の中央銀行であり、同国のオーストラリア・ドルのポリマー紙幣唯一の発券銀行である。本店はシドニーにある。"
-            },
-            {
-                "datetime": "2023年08月20日 19時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1673297",
-                "title": "アニソン★カフェ ゆめが丘",
-                "text": "〇〇は、tvk他で2009年1月から同年9月まで放送していた声優に関するバラエティ番組。"
             }
         ]
     }
