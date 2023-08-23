@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年08月24日 05時の問題",
+                "url": "https://ja.wikipedia.org/?curid=788404",
+                "title": "アイワールド",
+                "text": "〇〇は、神奈川県相模原市に於いて展開していたディスカウントショップである。"
+            },
+            {
                 "datetime": "2023年08月24日 04時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1818815",
                 "title": "大垪和村",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1245470",
                 "title": "マカマカBUNBUN",
                 "text": "〇〇は、1993年5月19日に発売されたウルフルズ2枚目のシングル。発売元は東芝EMI。"
-            },
-            {
-                "datetime": "2023年08月22日 12時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2254437",
-                "title": "西村渚",
-                "text": "〇〇は、日本のモデル・タレント。"
             }
         ]
     }
