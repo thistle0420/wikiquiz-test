@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年08月25日 05時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3730398",
+                "title": "国会 (ウルグアイ)",
+                "text": "〇〇は、ウルグアイの立法府である。"
+            },
+            {
                 "datetime": "2023年08月25日 04時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1037746",
                 "title": "棒人間",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1486081",
                 "title": "矢田公作",
                 "text": "〇〇は、アメリカ合衆国オレゴン州出身の実業家、元プロバスケットボール選手。190cm、90kg。"
-            },
-            {
-                "datetime": "2023年08月23日 12時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2326829",
-                "title": "アフター・ザ・ベリアル",
-                "text": "〇〇は、2004年に結成されたアメリカ合衆国ミネソタ州出身のデスコアバンド。メロディックでありながら超重低音のdjent的なリフを繰り出す楽曲が特徴。"
             }
         ]
     }
