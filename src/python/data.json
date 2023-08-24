@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年08月25日 01時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2353489",
+                "title": "伝馬宿入用",
+                "text": "〇〇は、江戸幕府が直轄領（天領）に対して賦課した付加税で高掛三役の1つ。"
+            },
+            {
                 "datetime": "2023年08月25日 00時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4811684",
                 "title": "森本麻里子",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2714686",
                 "title": "Heather LOVE Short Movies",
                 "text": "〇〇は、大政絢が主演したショートムービー。"
-            },
-            {
-                "datetime": "2023年08月23日 07時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4242145",
-                "title": "イリヤ・クブシノブ",
-                "text": "〇〇は、ロシア出身のイラストレーター。日本在住。"
             }
         ]
     }
