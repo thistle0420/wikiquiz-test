@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年08月24日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1682692",
+                "title": "ハリー・クプファー",
+                "text": "〇〇は、ドイツのオペラ演出家。"
+            },
+            {
                 "datetime": "2023年08月24日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4286293",
                 "title": "Age Free Music!",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1954394",
                 "title": "陸上自衛隊のC4Iシステム",
                 "text": "〇〇は、陸上自衛隊が配備しているC4Iシステムについて述べる。"
-            },
-            {
-                "datetime": "2023年08月23日 03時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1291414",
-                "title": "西廣寺",
-                "text": "〇〇は、兵庫県西宮市段上町（だんじょうちょう）にある、高野山真言宗の寺院。山号は、法輪山。境内には水天宮が併祀され、清荒神清澄寺、門戸厄神東光寺等と並ぶ、典型的な北摂地域の神仏習合寺院の一つである。"
             }
         ]
     }
