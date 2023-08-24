@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年08月24日 13時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4610801",
+                "title": "トナミロイヤルゴルフ倶楽部",
+                "text": "〇〇は、富山県南砺市に所在するゴルフ場。"
+            },
+            {
                 "datetime": "2023年08月24日 12時の問題",
                 "url": "https://ja.wikipedia.org/?curid=964292",
                 "title": "サム・クロフォード",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=484245",
                 "title": "Window Maker",
                 "text": "〇〇は、Unix系オペレーティングシステムでアプリケーションソフトウェアの利用を視覚的に可能にする、X Window System用のフリーでオープンソースなウィンドウマネージャである。"
-            },
-            {
-                "datetime": "2023年08月22日 19時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4589025",
-                "title": "中山道明治天皇大井行在所",
-                "text": "〇〇は、岐阜県恵那市にある展示施設（博物館）・交流施設。恵那市の条例上の名称は恵那市〇〇である。"
             }
         ]
     }
