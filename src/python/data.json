@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年08月26日 06時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3076610",
+                "title": "リヴ・ワーフィールド",
+                "text": "〇〇は、アメリカ合衆国出身の歌手。"
+            },
+            {
                 "datetime": "2023年08月26日 05時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2518792",
                 "title": "シコタンソウ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4281249",
                 "title": "松田和之",
                 "text": "〇〇は、静岡県出身の元サッカー選手。現役時代のポジションはディフェンダー。"
-            },
-            {
-                "datetime": "2023年08月24日 13時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4610801",
-                "title": "トナミロイヤルゴルフ倶楽部",
-                "text": "〇〇は、富山県南砺市に所在するゴルフ場。"
             }
         ]
     }
