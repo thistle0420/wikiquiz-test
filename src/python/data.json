@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年08月25日 15時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1750077",
+                "title": "豊田賢治",
+                "text": "〇〇は、埼玉県春日部市出身の元ハンドボール選手。ポジションは右サイド。180 cm、80 kg。左利き。血液型はB型。浦和学院高校 - 国士舘大学出身。愛称はケンもしくはトヨケン。"
+            },
+            {
                 "datetime": "2023年08月25日 14時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3579262",
                 "title": "ANK免疫細胞療法",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=881706",
                 "title": "愛知県道299号南中根小垣江線",
                 "text": "〇〇は、愛知県西尾市から刈谷市に至る一般県道である。"
-            },
-            {
-                "datetime": "2023年08月23日 21時の問題",
-                "url": "https://ja.wikipedia.org/?curid=679852",
-                "title": "ルペルト・チャピ",
-                "text": "〇〇は、スペインのサルスエラの作曲家。唯一のオペラ《尼僧マルガリータ Margarita la tornera 》もある。バレンシアの理容師の息子に生まれ、トマス・ブレトンと同じく存命中にサルスエラの創作によって有名になった。いわゆる「大サルスエラ（サルスエラ・グランデ zarzuela grande ）」の専門家として著名であるが、《人騒がせな娘 La revoltosa 》のような「小型種（ヘネロ・チーコ） género chico 」も手懸けた。《擲弾兵の太鼓 El tambor de granaderos 》の前奏曲は、今でもサルスエラ愛好家に好まれている。"
             }
         ]
     }
