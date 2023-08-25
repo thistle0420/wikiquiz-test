@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年08月25日 19時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1332928",
+                "title": "AFCユース選手権2004",
+                "text": "〇〇は、2004年9月25日から10月9日にかけてマレーシアで行われた第33回目のAFCユース選手権である。"
+            },
+            {
                 "datetime": "2023年08月25日 18時の問題",
                 "url": "https://ja.wikipedia.org/?curid=982095",
                 "title": "ベッラレイア",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3921315",
                 "title": "ゆく時代くる時代〜平成最後の日スペシャル〜",
                 "text": "〇〇は、2019年4月30日 - 5月1日にNHK総合テレビで放送された大型特別番組。"
-            },
-            {
-                "datetime": "2023年08月24日 01時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2062844",
-                "title": "キルギス国境庁",
-                "text": "〇〇は、キルギス共和国の国境軍（国境警備隊）を管轄する機関。総員約5千人。"
             }
         ]
     }
