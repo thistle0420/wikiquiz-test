@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年08月26日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4686434",
+                "title": "クリャシェン人",
+                "text": "〇〇は、ロシア連邦に居住するヴォルガ・タタール人の一派で、正教に改宗したタタール人を指す。"
+            },
+            {
                 "datetime": "2023年08月26日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3349444",
                 "title": "小野寺晃良",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2353489",
                 "title": "伝馬宿入用",
                 "text": "〇〇は、江戸幕府が直轄領（天領）に対して賦課した付加税で高掛三役の1つ。"
-            },
-            {
-                "datetime": "2023年08月25日 00時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4811684",
-                "title": "森本麻里子",
-                "text": "〇〇は、日本の陸上競技選手及び元ボブスレー選手。陸上競技での専門は三段跳。"
             }
         ]
     }
