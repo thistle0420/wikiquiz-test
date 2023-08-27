@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年08月27日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4542369",
+                "title": "プレイター",
+                "text": "〇〇は、客室に貨物を積み込むことで一時的に貨物機として使用される旅客機のことである。\"preighter\"という単語は\"passanger\"（旅客）と\"freighter\"（貨物機）のかばん語で、ルフトハンザドイツ航空のCarsten Spohrによって考案された。新型コロナウイルス感染症の拡大に対応する際に使用されるようになった。"
+            },
+            {
                 "datetime": "2023年08月27日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=830210",
                 "title": "宝鋼集団",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4015096",
                 "title": "同志社山手",
                 "text": "〇〇は、京都府京田辺市にある地名。現行行政地名は〇〇一丁目から〇〇四丁目。"
-            },
-            {
-                "datetime": "2023年08月25日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4429839",
-                "title": "UBA UBA",
-                "text": "〇〇は、OWVのデビューシングル。2020年9月30日にユニバーサルシグマから発売された。"
             }
         ]
     }
