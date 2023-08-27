@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年08月27日 10時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1192629",
+                "title": "森若佐紀子",
+                "text": "〇〇は、読売テレビのアナウンサー。"
+            },
+            {
                 "datetime": "2023年08月27日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=387024",
                 "title": "キーロフ級ミサイル巡洋艦",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3849981",
                 "title": "中津江之美",
                 "text": "〇〇は、安土桃山時代から江戸時代初期にかけての武士。吉見氏の家臣。"
-            },
-            {
-                "datetime": "2023年08月25日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=480999",
-                "title": "蝶々殺人事件",
-                "text": "〇〇は、横溝正史の長編探偵小説。「由利麟太郎シリーズ」の一つ。1946年に探偵小説雑誌『ロック』に連載された。"
             }
         ]
     }
