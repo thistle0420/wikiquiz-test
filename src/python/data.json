@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年08月27日 23時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4707462",
+                "title": "仙頭義寛",
+                "text": "〇〇は、日本の政治家、元高知県香南市長（2期）。"
+            },
+            {
                 "datetime": "2023年08月27日 22時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1174706",
                 "title": "ハーラン",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3076610",
                 "title": "リヴ・ワーフィールド",
                 "text": "〇〇は、アメリカ合衆国出身の歌手。"
-            },
-            {
-                "datetime": "2023年08月26日 05時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2518792",
-                "title": "シコタンソウ",
-                "text": "〇〇は、ユキノシタ科ユキノシタ属の多年草。"
             }
         ]
     }
