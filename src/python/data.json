@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年08月28日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3018602",
+                "title": "クイーンズランド州首相",
+                "text": "〇〇は、オーストラリア連邦クイーンズランド州の州首相である。"
+            },
+            {
                 "datetime": "2023年08月28日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4717843",
                 "title": "光友村",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3180",
                 "title": "エンターテインメント",
                 "text": "〇〇は、人々を楽しませる娯楽を指す。楽しみ、気分転換、気晴らし、遊び、息抜き、レジャーなどが類語とされる。類義語のアミューズメント（Amusement）も、アミューズメント施設など娯楽要素を表す。"
-            },
-            {
-                "datetime": "2023年08月27日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1034778",
-                "title": "平尾陽三郎",
-                "text": "〇〇は、日本の俳優である。"
             }
         ]
     }
