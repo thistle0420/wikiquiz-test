@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年08月28日 19時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4717843",
+                "title": "光友村",
+                "text": "〇〇は、福岡県八女郡にあった村。現在の八女市の一部。"
+            },
+            {
                 "datetime": "2023年08月28日 18時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4810155",
                 "title": "国際シュンペーター学会",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1034778",
                 "title": "平尾陽三郎",
                 "text": "〇〇は、日本の俳優である。"
-            },
-            {
-                "datetime": "2023年08月27日 01時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4163555",
-                "title": "釧路市立釧路小学校",
-                "text": "〇〇は、北海道釧路市にある公立小学校。"
             }
         ]
     }
