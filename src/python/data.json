@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年08月29日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=587340",
+                "title": "神宗 (高麗王)",
+                "text": "〇〇は、神宗の次男の襄陽公王恕の六世の孫にあたる。"
+            },
+            {
                 "datetime": "2023年08月29日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1540995",
                 "title": "2001年のバスケットボール",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1510684",
                 "title": "GOGO!ぷりん帝国",
                 "text": "〇〇は、くぼたまことによる日本の漫画作品。"
-            },
-            {
-                "datetime": "2023年08月27日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4542369",
-                "title": "プレイター",
-                "text": "〇〇は、客室に貨物を積み込むことで一時的に貨物機として使用される旅客機のことである。\"preighter\"という単語は\"passanger\"（旅客）と\"freighter\"（貨物機）のかばん語で、ルフトハンザドイツ航空のCarsten Spohrによって考案された。新型コロナウイルス感染症の拡大に対応する際に使用されるようになった。"
             }
         ]
     }
