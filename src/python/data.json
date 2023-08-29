@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年08月29日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3738639",
+                "title": "アンカンファレンス",
+                "text": "〇〇は、参加者主導の会議で、オープンスペース・カンファレンス（Open Space conference）とも呼ばれる。従来の会議の様なトップダウン企業、スポンサー出資、講演者報酬等の要素を除外し、幅広い参加者たちが会議を行う形式の事である。"
+            },
+            {
                 "datetime": "2023年08月29日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=764407",
                 "title": "塩野季彦",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2594322",
                 "title": "佐藤徳雄",
                 "text": "〇〇は、日本の政治家。元日本社会党衆議院議員（3期）。"
-            },
-            {
-                "datetime": "2023年08月28日 03時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3239362",
-                "title": "サン＝カンタン (曖昧さ回避)",
-                "text": "〇〇は、フランス語の地名。"
             }
         ]
     }
