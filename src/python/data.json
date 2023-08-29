@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年08月30日 05時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2727810",
+                "title": "横浜媽祖廟",
+                "text": "〇〇は、神奈川県横浜市にある媽祖をまつる媽祖廟である。"
+            },
+            {
                 "datetime": "2023年08月30日 04時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1300715",
                 "title": "キングスナイト",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=77633",
                 "title": "群馬県道314号古戸館林線",
                 "text": "〇〇は、群馬県太田市古戸町から館林市赤土町に至る県道である。"
-            },
-            {
-                "datetime": "2023年08月28日 12時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2156550",
-                "title": "芹川レイラ",
-                "text": "〇〇は、日本のAV女優。マークスジャパン所属。"
             }
         ]
     }
