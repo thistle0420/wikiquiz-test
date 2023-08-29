@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年08月29日 22時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2594822",
+                "title": "TO THE LIMIT",
+                "text": "〇〇は、KAT-TUNの18枚目のシングル。2012年6月27日にJ-One Recordsから発売された。"
+            },
+            {
                 "datetime": "2023年08月29日 21時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3738639",
                 "title": "アンカンファレンス",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=258099",
                 "title": "尚巴志王",
                 "text": "〇〇は、琉球王国の第一尚氏王統・第2代国王（在位：1422年 - 1439年）。尚思紹王の子。1429年、三山（中山・山北・山南）を統一し、琉球王国が成立した。神号は勢治高真物（せじたかまもの）。"
-            },
-            {
-                "datetime": "2023年08月28日 04時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2594322",
-                "title": "佐藤徳雄",
-                "text": "〇〇は、日本の政治家。元日本社会党衆議院議員（3期）。"
             }
         ]
     }
