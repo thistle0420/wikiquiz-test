@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年08月29日 15時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1280156",
+                "title": "ブルーシャトル",
+                "text": "〇〇は、東京都渋谷区に本社を置く劇団ひまわり系列の芸能事務所である。"
+            },
+            {
                 "datetime": "2023年08月29日 14時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3092603",
                 "title": "オリシャ (曖昧さ回避)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1174706",
                 "title": "ハーラン",
                 "text": "〇〇は、英語圏の姓、地名。"
-            },
-            {
-                "datetime": "2023年08月27日 21時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1583118",
-                "title": "フーゴー・ライヒテントリット",
-                "text": "〇〇は、アメリカ合衆国の音楽学者。ドイツ系ユダヤ人と東欧系ユダヤ人の血を引く。"
             }
         ]
     }
