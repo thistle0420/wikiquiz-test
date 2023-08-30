@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年08月31日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2347617",
+                "title": "ダヴィデ・マラカルネ",
+                "text": "〇〇は、イタリア、フェルトレ出身の自転車競技（ロードレース）選手。"
+            },
+            {
                 "datetime": "2023年08月30日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=131833",
                 "title": "井戸駅",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=587340",
                 "title": "神宗 (高麗王)",
                 "text": "〇〇は、神宗の次男の襄陽公王恕の六世の孫にあたる。"
-            },
-            {
-                "datetime": "2023年08月29日 06時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1540995",
-                "title": "2001年のバスケットボール",
-                "text": "〇〇は、2001年（平成13年）のバスケットボール関連の出来事をまとめる。"
             }
         ]
     }
