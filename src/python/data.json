@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年08月30日 13時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1293125",
+                "title": "馬鍬",
+                "text": "〇〇は、牛・馬などの家畜やトラクターの力を使い「土の破砕、ならし（代掻き）」を行う農具である。"
+            },
+            {
                 "datetime": "2023年08月30日 12時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1405501",
                 "title": "星影の小径",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3018602",
                 "title": "クイーンズランド州首相",
                 "text": "〇〇は、オーストラリア連邦クイーンズランド州の州首相である。"
-            },
-            {
-                "datetime": "2023年08月28日 19時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4717843",
-                "title": "光友村",
-                "text": "〇〇は、福岡県八女郡にあった村。現在の八女市の一部。"
             }
         ]
     }
