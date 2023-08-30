@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年08月30日 22時の問題",
+                "url": "https://ja.wikipedia.org/?curid=10944",
+                "title": "大阪大学豊中キャンパス",
+                "text": "〇〇は、大阪府豊中市待兼山町に所在する大阪大学のキャンパスの一つである。"
+            },
+            {
                 "datetime": "2023年08月30日 21時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1012400",
                 "title": "窪田義行",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2221862",
                 "title": "ジョン・レノンBOX",
                 "text": "〇〇は、ジョン・レノンのボックス・セット。2010年10月6日にリリース。"
-            },
-            {
-                "datetime": "2023年08月29日 04時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1009670",
-                "title": "秋元志朝",
-                "text": "〇〇は、江戸時代後期の大名。出羽山形藩4代藩主、後に上野館林藩初代藩主。館林藩秋元家10代。"
             }
         ]
     }
