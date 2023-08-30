@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年08月30日 23時の問題",
+                "url": "https://ja.wikipedia.org/?curid=131833",
+                "title": "井戸駅",
+                "text": "〇〇は、香川県木田郡三木町大字井戸にある、高松琴平電気鉄道長尾線の駅である。駅番号はN15。"
+            },
+            {
                 "datetime": "2023年08月30日 22時の問題",
                 "url": "https://ja.wikipedia.org/?curid=10944",
                 "title": "大阪大学豊中キャンパス",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1540995",
                 "title": "2001年のバスケットボール",
                 "text": "〇〇は、2001年（平成13年）のバスケットボール関連の出来事をまとめる。"
-            },
-            {
-                "datetime": "2023年08月29日 05時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2221862",
-                "title": "ジョン・レノンBOX",
-                "text": "〇〇は、ジョン・レノンのボックス・セット。2010年10月6日にリリース。"
             }
         ]
     }
