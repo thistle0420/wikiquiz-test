@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年09月01日 03時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4502673",
+                "title": "尾崎三郎",
+                "text": "〇〇は、日本の大蔵官僚、税理士。元国税庁熊本国税局長。元ビジネス会計人クラブ名誉相談役。"
+            },
+            {
                 "datetime": "2023年09月01日 02時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4128566",
                 "title": "トミー・シーモア",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=114178",
                 "title": "上永谷駅",
                 "text": "〇〇は、神奈川県横浜市港南区丸山台一丁目にある、横浜市営地下鉄ブルーライン（1号線）の駅である。駅番号はB09。"
-            },
-            {
-                "datetime": "2023年08月30日 10時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4350315",
-                "title": "ヘンリー・ハウ (第3代チェッドワース男爵)",
-                "text": "〇〇は、グレートブリテン貴族。"
             }
         ]
     }
