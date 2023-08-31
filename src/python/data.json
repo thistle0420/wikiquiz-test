@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年09月01日 06時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3703776",
+                "title": "和泉市立信太小学校",
+                "text": "〇〇は、大阪府和泉市尾井町にある公立小学校。"
+            },
+            {
                 "datetime": "2023年09月01日 05時の問題",
                 "url": "https://ja.wikipedia.org/?curid=952105",
                 "title": "ダーツィオ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1011035",
                 "title": "栃木県道151号堀米停車場線",
                 "text": "〇〇は、栃木県佐野市に位置する一般県道である。"
-            },
-            {
-                "datetime": "2023年08月30日 13時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1293125",
-                "title": "馬鍬",
-                "text": "〇〇は、牛・馬などの家畜やトラクターの力を使い「土の破砕、ならし（代掻き）」を行う農具である。"
             }
         ]
     }
