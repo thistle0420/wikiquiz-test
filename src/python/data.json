@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年08月31日 16時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1856711",
+                "title": "国家と革命",
+                "text": "〇〇は、ウラジーミル・レーニンが1917年に執筆した政治に関する著作である。"
+            },
+            {
                 "datetime": "2023年08月31日 15時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4805836",
                 "title": "マルリーン・フェルトハイス",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1215616",
                 "title": "茨城県道243号八代庄兵衛新田線",
                 "text": "〇〇は、茨城県龍ケ崎市内を通る一般県道である。竜ヶ崎ニュータウンの主要幹線道路でもある。"
-            },
-            {
-                "datetime": "2023年08月29日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2594822",
-                "title": "TO THE LIMIT",
-                "text": "〇〇は、KAT-TUNの18枚目のシングル。2012年6月27日にJ-One Recordsから発売された。"
             }
         ]
     }
