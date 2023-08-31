@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年09月01日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4599811",
+                "title": "ジャロン・エニス",
+                "text": "〇〇は、アメリカ合衆国のプロボクサー。ペンシルベニア州フィラデルフィア出身。現IBF世界ウェルター級暫定王者。"
+            },
+            {
                 "datetime": "2023年08月31日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3847970",
                 "title": "菊岡卜一",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4130392",
                 "title": "シュタイナー・アー川",
                 "text": "〇〇は、スイスのシュヴィーツ州を流れる16kmの川。ライン川の源流の一つ。"
-            },
-            {
-                "datetime": "2023年08月30日 06時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3453077",
-                "title": "牧野光朗",
-                "text": "〇〇は、日本の政治家、銀行員。元長野県飯田市長（4期）。"
             }
         ]
     }
