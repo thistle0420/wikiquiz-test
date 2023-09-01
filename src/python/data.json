@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年09月01日 16時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2569568",
+                "title": "TIME SPACE EP",
+                "text": "〇〇は、水樹奈々の27枚目のシングル。2012年6月6日にキングレコードから発売された。"
+            },
+            {
                 "datetime": "2023年09月01日 15時の問題",
                 "url": "https://ja.wikipedia.org/?curid=223049",
                 "title": "システムアーキテクト試験",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=131833",
                 "title": "井戸駅",
                 "text": "〇〇は、香川県木田郡三木町大字井戸にある、高松琴平電気鉄道長尾線の駅である。駅番号はN15。"
-            },
-            {
-                "datetime": "2023年08月30日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=10944",
-                "title": "大阪大学豊中キャンパス",
-                "text": "〇〇は、大阪府豊中市待兼山町に所在する大阪大学のキャンパスの一つである。"
             }
         ]
     }
