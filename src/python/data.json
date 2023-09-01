@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年09月02日 06時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3420801",
+                "title": "上月伸仁",
+                "text": "〇〇は、日本のイラストレーター、グラフィックデザイナー、写真作家。新宿区立東戸山小学校元PTA会長。東京都港区出身。日本イラストレーター協会 元理事長。"
+            },
+            {
                 "datetime": "2023年09月02日 05時の問題",
                 "url": "https://ja.wikipedia.org/?curid=511594",
                 "title": "Crossfire (ゲーム)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=893334",
                 "title": "串田昇",
                 "text": "〇〇は、日本の元プロボクサー。フライ級の強豪で当時「無冠の帝王」と呼ばれた。"
-            },
-            {
-                "datetime": "2023年08月31日 13時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1234913",
-                "title": "石川県道244号七尾鹿島羽咋線",
-                "text": "〇〇は、石川県七尾市と同県羽咋市とを結ぶ一般県道（石川県道）である。"
             }
         ]
     }
