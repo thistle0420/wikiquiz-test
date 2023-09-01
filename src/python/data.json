@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年09月01日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3546361",
+                "title": "松本誠之",
+                "text": "〇〇は、日本の衆議院議員（新政会）。ジャーナリスト。"
+            },
+            {
                 "datetime": "2023年09月01日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1434808",
                 "title": "エヴァ・ヤネヴァ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1012400",
                 "title": "窪田義行",
                 "text": "〇〇は、将棋棋士。棋士番号210。東京都足立区出身。江戸川学園取手高等学校卒。花村元司九段門下。"
-            },
-            {
-                "datetime": "2023年08月30日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2326827",
-                "title": "HMC東京",
-                "text": "〇〇は、東京都及び千葉県で観光バス事業などを営む日の丸自動車興業グループの企業である。本社は東京都江戸川区北葛西に存在する。"
             }
         ]
     }
