@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年09月02日 05時の問題",
+                "url": "https://ja.wikipedia.org/?curid=511594",
+                "title": "Crossfire (ゲーム)",
+                "text": "〇〇は、オープンソースのMMORPG である。タイル・ベースのグラフィックシステム、現実のように伝染する疫病、数多くの魔法、いくつかの街からなる広大な世界、などの特徴をもつ。ゲームは GNU GPL のもとで配布されており、公式サイトのメタサーバと多くのサーバが存在する。クライアントは、Windows、Linux、Mac OS X、IRIXやその他多くのプラットフォーム上で動作する。サーバは、Linux、IRIX、Windows上で動作する。また、Crossfireから派生したDaimoninというゲームがあり、BGMや見下ろし型のゲーム画面を採用している。"
+            },
+            {
                 "datetime": "2023年09月02日 04時の問題",
                 "url": "https://ja.wikipedia.org/?curid=887551",
                 "title": "森本太郎",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1234913",
                 "title": "石川県道244号七尾鹿島羽咋線",
                 "text": "〇〇は、石川県七尾市と同県羽咋市とを結ぶ一般県道（石川県道）である。"
-            },
-            {
-                "datetime": "2023年08月31日 12時の問題",
-                "url": "https://ja.wikipedia.org/?curid=361910",
-                "title": "テイラー・ハックフォード",
-                "text": "〇〇は、アメリカ合衆国の映画監督・映画プロデューサー。全米監督協会元会長（2009年 - 2013年）。"
             }
         ]
     }
