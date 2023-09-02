@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年09月02日 23時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4281582",
+                "title": "メティン・アルディティ",
+                "text": "〇〇は、トルコ系スイス人の評論家、作家、実業家である。トルコ・アンカラ生まれ。"
+            },
+            {
                 "datetime": "2023年09月02日 22時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2700335",
                 "title": "鮮于丹",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3703776",
                 "title": "和泉市立信太小学校",
                 "text": "〇〇は、大阪府和泉市尾井町にある公立小学校。"
-            },
-            {
-                "datetime": "2023年09月01日 05時の問題",
-                "url": "https://ja.wikipedia.org/?curid=952105",
-                "title": "ダーツィオ",
-                "text": "〇〇は、イタリア共和国ロンバルディア州ソンドリオ県にある、人口約500人の基礎自治体（コムーネ）。"
             }
         ]
     }
