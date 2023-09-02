@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年09月02日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=885434",
+                "title": "岐阜県道96号大垣養老公園線",
+                "text": "〇〇は、岐阜県大垣市から養老郡養老町の養老公園に至る県道（主要地方道）である。"
+            },
+            {
                 "datetime": "2023年09月02日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3148810",
                 "title": "味間いも",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4502673",
                 "title": "尾崎三郎",
                 "text": "〇〇は、日本の大蔵官僚、税理士。元国税庁熊本国税局長。元ビジネス会計人クラブ名誉相談役。"
-            },
-            {
-                "datetime": "2023年09月01日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4128566",
-                "title": "トミー・シーモア",
-                "text": "〇〇は、スコットランドの元ラグビーユニオン選手。"
             }
         ]
     }
