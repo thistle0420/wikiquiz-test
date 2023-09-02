@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年09月03日 05時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1667209",
+                "title": "森下純菜",
+                "text": "〇〇は、日本のアイドル歌手。愛知県名古屋市生まれ。名古屋芸能学院出身。台湾師範大学留学。"
+            },
+            {
                 "datetime": "2023年09月03日 04時の問題",
                 "url": "https://ja.wikipedia.org/?curid=170458",
                 "title": "逢沢一郎",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1434808",
                 "title": "エヴァ・ヤネヴァ",
                 "text": "〇〇は、ブルガリアの女子バレーボール選手。ソフィア出身。ポジションはウイングスパイカー。ブルガリア代表。"
-            },
-            {
-                "datetime": "2023年09月01日 12時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4818061",
-                "title": "次浦八郎常盛館",
-                "text": "〇〇は、千葉県香取郡多古町次浦にあった日本の城。"
             }
         ]
     }
