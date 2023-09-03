@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年09月03日 11時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1368986",
+                "title": "中島スポーツ広場",
+                "text": "〇〇は、愛知県小牧市にあるスポーツ施設である。"
+            },
+            {
                 "datetime": "2023年09月03日 10時の問題",
                 "url": "https://ja.wikipedia.org/?curid=247866",
                 "title": "TOKYO MX STADIUM",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4363601",
                 "title": "Sawa",
                 "text": "〇〇は、日本の看護師、女優。"
-            },
-            {
-                "datetime": "2023年09月01日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=718665",
-                "title": "青森県道199号太田藤崎線",
-                "text": "〇〇は、青森県北津軽郡板柳町から南津軽郡藤崎町に至る一般県道である。"
             }
         ]
     }
