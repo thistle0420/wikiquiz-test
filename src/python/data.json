@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年09月03日 23時の問題",
+                "url": "https://ja.wikipedia.org/?curid=86515",
+                "title": "PIAT",
+                "text": "〇〇は、第二次世界大戦時、イギリス軍が開発、使用した対戦車擲弾発射器であり、厳密な定義ではspigot mortar（スピガットモーター、軸発射式迫撃砲）に分類される携行兵器である。〇〇の名は正式名称「Projector, Infantry, Anti Tank（歩兵用対戦車投射器の意）」の頭文字を取ったものである。"
+            },
+            {
                 "datetime": "2023年09月03日 22時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3591318",
                 "title": "石川秀樹 (料理人)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3420801",
                 "title": "上月伸仁",
                 "text": "〇〇は、日本のイラストレーター、グラフィックデザイナー、写真作家。新宿区立東戸山小学校元PTA会長。東京都港区出身。日本イラストレーター協会 元理事長。"
-            },
-            {
-                "datetime": "2023年09月02日 05時の問題",
-                "url": "https://ja.wikipedia.org/?curid=511594",
-                "title": "Crossfire (ゲーム)",
-                "text": "〇〇は、オープンソースのMMORPG である。タイル・ベースのグラフィックシステム、現実のように伝染する疫病、数多くの魔法、いくつかの街からなる広大な世界、などの特徴をもつ。ゲームは GNU GPL のもとで配布されており、公式サイトのメタサーバと多くのサーバが存在する。クライアントは、Windows、Linux、Mac OS X、IRIXやその他多くのプラットフォーム上で動作する。サーバは、Linux、IRIX、Windows上で動作する。また、Crossfireから派生したDaimoninというゲームがあり、BGMや見下ろし型のゲーム画面を採用している。"
             }
         ]
     }
