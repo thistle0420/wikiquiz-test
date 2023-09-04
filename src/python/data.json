@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年09月04日 17時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1723989",
+                "title": "両岸経済協力枠組協議",
+                "text": "〇〇は、中華民国（台湾）と中華人民共和国（中国）が締結した実質的な自由貿易協定（FTA）である。日本では中台経済協力枠組み協定と呼ばれることもある。"
+            },
+            {
                 "datetime": "2023年09月04日 16時の問題",
                 "url": "https://ja.wikipedia.org/?curid=27620",
                 "title": "船舶電話",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4483575",
                 "title": "CEAFAR",
                 "text": "〇〇は、オーストラリアのCEAテクノロジーズ社が開発した軍艦用レーダー。"
-            },
-            {
-                "datetime": "2023年09月02日 23時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4281582",
-                "title": "メティン・アルディティ",
-                "text": "〇〇は、トルコ系スイス人の評論家、作家、実業家である。トルコ・アンカラ生まれ。"
             }
         ]
     }
