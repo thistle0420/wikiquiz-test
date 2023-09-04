@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年09月04日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2905571",
+                "title": "山口安憲",
+                "text": "〇〇は、日本の内務官僚。官選県知事。"
+            },
+            {
                 "datetime": "2023年09月04日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=227582",
                 "title": "石垣島南方沖地震",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3813951",
                 "title": "ラインメール青森FCの選手一覧",
                 "text": "〇〇は、ラインメール青森FCに在籍する選手・スタッフおよび過去に在籍した選手・スタッフの一覧を記す。"
-            },
-            {
-                "datetime": "2023年09月03日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1204189",
-                "title": "ポアイ菅沼",
-                "text": "〇〇は、アメリカ合衆国の男性総合格闘家。ハワイ州ヒロ出身。BJ・ペンMMAアカデミー所属。日本人の祖父を持つ日系人。"
             }
         ]
     }
