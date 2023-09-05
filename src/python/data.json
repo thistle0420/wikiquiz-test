@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年09月06日 06時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1388073",
+                "title": "The THREE",
+                "text": "〇〇は、布袋寅泰×KREVA×亀田誠治による期間限定ユニット。"
+            },
+            {
                 "datetime": "2023年09月06日 05時の問題",
                 "url": "https://ja.wikipedia.org/?curid=658433",
                 "title": "四国化工機",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3921720",
                 "title": "スプリングヴェイル (ビクトリア州)",
                 "text": "〇〇は、モナーシュ・フリーウェイからフェーンツリー・ガリー・ロードに接続することで、スプリングヴェイルの北西に出ることができる。"
-            },
-            {
-                "datetime": "2023年09月04日 12時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2203884",
-                "title": "勘出",
-                "text": "〇〇は、律令制において諸国から主計寮・主税寮に提出される公文の勘会によって国司の不正・怠慢を明確化し、その責任を追及すること。"
             }
         ]
     }
