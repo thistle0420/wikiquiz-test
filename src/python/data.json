@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年09月05日 22時の問題",
+                "url": "https://ja.wikipedia.org/?curid=104863",
+                "title": "赤松則房",
+                "text": "〇〇は、安土桃山時代の武将。赤松氏13代当主。"
+            },
+            {
                 "datetime": "2023年09月05日 21時の問題",
                 "url": "https://ja.wikipedia.org/?curid=971638",
                 "title": "大谷光暢",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1910916",
                 "title": "烏山-華城高速道路",
                 "text": "〇〇は、京畿道烏山市から京畿道華城市を結ぶ総延長2kmの高速道路である。平沢-華城高速道路の支線である。2009年10月28日開通。"
-            },
-            {
-                "datetime": "2023年09月04日 03時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3803690",
-                "title": "竜文光",
-                "text": "〇〇は、中華民国空軍及び紅軍の軍人。本名は彭文光。"
             }
         ]
     }
