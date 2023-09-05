@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年09月06日 02時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2262115",
+                "title": "ルイ・ド・ブランジュ",
+                "text": "〇〇は、アメリカ合衆国の数学者。"
+            },
+            {
                 "datetime": "2023年09月06日 01時の問題",
                 "url": "https://ja.wikipedia.org/?curid=65726",
                 "title": "ライトバン",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1472983",
                 "title": "アースバウンド",
                 "text": "〇〇は、1972年6月9日に発表された、キング・クリムゾンのライブ・アルバム。"
-            },
-            {
-                "datetime": "2023年09月04日 07時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4033263",
-                "title": "永井マリア",
-                "text": "〇〇は、日本のAV女優。愛知県出身。プライムエージェンシー所属を経てMagiito所属。"
             }
         ]
     }
