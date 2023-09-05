@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年09月05日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=801350",
+                "title": "滋賀短期大学附属高等学校",
+                "text": "〇〇は、滋賀県大津市朝日が丘一丁目にある私立高等学校。"
+            },
+            {
                 "datetime": "2023年09月05日 12時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3625493",
                 "title": "高須村 (高知県)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=225075",
                 "title": "田亀源五郎",
                 "text": "〇〇は、日本の漫画家。自らを「ゲイ・エロティック・アーティスト」と名乗る。"
-            },
-            {
-                "datetime": "2023年09月03日 19時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2985380",
-                "title": "SEKAI NO OWARI TOUR 2011",
-                "text": "〇〇は、SEKAI NO OWARIが2011年秋 - 冬にかけて開催した全国ツアー。映像作品としての発売はされていない。"
             }
         ]
     }
