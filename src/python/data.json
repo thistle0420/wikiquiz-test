@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年09月07日 03時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2026954",
+                "title": "安藤信哉",
+                "text": "〇〇は、日本の洋画家。"
+            },
+            {
                 "datetime": "2023年09月07日 02時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1636188",
                 "title": "ハンセン病問題の解決の促進に関する法律",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2485078",
                 "title": "セゾングループの映画事業",
                 "text": "〇〇は、かつて日本に存在した流通産業を中心とするセゾングループ（西武セゾングループ）による映画の事業展開について記述する。"
-            },
-            {
-                "datetime": "2023年09月05日 08時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2696842",
-                "title": "レイ・ワイズ",
-                "text": "〇〇は、アメリカ合衆国の俳優。声優。"
             }
         ]
     }
