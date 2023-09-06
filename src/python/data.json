@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年09月06日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1794697",
+                "title": "インノケンティウス1世 (ローマ教皇)",
+                "text": "〇〇は、ローマ教皇（在位：401年 - 417年）。カトリック教会および正教会で聖人とされる。"
+            },
+            {
                 "datetime": "2023年09月06日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2911650",
                 "title": "イタリアンドレッシング",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2905571",
                 "title": "山口安憲",
                 "text": "〇〇は、日本の内務官僚。官選県知事。"
-            },
-            {
-                "datetime": "2023年09月04日 19時の問題",
-                "url": "https://ja.wikipedia.org/?curid=227582",
-                "title": "石垣島南方沖地震",
-                "text": "〇〇は、1998年（平成10年）5月4日午前8時30分19秒に石垣島南方沖で発生した地震。"
             }
         ]
     }
