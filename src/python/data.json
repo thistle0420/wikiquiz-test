@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年09月06日 17時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2606474",
+                "title": "天草松島",
+                "text": "〇〇は、熊本県の大矢野島と天草上島の間に大小約20余の島々の総称。"
+            },
+            {
                 "datetime": "2023年09月06日 16時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1415841",
                 "title": "朽木綱紀",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=515140",
                 "title": "鈴木茂嗣",
                 "text": "〇〇は、日本の法学者。刑事訴訟法。京都大学名誉教授。日本学士院会員。法学博士。東京都出身。"
-            },
-            {
-                "datetime": "2023年09月04日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1933524",
-                "title": "アニメノチカラ",
-                "text": "〇〇は、テレビ東京とアニプレックスによるアニメ製作プロジェクト、および放送された3作品の総称である。"
             }
         ]
     }
