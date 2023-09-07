@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年09月08日 04時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2017329",
+                "title": "戻れない道",
+                "text": "〇〇は、平松愛理の12枚目のシングル。"
+            },
+            {
                 "datetime": "2023年09月08日 03時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4620760",
                 "title": "人間標的",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4031558",
                 "title": "菅野善右衛門 (1853年生)",
                 "text": "〇〇は、明治時代の政治家。衆議院議員（1期）。"
-            },
-            {
-                "datetime": "2023年09月06日 11時の問題",
-                "url": "https://ja.wikipedia.org/?curid=973066",
-                "title": "瀬戸内町立秋徳中学校",
-                "text": "〇〇は、鹿児島県大島郡瀬戸内町大字秋徳にあった町立中学校。"
             }
         ]
     }
