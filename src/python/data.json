@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年09月07日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4624421",
+                "title": "聖ミカエラ学園漂流記",
+                "text": "〇〇は、高取英による戯曲。小説、漫画、OVA、映画も製作された。"
+            },
+            {
                 "datetime": "2023年09月07日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=14499",
                 "title": "日出処の天子",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=960058",
                 "title": "神丘駅",
                 "text": "〇〇は、北海道瀬棚郡今金町字神丘にかつて設置されていた、日本国有鉄道（国鉄）瀬棚線の駅（廃駅）である。事務管理コードは▲141610。"
-            },
-            {
-                "datetime": "2023年09月06日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2262115",
-                "title": "ルイ・ド・ブランジュ",
-                "text": "〇〇は、アメリカ合衆国の数学者。"
             }
         ]
     }
