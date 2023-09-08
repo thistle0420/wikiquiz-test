@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年09月09日 04時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2475112",
+                "title": "東京公園",
+                "text": "〇〇は、小路幸也の小説、ならびにそれを原作とする青山真治監督による2011年の日本映画。第64回ロカルノ国際映画祭で金豹賞（グランプリ）審査員特別賞を受賞した。"
+            },
+            {
                 "datetime": "2023年09月09日 03時の問題",
                 "url": "https://ja.wikipedia.org/?curid=142375",
                 "title": "パラレル",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=183323",
                 "title": "有田駅",
                 "text": "〇〇は、佐賀県西松浦郡有田町本町丙にある、九州旅客鉄道（JR九州）・日本貨物鉄道（JR貨物）・松浦鉄道の駅である。"
-            },
-            {
-                "datetime": "2023年09月07日 11時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2198461",
-                "title": "Ghost Enemy",
-                "text": "〇〇は、日本の歌手MAAのデビュー・シングルである。"
             }
         ]
     }
