@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年09月08日 15時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4225634",
+                "title": "ファン・マヌエル・ファンジオ2世",
+                "text": "〇〇は、ブエノスアイレス・バルカルセ出身のレーシングドライバー。初代は叔父にあたる。"
+            },
+            {
                 "datetime": "2023年09月08日 14時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3468139",
                 "title": "滝川雄壮",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=955012",
                 "title": "マリー・フォン・ヘッセン＝カッセル (1767-1852)",
                 "text": "〇〇は、デンマーク＝ノルウェーの王フレデリク6世の王妃。ヘッセン＝カッセル家の出身で、ドイツ語名はマリー・ゾフィー・フリーデリケ・フォン・ヘッセン＝カッセル（Marie Sophie Friederike von Hessen-Kassel）。"
-            },
-            {
-                "datetime": "2023年09月06日 21時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3496517",
-                "title": "宮澤保夫",
-                "text": "〇〇は、教育者・星槎グループ会長・世界こども財団設立者。"
             }
         ]
     }
