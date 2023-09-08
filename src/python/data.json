@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年09月09日 03時の問題",
+                "url": "https://ja.wikipedia.org/?curid=142375",
+                "title": "パラレル",
+                "text": "〇〇は、英語で平行、並行、並列を意味する言葉。その汎用度は多くの言葉に見る事ができる。"
+            },
+            {
                 "datetime": "2023年09月09日 02時の問題",
                 "url": "https://ja.wikipedia.org/?curid=541282",
                 "title": "さわち美欧",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2198461",
                 "title": "Ghost Enemy",
                 "text": "〇〇は、日本の歌手MAAのデビュー・シングルである。"
-            },
-            {
-                "datetime": "2023年09月07日 10時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3221010",
-                "title": "大井沢小学校",
-                "text": "〇〇は、日本の公立小学校。西川町立〇〇 - 山形県守谷市立〇〇 - 茨城県"
             }
         ]
     }
