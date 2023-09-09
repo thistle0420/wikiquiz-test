@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年09月10日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3853517",
+                "title": "サムエルのディスコグラフィー",
+                "text": "〇〇は、韓国の歌手であるサムエルの作品をまとめた一覧。"
+            },
+            {
                 "datetime": "2023年09月10日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1764367",
                 "title": "この手のひらに愛を",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4225634",
                 "title": "ファン・マヌエル・ファンジオ2世",
                 "text": "〇〇は、ブエノスアイレス・バルカルセ出身のレーシングドライバー。初代は叔父にあたる。"
-            },
-            {
-                "datetime": "2023年09月08日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3468139",
-                "title": "滝川雄壮",
-                "text": "〇〇は、広島県出身の運輸技官。気象庁長官（第17代）を務めた。"
             }
         ]
     }
