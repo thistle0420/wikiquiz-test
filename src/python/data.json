@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年09月09日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2310600",
+                "title": "ゾラ・一撃・さようなら",
+                "text": "〇〇は、森博嗣による日本の推理小説。"
+            },
+            {
                 "datetime": "2023年09月09日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4034369",
                 "title": "上條大輔",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2459335",
                 "title": "家なき子 (NHK影絵劇)",
                 "text": "〇〇は、1955年4月7日から1955年9月28日までNHKテレビで放送された影絵劇である。"
-            },
-            {
-                "datetime": "2023年09月07日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4624421",
-                "title": "聖ミカエラ学園漂流記",
-                "text": "〇〇は、高取英による戯曲。小説、漫画、OVA、映画も製作された。"
             }
         ]
     }
