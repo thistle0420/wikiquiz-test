@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年09月11日 05時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4421480",
+                "title": "キャロライン・ドルアン",
+                "text": "〇〇は、フランスの女子ラグビー選手。"
+            },
+            {
                 "datetime": "2023年09月11日 04時の問題",
                 "url": "https://ja.wikipedia.org/?curid=205514",
                 "title": "正義論",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4034369",
                 "title": "上條大輔",
                 "text": "〇〇は、日本の映画監督、脚本家、劇作家。山梨県甲府市出身。"
-            },
-            {
-                "datetime": "2023年09月09日 12時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4590649",
-                "title": "白山媛神社 (長岡市)",
-                "text": "〇〇は、新潟県長岡市の神社。"
             }
         ]
     }
