@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年09月11日 06時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3624889",
+                "title": "Yabニュース",
+                "text": "〇〇は、山口朝日放送（yab）で放送されているローカルニュース番組（スポットニュース）である。ハイビジョン制作（ハイビジョン放送は地上デジタル放送のみで実施）。"
+            },
+            {
                 "datetime": "2023年09月11日 05時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4421480",
                 "title": "キャロライン・ドルアン",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2310600",
                 "title": "ゾラ・一撃・さようなら",
                 "text": "〇〇は、森博嗣による日本の推理小説。"
-            },
-            {
-                "datetime": "2023年09月09日 13時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4034369",
-                "title": "上條大輔",
-                "text": "〇〇は、日本の映画監督、脚本家、劇作家。山梨県甲府市出身。"
             }
         ]
     }
