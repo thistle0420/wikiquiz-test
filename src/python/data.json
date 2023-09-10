@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年09月10日 23時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2835511",
+                "title": "高星明誠",
+                "text": "〇〇は、神奈川県平塚市出身のレーシングドライバー。"
+            },
+            {
                 "datetime": "2023年09月10日 22時の問題",
                 "url": "https://ja.wikipedia.org/?curid=381923",
                 "title": "東洋拓殖",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3498517",
                 "title": "歌川芳里",
                 "text": "〇〇は、江戸時代の浮世絵師。"
-            },
-            {
-                "datetime": "2023年09月09日 05時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2565437",
-                "title": "MTVムービー・アワード2012",
-                "text": "〇〇は、2012年6月3日にギブソン・アンフィシアターで開催された。司会はラッセル・ブランドである。候補は5月1日に発表され、受賞者はファンとMTV幹部のパネルの投票によって選ばれた。"
             }
         ]
     }
