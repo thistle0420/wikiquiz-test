@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年09月12日 01時の問題",
+                "url": "https://ja.wikipedia.org/?curid=15366",
+                "title": "オーク",
+                "text": "〇〇は、ブナ科 コナラ属（学名：Quercus）の植物の総称。落葉樹であるナラ（楢）の総称。"
+            },
+            {
                 "datetime": "2023年09月12日 00時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3377425",
                 "title": "櫻井通晴",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2049452",
                 "title": "漱石の犬",
                 "text": "〇〇は、2010年4月3日から2011年4月1日まで日本テレビで放送されたバラエティ番組である。"
-            },
-            {
-                "datetime": "2023年09月10日 07時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3853517",
-                "title": "サムエルのディスコグラフィー",
-                "text": "〇〇は、韓国の歌手であるサムエルの作品をまとめた一覧。"
             }
         ]
     }
