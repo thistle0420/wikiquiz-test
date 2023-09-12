@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年09月13日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=420928",
+                "title": "リヒャルト・ゼール",
+                "text": "〇〇は、ドイツ人の建築家。日本で建築設計事務所を開設した。"
+            },
+            {
                 "datetime": "2023年09月13日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3999808",
                 "title": "トルフィ・ブリンゲイルソン",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2668209",
                 "title": "高鳴る",
                 "text": "〇〇は、藤田麻衣子の8枚目のシングル。2012年10月17日にLantisから発売された。"
-            },
-            {
-                "datetime": "2023年09月11日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3143141",
-                "title": "ベニング・ウェントワース",
-                "text": "〇〇は、1741年から1766年と四半世紀にわたってニューハンプシャー植民地総督を務めたアメリカの政治家である。"
             }
         ]
     }
