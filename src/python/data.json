@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年09月13日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=281683",
+                "title": "ハーラル1世",
+                "text": "〇〇は、古代北欧の王の名のひとつ。英語読みすると「ハラルド」となる。〇〇“美髪王”（古ノルド語:Haraldr hinn hárfagri、ノルウェー語:Harald Hårfagre、9世紀末-10世紀初期）ノルウェーの初代国王。〇〇“青歯王”（古ノルド語:Haraldr blátönn、デンマーク語:Harald Blåtand、10世紀末頃）デンマークの初代国王。ノルウェー王も兼ねた。ハラルド1世“兎足王”（英語:Harold Harefoot、1016年 - 1040年）イングランド国王（在位1037年 - 1040年）。カヌート大王の子。"
+            },
+            {
                 "datetime": "2023年09月12日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1040851",
                 "title": "永代公園",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=6627",
                 "title": "バビル2世",
                 "text": "〇〇は、横山光輝の漫画および、それを原作としたアニメ作品。"
-            },
-            {
-                "datetime": "2023年09月11日 06時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3624889",
-                "title": "Yabニュース",
-                "text": "〇〇は、山口朝日放送（yab）で放送されているローカルニュース番組（スポットニュース）である。ハイビジョン制作（ハイビジョン放送は地上デジタル放送のみで実施）。"
             }
         ]
     }
