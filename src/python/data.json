@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年09月13日 11時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4471713",
+                "title": "サンブル",
+                "text": "〇〇は、フランス語のSambreと、スワヒリ語のSamburuがある。"
+            },
+            {
                 "datetime": "2023年09月13日 10時の問題",
                 "url": "https://ja.wikipedia.org/?curid=395301",
                 "title": "ヴィサージ (音楽グループ)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2421004",
                 "title": "鏡保之助",
                 "text": "〇〇は、明治から昭和始めにかけて活躍した農学者。農業教育者、庭園研究家。元姓は中川で人造肥料施用法原理を表した他、庭園研究にも勤しむ。駿河国（現在の静岡県）出身。"
-            },
-            {
-                "datetime": "2023年09月11日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3829497",
-                "title": "清瀬市議会",
-                "text": "〇〇は、東京都清瀬市に設置されている地方議会である。"
             }
         ]
     }
