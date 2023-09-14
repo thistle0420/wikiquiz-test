@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年09月14日 17時の問題",
+                "url": "https://ja.wikipedia.org/?curid=779951",
+                "title": "大飛島",
+                "text": "〇〇は、岡山県笠岡市の笠岡諸島に属する、面積1.05km2、周囲5.5km、最高点152m（荒神山）の島である。"
+            },
+            {
                 "datetime": "2023年09月14日 16時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1197139",
                 "title": "トニー・グウィン・ジュニア",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=281683",
                 "title": "ハーラル1世",
                 "text": "〇〇は、古代北欧の王の名のひとつ。英語読みすると「ハラルド」となる。〇〇“美髪王”（古ノルド語:Haraldr hinn hárfagri、ノルウェー語:Harald Hårfagre、9世紀末-10世紀初期）ノルウェーの初代国王。〇〇“青歯王”（古ノルド語:Haraldr blátönn、デンマーク語:Harald Blåtand、10世紀末頃）デンマークの初代国王。ノルウェー王も兼ねた。ハラルド1世“兎足王”（英語:Harold Harefoot、1016年 - 1040年）イングランド国王（在位1037年 - 1040年）。カヌート大王の子。"
-            },
-            {
-                "datetime": "2023年09月12日 23時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1040851",
-                "title": "永代公園",
-                "text": "〇〇は、東京都江東区永代1丁目にある隅田川沿いの区立公園である。1970年3月31日開園。"
             }
         ]
     }
