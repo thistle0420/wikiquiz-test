@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年09月15日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1138900",
+                "title": "北海道の川一覧",
+                "text": "〇〇は、北海道を流れる河川を掲載する項目である。細かな規定などは日本の川一覧を参照のこと。"
+            },
+            {
                 "datetime": "2023年09月14日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=243828",
                 "title": "成田文男",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=420928",
                 "title": "リヒャルト・ゼール",
                 "text": "〇〇は、ドイツ人の建築家。日本で建築設計事務所を開設した。"
-            },
-            {
-                "datetime": "2023年09月13日 06時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3999808",
-                "title": "トルフィ・ブリンゲイルソン",
-                "text": "〇〇は、アイスランドの陸上競技選手。"
             }
         ]
     }
