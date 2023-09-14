@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年09月15日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2827959",
+                "title": "ジョアン・ペドロ・ロドリゲス",
+                "text": "〇〇は、ポルトガルの映画監督である。"
+            },
+            {
                 "datetime": "2023年09月15日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=888291",
                 "title": "井筒啓之",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3272818",
                 "title": "平成16年台風第17号",
                 "text": "〇〇は、2004年8月に発生し、台湾・中国・日本に被害を出した台風である。"
-            },
-            {
-                "datetime": "2023年09月13日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2392759",
-                "title": "富士フイルム FinePix F200EXR",
-                "text": "〇〇は、2009年2月21日に富士フイルムより発売されたコンパクト型デジタルカメラ。富士フイルムが開発した撮像素子「スーパーCCDハニカムEXR」を搭載した最初の製品である。"
             }
         ]
     }
