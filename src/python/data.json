@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年09月15日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4096755",
+                "title": "イザード (企業)",
+                "text": "〇〇は、神奈川県横浜市中区にオフィスを構える、日本の音楽CD・レコード製品をヨーロッパに輸出する日独企業である。"
+            },
+            {
                 "datetime": "2023年09月15日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=41220",
                 "title": "プレストレスト・コンクリート",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3547034",
                 "title": "UFC 206",
                 "text": "〇〇は、アメリカ合衆国の総合格闘技団体「UFC」の大会の一つ。2016年12月10日、カナダ・オンタリオ州トロントのエア・カナダ・センターで開催された。"
-            },
-            {
-                "datetime": "2023年09月14日 03時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4064800",
-                "title": "ZONE OF GOLD",
-                "text": "〇〇は、三代目 J SOUL BROTHERS from EXILE TRIBEのボーカル、RYUJI IMAICHIの通算2枚目のオリジナル・アルバムである。2020年1月15日にrhythm zoneから発売された。"
             }
         ]
     }
