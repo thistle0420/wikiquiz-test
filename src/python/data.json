@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年09月15日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=41220",
+                "title": "プレストレスト・コンクリート",
+                "text": "〇〇は、あらかじめ応力を加えたコンクリート材である。しばしば、PC（ピーシー）と略される。"
+            },
+            {
                 "datetime": "2023年09月15日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1673452",
                 "title": "マガジンファイル",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4064800",
                 "title": "ZONE OF GOLD",
                 "text": "〇〇は、三代目 J SOUL BROTHERS from EXILE TRIBEのボーカル、RYUJI IMAICHIの通算2枚目のオリジナル・アルバムである。2020年1月15日にrhythm zoneから発売された。"
-            },
-            {
-                "datetime": "2023年09月14日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2593103",
-                "title": "周敷",
-                "text": "〇〇は、南朝梁から陳にかけての軍人。字は仲遠。本貫は臨川郡。"
             }
         ]
     }
