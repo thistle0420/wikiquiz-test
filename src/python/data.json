@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年09月15日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3149116",
+                "title": "橋本到 (フランス文学者)",
+                "text": "〇〇は、日本の学者。法政大学経済学部経済学科教授。"
+            },
+            {
                 "datetime": "2023年09月15日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1677935",
                 "title": "ダストモップ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4131001",
                 "title": "1954年のラジオ (日本)",
                 "text": "〇〇は、1954年の日本のラジオ番組、その他ラジオ界の動向について記す。"
-            },
-            {
-                "datetime": "2023年09月13日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=768480",
-                "title": "プレダ・ミハイレスク",
-                "text": "〇〇は、ルーマニアの数学者。ブカレスト生まれ。"
             }
         ]
     }
