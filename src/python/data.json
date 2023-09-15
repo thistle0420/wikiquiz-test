@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年09月15日 22時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3992608",
+                "title": "チャールズ・エルフィンストーン (第10代エルフィンストーン卿)",
+                "text": "〇〇は、スコットランド貴族。"
+            },
+            {
                 "datetime": "2023年09月15日 21時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4096755",
                 "title": "イザード (企業)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2464898",
                 "title": "シラタマソウ",
                 "text": "〇〇は、ナデシコ科マンテマ属の多年草。"
-            },
-            {
-                "datetime": "2023年09月14日 04時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3547034",
-                "title": "UFC 206",
-                "text": "〇〇は、アメリカ合衆国の総合格闘技団体「UFC」の大会の一つ。2016年12月10日、カナダ・オンタリオ州トロントのエア・カナダ・センターで開催された。"
             }
         ]
     }
