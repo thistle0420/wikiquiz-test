@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年09月15日 11時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4146013",
+                "title": "亀戸餃子",
+                "text": "〇〇は、東京都江東区に本店を置く飲食店。食事のメニューは餃子のみである。"
+            },
+            {
                 "datetime": "2023年09月15日 10時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2640455",
                 "title": "スチュアート・チャレンダー",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1987366",
                 "title": "稲荷家房之介",
                 "text": "〇〇は、日本のイラストレーター、漫画家。瀬戸内出身。女性。"
-            },
-            {
-                "datetime": "2023年09月13日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=142913",
-                "title": "幻冬舎",
-                "text": "〇〇は、日本の出版社。"
             }
         ]
     }
