@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年09月16日 17時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3519605",
+                "title": "西中康弘",
+                "text": "〇〇は、日本の漫画家、イラストレーター、メカニックデザイナーである。"
+            },
+            {
                 "datetime": "2023年09月16日 16時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4148295",
                 "title": "エドセル・フォード",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1138900",
                 "title": "北海道の川一覧",
                 "text": "〇〇は、北海道を流れる河川を掲載する項目である。細かな規定などは日本の川一覧を参照のこと。"
-            },
-            {
-                "datetime": "2023年09月14日 23時の問題",
-                "url": "https://ja.wikipedia.org/?curid=243828",
-                "title": "成田文男",
-                "text": "〇〇は、東京都足立区出身のプロ野球選手（投手）。右投右打。"
             }
         ]
     }
