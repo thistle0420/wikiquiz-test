@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年09月17日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=20544",
+                "title": "更新世",
+                "text": "〇〇は、地質時代の区分の一つで、約258万年前から約1万年前までの期間。第四紀の第一の世。かつては洪積世（こうせきせい、Diluvium）ともいい、そのほとんどは氷河時代であった。この前の鮮新世（せんしんせい、Pliocene）と合わせて鮮新・〇〇（Plio-Pleistocene）として扱われることもある。"
+            },
+            {
                 "datetime": "2023年09月17日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=147831",
                 "title": "町山広美",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3733188",
                 "title": "InMobi",
                 "text": "〇〇は、CEO名として、日本事業強化の方針を打ち出し「今後2年間で3倍-4倍の投資を行う」ことを発表した。"
-            },
-            {
-                "datetime": "2023年09月15日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3894884",
-                "title": "キャメロン・ランカスター",
-                "text": "〇〇は、イングランド・ロンドン・カムデン区出身のサッカー選手。ポジションはフォワード(CF)。アメリカ・USL・ルイビル・シティFC所属。"
             }
         ]
     }
