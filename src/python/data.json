@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年09月17日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=25278",
+                "title": "アスファルト",
+                "text": "〇〇は、原油に含まれる炭化水素類の中で最も重質のものである。日本語では土瀝青（どれきせい）や地瀝青（ちれきせい、じれきせい）とも呼ばれる。"
+            },
+            {
                 "datetime": "2023年09月17日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=156662",
                 "title": "勝利打点",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3199884",
                 "title": "坊城中子",
                 "text": "〇〇は、俳人。"
-            },
-            {
-                "datetime": "2023年09月16日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1289761",
-                "title": "エマニュエル・ダーマン",
-                "text": "〇〇は、南アフリカ共和国出身の経済学者・実業家である。主に代表的クオンツとして、またMy Life as a Quant: Reflections on Physics and Finance（邦訳：『物理学者、ウォール街を往く。』）の著者として知られている。利率に関する最初期のモデルブラック–ダーマン–トイ・モデルの提唱者の一人であり、他にlocal volatilityに関するダーマン＝カニ(Derman-Kani)モデルの提唱者の一人でもある。このモデルはvolatility smileと矛盾しない最初のモデルである。現在はコロンビア大学の教授であり、同大学金融工学プログラムの責任者を務める。またファンドのためのファンドPrisma Capital Partners社の\"Head of Risk\"職も兼ねている。著書My Life as A Quant: Reflections on Physics and Financeは米ワイリー社から2004年9月に出版され、米ビジネスウィーク誌により2004年のビジネス書トップ10に選ばれた。"
             }
         ]
     }
