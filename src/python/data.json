@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年09月17日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2546056",
+                "title": "西山峻太",
+                "text": "〇〇は、神奈川県出身で、Jリーグ・Y.S.C.C.横浜所属のサッカー選手。ポジションは、DF。"
+            },
+            {
                 "datetime": "2023年09月17日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=25278",
                 "title": "アスファルト",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4171051",
                 "title": "高村佳秀",
                 "text": "〇〇は、日本のドラマー。熊本県出身。身長167cm、血液型AB型。BLUE ENCOUNTのドラムス担当。愛称はよっちゃん。"
-            },
-            {
-                "datetime": "2023年09月16日 03時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3199884",
-                "title": "坊城中子",
-                "text": "〇〇は、俳人。"
             }
         ]
     }
