@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年09月17日 16時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2385391",
+                "title": "BLUE LOVE",
+                "text": "〇〇は、2010年5月24日に発売されたCNBLUEの韓国の2ndミニアルバム。"
+            },
+            {
                 "datetime": "2023年09月17日 15時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2758991",
                 "title": "薄氷",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=370200",
                 "title": "レオ4世 (ローマ教皇)",
                 "text": "〇〇は、ローマ教皇（在位：847年4月10日 - 855年7月17日）。"
-            },
-            {
-                "datetime": "2023年09月15日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3992608",
-                "title": "チャールズ・エルフィンストーン (第10代エルフィンストーン卿)",
-                "text": "〇〇は、スコットランド貴族。"
             }
         ]
     }
