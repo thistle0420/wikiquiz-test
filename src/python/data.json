@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年09月19日 05時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4466544",
+                "title": "初心LOVE",
+                "text": "〇〇は、なにわ男子のデビューシングル。2021年11月12日にジェイ・ストームから発売された。"
+            },
+            {
                 "datetime": "2023年09月19日 04時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1196143",
                 "title": "レイ・ブラウン (野球)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1062773",
                 "title": "HERTZ",
                 "text": "〇〇は、1986年5月5日に発売された小森まなみの1枚目のアルバム。"
-            },
-            {
-                "datetime": "2023年09月17日 12時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2654178",
-                "title": "シベリア航空宇宙大学",
-                "text": "〇〇は、ロシアの大学。"
             }
         ]
     }
