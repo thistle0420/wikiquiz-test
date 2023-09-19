@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年09月19日 17時の問題",
+                "url": "https://ja.wikipedia.org/?curid=497375",
+                "title": "メタルギアアシッド2",
+                "text": "〇〇は、2005年12月8日に発売されたPlayStation Portable用ゲームソフト。「メタルギアシリーズ」の外伝的作品の1つ。"
+            },
+            {
                 "datetime": "2023年09月19日 16時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2936799",
                 "title": "南ユーカリが丘",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2489572",
                 "title": "Sunny mood",
                 "text": "〇〇は、エレクトロ・ファンクバンド『Tony Potter and the Friends』のファースト・ミニアルバム。2003年12月12日発売（JPDP-0808／2010年廃盤）。"
-            },
-            {
-                "datetime": "2023年09月17日 23時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2297185",
-                "title": "京都府看護協会",
-                "text": "〇〇は、京都府知事所管の京都府の看護師を会員とする公益社団法人。"
             }
         ]
     }
