@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年09月19日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4156787",
+                "title": "中央寺 (江東区)",
+                "text": "〇〇は、東京都江東区にある曹洞宗の寺院。"
+            },
+            {
                 "datetime": "2023年09月19日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1499321",
                 "title": "北海道遠軽高等学校",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2546056",
                 "title": "西山峻太",
                 "text": "〇〇は、神奈川県出身で、Jリーグ・Y.S.C.C.横浜所属のサッカー選手。ポジションは、DF。"
-            },
-            {
-                "datetime": "2023年09月17日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=25278",
-                "title": "アスファルト",
-                "text": "〇〇は、原油に含まれる炭化水素類の中で最も重質のものである。日本語では土瀝青（どれきせい）や地瀝青（ちれきせい、じれきせい）とも呼ばれる。"
             }
         ]
     }
