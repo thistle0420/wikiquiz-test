@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年09月19日 15時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1758557",
+                "title": "大分市立稙田南中学校",
+                "text": "〇〇は、大分県大分市大字田尻にある市立中学校。"
+            },
+            {
                 "datetime": "2023年09月19日 14時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4156787",
                 "title": "中央寺 (江東区)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4578969",
                 "title": "伊佐美ノゾミ",
                 "text": "〇〇は、日本の元漫画家・電子書籍編集者。男性。出身地は不明だが、実家は長野県に在る。漫画家時代は主に成人向け漫画の分野で活動していた。"
-            },
-            {
-                "datetime": "2023年09月17日 21時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2546056",
-                "title": "西山峻太",
-                "text": "〇〇は、神奈川県出身で、Jリーグ・Y.S.C.C.横浜所属のサッカー選手。ポジションは、DF。"
             }
         ]
     }
