@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年09月20日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1758672",
+                "title": "1987年ドイツ連邦議会選挙",
+                "text": "〇〇は、ドイツ連邦共和国（当時西ドイツ）の下院に該当する連邦議会（Deutscher Bundestag）の議員を選出するため1987年1月に行われた選挙である。"
+            },
+            {
                 "datetime": "2023年09月20日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4546668",
                 "title": "木村重吉",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1993194",
                 "title": "2-オキソ酸レダクターゼ",
                 "text": "〇〇は、次の化学反応を触媒する酸化還元酵素である。(2R)-ヒドロキシカルボン酸 + 受容体                     ⇌              {\\displaystyle \\rightleftharpoons }   2-オキソカルボン酸 + 還元型受容体反応式の通り、この酵素の基質は(2R)-ヒドロキシカルボン酸と受容体、生成物は2-オキソカルボン酸と還元型受容体である。組織名は(2R)-hydroxy-carboxylate:acceptor oxidoreductaseで、別名に(2R)-hydroxycarboxylate-viologen-oxidoreductase, 2-oxoacid reductaseがある。"
-            },
-            {
-                "datetime": "2023年09月18日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=869811",
-                "title": "ウェストランド シーキング",
-                "text": "〇〇は、イギリスのウェストランド・エアクラフトが製造したシコルスキー S-61のライセンス生産機である。イギリス海軍の対潜任務のほか、救難機や兵員輸送機、さらに既存機からの改造によって早期警戒機としても使用され、ヨーロッパや中東、インドなどへ輸出された。"
             }
         ]
     }
