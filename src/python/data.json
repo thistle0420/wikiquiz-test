@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年09月20日 17時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1598835",
+                "title": "厳原中継局",
+                "text": "〇〇は、長崎県対馬市に設置されている同市内唯一のテレビ放送とFMラジオ放送の中継局である。"
+            },
+            {
                 "datetime": "2023年09月20日 16時の問題",
                 "url": "https://ja.wikipedia.org/?curid=709962",
                 "title": "班倢伃",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1151139",
                 "title": "小関裕太郎",
                 "text": "〇〇は、日本の声優、俳優。フリー。宮城県出身。血液型はA型。以前はプロダクション東京ドラマハウスに所属していた。"
-            },
-            {
-                "datetime": "2023年09月18日 23時の問題",
-                "url": "https://ja.wikipedia.org/?curid=997015",
-                "title": "佐藤誠一",
-                "text": "〇〇は、宮城県仙台市出身の元プロ野球選手（投手）。"
             }
         ]
     }
