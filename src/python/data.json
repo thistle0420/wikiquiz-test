@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年09月20日 10時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4095948",
+                "title": "キリアン・サルデラ",
+                "text": "〇〇は、ベルギーとコンゴ民主共和国とイタリアのサッカー選手。ポジションはDF。"
+            },
+            {
                 "datetime": "2023年09月20日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1758672",
                 "title": "1987年ドイツ連邦議会選挙",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=807837",
                 "title": "兼松サステック",
                 "text": "〇〇は、主に住宅用建材の製造販売や地盤改良工事を行う企業。兼松の子会社。"
-            },
-            {
-                "datetime": "2023年09月18日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1993194",
-                "title": "2-オキソ酸レダクターゼ",
-                "text": "〇〇は、次の化学反応を触媒する酸化還元酵素である。(2R)-ヒドロキシカルボン酸 + 受容体                     ⇌              {\\displaystyle \\rightleftharpoons }   2-オキソカルボン酸 + 還元型受容体反応式の通り、この酵素の基質は(2R)-ヒドロキシカルボン酸と受容体、生成物は2-オキソカルボン酸と還元型受容体である。組織名は(2R)-hydroxy-carboxylate:acceptor oxidoreductaseで、別名に(2R)-hydroxycarboxylate-viologen-oxidoreductase, 2-oxoacid reductaseがある。"
             }
         ]
     }
