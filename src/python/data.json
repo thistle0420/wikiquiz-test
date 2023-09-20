@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年09月20日 11時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2128815",
+                "title": "保坂友利子",
+                "text": "〇〇は、日本のAV女優。趣味は、油絵・スキー・スポーツ。バルドエージェンシー所属。"
+            },
+            {
                 "datetime": "2023年09月20日 10時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4095948",
                 "title": "キリアン・サルデラ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3096527",
                 "title": "服部名々子",
                 "text": "〇〇は、日本のアーティスト、女優である。愛称は、ななちゃん。三重県四日市市出身。"
-            },
-            {
-                "datetime": "2023年09月18日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=807837",
-                "title": "兼松サステック",
-                "text": "〇〇は、主に住宅用建材の製造販売や地盤改良工事を行う企業。兼松の子会社。"
             }
         ]
     }
