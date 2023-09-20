@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年09月20日 13時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3228673",
+                "title": "青春の光と影 (沢田聖子のアルバム)",
+                "text": "〇〇は、沢田聖子が1981年4月25日にリリースした2枚目のアルバムである。"
+            },
+            {
                 "datetime": "2023年09月20日 12時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4457788",
                 "title": "横井甚四郎",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1423511",
                 "title": "シュテファン・ゲオルゲ",
                 "text": "〇〇は、ドイツの詩人。ドイツ詩における象徴主義を代表する人物である。"
-            },
-            {
-                "datetime": "2023年09月18日 19時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2093662",
-                "title": "ORANGE (175Rの曲)",
-                "text": "〇〇は、175Rのメジャー6枚目のシングルである。MCU（KICK THE CAN CREW）とのコラボレーション。"
             }
         ]
     }
