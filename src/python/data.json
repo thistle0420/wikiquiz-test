@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年09月21日 19時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1624863",
+                "title": "松下砂稚子",
+                "text": "〇〇は、日本の女優。本名は川辺砂稚子。夫は俳優の川辺久造。趣味は旅行。"
+            },
+            {
                 "datetime": "2023年09月21日 18時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3775183",
                 "title": "真澄寺",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1031837",
                 "title": "岐阜県道47号瑞浪インター線",
                 "text": "〇〇は、岐阜県瑞浪市内の県道（主要地方道）である。中央自動車道瑞浪ICの接続道路を担う。"
-            },
-            {
-                "datetime": "2023年09月20日 01時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4702438",
-                "title": "サイモン拓海",
-                "text": "〇〇は、日本及びグアムの男子プロバスケットボール選手である。ポジションはシューティングガード。B.LEAGUEの信州ブレイブウォリアーズ所属。"
             }
         ]
     }
