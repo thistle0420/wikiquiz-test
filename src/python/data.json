@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年09月22日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3374977",
+                "title": "松崎晃治",
+                "text": "〇〇は、日本の政治家、教諭。福井県小浜市長（4期）。元福井県議会議員（4期）。"
+            },
+            {
                 "datetime": "2023年09月21日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4080714",
                 "title": "ピーター・ワダムズ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4546668",
                 "title": "木村重吉",
                 "text": "〇〇は、日本の実業家で、西日本鉄道社長を務めた。"
-            },
-            {
-                "datetime": "2023年09月20日 06時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4070056",
-                "title": "住友運河",
-                "text": "〇〇は、富山県富山市にある富岩運河から派生する支線運河である。"
             }
         ]
     }
