@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年09月23日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1985169",
+                "title": "2-ヒドロキシグルタル酸デヒドロゲナーゼ",
+                "text": "〇〇は、次の化学反応を触媒する酸化還元酵素である。(S)-2-ヒドロキシグルタル酸 + 受容体                     ⇌              {\\displaystyle \\rightleftharpoons }   2-オキソグルタル酸 + 還元型受容体反応式の通り、この酵素の基質は(S)-2-ヒドロキシグルタル酸と受容体、生成物は2-オキソグルタル酸と還元型受容体である。組織名は(S)-2-hydroxyglutarate:acceptor 2-oxidoreductaseで、別名にα-ketoglutarate reductase, α-hydroxyglutarate dehydrogenase, L-α-hydroxyglutarate dehydrogenase, hydroxyglutaric dehydrogenase, α-hydroxyglutarate oxidoreductase, L-α-hydroxyglutarate:NAD+ 2-oxidoreductase, α-hydroxyglutarate dehydrogenase (NAD+ specific), (S)-2-hydroxyglutarate:(acceptor) 2-oxidoreductaseがある。"
+            },
+            {
                 "datetime": "2023年09月23日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2906515",
                 "title": "ウィルソン・イップ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=384041",
                 "title": "枠 (多面体)",
                 "text": "〇〇は、非凸多胞体（星型多角形、星型多面体など）の頂点をつないだときにできる図形であり、その多胞体が入る最小の体積の凸多胞体のことをいう。正複合多面体の枠は、正多面体、準正多面体になる。星型正多面体の場合も同様である。ダ・ヴィンチの星の枠は、もとの正多面体と双対の関係にある多面体になる。また、星型の枠は元の立体の双対の関係にあるどちらかになることが多い。"
-            },
-            {
-                "datetime": "2023年09月21日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1928952",
-                "title": "ガラクトース-1-デヒドロゲナーゼ (NADP+)",
-                "text": "〇〇は、ガラクトース代謝酵素の一つで、次の化学反応を触媒する酸化還元酵素である。D-ガラクトース + NADP+                     ⇌              {\\displaystyle \\rightleftharpoons }   D-ガラクトノラクトン + NADPH + H+すなわち、この酵素の基質はD-ガラクトースとNADP+、生成物はD-ガラクトノラクトンとNADPHとH+である。組織名はD-galactose:NADP+ 1-oxidoreductaseで、別名にD-galactose dehydrogenase (NADP+), galactose 1-dehydrogenase (NADP+)がある。"
             }
         ]
     }
