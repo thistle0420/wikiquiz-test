@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年09月23日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2906515",
+                "title": "ウィルソン・イップ",
+                "text": "〇〇は、香港の映画監督・映画プロデューサー・脚本家。"
+            },
+            {
                 "datetime": "2023年09月23日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2428109",
                 "title": "村山士郎",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1928952",
                 "title": "ガラクトース-1-デヒドロゲナーゼ (NADP+)",
                 "text": "〇〇は、ガラクトース代謝酵素の一つで、次の化学反応を触媒する酸化還元酵素である。D-ガラクトース + NADP+                     ⇌              {\\displaystyle \\rightleftharpoons }   D-ガラクトノラクトン + NADPH + H+すなわち、この酵素の基質はD-ガラクトースとNADP+、生成物はD-ガラクトノラクトンとNADPHとH+である。組織名はD-galactose:NADP+ 1-oxidoreductaseで、別名にD-galactose dehydrogenase (NADP+), galactose 1-dehydrogenase (NADP+)がある。"
-            },
-            {
-                "datetime": "2023年09月21日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=255775",
-                "title": "下顎神経",
-                "text": "〇〇は、三叉神経の三本目の枝である。卵円孔を経由して頭蓋から外に出る。下顎の歯、下顎、下唇、頬、オトガイ、頬粘膜、舌の前2/3の感覚を司ると共に、咀嚼筋の運動を司る。三叉神経の三本の枝のうち、運動神経線維を含むのはこの〇〇のみである。〇〇の枝は深側頭神経外側翼突筋神経内側翼突筋神経咬筋神経口蓋帆張筋神経鼓膜張筋神経耳介側頭神経頬神経舌神経下歯槽神経顎舌骨筋神経下歯槽神経オトガイ神経である。"
             }
         ]
     }
