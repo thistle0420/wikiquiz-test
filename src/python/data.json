@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年09月23日 22時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2077792",
+                "title": "伏石泰宏",
+                "text": "〇〇は、日本の元俳優。香川県出身。"
+            },
+            {
                 "datetime": "2023年09月23日 21時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2004859",
                 "title": "トリーナ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=717592",
                 "title": "東京朝鮮第六初級学校",
                 "text": "〇〇は、学校法人東京朝鮮学園が運営する東京都大田区にある朝鮮学校である。日本の小学校に相当する教育を行っている各種学校（非一条校）である。"
-            },
-            {
-                "datetime": "2023年09月22日 04時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1991377",
-                "title": "静電エネルギー",
-                "text": "〇〇は、電場が持つエネルギーである。"
             }
         ]
     }
