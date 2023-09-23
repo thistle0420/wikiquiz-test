@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年09月23日 17時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2641618",
+                "title": "The PIONEERS of SENSATION",
+                "text": "〇〇は、2012年6月6日に発売されたNEW BREEDの2作目のアルバムである。"
+            },
+            {
                 "datetime": "2023年09月23日 16時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2699533",
                 "title": "佐藤尚之",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3374977",
                 "title": "松崎晃治",
                 "text": "〇〇は、日本の政治家、教諭。福井県小浜市長（4期）。元福井県議会議員（4期）。"
-            },
-            {
-                "datetime": "2023年09月21日 23時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4080714",
-                "title": "ピーター・ワダムズ",
-                "text": "〇〇は、海洋物理学の教授であり、ケンブリッジ大学 応用数学および理論物理学科の極海洋物理学グループの教授であり、海氷研究の第一人者でもある。"
             }
         ]
     }
