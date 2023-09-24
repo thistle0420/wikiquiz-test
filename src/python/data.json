@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年09月25日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1774293",
+                "title": "中山徹",
+                "text": "〇〇は、日本の英文学者、翻訳家。一橋大学大学院言語社会研究科教授。専門は英文学。スラヴォイ・ジジェクなどの訳書がある。日本英文学会新人賞受賞。"
+            },
+            {
                 "datetime": "2023年09月24日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2565341",
                 "title": "NEWS PORT",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2906515",
                 "title": "ウィルソン・イップ",
                 "text": "〇〇は、香港の映画監督・映画プロデューサー・脚本家。"
-            },
-            {
-                "datetime": "2023年09月23日 06時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2428109",
-                "title": "村山士郎",
-                "text": "〇〇は、日本の教育学者。専門は教育社会学。大東文化大学名誉教授。"
             }
         ]
     }
