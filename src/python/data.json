@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年09月25日 02時の問題",
+                "url": "https://ja.wikipedia.org/?curid=198040",
+                "title": "美波 (女優)",
+                "text": "〇〇は、日本の女優、ファッションモデル。本名の姓はバージュで、当初はバージュ美波として活動。海外メディアではMinami Bages（バージュ）、Minami Hinaseとも。既婚。東京都出身。元ホリプロ所属。現在はロサンゼルス 、パリと日本を行き来しながら役者として活動中。日本でのマネジメントはスールキートス。"
+            },
+            {
                 "datetime": "2023年09月25日 01時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2545112",
                 "title": "すくすく赤ちゃん",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3357747",
                 "title": "グアドループの旗",
                 "text": "〇〇は、フランス国旗のみである。これに次いで、白地の中央に海外県政府のロゴマークを記した旗が、地方を代表する「県旗」のような形でしばしば使用される（これは、マヨットやレユニオンの「県旗」と同様である）。ロゴマークは、図案化された太陽と鳥を、青と緑で塗り分けられた四角形の上に配したもので、その下にREGION GUADELOUPEという文字が黄色い下線つきで示される。"
-            },
-            {
-                "datetime": "2023年09月23日 08時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1985169",
-                "title": "2-ヒドロキシグルタル酸デヒドロゲナーゼ",
-                "text": "〇〇は、次の化学反応を触媒する酸化還元酵素である。(S)-2-ヒドロキシグルタル酸 + 受容体                     ⇌              {\\displaystyle \\rightleftharpoons }   2-オキソグルタル酸 + 還元型受容体反応式の通り、この酵素の基質は(S)-2-ヒドロキシグルタル酸と受容体、生成物は2-オキソグルタル酸と還元型受容体である。組織名は(S)-2-hydroxyglutarate:acceptor 2-oxidoreductaseで、別名にα-ketoglutarate reductase, α-hydroxyglutarate dehydrogenase, L-α-hydroxyglutarate dehydrogenase, hydroxyglutaric dehydrogenase, α-hydroxyglutarate oxidoreductase, L-α-hydroxyglutarate:NAD+ 2-oxidoreductase, α-hydroxyglutarate dehydrogenase (NAD+ specific), (S)-2-hydroxyglutarate:(acceptor) 2-oxidoreductaseがある。"
             }
         ]
     }
