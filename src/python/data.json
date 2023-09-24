@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年09月24日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1493904",
+                "title": "松村喜秀",
+                "text": "〇〇は、松村エンジニアリングのCEO。島根県生まれ。"
+            },
+            {
                 "datetime": "2023年09月24日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3749130",
                 "title": "学校法人東海高輪学園",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4223429",
                 "title": "岡野或男",
                 "text": "〇〇は、長野県諏訪市出身の実業家。東洋バルヴ社長・旧ルネ・ラリック美術館の創設者（現在のSUWAガラスの里）・ホテル紅や社長・北澤美術館副理事長。"
-            },
-            {
-                "datetime": "2023年09月23日 00時の問題",
-                "url": "https://ja.wikipedia.org/?curid=104369",
-                "title": "下菅谷駅",
-                "text": "〇〇は、茨城県那珂市菅谷にある、東日本旅客鉄道（JR東日本）水郡線の駅である。"
             }
         ]
     }
