@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年09月24日 23時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2565341",
+                "title": "NEWS PORT",
+                "text": "〇〇は、サンテレビジョンで2012年4月2日から2018年3月30日まで放送されていた報道番組。神戸新聞の協力によって制作された生放送番組で、放送時間は基本として、毎週月曜日 - 金曜日の21:30 - 22:00（JST）。"
+            },
+            {
                 "datetime": "2023年09月24日 22時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2952463",
                 "title": "ネメシス (1992年の映画)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2428109",
                 "title": "村山士郎",
                 "text": "〇〇は、日本の教育学者。専門は教育社会学。大東文化大学名誉教授。"
-            },
-            {
-                "datetime": "2023年09月23日 05時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3449777",
-                "title": "ViVid Strike!",
-                "text": "〇〇は、セブン・アークス・ピクチャーズ（後のSeven Arcs）制作による日本のアニメ作品。2016年10月から12月までTOKYO MXほかにて放送された。全12話+OVA3話。"
             }
         ]
     }
