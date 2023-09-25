@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年09月25日 11時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2752687",
+                "title": "クベリーク",
+                "text": "〇〇は、チェコ人の姓。クーベリックとも表記される。ヤン・〇〇 - チェコ出身のヴァイオリニスト、作曲家。ラファエル・クーベリック - チェコ出身の指揮者、作曲家。ヤンの息子。"
+            },
+            {
                 "datetime": "2023年09月25日 10時の問題",
                 "url": "https://ja.wikipedia.org/?curid=304492",
                 "title": "山口県道路公社",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4746321",
                 "title": "山王病院 (桜川市)",
                 "text": "〇〇は、茨城県桜川市に存在した病院である。2018年9月30日、さくらがわ地域医療センターへの移転に向けて閉院した。"
-            },
-            {
-                "datetime": "2023年09月23日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2641618",
-                "title": "The PIONEERS of SENSATION",
-                "text": "〇〇は、2012年6月6日に発売されたNEW BREEDの2作目のアルバムである。"
             }
         ]
     }
