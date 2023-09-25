@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年09月26日 01時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2783760",
+                "title": "ヤマトシビレエイ",
+                "text": "〇〇は、シビレエイ目のエイの一種。"
+            },
+            {
                 "datetime": "2023年09月26日 00時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2960617",
                 "title": "ジャングル 2 ジャングル",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4745693",
                 "title": "ペドロ・エンヒキ・アゼヴェド・ペレイラ",
                 "text": "〇〇は、ブラジルのサッカー選手。ポジションはDF。"
-            },
-            {
-                "datetime": "2023年09月24日 07時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1720563",
-                "title": "国際連合安全保障理事会決議1706",
-                "text": "〇〇は、2006年8月31日に国際連合安全保障理事会で採択されたスーダン・ダルフール情勢に関する決議。略称はUNSCR1706。"
             }
         ]
     }
