@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年09月25日 15時の問題",
+                "url": "https://ja.wikipedia.org/?curid=828855",
+                "title": "ヨーロッパクサリヘビ",
+                "text": "〇〇は、爬虫綱有鱗目クサリヘビ科クサリヘビ属に分類されるヘビ。"
+            },
+            {
                 "datetime": "2023年09月25日 14時の問題",
                 "url": "https://ja.wikipedia.org/?curid=144599",
                 "title": "何種類?",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2077792",
                 "title": "伏石泰宏",
                 "text": "〇〇は、日本の元俳優。香川県出身。"
-            },
-            {
-                "datetime": "2023年09月23日 21時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2004859",
-                "title": "トリーナ",
-                "text": "〇〇は、アメリカ合衆国フロリダ州マイアミ出身のラッパーである。"
             }
         ]
     }
