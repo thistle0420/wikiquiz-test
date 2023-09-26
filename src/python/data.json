@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年09月26日 12時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2266343",
+                "title": "石田馨",
+                "text": "〇〇は、日本の内務官僚。官選県知事、警視総監。"
+            },
+            {
                 "datetime": "2023年09月26日 11時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3103581",
                 "title": "多加森村",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3734425",
                 "title": "鳥図明児",
                 "text": "〇〇は、日本の漫画家。富山県出身、やぎ座、A型。女性。代表作に『虹神殿』、『水蓮運河』など。本名はペレイラ昭栄。"
-            },
-            {
-                "datetime": "2023年09月24日 18時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1493904",
-                "title": "松村喜秀",
-                "text": "〇〇は、松村エンジニアリングのCEO。島根県生まれ。"
             }
         ]
     }
