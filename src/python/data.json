@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年09月27日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=717554",
+                "title": "MUD",
+                "text": "〇〇は、コンピュータを利用したオンラインゲームのジャンルのうちの一つ。Multi-User Dungeon、Multi-User Domain、Multi-User Dimensionの略。欧州中心に広がったテキストベースのものをさすことが多く、グラフィックベースで表示されるものは別途MMORPGと称される。"
+            },
+            {
                 "datetime": "2023年09月27日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3888357",
                 "title": "肉夾モー",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2350006",
                 "title": "藤原懐平",
                 "text": "〇〇は、平安時代中期の公卿。藤原北家小野宮流、参議・藤原斉敏の三男。官位は正二位・権中納言。"
-            },
-            {
-                "datetime": "2023年09月26日 03時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2938563",
-                "title": "リムスキー=コルサコフ諸島",
-                "text": "〇〇は、日本海北西部のピョートル大帝湾中央部にあるムラヴィヨフ＝アムールスキー半島の南沖にある諸島。6つの小さな島といくつかの海食柱からなる。ウラジオストクから70km南西、イェフゲニー諸島の南西に位置する。"
             }
         ]
     }
