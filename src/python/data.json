@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年09月27日 19時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1893620",
+                "title": "高橋正武",
+                "text": "〇〇は、日本のスペイン文学者、翻訳家。スペイン語辞書を編み、多くの文学翻訳を行った。"
+            },
+            {
                 "datetime": "2023年09月27日 18時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3646192",
                 "title": "LUCRA",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1094420",
                 "title": "パース・グローリーFC",
                 "text": "〇〇は、オーストラリアの西部、西オーストラリア州の州都パースをホームタウンとする、オーストラリアプロサッカーリーグ（Aリーグ）に加盟するプロサッカークラブ。"
-            },
-            {
-                "datetime": "2023年09月26日 01時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2783760",
-                "title": "ヤマトシビレエイ",
-                "text": "〇〇は、シビレエイ目のエイの一種。"
             }
         ]
     }
