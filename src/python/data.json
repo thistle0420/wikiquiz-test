@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年09月28日 05時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1342170",
+                "title": "富田稔",
+                "text": "〇〇は、日本のスタントマン。アクション監督。大阪府出身。株式会社MOAI&Co.代表取締役。身長171cm、体重65kg、血液型はB型。本名同じ。愛称はトミー。以前はAAC STUNTSに所属していた。大阪市立梅南中学校卒業。"
+            },
+            {
                 "datetime": "2023年09月28日 04時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2746308",
                 "title": "樫船神社",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=389212",
                 "title": "ブーゲンビリア",
                 "text": "〇〇は、オシロイバナ科〇〇属に属する熱帯性の低木である。和名はイカダカズラ（筏葛）、ココノエカズラ（九重葛）である。"
-            },
-            {
-                "datetime": "2023年09月26日 12時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2266343",
-                "title": "石田馨",
-                "text": "〇〇は、日本の内務官僚。官選県知事、警視総監。"
             }
         ]
     }
