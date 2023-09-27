@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年09月28日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3357880",
+                "title": "バース・ラグビー",
+                "text": "〇〇は、イングランドのバースに本拠地を置くラグビーユニオンクラブである。スタジアムはレクリエーション・グラウンド。"
+            },
+            {
                 "datetime": "2023年09月28日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4405042",
                 "title": "藤田弘子",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2032377",
                 "title": "Seiko Matsuda Single Collection 30th Anniversary Box 〜The voice of a Queen〜",
                 "text": "〇〇は、松田聖子通算36作目のベスト・アルバムで4作目のボックス・セット（73枚組）。2010年5月26日発売。発売元はSony Records。"
-            },
-            {
-                "datetime": "2023年09月26日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4089655",
-                "title": "山田璋",
-                "text": "〇〇は、日本の弁護士。第二東京弁護士会（二弁）会長、日本弁護士連合会（日弁連）副会長。二弁内会派清友会の長老格だった。"
             }
         ]
     }
