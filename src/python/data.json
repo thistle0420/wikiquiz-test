@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年09月29日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2136316",
+                "title": "カシオペヤ座の恒星の一覧",
+                "text": "〇〇は、カシオペヤ座の恒星を明るさの順に並べたものである。"
+            },
+            {
                 "datetime": "2023年09月29日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3558694",
                 "title": "ハプログループBT (Y染色体)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=738933",
                 "title": "レイモン・ガロワ＝モンブラン",
                 "text": "〇〇は、フランスの作曲家、ヴァイオリニスト。"
-            },
-            {
-                "datetime": "2023年09月27日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2011422",
-                "title": "イエロー・ハンカチーフ",
-                "text": "〇〇は、2008年のアメリカ映画。山田洋次監督の日本映画の名作『幸福の黄色いハンカチ』のリメイク。"
             }
         ]
     }
