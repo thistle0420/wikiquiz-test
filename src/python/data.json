@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年09月28日 17時の問題",
+                "url": "https://ja.wikipedia.org/?curid=881486",
+                "title": "シマノ・Capreo",
+                "text": "〇〇は、株式会社シマノが開発、販売する小径車輪自転車向けコンポーネントである。カプレオとはラテン語で「小鹿」を意味する。"
+            },
+            {
                 "datetime": "2023年09月28日 16時の問題",
                 "url": "https://ja.wikipedia.org/?curid=920222",
                 "title": "Styles Of Beyond",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3369619",
                 "title": "芦川芽依",
                 "text": "〇〇は、日本の元AV女優。"
-            },
-            {
-                "datetime": "2023年09月26日 23時の問題",
-                "url": "https://ja.wikipedia.org/?curid=35044",
-                "title": "まさし君",
-                "text": "〇〇は、植田まさしによる日本の4コマ漫画。"
             }
         ]
     }
