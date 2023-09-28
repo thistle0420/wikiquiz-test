@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年09月28日 16時の問題",
+                "url": "https://ja.wikipedia.org/?curid=920222",
+                "title": "Styles Of Beyond",
+                "text": "〇〇は、EXILEの2枚目のオリジナルアルバム。2003年2月13日にrhythm zoneから発売。"
+            },
+            {
                 "datetime": "2023年09月28日 15時の問題",
                 "url": "https://ja.wikipedia.org/?curid=967840",
                 "title": "鶴岡啓一",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=35044",
                 "title": "まさし君",
                 "text": "〇〇は、植田まさしによる日本の4コマ漫画。"
-            },
-            {
-                "datetime": "2023年09月26日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=560320",
-                "title": "ルーキー!",
-                "text": "〇〇は、2001年4月10日から6月26日まで、関西テレビ制作・フジテレビ系で毎週火曜22時 ‐22時54分に放送された日本のテレビドラマである。全12回。主演は堂本光一。"
             }
         ]
     }
