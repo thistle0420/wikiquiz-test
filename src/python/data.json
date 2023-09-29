@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年09月30日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4653050",
+                "title": "西府町",
+                "text": "〇〇は、東京都府中市の地名。郵便番号は183-0031。"
+            },
+            {
                 "datetime": "2023年09月30日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2553117",
                 "title": "バストラップ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=920222",
                 "title": "Styles Of Beyond",
                 "text": "〇〇は、EXILEの2枚目のオリジナルアルバム。2003年2月13日にrhythm zoneから発売。"
-            },
-            {
-                "datetime": "2023年09月28日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=967840",
-                "title": "鶴岡啓一",
-                "text": "〇〇は、日本の政治家、官僚。千葉市長（第24・25代）等を歴任。"
             }
         ]
     }
