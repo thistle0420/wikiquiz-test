@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年09月29日 12時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3572262",
+                "title": "中本和洋",
+                "text": "〇〇は、日本の弁護士。2016年から日本弁護士連合会の会長を務める。大阪弁護士会所属。"
+            },
+            {
                 "datetime": "2023年09月29日 11時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2349567",
                 "title": "ロタ海軍基地",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1893620",
                 "title": "高橋正武",
                 "text": "〇〇は、日本のスペイン文学者、翻訳家。スペイン語辞書を編み、多くの文学翻訳を行った。"
-            },
-            {
-                "datetime": "2023年09月27日 18時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3646192",
-                "title": "LUCRA",
-                "text": "〇〇は、 KDDIとグノシーがスマートフォン向けに提供している女性向け総合情報アプリである。"
             }
         ]
     }
