@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年10月01日 12時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4344626",
+                "title": "木下製粉",
+                "text": "〇〇は、1946年（昭和21年）に創業した香川県坂出市に本社を置く日本の製粉会社である。"
+            },
+            {
                 "datetime": "2023年10月01日 11時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3130024",
                 "title": "春日野町",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=919616",
                 "title": "ベルトルト・ゴルトシュミット",
                 "text": "〇〇は、ドイツ生まれのユダヤ人作曲家。生涯の大半をイギリスで過ごした。"
-            },
-            {
-                "datetime": "2023年09月29日 18時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1434737",
-                "title": "出野徹之",
-                "text": "〇〇は、岡山県出身の元関西テレビ放送アナウンサー。"
             }
         ]
     }
