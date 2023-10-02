@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年10月03日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3872663",
+                "title": "デズモンド・エグザビエ",
+                "text": "〇〇は、アメリカのプロレスラー。NXTに所属している。またCIMA率いる#STRONGHEARTSのメンバーでもある。"
+            },
+            {
                 "datetime": "2023年10月03日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1674103",
                 "title": "トレポレモス (将軍)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2183468",
                 "title": "ジョゼフィーヌ・ド・ベルジック",
                 "text": "〇〇は、ベルギーの王族。"
-            },
-            {
-                "datetime": "2023年10月01日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=271236",
-                "title": "滋賀県道300号高島停車場線",
-                "text": "〇〇は、滋賀県高島市近江高島駅を起点に高島市役所高島支所前の勝野交差点に至る1.0kmの一般県道である。"
             }
         ]
     }
