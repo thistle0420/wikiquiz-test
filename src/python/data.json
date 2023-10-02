@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年10月02日 15時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4213887",
+                "title": "MALLIKA",
+                "text": "〇〇は、日本のバイオリニスト、シンガーソングライター。"
+            },
+            {
                 "datetime": "2023年10月02日 14時の問題",
                 "url": "https://ja.wikipedia.org/?curid=885777",
                 "title": "たいらスキー場",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=22734",
                 "title": "身延線",
                 "text": "〇〇は、静岡県富士市の富士駅と山梨県甲府市の甲府駅を結ぶ東海旅客鉄道（JR東海）の鉄道路線（地方交通線）である。"
-            },
-            {
-                "datetime": "2023年09月30日 21時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4665085",
-                "title": "顕誓",
-                "text": "〇〇は、戦国時代の武将、本願寺の僧侶。加賀光教寺住持。光教寺蓮誓の3男。光教寺〇〇ともよばれる。"
             }
         ]
     }
