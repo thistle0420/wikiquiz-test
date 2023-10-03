@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年10月03日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2506472",
+                "title": "無錫スポーツセンター",
+                "text": "〇〇は、中国江蘇省無錫市にある多目的スタジアム。"
+            },
+            {
                 "datetime": "2023年10月03日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2091254",
                 "title": "山代二子塚",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4788536",
                 "title": "ノーブル・マイヤー",
                 "text": "〇〇は、アメリカ合衆国オレゴン州ウェストリン出身の野球選手（投手）。右投右打。"
-            },
-            {
-                "datetime": "2023年10月02日 00時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3057141",
-                "title": "佐々木渉",
-                "text": "〇〇は、東京都三鷹市出身のサッカー選手。JFL・FCマルヤス岡崎所属。ポジションは主にミッドフィールダー（MF）。"
             }
         ]
     }
