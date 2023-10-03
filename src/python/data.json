@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年10月04日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=499795",
+                "title": "交響曲第3番 (ショスタコーヴィチ)",
+                "text": "〇〇は、ドミートリイ・ショスタコーヴィチが1929年に作曲した交響曲である。"
+            },
+            {
                 "datetime": "2023年10月04日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1620504",
                 "title": "八幡神社 (かほく市森)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4213887",
                 "title": "MALLIKA",
                 "text": "〇〇は、日本のバイオリニスト、シンガーソングライター。"
-            },
-            {
-                "datetime": "2023年10月02日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=885777",
-                "title": "たいらスキー場",
-                "text": "〇〇は、富山県南砺市梨谷にあるスキー場である。スノーボードは全面滑走可能。ナイター営業も行っている（2023年時点で休止中）。"
             }
         ]
     }
