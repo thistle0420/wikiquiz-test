@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年10月04日 06時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1620504",
+                "title": "八幡神社 (かほく市森)",
+                "text": "〇〇は、石川県かほく市森ツ2番地にある神社。"
+            },
+            {
                 "datetime": "2023年10月04日 05時の問題",
                 "url": "https://ja.wikipedia.org/?curid=99901",
                 "title": "球技",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=885777",
                 "title": "たいらスキー場",
                 "text": "〇〇は、富山県南砺市梨谷にあるスキー場である。スノーボードは全面滑走可能。ナイター営業も行っている（2023年時点で休止中）。"
-            },
-            {
-                "datetime": "2023年10月02日 13時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3533281",
-                "title": "日田市立博物館",
-                "text": "〇〇は、大分県日田市上城内町の複合文化施設アオーゼ内にある博物館である。"
             }
         ]
     }
