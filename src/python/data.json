@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年10月03日 11時の問題",
+                "url": "https://ja.wikipedia.org/?curid=330346",
+                "title": "自由民主党 (ドイツ)",
+                "text": "〇〇は、ドイツの自由主義政党。自由主義インターナショナル加盟。シンボルカラーは黄色とシアン。"
+            },
+            {
                 "datetime": "2023年10月03日 10時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4063364",
                 "title": "木川東",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4652195",
                 "title": "丸米醤油",
                 "text": "〇〇は、倉敷市の醤油蔵。1864年（元治元年）に醤油醸造と販売を開始。甘いあじわいの醤油が特徴。"
-            },
-            {
-                "datetime": "2023年10月01日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1026710",
-                "title": "Pieces (アルバム)",
-                "text": "〇〇は、日本のシンガーソングライター・小池徹平が2007年6月27日にA&M RECORDSから発売した1枚目のオリジナルアルバムである。"
             }
         ]
     }
