@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年10月04日 15時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4398162",
+                "title": "はるかりまあこ",
+                "text": "〇〇は、日本の3人組音楽ユニット。ソロのシンガーソングライターとしてそれぞれ活動するHALLCA、仮谷せいら、AmamiyaMaakoによるプロジェクト。所属レーベルはHKM Project。"
+            },
+            {
                 "datetime": "2023年10月04日 14時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4071543",
                 "title": "中原有象",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4112046",
                 "title": "山川力優",
                 "text": "〇〇は、JAPAN RUGBY LEAGUE ONE東芝ブレイブルーパス東京に所属するラグビー選手。"
-            },
-            {
-                "datetime": "2023年10月02日 21時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1871041",
-                "title": "清家大葵",
-                "text": "〇〇は、大分県大分市出身のフットサル選手。ポジションはゴレイロ。フットサル日本代表。"
             }
         ]
     }
