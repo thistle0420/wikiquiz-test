@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年10月05日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2448901",
+                "title": "IKK",
+                "text": "〇〇は、石原機械工業株式会社。1974年に国内初の電動油圧式鉄筋カッター(Motor-Driven Hydraulic Rebar Cutter, PORTABLE ELECTRO-HYDRAULIC REBAR CUTTERS)を開発した。現在はサンコーテクノ株式会社グループに属する。"
+            },
+            {
                 "datetime": "2023年10月05日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=78475",
                 "title": "氏家駅",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1235862",
                 "title": "三田一郎",
                 "text": "〇〇は、日本の物理学者（素粒子物理学）、カトリック教会の助祭。CP対称性の破れとB中間子の崩壊についての研究で、イカロス・ビギとともに2004年のJ・J・サクライ賞を受賞した。"
-            },
-            {
-                "datetime": "2023年10月04日 03時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1313248",
-                "title": "可児郷土歴史館",
-                "text": "〇〇は、岐阜県可児市にある博物館である。"
             }
         ]
     }
