@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年10月06日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2057468",
+                "title": "IJP イジュウインパーク",
+                "text": "〇〇は、2010年4月9日から2011年3月25日まで放送していたTOKYO MXのテレビ番組。ハイビジョン制作。"
+            },
+            {
                 "datetime": "2023年10月06日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4094683",
                 "title": "帯広市立大空小学校",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4398162",
                 "title": "はるかりまあこ",
                 "text": "〇〇は、日本の3人組音楽ユニット。ソロのシンガーソングライターとしてそれぞれ活動するHALLCA、仮谷せいら、AmamiyaMaakoによるプロジェクト。所属レーベルはHKM Project。"
-            },
-            {
-                "datetime": "2023年10月04日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4071543",
-                "title": "中原有象",
-                "text": "〇〇は、平安時代中期の儒学者・貴族。美濃介・十市春宗の子。官位は従四位下・治部卿。中原氏の氏祖。学問と朝廷の事務方の双方で活躍し、左大臣・藤原在衡とも親しかった。"
             }
         ]
     }
