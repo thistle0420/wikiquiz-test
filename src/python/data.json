@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年10月05日 11時の問題",
+                "url": "https://ja.wikipedia.org/?curid=394693",
+                "title": "フェイク (映画)",
+                "text": "〇〇は、1997年に制作されたアメリカ映画。マフィアのボナンノ一家に“ドニー・ブラスコ”の変名で6年間潜入し、彼らの大量摘発に貢献した連邦捜査局（FBI）の特別捜査官、ジョー・ピストーネの実録手記、\"Donnie Brasco: My Undercover Life in the Mafia\"に基づく。"
+            },
+            {
                 "datetime": "2023年10月05日 10時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1634470",
                 "title": "産霊神社 (笠松町)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2506472",
                 "title": "無錫スポーツセンター",
                 "text": "〇〇は、中国江蘇省無錫市にある多目的スタジアム。"
-            },
-            {
-                "datetime": "2023年10月03日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2091254",
-                "title": "山代二子塚",
-                "text": "〇〇は、島根県松江市山代町二子にある前方後方墳。国の史跡に指定されている。古墳時代後期の築造と推定され、前方後方墳としては日本で有数の規模を誇る。"
             }
         ]
     }
