@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年10月07日 02時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2499356",
+                "title": "獲得工作",
+                "text": "〇〇は、情報機関が協力者を得るために使う工作活動の一種。"
+            },
+            {
                 "datetime": "2023年10月07日 01時の問題",
                 "url": "https://ja.wikipedia.org/?curid=153050",
                 "title": "丸ノ内駅",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1634470",
                 "title": "産霊神社 (笠松町)",
                 "text": "〇〇は、岐阜県羽島郡笠松町にある神社である。"
-            },
-            {
-                "datetime": "2023年10月05日 08時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2900266",
-                "title": "フェルナンド・カブサッキ",
-                "text": "〇〇は、アルゼンチン・ロサリオ出身の“アルゼンチン音響派”を代表するギタリスト。"
             }
         ]
     }
