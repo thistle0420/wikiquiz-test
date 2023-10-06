@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年10月07日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3432211",
+                "title": "大久保司",
+                "text": "〇〇は、日本の政治家。元茨城県結城郡八千代町長（5期）。"
+            },
+            {
                 "datetime": "2023年10月07日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=756954",
                 "title": "膵液",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3987205",
                 "title": "訃報 1995年2月",
                 "text": "〇〇は、1995年（平成7年）2月中に物故した人物の一覧である。"
-            },
-            {
-                "datetime": "2023年10月05日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2310472",
-                "title": "桃魂ユーマ",
-                "text": "〇〇は、井上元伸による日本のアクション格闘漫画作品。秋田書店発行の月刊誌『チャンピオンRED』2004年8月号から2006年5月号まで連載されていた。"
             }
         ]
     }
