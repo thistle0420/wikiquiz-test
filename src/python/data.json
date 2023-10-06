@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年10月07日 01時の問題",
+                "url": "https://ja.wikipedia.org/?curid=153050",
+                "title": "丸ノ内駅",
+                "text": "〇〇は、愛知県清須市清洲にある、名古屋鉄道名古屋本線の駅である。駅番号はNH43。"
+            },
+            {
                 "datetime": "2023年10月07日 00時の問題",
                 "url": "https://ja.wikipedia.org/?curid=313196",
                 "title": "横舘英雄",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2900266",
                 "title": "フェルナンド・カブサッキ",
                 "text": "〇〇は、アルゼンチン・ロサリオ出身の“アルゼンチン音響派”を代表するギタリスト。"
-            },
-            {
-                "datetime": "2023年10月05日 07時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3350712",
-                "title": "波号第二百三十四潜水艦",
-                "text": "〇〇は、日本海軍の未成潜水艦。波二百一型潜水艦の1隻。戦後解体された。"
             }
         ]
     }
