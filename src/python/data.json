@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年10月06日 16時の問題",
+                "url": "https://ja.wikipedia.org/?curid=985968",
+                "title": "QOOPIE",
+                "text": "〇〇は、株式会社QOOP（東京都港区）が研究開発する、データマイニング・テクノロジーと人工知能（AI）テクノロジーを搭載した、検索エンジンパッケージ。"
+            },
+            {
                 "datetime": "2023年10月06日 15時の問題",
                 "url": "https://ja.wikipedia.org/?curid=33215",
                 "title": "大河原町",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2557986",
                 "title": "本郷村 (山形県東田川郡)",
                 "text": "〇〇は、かつて山形県東田川郡にあった村。"
-            },
-            {
-                "datetime": "2023年10月04日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4326243",
-                "title": "オペレーション・ワープ・スピード",
-                "text": "〇〇は、COVID-19のワクチン、治療法、診断法（医療対策）の開発、生産、流通の加速を目的とするアメリカ合衆国連邦政府による国家プログラム。"
             }
         ]
     }
