@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年10月07日 06時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4800747",
+                "title": "北出流星",
+                "text": "〇〇は、日本の俳優。兵庫県出身。2022年9月より株式会社GFAに所属。"
+            },
+            {
                 "datetime": "2023年10月07日 05時の問題",
                 "url": "https://ja.wikipedia.org/?curid=892520",
                 "title": "Aの魔法陣",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4640243",
                 "title": "はしだのりひことエンドレス",
                 "text": "〇〇は、、ザ・フォーク・クルセダーズの端田宣彦（はしだのりひこ）が1972年後半に結成したフォーク・グループ。"
-            },
-            {
-                "datetime": "2023年10月05日 13時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2992131",
-                "title": "奥山倫明",
-                "text": "〇〇は、日本の宗教学者、東洋英和女学院大学教授。"
             }
         ]
     }
