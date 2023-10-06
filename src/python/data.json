@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年10月06日 19時の問題",
+                "url": "https://ja.wikipedia.org/?curid=220553",
+                "title": "神鳳 (呉)",
+                "text": "〇〇は、呉の大帝孫権の治世に行われた元号。252年。"
+            },
+            {
                 "datetime": "2023年10月06日 18時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2228284",
                 "title": "建礼門院 (小惑星)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4818103",
                 "title": "大垣市かみいしづ緑の村公園",
                 "text": "〇〇は、岐阜県大垣市にある大垣市営の公園。"
-            },
-            {
-                "datetime": "2023年10月05日 01時の問題",
-                "url": "https://ja.wikipedia.org/?curid=180325",
-                "title": "鬼北町",
-                "text": "〇〇は、愛媛県の南予地方の町。四万十川の上流、広見川流域の中山間地帯に位置する。"
             }
         ]
     }
