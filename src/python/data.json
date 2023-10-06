@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年10月07日 03時の問題",
+                "url": "https://ja.wikipedia.org/?curid=183932",
+                "title": "姫路市立姫路球場",
+                "text": "〇〇は、兵庫県姫路市の手柄山中央公園内にある野球場。施設は姫路市が所有し、姫路市スポーツ振興財団が指定管理者として運営管理を行っている。"
+            },
+            {
                 "datetime": "2023年10月07日 02時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2499356",
                 "title": "獲得工作",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=394693",
                 "title": "フェイク (映画)",
                 "text": "〇〇は、1997年に制作されたアメリカ映画。マフィアのボナンノ一家に“ドニー・ブラスコ”の変名で6年間潜入し、彼らの大量摘発に貢献した連邦捜査局（FBI）の特別捜査官、ジョー・ピストーネの実録手記、\"Donnie Brasco: My Undercover Life in the Mafia\"に基づく。"
-            },
-            {
-                "datetime": "2023年10月05日 10時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1634470",
-                "title": "産霊神社 (笠松町)",
-                "text": "〇〇は、岐阜県羽島郡笠松町にある神社である。"
             }
         ]
     }
