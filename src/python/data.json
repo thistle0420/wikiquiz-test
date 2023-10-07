@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年10月07日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3931852",
+                "title": "KODA KUMI LIVE TOUR 2008 〜Kingdom〜",
+                "text": "〇〇は、日本の歌手倖田來未のライブ・ビデオ。"
+            },
+            {
                 "datetime": "2023年10月07日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3746159",
                 "title": "トゥッカ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=307930",
                 "title": "大阪府道232号和泉大宮停車場線",
                 "text": "〇〇は、大阪府岸和田市の、南海本線和泉大宮駅から西へ下る、かつて存在した一般府道である。2014年3月31日に路線廃止された。"
-            },
-            {
-                "datetime": "2023年10月06日 03時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3547306",
-                "title": "西シベリア",
-                "text": "〇〇は、シベリアの一部で、西のウラル山脈と東のエニセイ川に挟まれた地域である。面積は250万km²で、その80％を〇〇平原が占める。この地域最大の川はエルティシ川とオビ川である。"
             }
         ]
     }
