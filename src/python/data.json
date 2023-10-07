@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年10月07日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3582897",
+                "title": "Alipay",
+                "text": "〇〇は、中華人民共和国のアリババグループの決済およびライフスタイルサービスで、主にはオンラインとオフラインの決済機能を提供している。運営はアリババグループの関連会社のアント フィナンシャル サービス グループが行っている。"
+            },
+            {
                 "datetime": "2023年10月07日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2136339",
                 "title": "茨城中学校・高等学校",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2448901",
                 "title": "IKK",
                 "text": "〇〇は、石原機械工業株式会社。1974年に国内初の電動油圧式鉄筋カッター(Motor-Driven Hydraulic Rebar Cutter, PORTABLE ELECTRO-HYDRAULIC REBAR CUTTERS)を開発した。現在はサンコーテクノ株式会社グループに属する。"
-            },
-            {
-                "datetime": "2023年10月05日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=78475",
-                "title": "氏家駅",
-                "text": "〇〇は、栃木県さくら市氏家にある、東日本旅客鉄道（JR東日本）東北本線の駅である。「宇都宮線」の愛称区間に含まれている。さくら市の代表駅である。"
             }
         ]
     }
