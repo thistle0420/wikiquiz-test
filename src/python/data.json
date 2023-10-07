@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年10月08日 05時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1314398",
+                "title": "山梨県道208号下神内川石和温泉停車場線",
+                "text": "〇〇は、山梨県山梨市と笛吹市を結ぶ一般県道である。"
+            },
+            {
                 "datetime": "2023年10月08日 04時の問題",
                 "url": "https://ja.wikipedia.org/?curid=203121",
                 "title": "インターネット用語一覧",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4297105",
                 "title": "東村山市立八坂小学校",
                 "text": "〇〇は、東京都東村山市にある公立小学校。"
-            },
-            {
-                "datetime": "2023年10月06日 12時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3275770",
-                "title": "辻密太郎",
-                "text": "〇〇は、明治時代から昭和時代初期にかけて活動した日本組合基督教会の牧師。"
             }
         ]
     }
