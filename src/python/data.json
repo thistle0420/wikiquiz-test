@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年10月07日 23時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1769656",
+                "title": "竹田市立竹田小学校",
+                "text": "〇〇は、大分県竹田市大字会々にある市立小学校。ここでは旧〇〇についても述べる。"
+            },
+            {
                 "datetime": "2023年10月07日 22時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1389885",
                 "title": "松山湿原",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4094683",
                 "title": "帯広市立大空小学校",
                 "text": "〇〇は、北海道帯広市大空町に所在した公立小学校。"
-            },
-            {
-                "datetime": "2023年10月06日 05時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2106246",
-                "title": "FKボラツ・バニャ・ルカ",
-                "text": "〇〇は、ボスニア・ヘルツェゴビナ・バニャ・ルカを本拠地とするサッカークラブ。"
             }
         ]
     }
