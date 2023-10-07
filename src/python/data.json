@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年10月08日 01時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2996672",
+                "title": "ジョイ・ベハー",
+                "text": "〇〇は、アメリカ合衆国のコメディアン、女優、テレビ司会者。"
+            },
+            {
                 "datetime": "2023年10月08日 00時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3225883",
                 "title": "ムジカ (銅像)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2648229",
                 "title": "クリフ・マクニッシュ",
                 "text": "〇〇は、イギリスのファンタジー作家。タイン・アンド・ウィア州サンダーランド生まれ。"
-            },
-            {
-                "datetime": "2023年10月06日 07時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2057468",
-                "title": "IJP イジュウインパーク",
-                "text": "〇〇は、2010年4月9日から2011年3月25日まで放送していたTOKYO MXのテレビ番組。ハイビジョン制作。"
             }
         ]
     }
