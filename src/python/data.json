@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年10月09日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=795705",
+                "title": "スティーブ・クラム",
+                "text": "〇〇は、イギリスの陸上競技選手。"
+            },
+            {
                 "datetime": "2023年10月08日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1775030",
                 "title": "The 35th Anniversary Memorial Box HIDEKI Complete Singles 1972-1999",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=756954",
                 "title": "膵液",
                 "text": "〇〇は、膵臓で分泌される体液（消化液）である。三大栄養素の全てを消化できる。食後、膵管から十二指腸へと出る。なお、〇〇はアルカリ性である。"
-            },
-            {
-                "datetime": "2023年10月07日 06時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4800747",
-                "title": "北出流星",
-                "text": "〇〇は、日本の俳優。兵庫県出身。2022年9月より株式会社GFAに所属。"
             }
         ]
     }
