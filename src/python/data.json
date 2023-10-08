@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年10月08日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2561229",
+                "title": "新城直継",
+                "text": "〇〇は、安土桃山時代の武将。新城村尚の子・二本松城主となった二本松義国の弟。新城盛継の父。"
+            },
+            {
                 "datetime": "2023年10月08日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3232559",
                 "title": "アラン・ハインバーグ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=153050",
                 "title": "丸ノ内駅",
                 "text": "〇〇は、愛知県清須市清洲にある、名古屋鉄道名古屋本線の駅である。駅番号はNH43。"
-            },
-            {
-                "datetime": "2023年10月07日 00時の問題",
-                "url": "https://ja.wikipedia.org/?curid=313196",
-                "title": "横舘英雄",
-                "text": "〇〇は、テレビ朝日の元アナウンサー。岩手県二戸市出身。"
             }
         ]
     }
