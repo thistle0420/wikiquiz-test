@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年10月09日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1505920",
+                "title": "第124師団 (日本軍)",
+                "text": "〇〇は、大日本帝国陸軍の師団の一つ。太平洋戦争末期に満洲で編成され、ソ連対日参戦時には東部正面の最前線部隊として戦った。"
+            },
+            {
                 "datetime": "2023年10月09日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=594726",
                 "title": "今晩は 吉永小百合です",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3931852",
                 "title": "KODA KUMI LIVE TOUR 2008 〜Kingdom〜",
                 "text": "〇〇は、日本の歌手倖田來未のライブ・ビデオ。"
-            },
-            {
-                "datetime": "2023年10月07日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3746159",
-                "title": "トゥッカ",
-                "text": "〇〇は、ブラジル出身のギタリストで歌手。作曲活動も行った。トゥーカと表記されることもある。フランソワーズ・アルディが1971年に発表したアルバム「私の詩集（La Question）」や、ナラ・レオンのアルバム「美しきボサノヴァのミューズ（Dez Anos Depois）」に、ギタリストとして参加したことで知られる。"
             }
         ]
     }
