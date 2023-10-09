@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年10月09日 12時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2894817",
+                "title": "プロポーズアゲイン",
+                "text": "〇〇は、2011年3月9日より配信がスタートした鈴木雅之4曲目の配信限定シングル。"
+            },
+            {
                 "datetime": "2023年10月09日 11時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4813130",
                 "title": "小坂善太郎 (農林水産技官)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=688184",
                 "title": "貢糖",
                 "text": "〇〇は、砂糖と麦芽糖と落花生を原料にした金門島特産の菓子。"
-            },
-            {
-                "datetime": "2023年10月07日 18時の問題",
-                "url": "https://ja.wikipedia.org/?curid=69801",
-                "title": "阪神高速31号神戸山手線",
-                "text": "〇〇は、兵庫県神戸市長田区南駒栄町から7号北神戸線の白川JCTへ至る、阪神高速道路の路線である。"
             }
         ]
     }
