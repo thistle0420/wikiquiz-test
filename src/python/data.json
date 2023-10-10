@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年10月11日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4828259",
+                "title": "F-ZERO 99",
+                "text": "〇〇は、Nintendo Software Technology Corporationが開発し任天堂より2023年9月15日にNintendo Switchで配信を開始したNintendo Switch Online加入者向けソフトとして配信されたオンライン専用ゲームソフト。"
+            },
+            {
                 "datetime": "2023年10月10日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1864965",
                 "title": "北条貞冬",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4112766",
                 "title": "沢住検校",
                 "text": "〇〇は、室町時代後期から江戸時代初期にかけて活躍した筝曲作曲家、三味線奏者である。沢角とも表記される。浄瑠璃に三味線を加えた組歌を創始した事で知られている。"
-            },
-            {
-                "datetime": "2023年10月09日 06時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3774107",
-                "title": "フランツ・クサヴァー・オルツァント",
-                "text": "〇〇は、オーストリアの彫刻家。"
             }
         ]
     }
