@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年10月10日 16時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4652360",
+                "title": "李浚",
+                "text": "〇〇は、李氏朝鮮前期の王族である。本貫は全州、字は子淸、号は子濬、諡号は忠懋。君号は亀城大君。"
+            },
+            {
                 "datetime": "2023年10月10日 15時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4109380",
                 "title": "グリーンウォルト",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1775030",
                 "title": "The 35th Anniversary Memorial Box HIDEKI Complete Singles 1972-1999",
                 "text": "〇〇は、2007年に発売された西城秀樹のデビュー35周年記念のベスト・アルバム（9枚組CD-BOX）である。"
-            },
-            {
-                "datetime": "2023年10月08日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1565487",
-                "title": "ユリアナ (小惑星)",
-                "text": "〇〇は、小惑星帯の小惑星である。ドイツの天文学者マックス・ヴォルフがハイデルベルクのケーニッヒシュトゥール天文台で発見した。オランダの王女（1948年に女王として即位）ユリアナにちなんで命名された。"
             }
         ]
     }
