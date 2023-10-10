@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年10月10日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=27006",
+                "title": "201年",
+                "text": "〇〇は、西暦（ユリウス暦）による、平年。"
+            },
+            {
                 "datetime": "2023年10月10日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3149620",
                 "title": "さいたま市立芝原小学校",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=78349",
                 "title": "東京スター銀行",
                 "text": "〇〇は、東京都港区赤坂に本店を置く第二地方銀行である。台湾の中国信託商業銀行（CTBC）グループに属する。"
-            },
-            {
-                "datetime": "2023年10月09日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4599566",
-                "title": "ユッシ・アールト",
-                "text": "〇〇は、フィンランドの写真家。2002年から2006年までヘルシンキカメラ協会会長を務めた。"
             }
         ]
     }
