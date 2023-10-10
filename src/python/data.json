@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年10月10日 17時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1145091",
+                "title": "ハーイェク (小惑星)",
+                "text": "〇〇は、小惑星帯の小惑星。チェコの天文学者ルボシュ・コホーテクがドイツのベルゲドルフで発見した。16世紀のチェコの天文学者、タデアーシュ・〇〇(Tadeáš Hájek z Hájku) から命名された。"
+            },
+            {
                 "datetime": "2023年10月10日 16時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4652360",
                 "title": "李浚",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=795705",
                 "title": "スティーブ・クラム",
                 "text": "〇〇は、イギリスの陸上競技選手。"
-            },
-            {
-                "datetime": "2023年10月08日 23時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1775030",
-                "title": "The 35th Anniversary Memorial Box HIDEKI Complete Singles 1972-1999",
-                "text": "〇〇は、2007年に発売された西城秀樹のデビュー35周年記念のベスト・アルバム（9枚組CD-BOX）である。"
             }
         ]
     }
