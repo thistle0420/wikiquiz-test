@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年10月10日 19時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3149620",
+                "title": "さいたま市立芝原小学校",
+                "text": "〇〇は、埼玉県さいたま市緑区にある公立小学校。"
+            },
+            {
                 "datetime": "2023年10月10日 18時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2514410",
                 "title": "婁叡",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4599566",
                 "title": "ユッシ・アールト",
                 "text": "〇〇は、フィンランドの写真家。2002年から2006年までヘルシンキカメラ協会会長を務めた。"
-            },
-            {
-                "datetime": "2023年10月09日 01時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2037838",
-                "title": "五感 (製菓業者)",
-                "text": "〇〇は、大阪市中央区に本社を置く製菓業社である。"
             }
         ]
     }
