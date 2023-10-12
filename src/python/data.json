@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年10月12日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2882010",
+                "title": "花房山 (岐阜県)",
+                "text": "〇〇は、両白山地南部（越美山地）の岐阜県揖斐郡揖斐川町にある標高1,189 mの山。"
+            },
+            {
                 "datetime": "2023年10月12日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2919625",
                 "title": "パク・ウンシル",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1857798",
                 "title": "グリゴリー・アルチェフスキー",
                 "text": "〇〇は、ロシア帝国のウクライナ人作曲家。"
-            },
-            {
-                "datetime": "2023年10月10日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=27006",
-                "title": "201年",
-                "text": "〇〇は、西暦（ユリウス暦）による、平年。"
             }
         ]
     }
