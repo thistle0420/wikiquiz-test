@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年10月13日 04時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3007757",
+                "title": "足立区総合スポーツセンター",
+                "text": "〇〇は、東京都足立区にあるスポーツ施設。"
+            },
+            {
                 "datetime": "2023年10月13日 03時の問題",
                 "url": "https://ja.wikipedia.org/?curid=234165",
                 "title": "加算器",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1770501",
                 "title": "揚川隧道",
                 "text": "〇〇は、新潟県東蒲原郡阿賀町黒岩にある国道49号（重複：国道459号）のトンネルである。2013年（平成25年）以降は通行止めとなっている。"
-            },
-            {
-                "datetime": "2023年10月11日 11時の問題",
-                "url": "https://ja.wikipedia.org/?curid=110062",
-                "title": "ストリートファイト",
-                "text": "〇〇は、街頭や公園など公共の場所での暴力行為を指す。"
             }
         ]
     }
