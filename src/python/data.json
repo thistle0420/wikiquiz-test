@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年10月13日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=169060",
+                "title": "長見賢司",
+                "text": "〇〇は、兵庫県伊丹市出身の元プロ野球選手（外野手）。"
+            },
+            {
                 "datetime": "2023年10月13日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1167826",
                 "title": "恋愛診断",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3298304",
                 "title": "SMASHING ANTHEMS",
                 "text": "〇〇は、水樹奈々の11枚目のオリジナルアルバム。2015年11月11日にキングレコードから発売された。"
-            },
-            {
-                "datetime": "2023年10月11日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=740813",
-                "title": "トゥ・ザ・ボーン",
-                "text": "〇〇は、キンクスのライブ・アルバム。イギリスでは1枚のCDで1994年にリリースされたが、その後、1996年に内容を拡大して2枚組CDでリリースされた。"
             }
         ]
     }
