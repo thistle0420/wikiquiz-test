@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年10月13日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3985411",
+                "title": "TIFアームレスリング大会",
+                "text": "〇〇は、TOKYO IDOL FESTIVAL（以降TIFと記載）で開催しているアームレスリング大会である。正式名称は「アームレスリング大会 Powered by TOWER RECORDS ザ・感謝祭」。"
+            },
+            {
                 "datetime": "2023年10月13日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2447134",
                 "title": "ピュロス (ギリシャ)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=489414",
                 "title": "サントピア",
                 "text": "〇〇は、茨城県水戸市の水戸駅北口にあった、みと〇〇株式会社運営のファッションビル、地下1階、地上8階、塔屋1階。"
-            },
-            {
-                "datetime": "2023年10月12日 03時の問題",
-                "url": "https://ja.wikipedia.org/?curid=748222",
-                "title": "大阪市立天王寺小学校",
-                "text": "〇〇は、大阪市天王寺区にある公立小学校。"
             }
         ]
     }
