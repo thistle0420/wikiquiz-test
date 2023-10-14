@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年10月14日 12時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1290309",
+                "title": "金井窪駅",
+                "text": "〇〇は、かつて東京都板橋区にあった東武鉄道東上本線の駅。"
+            },
+            {
                 "datetime": "2023年10月14日 11時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1841656",
                 "title": "有賀長雄",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2396096",
                 "title": "ル・ボーセモータースポーツ",
                 "text": "〇〇は、茨城県つくば市に本社を置く日本の企業。レーシングチームの運営を主な事業としていた。"
-            },
-            {
-                "datetime": "2023年10月12日 18時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4422234",
-                "title": "タリア・コスタ",
-                "text": "〇〇は、ブラジルの女子ラグビー選手。"
             }
         ]
     }
