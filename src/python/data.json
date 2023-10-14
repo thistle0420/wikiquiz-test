@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年10月14日 13時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4362867",
+                "title": "相田勇樹",
+                "text": "〇〇は、東京都出身のサッカー選手。ポジションはミッドフィールダー(MF)。Jリーグ・ヴァンラーレ八戸所属。"
+            },
+            {
                 "datetime": "2023年10月14日 12時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1290309",
                 "title": "金井窪駅",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4000131",
                 "title": "池田克史",
                 "text": "〇〇は、日本の政治家。大阪維新の会所属の堺市議会議員（4期）。"
-            },
-            {
-                "datetime": "2023年10月12日 19時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2396096",
-                "title": "ル・ボーセモータースポーツ",
-                "text": "〇〇は、茨城県つくば市に本社を置く日本の企業。レーシングチームの運営を主な事業としていた。"
             }
         ]
     }
