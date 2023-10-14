@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年10月14日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=653672",
+                "title": "島尾伸三",
+                "text": "〇〇は、日本の写真家、作家。"
+            },
+            {
                 "datetime": "2023年10月14日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4362867",
                 "title": "相田勇樹",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1887190",
                 "title": "都市対抗野球大会 (都道府県別)",
                 "text": "〇〇は、都市対抗野球大会における各都道府県（戦前の満洲、朝鮮、台湾を含む）の成績をまとめたものである。"
-            },
-            {
-                "datetime": "2023年10月12日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4000131",
-                "title": "池田克史",
-                "text": "〇〇は、日本の政治家。大阪維新の会所属の堺市議会議員（4期）。"
             }
         ]
     }
