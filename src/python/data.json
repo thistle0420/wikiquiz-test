@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年10月15日 04時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1702871",
+                "title": "漁師とその妻",
+                "text": "〇〇は、ジョディー・フォスターとヴァン・ダイク・パークスが1989年に発売したアルバムである。"
+            },
+            {
                 "datetime": "2023年10月15日 03時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1126336",
                 "title": "春の予感 -I've been mellow-",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4713048",
                 "title": "ベルント・ハース",
                 "text": "〇〇は、オーストリア・ウィーン出身の元スイス代表サッカー選手。現役時代のポジションはDF。"
-            },
-            {
-                "datetime": "2023年10月13日 11時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1144938",
-                "title": "高野向子",
-                "text": "〇〇は、日本の現代美術家。"
             }
         ]
     }
