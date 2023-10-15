@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年10月16日 05時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2419175",
+                "title": "SHOOT!",
+                "text": "〇〇は、RO-KYU-BU!の楽曲。同ユニット1枚目のシングルとして2011年8月17日にワーナー・ホーム・ビデオから発売された。"
+            },
+            {
                 "datetime": "2023年10月16日 04時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4372840",
                 "title": "カーゴ (映画)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4362867",
                 "title": "相田勇樹",
                 "text": "〇〇は、東京都出身のサッカー選手。ポジションはミッドフィールダー(MF)。Jリーグ・ヴァンラーレ八戸所属。"
-            },
-            {
-                "datetime": "2023年10月14日 12時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1290309",
-                "title": "金井窪駅",
-                "text": "〇〇は、かつて東京都板橋区にあった東武鉄道東上本線の駅。"
             }
         ]
     }
