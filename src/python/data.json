@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年10月16日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=302138",
+                "title": "エステルハージ・モーリツ",
+                "text": "〇〇は、ハンガリーの貴族、政治家。"
+            },
+            {
                 "datetime": "2023年10月16日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3300250",
                 "title": "岡田智子",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1702871",
                 "title": "漁師とその妻",
                 "text": "〇〇は、ジョディー・フォスターとヴァン・ダイク・パークスが1989年に発売したアルバムである。"
-            },
-            {
-                "datetime": "2023年10月15日 03時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1126336",
-                "title": "春の予感 -I've been mellow-",
-                "text": "〇〇は、南沙織通算25枚目のシングル。1978年1月21日発売。発売元はCBS・ソニー。"
             }
         ]
     }
