@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年10月17日 03時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1808840",
+                "title": "第一園芸",
+                "text": "〇〇は、三井不動産グループの企業。"
+            },
+            {
                 "datetime": "2023年10月17日 02時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4371146",
                 "title": "再会 (五十嵐浩晃の曲)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1256347",
                 "title": "えりもテレビ中継局",
                 "text": "〇〇は、北海道幌泉郡えりも町歌別にあるテレビ中継局。ここでは同町内のえりも沢町中継局と庶野中継局についても記述する。"
-            },
-            {
-                "datetime": "2023年10月15日 10時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3137484",
-                "title": "ダニエリ・ザングランド",
-                "text": "〇〇は、ブラジルのサンパウロ出身の柔道選手。階級は56kg級。身長162cm。"
             }
         ]
     }
