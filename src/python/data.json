@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年10月17日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=540669",
+                "title": "新穂えりか",
+                "text": "〇〇は、日本の女優。福島県会津若松市出身で、神奈川県横浜市育ち。関東学院高等学校、青山学院大学卒業。"
+            },
+            {
                 "datetime": "2023年10月17日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1828805",
                 "title": "Parabellum (ゲーム)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1238544",
                 "title": "ゼロヨンチャンプ",
                 "text": "〇〇は、1991年にメディアリングより発売されたPCエンジン用ゲームソフト、およびシリーズ作品名。後に『クロス探偵物語』（1998年）などを制作した神長豊が企画、発案。"
-            },
-            {
-                "datetime": "2023年10月16日 00時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4725751",
-                "title": "トリプル石",
-                "text": "〇〇は、単斜晶系のマンガンや鉄を含みフッ素化したリン酸塩鉱物。(Mn,Fe,Mg)2(PO4)(F,OH)の化学組成と、語源はギリシャ語の「Triplos」。"
             }
         ]
     }
