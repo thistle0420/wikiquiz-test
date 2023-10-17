@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年10月17日 10時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2845178",
+                "title": "アルルの女 (宝塚歌劇)",
+                "text": "〇〇は、宝塚歌劇団の作品。"
+            },
+            {
                 "datetime": "2023年10月17日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=835343",
                 "title": "港珠澳大橋",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1942503",
                 "title": "彦坂香奈",
                 "text": "〇〇は、日本の元女子バレーボール選手。"
-            },
-            {
-                "datetime": "2023年10月15日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4509602",
-                "title": "セッビョル",
-                "text": "〇〇は、韓国の歌手、女優である。女性アイドルグループ「少女注意報」、「PIXY」の元メンバー。"
             }
         ]
     }
