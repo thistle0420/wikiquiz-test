@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年10月18日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3645131",
+                "title": "谷口稜曄",
+                "text": "〇〇は、長崎原爆を体験した被爆者のひとり。1929年に福岡県で生まれる。"
+            },
+            {
                 "datetime": "2023年10月18日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2047936",
                 "title": "高桑満",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1808840",
                 "title": "第一園芸",
                 "text": "〇〇は、三井不動産グループの企業。"
-            },
-            {
-                "datetime": "2023年10月17日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4371146",
-                "title": "再会 (五十嵐浩晃の曲)",
-                "text": "〇〇は、1989年1月21日にリリースされた五十嵐浩晃の12枚目のシングルである。品番：AY07-105 （EP）/ BY10-15（8㎝CD）"
             }
         ]
     }
