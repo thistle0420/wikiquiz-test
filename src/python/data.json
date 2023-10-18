@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年10月18日 16時の問題",
+                "url": "https://ja.wikipedia.org/?curid=227537",
+                "title": "豊丘村",
+                "text": "〇〇は、長野県最南部の下伊那郡北部に位置する村。"
+            },
+            {
                 "datetime": "2023年10月18日 15時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1963446",
                 "title": "日本映画演劇労働組合",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3727451",
                 "title": "Stray Kids",
                 "text": "〇〇は、韓国の8人組男性アイドルグループ。JYPエンターテインメント所属。2018年3月25日、ミニアルバム『I am NOT』でデビュー。略称はSKZ、スキズ（朝: 스키즈）。公式ファンクラブ名はSTAY（ステイ、朝: 스테이）。"
-            },
-            {
-                "datetime": "2023年10月16日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=429586",
-                "title": "NAO",
-                "text": "〇〇は、英語（アルファベット）の「エヌ・エー・オー」やローマ字で「なお」などと読み、企業の略称や名前のニックネームなどとして様々に使用されている。"
             }
         ]
     }
