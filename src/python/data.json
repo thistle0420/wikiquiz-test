@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年10月19日 05時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3224890",
+                "title": "マドリード日本人学校",
+                "text": "〇〇は、スペイン・マドリードのモンクロア＝アラバカ区のEl Plantío (El Plantío/EN)にある日本人のインターナショナル・スクールである。現地での正式な日本語表記はマドリッド日本人学校となっている。"
+            },
+            {
                 "datetime": "2023年10月19日 04時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2835929",
                 "title": "カム・オン",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=875181",
                 "title": "ブルックス",
                 "text": "〇〇は、ブルックの息子を意味する英語の姓。まれに「Brookes」という表記も見られる。"
-            },
-            {
-                "datetime": "2023年10月17日 12時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3615478",
-                "title": "魔宮戦場",
-                "text": "〇〇は、竹島将による日本のSFバイテク・アクション小説。OVA化もされた。"
             }
         ]
     }
