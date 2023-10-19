@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年10月19日 16時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2722590",
+                "title": "フェリペ・アンデルソン・ペレイラ・ゴメス",
+                "text": "〇〇は、ブラジル・ブラジリア出身のサッカー選手。SSラツィオ所属。ポジションはFW。"
+            },
+            {
                 "datetime": "2023年10月19日 15時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3593638",
                 "title": "1956年の広島カープ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4474652",
                 "title": "三輪潤太郎",
                 "text": "〇〇は、日本の政治家、衆議院議員（2期）。"
-            },
-            {
-                "datetime": "2023年10月17日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4403613",
-                "title": "西川孝一",
-                "text": "〇〇は、日本の農水官僚。農林水産省生産局長や、農業・食品産業技術総合研究機構副理事長などを歴任した。"
             }
         ]
     }
