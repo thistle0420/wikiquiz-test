@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年10月20日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1611599",
+                "title": "J's LOVE SONG",
+                "text": "〇〇は、1998年9月23日にリリースされた稲垣潤一37枚目のシングル。"
+            },
+            {
                 "datetime": "2023年10月20日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1307544",
                 "title": "ジグ☆ザグ丼",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=227537",
                 "title": "豊丘村",
                 "text": "〇〇は、長野県最南部の下伊那郡北部に位置する村。"
-            },
-            {
-                "datetime": "2023年10月18日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1963446",
-                "title": "日本映画演劇労働組合",
-                "text": "〇〇は、かつて存在した日本の映画・演劇の産業別労働組合である。東宝争議を指導したことで知られる。略称日映演（にちえいえん）。"
             }
         ]
     }
