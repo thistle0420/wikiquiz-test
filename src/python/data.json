@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年10月20日 10時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1691910",
+                "title": "李延年",
+                "text": "〇〇は、前漢の人。中山郡の人。武帝に仕えた楽人。妹は武帝の寵姫李夫人。兄弟に将軍となった李広利がいる。傾城傾国の故事で知られる。"
+            },
+            {
                 "datetime": "2023年10月20日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1611599",
                 "title": "J's LOVE SONG",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3120490",
                 "title": "天沼もえぎ公園",
                 "text": "〇〇は、東京都杉並区天沼にある杉並区立の公園である。"
-            },
-            {
-                "datetime": "2023年10月18日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=227537",
-                "title": "豊丘村",
-                "text": "〇〇は、長野県最南部の下伊那郡北部に位置する村。"
             }
         ]
     }
