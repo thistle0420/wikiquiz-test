@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年10月22日 01時の問題",
+                "url": "https://ja.wikipedia.org/?curid=308127",
+                "title": "浅見博幸",
+                "text": "〇〇は、フリーアナウンサー。元仙台放送アナウンサー。"
+            },
+            {
                 "datetime": "2023年10月22日 00時の問題",
                 "url": "https://ja.wikipedia.org/?curid=30920",
                 "title": "レイ・ブラッドベリ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1611599",
                 "title": "J's LOVE SONG",
                 "text": "〇〇は、1998年9月23日にリリースされた稲垣潤一37枚目のシングル。"
-            },
-            {
-                "datetime": "2023年10月20日 07時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1307544",
-                "title": "ジグ☆ザグ丼",
-                "text": "〇〇は、石田拓実による日本の漫画作品。『Cookie』（集英社）2002年9月号から2004年12月号まで連載されていた。単行本全6巻。"
             }
         ]
     }
