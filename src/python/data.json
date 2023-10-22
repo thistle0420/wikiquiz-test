@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年10月22日 16時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3785133",
+                "title": "中国高速鉄道CR400AF型電車",
+                "text": "〇〇は、中華人民共和国の高速鉄道車両である。"
+            },
+            {
                 "datetime": "2023年10月22日 15時の問題",
                 "url": "https://ja.wikipedia.org/?curid=965647",
                 "title": "豊の国情報ライブラリー",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2377213",
                 "title": "水川潤",
                 "text": "〇〇は、日本のAV女優、元グラビアアイドルである。静岡県出身。DiazGroup所属。"
-            },
-            {
-                "datetime": "2023年10月20日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2098002",
-                "title": "ピット&ラン",
-                "text": "〇〇は、1984年にタイトーより発表されたアーケードゲーム。トップビューの箱庭タイプのスクロール画面構成を用いたフォミュラーカーレースである『F1レース』をモチーフとしたレースゲーム。"
             }
         ]
     }
