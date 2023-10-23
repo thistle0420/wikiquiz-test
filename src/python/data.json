@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年10月23日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4799347",
+                "title": "RM4SCC",
+                "text": "〇〇は、イギリスのロイヤルメールで使用されている、郵便番号を示すバーコードである。ロイヤルメール内ではCBC（Customer Bar Code、カスタマバーコード）と呼ばれている。"
+            },
+            {
                 "datetime": "2023年10月23日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3462084",
                 "title": "2016年のMLBドラフト",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4418079",
                 "title": "2-フェニルピリジン",
                 "text": "〇〇は、示性式C6H5C5H4Nで表わされる有機化合物である。ピリジン上の窒素原子の隣の炭素原子に結合している水素原子が、フェニル基に置換されている。"
-            },
-            {
-                "datetime": "2023年10月22日 03時の問題",
-                "url": "https://ja.wikipedia.org/?curid=221302",
-                "title": "教育経済学",
-                "text": "〇〇は、教育と関連がある経済事象を取り扱う学問。"
             }
         ]
     }
