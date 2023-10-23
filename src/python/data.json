@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年10月23日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3840157",
+                "title": "カウントダウン (NormCoreの曲)",
+                "text": "〇〇は、NormCoreの3rdシングルで、2018年8月29日にビーイングから発売された。"
+            },
+            {
                 "datetime": "2023年10月23日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=947722",
                 "title": "梅林寺 (久留米市)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=308127",
                 "title": "浅見博幸",
                 "text": "〇〇は、フリーアナウンサー。元仙台放送アナウンサー。"
-            },
-            {
-                "datetime": "2023年10月22日 00時の問題",
-                "url": "https://ja.wikipedia.org/?curid=30920",
-                "title": "レイ・ブラッドベリ",
-                "text": "〇〇は、アメリカ合衆国の小説家、詩人。"
             }
         ]
     }
