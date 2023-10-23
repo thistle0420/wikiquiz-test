@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年10月24日 01時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3118080",
+                "title": "赤羽学",
+                "text": "〇〇は、日本の国文学者。岡山大学名誉教授。"
+            },
+            {
                 "datetime": "2023年10月24日 00時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3407045",
                 "title": "香港のラーメン文化",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3722029",
                 "title": "毛受敏浩",
                 "text": "〇〇は、日本の学者、国際交流の実務家。"
-            },
-            {
-                "datetime": "2023年10月22日 07時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1727005",
-                "title": "金曲バイパス",
-                "text": "〇〇は、福島県耶麻郡猪苗代町にある国道49号のバイパス道路。"
             }
         ]
     }
