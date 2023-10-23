@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年10月23日 17時の問題",
+                "url": "https://ja.wikipedia.org/?curid=947722",
+                "title": "梅林寺 (久留米市)",
+                "text": "〇〇は、福岡県久留米市にある臨済宗妙心寺派の古刹。山号は江南山。本尊は如意輪観音。梅林禅寺（ばいりんぜんじ）とも称される。"
+            },
+            {
                 "datetime": "2023年10月23日 16時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4477551",
                 "title": "早坂敦",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=30920",
                 "title": "レイ・ブラッドベリ",
                 "text": "〇〇は、アメリカ合衆国の小説家、詩人。"
-            },
-            {
-                "datetime": "2023年10月21日 23時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1442968",
-                "title": "四目並べ",
-                "text": "〇〇は、卓上で遊ぶゲームである。"
             }
         ]
     }
