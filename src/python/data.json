@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年10月24日 02時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3439714",
+                "title": "藍田村",
+                "text": "〇〇は、熊本県の南部、球磨郡にかつてあった村。"
+            },
+            {
                 "datetime": "2023年10月24日 01時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3118080",
                 "title": "赤羽学",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1630176",
                 "title": "新唐人電視台",
                 "text": "〇〇は、アメリカ合衆国ニューヨークに本部を置く中国語を主要な言語のひとつとしているテレビ局である。"
-            },
-            {
-                "datetime": "2023年10月22日 08時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3722029",
-                "title": "毛受敏浩",
-                "text": "〇〇は、日本の学者、国際交流の実務家。"
             }
         ]
     }
