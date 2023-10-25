@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年10月25日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=303215",
+                "title": "ファール",
+                "text": "〇〇は、ルール上「ファウル」と表記する。反則と訳せるのは故意かつ戦略上認められない場合に限られる。"
+            },
+            {
                 "datetime": "2023年10月25日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=482168",
                 "title": "大阪府立八尾高等学校",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3118080",
                 "title": "赤羽学",
                 "text": "〇〇は、日本の国文学者。岡山大学名誉教授。"
-            },
-            {
-                "datetime": "2023年10月24日 00時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3407045",
-                "title": "香港のラーメン文化",
-                "text": "〇〇は、1980年代以降の香港におけるラーメンに関する食文化について述べる。"
             }
         ]
     }
