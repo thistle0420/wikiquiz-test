@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年10月25日 11時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3522611",
+                "title": "ペガサス幻想/永遠ブルー",
+                "text": "〇〇は、MAKE-UPの4枚目のシングル。規格品番は15CC-8050。"
+            },
+            {
                 "datetime": "2023年10月25日 10時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2944638",
                 "title": "サイエンス・パレット",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3840157",
                 "title": "カウントダウン (NormCoreの曲)",
                 "text": "〇〇は、NormCoreの3rdシングルで、2018年8月29日にビーイングから発売された。"
-            },
-            {
-                "datetime": "2023年10月23日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=947722",
-                "title": "梅林寺 (久留米市)",
-                "text": "〇〇は、福岡県久留米市にある臨済宗妙心寺派の古刹。山号は江南山。本尊は如意輪観音。梅林禅寺（ばいりんぜんじ）とも称される。"
             }
         ]
     }
