@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年10月25日 17時の問題",
+                "url": "https://ja.wikipedia.org/?curid=482168",
+                "title": "大阪府立八尾高等学校",
+                "text": "〇〇は、大阪府八尾市にある公立の高等学校。"
+            },
+            {
                 "datetime": "2023年10月25日 16時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3820527",
                 "title": "健さん",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3407045",
                 "title": "香港のラーメン文化",
                 "text": "〇〇は、1980年代以降の香港におけるラーメンに関する食文化について述べる。"
-            },
-            {
-                "datetime": "2023年10月23日 23時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2285745",
-                "title": "ダッセル",
-                "text": "〇〇は、ドイツのニーダーザクセン州ノルトハイム郡に属す小都市である。"
             }
         ]
     }
