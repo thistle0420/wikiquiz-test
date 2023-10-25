@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年10月25日 19時の問題",
+                "url": "https://ja.wikipedia.org/?curid=252370",
+                "title": "反射炉",
+                "text": "〇〇は、金属融解炉の一種。18世紀から19世紀にかけて鉄の精錬に使われた。ただし、もとは鉄以外の金属に用いられた設備で現代でも鉄以外の金属の精錬に用いられている。"
+            },
+            {
                 "datetime": "2023年10月25日 18時の問題",
                 "url": "https://ja.wikipedia.org/?curid=303215",
                 "title": "ファール",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3439714",
                 "title": "藍田村",
                 "text": "〇〇は、熊本県の南部、球磨郡にかつてあった村。"
-            },
-            {
-                "datetime": "2023年10月24日 01時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3118080",
-                "title": "赤羽学",
-                "text": "〇〇は、日本の国文学者。岡山大学名誉教授。"
             }
         ]
     }
