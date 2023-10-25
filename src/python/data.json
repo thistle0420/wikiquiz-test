@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年10月25日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2730083",
+                "title": "マリュータ・スクラートフ",
+                "text": "〇〇は、モスクワ・ロシアの秘密警察オプリーチニキ隊の隊長。一般的には〇〇（Малюта Скуратов）の名で知られる。"
+            },
+            {
                 "datetime": "2023年10月25日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4101166",
                 "title": "エーリッヒ・ヘッケ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4799347",
                 "title": "RM4SCC",
                 "text": "〇〇は、イギリスのロイヤルメールで使用されている、郵便番号を示すバーコードである。ロイヤルメール内ではCBC（Customer Bar Code、カスタマバーコード）と呼ばれている。"
-            },
-            {
-                "datetime": "2023年10月23日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3462084",
-                "title": "2016年のMLBドラフト",
-                "text": "〇〇は、2016年6月に行われたMLBのアマチュアドラフトである。"
             }
         ]
     }
