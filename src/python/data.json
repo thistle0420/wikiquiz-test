@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年10月27日 03時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1445949",
+                "title": "最教寺 (平戸市)",
+                "text": "〇〇は、長崎県平戸市にある真言宗智山派の仏教寺院。山号は高野山（こうやさん）。本尊は虚空蔵菩薩像。「西の高野山」とも称される。"
+            },
+            {
                 "datetime": "2023年10月27日 02時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2749917",
                 "title": "ラテン語法",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3522611",
                 "title": "ペガサス幻想/永遠ブルー",
                 "text": "〇〇は、MAKE-UPの4枚目のシングル。規格品番は15CC-8050。"
-            },
-            {
-                "datetime": "2023年10月25日 10時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2944638",
-                "title": "サイエンス・パレット",
-                "text": "〇〇は、丸善出版株式会社が発行する自然科学系の新書レーベル。"
             }
         ]
     }
