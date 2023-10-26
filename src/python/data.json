@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年10月26日 13時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3720709",
+                "title": "牛巻町",
+                "text": "〇〇は、愛知県名古屋市瑞穂区の地名。丁番を持たない単独町名である。住居表示実施。"
+            },
+            {
                 "datetime": "2023年10月26日 12時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2482535",
                 "title": "高輪プリンスホテル貴賓館",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=397353",
                 "title": "チワワ",
                 "text": "〇〇は、世界的に公認された犬の中でも最も小さな犬種。メキシコの〇〇地域が原産地。"
-            },
-            {
-                "datetime": "2023年10月24日 19時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1354824",
-                "title": "モルドバの国歌",
-                "text": "〇〇は、ルーマニアの国歌である「目覚めよ、ルーマニア人！」が使用されていた。"
             }
         ]
     }
