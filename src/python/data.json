@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年10月27日 11時の問題",
+                "url": "https://ja.wikipedia.org/?curid=19181",
+                "title": "戸田市",
+                "text": "〇〇は、埼玉県の南東部に位置する市。荒川を境に東京都と接する。1966年（昭和41年）市制施行。"
+            },
+            {
                 "datetime": "2023年10月27日 10時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1183956",
                 "title": "ブラリ＝フォルティのパラドックス",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=303215",
                 "title": "ファール",
                 "text": "〇〇は、ルール上「ファウル」と表記する。反則と訳せるのは故意かつ戦略上認められない場合に限られる。"
-            },
-            {
-                "datetime": "2023年10月25日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=482168",
-                "title": "大阪府立八尾高等学校",
-                "text": "〇〇は、大阪府八尾市にある公立の高等学校。"
             }
         ]
     }
