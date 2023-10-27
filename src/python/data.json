@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年10月28日 04時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3114747",
+                "title": "佐藤健生",
+                "text": "〇〇は、日本の歴史学者。拓殖大学名誉教授。専門は、ドイツ現代史、とくにナチス研究。"
+            },
+            {
                 "datetime": "2023年10月28日 03時の問題",
                 "url": "https://ja.wikipedia.org/?curid=54361",
                 "title": "債務",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2482535",
                 "title": "高輪プリンスホテル貴賓館",
                 "text": "〇〇は、旧宮家竹田宮の邸宅として、1911年竣工のネオ・バロック様式の宮殿建築。グランドプリンスホテル高輪の隣に佇む。"
-            },
-            {
-                "datetime": "2023年10月26日 11時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3705474",
-                "title": "Plus",
-                "text": "〇〇は、Trignalの3枚目のミニアルバム。2016年5月18日にKiramuneから発売された。"
             }
         ]
     }
