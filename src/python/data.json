@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年10月29日 06時の問題",
+                "url": "https://ja.wikipedia.org/?curid=526055",
+                "title": "レーサーX",
+                "text": "〇〇は、アメリカ・カリフォルニア州・ロサンゼルスで結成されたヘヴィメタルバンド。"
+            },
+            {
                 "datetime": "2023年10月29日 05時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4818134",
                 "title": "清水由紀 (心理学者)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1869758",
                 "title": "石森久嗣",
                 "text": "〇〇は、日本の政治家、医師。元衆議院議員（1期）。国会議員時代は民主党に所属した。"
-            },
-            {
-                "datetime": "2023年10月27日 13時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2597438",
-                "title": "スキップ・ウィリアムズ",
-                "text": "〇〇は、アメリカ合衆国のゲームデザイナーである。ほとんどの場合、〇〇（Skip Williams）と呼ばれる。彼はPenny Williamsと結婚し、彼女もまたゲーム業界に関与している。彼はダンジョンズ&ドラゴンズ第3版の共同制作者として、そしてDragon Magazine のコラム\"Sage Advice\"の長期作家として良く知られている。"
             }
         ]
     }
