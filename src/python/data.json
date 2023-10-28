@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年10月28日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4269729",
+                "title": "坂本男足",
+                "text": "〇〇は、奈良時代の貴族。姓は朝臣。官位は従五位下・隠岐守。"
+            },
+            {
                 "datetime": "2023年10月28日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2298606",
                 "title": "DOIS SOL",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=152939",
                 "title": "男川駅",
                 "text": "〇〇は、愛知県岡崎市大西町揚枝にある名古屋鉄道名古屋本線の駅である。駅番号はNH12。"
-            },
-            {
-                "datetime": "2023年10月27日 03時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1445949",
-                "title": "最教寺 (平戸市)",
-                "text": "〇〇は、長崎県平戸市にある真言宗智山派の仏教寺院。山号は高野山（こうやさん）。本尊は虚空蔵菩薩像。「西の高野山」とも称される。"
             }
         ]
     }
