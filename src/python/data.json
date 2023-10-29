@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年10月29日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3530074",
+                "title": "1993年の相撲",
+                "text": "〇〇は、〇〇関係のできごとについて述べる。"
+            },
+            {
                 "datetime": "2023年10月29日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4446748",
                 "title": "丸駒温泉",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2755384",
                 "title": "谷口興一",
                 "text": "〇〇は、熊本県出身の躰道指導者、医師。玄制流空手道、躰道を創始した祝嶺正献の一番弟子とされ、東京医科歯科大学空手道部（後に躰道部）を設立した。"
-            },
-            {
-                "datetime": "2023年10月27日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4216379",
-                "title": "樹林寺 (伊那市)",
-                "text": "〇〇は、長野県伊那市高遠町東高遠にある寺。"
             }
         ]
     }
