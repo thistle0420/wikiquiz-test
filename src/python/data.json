@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年10月30日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3471452",
+                "title": "林壮太郎",
+                "text": "〇〇は、日本の脚本家。東京都出身。にっかつ芸術学院撮影・照明コース卒。"
+            },
+            {
                 "datetime": "2023年10月30日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1793276",
                 "title": "マシュー・グレイ・ギュブラー",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4269729",
                 "title": "坂本男足",
                 "text": "〇〇は、奈良時代の貴族。姓は朝臣。官位は従五位下・隠岐守。"
-            },
-            {
-                "datetime": "2023年10月28日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2298606",
-                "title": "DOIS SOL",
-                "text": "〇〇は、村瀬克俊による日本のサッカー漫画。『週刊少年ジャンプ』にて、2011年11号から同年28号まで連載された。"
             }
         ]
     }
