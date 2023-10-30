@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年10月30日 15時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2921101",
+                "title": "呉鐸藩",
+                "text": "〇〇は、韓国の詩人。忠清北道堤川市出身。本貫は同福呉氏。"
+            },
+            {
                 "datetime": "2023年10月30日 14時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3471452",
                 "title": "林壮太郎",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1291646",
                 "title": "メアリー・フレイザー＝タイトラー",
                 "text": "〇〇は、イギリスの女流工芸家、デザイナー、ならびに社会改良家。（作品の画像は英語版ウィキペディアで見られる）"
-            },
-            {
-                "datetime": "2023年10月28日 21時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4269729",
-                "title": "坂本男足",
-                "text": "〇〇は、奈良時代の貴族。姓は朝臣。官位は従五位下・隠岐守。"
             }
         ]
     }
