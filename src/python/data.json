@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年10月30日 13時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1793276",
+                "title": "マシュー・グレイ・ギュブラー",
+                "text": "〇〇は、アメリカ合衆国の元ファッションモデル・俳優・声優・映画監督である。「Gubler」は「ガブラー」や「グブラー」と表記されることもある。"
+            },
+            {
                 "datetime": "2023年10月30日 12時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4669758",
                 "title": "陣内一真",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2298606",
                 "title": "DOIS SOL",
                 "text": "〇〇は、村瀬克俊による日本のサッカー漫画。『週刊少年ジャンプ』にて、2011年11号から同年28号まで連載された。"
-            },
-            {
-                "datetime": "2023年10月28日 19時の問題",
-                "url": "https://ja.wikipedia.org/?curid=711391",
-                "title": "月影四郎",
-                "text": "〇〇は、元プロレスラー。本名：高木 清晴（たかぎ きよはる）。奈良県出身。"
             }
         ]
     }
