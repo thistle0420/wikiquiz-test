@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年10月31日 06時の問題",
+                "url": "https://ja.wikipedia.org/?curid=16031",
+                "title": "中村区",
+                "text": "〇〇は、名古屋市を構成する16行政区の一つで、区の東部にはターミナル駅の名古屋駅が位置する。"
+            },
+            {
                 "datetime": "2023年10月31日 05時の問題",
                 "url": "https://ja.wikipedia.org/?curid=959038",
                 "title": "ノウス・ホモ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3530074",
                 "title": "1993年の相撲",
                 "text": "〇〇は、〇〇関係のできごとについて述べる。"
-            },
-            {
-                "datetime": "2023年10月29日 13時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4446748",
-                "title": "丸駒温泉",
-                "text": "〇〇は、北海道千歳市幌美内にある温泉。"
             }
         ]
     }
