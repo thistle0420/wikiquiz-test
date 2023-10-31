@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年10月31日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4100342",
+                "title": "鈴木志歩",
+                "text": "〇〇は、愛知県出身のモデル、レースクイーンである。所属事務所はAZS Entertainment。"
+            },
+            {
                 "datetime": "2023年10月31日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=267390",
                 "title": "ジャップ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=426834",
                 "title": "宇陀警察署",
                 "text": "〇〇は、奈良県警察にかつて存在した警察署の一つである。"
-            },
-            {
-                "datetime": "2023年10月30日 00時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4781422",
-                "title": "シンシア・ジェリ・バイレ",
-                "text": "〇〇は、ケニア出身の陸上競技選手。"
             }
         ]
     }
