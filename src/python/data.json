@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年11月01日 05時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1821828",
+                "title": "茅ヶ崎村",
+                "text": "〇〇は、神奈川県の中央南部、高座郡に属していた村。"
+            },
+            {
                 "datetime": "2023年11月01日 04時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3129585",
                 "title": "CONCACAF年間最優秀選手賞",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1793276",
                 "title": "マシュー・グレイ・ギュブラー",
                 "text": "〇〇は、アメリカ合衆国の元ファッションモデル・俳優・声優・映画監督である。「Gubler」は「ガブラー」や「グブラー」と表記されることもある。"
-            },
-            {
-                "datetime": "2023年10月30日 12時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4669758",
-                "title": "陣内一真",
-                "text": "〇〇は、日本の作曲家。広島県出身。"
             }
         ]
     }
