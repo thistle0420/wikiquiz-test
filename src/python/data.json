@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年10月31日 10時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2448382",
+                "title": "佐野智樹",
+                "text": "〇〇は、日本の映画監督、テレビドラマ演出家。"
+            },
+            {
                 "datetime": "2023年10月31日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1818972",
                 "title": "布市城",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=52190",
                 "title": "神奈川県立スポーツセンター",
                 "text": "〇〇は、神奈川県藤沢市善行にある総合スポーツ施設。室内プールや総合体育館、陸上競技場やテニスコートなどを備えている。"
-            },
-            {
-                "datetime": "2023年10月29日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2510290",
-                "title": "本条村",
-                "text": "〇〇は、かつて新潟県北蒲原郡にあった村。"
             }
         ]
     }
