@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年11月02日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1594540",
+                "title": "アメリカン航空965便墜落事故",
+                "text": "〇〇は、1995年12月20日に、ボーイング757-223が着陸前に山に墜落した航空事故である。"
+            },
+            {
                 "datetime": "2023年11月02日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=154602",
                 "title": "ムッジャ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1739566",
                 "title": "ベストやねん",
                 "text": "〇〇は、ウルフルズ2枚目のベスト・アルバム。2007年2月21日発売。発売元は東芝EMI。"
-            },
-            {
-                "datetime": "2023年10月31日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2684919",
-                "title": "ぽちぱ",
-                "text": "〇〇は、秋田県にあるフジテレビ系列（FNN・FNS）の放送局、秋田テレビ（AKT）のマスコットキャラクターである。"
             }
         ]
     }
