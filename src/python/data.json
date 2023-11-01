@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年11月01日 16時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4668005",
+                "title": "KTM・200デューク",
+                "text": "〇〇は、KTM Sportmotorcycle AGが2012年から製造するネイキッドバイクである。"
+            },
+            {
                 "datetime": "2023年11月01日 15時の問題",
                 "url": "https://ja.wikipedia.org/?curid=985778",
                 "title": "前ゴムシューズ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1438904",
                 "title": "李廷珪",
                 "text": "〇〇は、10世紀前半の中国南唐の製墨家。五代十国南唐の後主李煜に重用された廷珪の墨は「李墨（りぼく）」と呼ばれ、卓越した品質で中国史上最高の墨と評されている。"
-            },
-            {
-                "datetime": "2023年10月30日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4491973",
-                "title": "モハメド・ベアヴォギ",
-                "text": "〇〇は、ギニアの外交官・政治家。2021年10月6日より2022年8月20日まで同国首相を務めた（第15代）。"
             }
         ]
     }
