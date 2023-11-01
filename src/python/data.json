@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年11月02日 02時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2288216",
+                "title": "メールマガジンスタンド",
+                "text": "〇〇は、個人がメールマガジンの発行や購読を可能とするサービスを提供するサイトの総称である。"
+            },
+            {
                 "datetime": "2023年11月02日 01時の問題",
                 "url": "https://ja.wikipedia.org/?curid=554984",
                 "title": "義那道夫",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2448382",
                 "title": "佐野智樹",
                 "text": "〇〇は、日本の映画監督、テレビドラマ演出家。"
-            },
-            {
-                "datetime": "2023年10月31日 08時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1818972",
-                "title": "布市城",
-                "text": "〇〇は、富山県富山市布市に在った日本の城。"
             }
         ]
     }
