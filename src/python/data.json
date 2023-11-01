@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年11月01日 19時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2841366",
+                "title": "ミラクルマーチ",
+                "text": "〇〇は、2012年10月21日から2015年4月10日まで2年半、東京都町田市を拠点に活動していたご当地アイドルユニット。"
+            },
+            {
                 "datetime": "2023年11月01日 18時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4727960",
                 "title": "北緯89度線",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=779132",
                 "title": "アンドロメダ (aikoの曲)",
                 "text": "〇〇は、aikoのメジャー通算13作目のシングルで、ポニーキャニオンから2003年8月6日に発売。"
-            },
-            {
-                "datetime": "2023年10月31日 01時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4809783",
-                "title": "坂田敦哉",
-                "text": "〇〇は、日本の映像作家、映画監督。"
             }
         ]
     }
