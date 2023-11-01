@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年11月02日 01時の問題",
+                "url": "https://ja.wikipedia.org/?curid=554984",
+                "title": "義那道夫",
+                "text": "〇〇は、日本の元俳優。山梨県出身。劇団新人会に所属していた。"
+            },
+            {
                 "datetime": "2023年11月02日 00時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4723748",
                 "title": "ポポー属",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1818972",
                 "title": "布市城",
                 "text": "〇〇は、富山県富山市布市に在った日本の城。"
-            },
-            {
-                "datetime": "2023年10月31日 07時の問題",
-                "url": "https://ja.wikipedia.org/?curid=233329",
-                "title": "アラクス",
-                "text": "〇〇は、日本の医薬品製造メーカー。本社は愛知県名古屋市中区。工場は愛知県稲沢市日下部花ノ木町1番地（なお、工場は所在地が稲沢市にあるが「清洲工場」と呼ばれている）。"
             }
         ]
     }
