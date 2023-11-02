@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年11月02日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=436100",
+                "title": "アマリエンボー宮殿",
+                "text": "〇〇は、八角形の広場の周りに配された典型的な4つのロココ調の宮殿からなる。広場の中央にはこの宮殿の造営者であるフレデリク5世の騎馬像がある。"
+            },
+            {
                 "datetime": "2023年11月02日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3960430",
                 "title": "カラバオ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=65355",
                 "title": "マカロニ",
                 "text": "〇〇は、イタリア料理で使われる麺類であるパスタの一種。語源は、イタリア語のマッケローネ（maccherone）の複数形マッケローニ（maccheroni）。"
-            },
-            {
-                "datetime": "2023年11月01日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3819040",
-                "title": "AWESOME RADIO SHOW",
-                "text": "〇〇は、2018年8月10日から2019年3月29日までTOKYO FMで毎週金曜 12:00 - 14:00に生放送で放送されていたラジオ番組。"
             }
         ]
     }
