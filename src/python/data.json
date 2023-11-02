@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年11月02日 12時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1263742",
+                "title": "端唄",
+                "text": "〇〇は、邦楽の一種である。端歌・破歌・葉歌・葉唄などの表記があり、時代や地域によって定義が異なる。"
+            },
+            {
                 "datetime": "2023年11月02日 11時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2999435",
                 "title": "ラ・セゾン",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=676571",
                 "title": "浜田国松",
                 "text": "〇〇は、日本の政治家。立憲政友会所属の衆議院議員として第31代衆議院議長になった。「腹切り問答」で、軍部の政治への干渉を批判したことで有名。"
-            },
-            {
-                "datetime": "2023年10月31日 18時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4100342",
-                "title": "鈴木志歩",
-                "text": "〇〇は、愛知県出身のモデル、レースクイーンである。所属事務所はAZS Entertainment。"
             }
         ]
     }
