@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年11月03日 10時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2883424",
+                "title": "渡辺拓海",
+                "text": "〇〇は、日本の男性声優。神奈川県出身。アーツビジョン所属。"
+            },
+            {
                 "datetime": "2023年11月03日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3455322",
                 "title": "さよなら! 街の恋人たち",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4579418",
                 "title": "AFCチャンピオンズリーグ2014 予選",
                 "text": "〇〇は、2014年1月29日から2月15日まで開催されたAFCチャンピオンズリーグ2014の予選ラウンドである。プレーオフに勝利した4チームがグループステージへ進出する。"
-            },
-            {
-                "datetime": "2023年11月01日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4668005",
-                "title": "KTM・200デューク",
-                "text": "〇〇は、KTM Sportmotorcycle AGが2012年から製造するネイキッドバイクである。"
             }
         ]
     }
