@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年11月04日 03時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1802861",
+                "title": "鎌田靖",
+                "text": "〇〇は、日本のジャーナリスト。ホリプロ所属。"
+            },
+            {
                 "datetime": "2023年11月04日 02時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2996580",
                 "title": "並木橋ハイスクール",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2999435",
                 "title": "ラ・セゾン",
                 "text": "〇〇は、1982年6月5日に発売されたアン・ルイスの20枚目のシングル。規格品番はSV-7223。"
-            },
-            {
-                "datetime": "2023年11月02日 10時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4463349",
-                "title": "沖村・米満のアナドキ!",
-                "text": "〇〇は、RKKラジオで放送されていたラジオ番組（トークバラエティ）。2021年度のナイターオフに編成された。"
             }
         ]
     }
