@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年11月05日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1217889",
+                "title": "井波",
+                "text": "〇〇は、日本の地名、日本人の姓。"
+            },
+            {
                 "datetime": "2023年11月05日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1920440",
                 "title": "荻野貴司",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4359662",
                 "title": "ハビ・モレノ",
                 "text": "〇〇は、スペイン・シージャ出身の元サッカー選手、現サッカー指導者。ポジションはフォワード。現在はセグンダ・ディビシオンRFEFのCFバダロナの監督を務める。"
-            },
-            {
-                "datetime": "2023年11月03日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2750917",
-                "title": "フェアリー日本橋",
-                "text": "〇〇は、日本の元女子プロレスラー。愛・地球博跡地出身。身長156cm、体重53kg。OSAKA女子プロレスに所属していた。"
             }
         ]
     }
