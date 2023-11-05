@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年11月05日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2957851",
+                "title": "LIVE TOUR \"新世界\" in 日本武道館",
+                "text": "〇〇は、ACIDMANの2013年発売のライブビデオである。"
+            },
+            {
                 "datetime": "2023年11月05日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2152300",
                 "title": "となりのとなりのお姉さん",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1802861",
                 "title": "鎌田靖",
                 "text": "〇〇は、日本のジャーナリスト。ホリプロ所属。"
-            },
-            {
-                "datetime": "2023年11月04日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2996580",
-                "title": "並木橋ハイスクール",
-                "text": "〇〇は、日本の芸能事務所『プラチナムプロダクション』に所属する女性芸能グループ。キャッチ・コピーは「みんなの夢を叶える場所。」"
             }
         ]
     }
