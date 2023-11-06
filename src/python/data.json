@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年11月07日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1738488",
+                "title": "ギディマカ州",
+                "text": "〇〇は、モーリタニアを構成する12の州の一つ。"
+            },
+            {
                 "datetime": "2023年11月06日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2160997",
                 "title": "星美りか",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1920440",
                 "title": "荻野貴司",
                 "text": "〇〇は、奈良県高市郡明日香村出身のプロ野球選手（外野手）。右投右打。千葉ロッテマリーンズ所属。日本プロ野球における史上最年長盗塁王記録（36歳・2021年）保持者。"
-            },
-            {
-                "datetime": "2023年11月05日 06時の問題",
-                "url": "https://ja.wikipedia.org/?curid=166924",
-                "title": "商事法務研究会",
-                "text": "〇〇は、1955年に設立された社団法人。"
             }
         ]
     }
