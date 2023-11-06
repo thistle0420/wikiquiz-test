@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年11月06日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3917315",
+                "title": "Junkfood Junction",
+                "text": "〇〇は、日本のダンスロックバンド・DISH//の3作目のフルアルバム。Sony Recordsから2019年4月3日に発売された。"
+            },
+            {
                 "datetime": "2023年11月06日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4089362",
                 "title": "復活 尾崎豊 YOKOHAMA ARENA 1991.5.20",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1833475",
                 "title": "ヴェロニカ・タイラー",
                 "text": "〇〇は、アメリカ合衆国の声優。"
-            },
-            {
-                "datetime": "2023年11月05日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2405008",
-                "title": "金山北インターチェンジ",
-                "text": "〇〇は、山形県最上郡金山町にある東北中央自動車道（金山道路・主寝坂道路）のインターチェンジである。名称は仮称である。金山北IC以南の金山道路が未開通のため、インターチェンジとしては未完成であり、主寝坂道路と国道13号（国道344号線と重複）を結ぶ暫定出入口が設置されている。"
             }
         ]
     }
