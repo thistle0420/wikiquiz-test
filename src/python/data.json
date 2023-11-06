@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年11月06日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3797682",
+                "title": "大仏駅 (全羅南道)",
+                "text": "〇〇は、大韓民国全羅南道霊岩郡にある韓国鉄道公社（KORAIL）の駅である。"
+            },
+            {
                 "datetime": "2023年11月06日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3917315",
                 "title": "Junkfood Junction",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3212539",
                 "title": "塩谷中学校",
                 "text": "〇〇は、日本の公立中学校。小樽市立〇〇 - 北海道塩谷町立〇〇 - 栃木県"
-            },
-            {
-                "datetime": "2023年11月05日 03時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1833475",
-                "title": "ヴェロニカ・タイラー",
-                "text": "〇〇は、アメリカ合衆国の声優。"
             }
         ]
     }
