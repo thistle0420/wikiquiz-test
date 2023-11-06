@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年11月06日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3470263",
+                "title": "ヴィスワ・プウォツク",
+                "text": "〇〇は、ポーランド・プウォツクに本拠地を置くサッカークラブ。"
+            },
+            {
                 "datetime": "2023年11月06日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=951101",
                 "title": "KING MARKER ―王の採点係―",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2714923",
                 "title": "ミッチェル・ゴードン",
                 "text": "〇〇は、カナダ出身の男性フィギュアスケート選手(男子シングル)。"
-            },
-            {
-                "datetime": "2023年11月04日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=235167",
-                "title": "多良木駅",
-                "text": "〇〇は、熊本県球磨郡多良木町大字多良木にあるくま川鉄道湯前線の駅である。駅番号は11。多良木町の中心駅。"
             }
         ]
     }
