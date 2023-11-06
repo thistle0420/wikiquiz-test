@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年11月06日 23時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2160997",
+                "title": "星美りか",
+                "text": "〇〇は、日本のタレント、歌手、元グラビアアイドル、元AV女優。ミリオンガールズZのメンバー。静岡県沼津市出身。"
+            },
+            {
                 "datetime": "2023年11月06日 22時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4016220",
                 "title": "ウィル・ホイ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=166924",
                 "title": "商事法務研究会",
                 "text": "〇〇は、1955年に設立された社団法人。"
-            },
-            {
-                "datetime": "2023年11月05日 05時の問題",
-                "url": "https://ja.wikipedia.org/?curid=31482",
-                "title": "伊藤里絵",
-                "text": "〇〇は、セント・フォース所属の女性フリーアナウンサー。神奈川県出身。血液型はB型。身長162cm。"
             }
         ]
     }
