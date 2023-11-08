@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年11月08日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=604188",
+                "title": "ギザミネヘビクビガメ",
+                "text": "〇〇は、ヘビクビガメ科ナンベイヘビクビガメ属に分類されるカメ。別名ナンベイヘビクビガメ、アルゼンチンヘビクビガメ。"
+            },
+            {
                 "datetime": "2023年11月08日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1996774",
                 "title": "ホアン・オラチ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3797682",
                 "title": "大仏駅 (全羅南道)",
                 "text": "〇〇は、大韓民国全羅南道霊岩郡にある韓国鉄道公社（KORAIL）の駅である。"
-            },
-            {
-                "datetime": "2023年11月06日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3917315",
-                "title": "Junkfood Junction",
-                "text": "〇〇は、日本のダンスロックバンド・DISH//の3作目のフルアルバム。Sony Recordsから2019年4月3日に発売された。"
             }
         ]
     }
