@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年11月10日 19時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4056244",
+                "title": "舎人町 (名古屋市)",
+                "text": "〇〇は、愛知県名古屋市東区の地名。"
+            },
+            {
                 "datetime": "2023年11月10日 18時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2092718",
                 "title": "SoftBank 740N",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=229965",
                 "title": "グラスホッパー (カクテル)",
                 "text": "〇〇は、リキュールをベースとするカクテルである。新しい作り方によって作られたグラスホッパーは、ショートドリンク（ショートカクテル）に分類される。"
-            },
-            {
-                "datetime": "2023年11月09日 01時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2125782",
-                "title": "テングガイ",
-                "text": "〇〇は、アクキガイ科(アッキガイ科)の巻貝の一種である。アクキガイ科中最大種で、大きいものは25cmまで成長する。"
             }
         ]
     }
