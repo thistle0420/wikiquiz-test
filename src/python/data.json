@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年11月10日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2092718",
+                "title": "SoftBank 740N",
+                "text": "〇〇は、兄弟機のSoftBank 741N（ソフトバンク741N）についても解説する。"
+            },
+            {
                 "datetime": "2023年11月10日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3982737",
                 "title": "カリモーチョ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2125782",
                 "title": "テングガイ",
                 "text": "〇〇は、アクキガイ科(アッキガイ科)の巻貝の一種である。アクキガイ科中最大種で、大きいものは25cmまで成長する。"
-            },
-            {
-                "datetime": "2023年11月09日 00時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1649575",
-                "title": "サギ師リリ子",
-                "text": "〇〇は、2009年1月5日 - 4月3日にテレビ東京系Lドラ枠にて平日11:50から12:26（JST）に放送されていたテレビドラマ。全13週。"
             }
         ]
     }
