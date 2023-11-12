@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年11月12日 22時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2314314",
+                "title": "モンテレイ・オープン",
+                "text": "〇〇は、毎年4月上旬にメキシコモンテレイで開催されるWTAテニストーナメントである。2009年から行われている。"
+            },
+            {
                 "datetime": "2023年11月12日 21時の問題",
                 "url": "https://ja.wikipedia.org/?curid=637623",
                 "title": "あさだみほ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=841956",
                 "title": "永田亮一",
                 "text": "〇〇は、日本の政治家。衆議院議員。"
-            },
-            {
-                "datetime": "2023年11月11日 04時の問題",
-                "url": "https://ja.wikipedia.org/?curid=449287",
-                "title": "真駒内屋外競技場",
-                "text": "〇〇は、札幌市南区にある競技場。正式名称は北海道立真駒内公園屋外競技場。北海道セキスイハイムがネーミングライツ（命名権）を取得し、名称が真駒内セキスイハイムスタジアム（まこまないセキスイハイムスタジアム 英：Makomanai Sekisui Heim Stadium）になっている。"
             }
         ]
     }
