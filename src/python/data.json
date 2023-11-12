@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年11月12日 13時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2659539",
+                "title": "カスパル・マーゼ",
+                "text": "〇〇は、ドイツの民俗学者。テュービンゲン大学教授。"
+            },
+            {
                 "datetime": "2023年11月12日 12時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2622971",
                 "title": "鬼龍院カヤに血を吸われるだけの簡単なおしごと",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=557557",
                 "title": "埼玉県立上尾南高等学校",
                 "text": "〇〇は、埼玉県上尾市にある高等学校である。"
-            },
-            {
-                "datetime": "2023年11月10日 19時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4056244",
-                "title": "舎人町 (名古屋市)",
-                "text": "〇〇は、愛知県名古屋市東区の地名。"
             }
         ]
     }
