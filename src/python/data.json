@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年11月13日 02時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3459264",
+                "title": "スティーブ・サコマン",
+                "text": "〇〇は、アメリカ合衆国のコンピュータ開発者。2005年にAppleから引退し、コンサルタントである。"
+            },
+            {
                 "datetime": "2023年11月13日 01時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4241995",
                 "title": "榮枝裕貴",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=534195",
                 "title": "AVCHD",
                 "text": "〇〇は、Blu-ray Discのアプリケーションフォーマット「BDMV」を応用し、ハイビジョン映像をビデオカメラで記録するための規格の一つであり、パナソニックとソニーが共有する登録商標（第5011316号）である。名称はAdvanced Video Coding High Definitionに由来する。"
-            },
-            {
-                "datetime": "2023年11月11日 08時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4065641",
-                "title": "モノリス法律事務所",
-                "text": "〇〇は、東京都千代田区に所在する法律事務所。"
             }
         ]
     }
