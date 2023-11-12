@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年11月12日 11時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4442696",
+                "title": "関信之介",
+                "text": "〇〇は、明治から大正前期の日本の弁護士・政治家。衆議院議員。"
+            },
+            {
                 "datetime": "2023年11月12日 10時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4281238",
                 "title": "天舟1号",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2092718",
                 "title": "SoftBank 740N",
                 "text": "〇〇は、兄弟機のSoftBank 741N（ソフトバンク741N）についても解説する。"
-            },
-            {
-                "datetime": "2023年11月10日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3982737",
-                "title": "カリモーチョ",
-                "text": "〇〇は、ロングドリンクに分類される、赤ワインをベースとしたカクテル。"
             }
         ]
     }
