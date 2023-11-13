@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年11月13日 11時の問題",
+                "url": "https://ja.wikipedia.org/?curid=630689",
+                "title": "レギオモンタヌス",
+                "text": "〇〇は、15世紀のドイツの天文学者。"
+            },
+            {
                 "datetime": "2023年11月13日 10時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1558224",
                 "title": "セイウンワンダー",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2208982",
                 "title": "Plutrio",
                 "text": "〇〇は、日本のアコースティック・ミュージックのユニット。"
-            },
-            {
-                "datetime": "2023年11月11日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=662075",
-                "title": "第31師団 (日本軍)",
-                "text": "〇〇は、大日本帝国陸軍の師団の一つ。"
             }
         ]
     }
