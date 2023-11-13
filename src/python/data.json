@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年11月13日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1071754",
+                "title": "大森貴弘",
+                "text": "〇〇は、日本の男性アニメーター、アニメ演出家・監督。東京都出身。日本アニメーター・演出協会（JAniCA）会員。"
+            },
+            {
                 "datetime": "2023年11月13日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1647462",
                 "title": "西尾市立米津小学校",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1899096",
                 "title": "上野由加里",
                 "text": "〇〇は、女性フリーアナウンサー。青森県八戸市出身。身長167cm。血液型はO型。"
-            },
-            {
-                "datetime": "2023年11月12日 00時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3918016",
-                "title": "MAON KUROSAKI BEST ALBUM -M.A.O.N.-",
-                "text": "〇〇は、日本の歌手・黒崎真音が2017年9月27日にNBCユニバーサル・エンターテイメントジャパンから発売した1枚目のベストアルバム。"
             }
         ]
     }
