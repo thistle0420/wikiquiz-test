@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年11月13日 10時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1558224",
+                "title": "セイウンワンダー",
+                "text": "〇〇は、日本の競走馬。2008年のJRA賞最優秀2歳牡馬。JRAブリーズアップセールにて取引されたJRA育成馬として初めてGI級競走を優勝した。主な勝ち鞍は、2008年の朝日杯フューチュリティステークス（JpnI）、新潟2歳ステークス（JpnIII）、2010年のエプソムカップ（GIII）。"
+            },
+            {
                 "datetime": "2023年11月13日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4014094",
                 "title": "ミロシュ・ヴリッチ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=662075",
                 "title": "第31師団 (日本軍)",
                 "text": "〇〇は、大日本帝国陸軍の師団の一つ。"
-            },
-            {
-                "datetime": "2023年11月11日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3215238",
-                "title": "秋元克広",
-                "text": "〇〇は、日本の政治家。北海道札幌市長（3期）。"
             }
         ]
     }
