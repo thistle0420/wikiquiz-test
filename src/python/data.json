@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年11月13日 17時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1647462",
+                "title": "西尾市立米津小学校",
+                "text": "〇〇は、愛知県西尾市米津町にある公立小学校である。"
+            },
+            {
                 "datetime": "2023年11月13日 16時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3100146",
                 "title": "ドミティアヌス競技場",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3918016",
                 "title": "MAON KUROSAKI BEST ALBUM -M.A.O.N.-",
                 "text": "〇〇は、日本の歌手・黒崎真音が2017年9月27日にNBCユニバーサル・エンターテイメントジャパンから発売した1枚目のベストアルバム。"
-            },
-            {
-                "datetime": "2023年11月11日 23時の問題",
-                "url": "https://ja.wikipedia.org/?curid=454403",
-                "title": "トリビュート",
-                "text": "〇〇は、そうした演奏・パフォーマンスをする人、グループ、バンド（〇〇バンド、〇〇アクト）マツダ・〇〇 - マツダのSUV。〇〇 (テレビ番組) - フジテレビのテレビ番組。"
             }
         ]
     }
