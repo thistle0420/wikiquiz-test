@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年11月14日 23時の問題",
+                "url": "https://ja.wikipedia.org/?curid=842724",
+                "title": "カルギリク県",
+                "text": "〇〇は、中華人民共和国新疆ウイグル自治区カシュガル地区に位置する県。"
+            },
+            {
                 "datetime": "2023年11月14日 22時の問題",
                 "url": "https://ja.wikipedia.org/?curid=888425",
                 "title": "秋元久朝",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4503822",
                 "title": "特殊要素モデル",
                 "text": "〇〇は、リカード・モデルに複数の生産要素を導入して拡張した貿易モデル。産業間で移動可能な労働の他に、産業特殊的な（産業間を移動できない）生産要素を導入したモデルである。デヴィッド・リカードとジェイコブ・ヴァイナーに因んでリカード＝ヴァイナー・モデル（英：The Ricardo–Viner model）とも呼ばれる。"
-            },
-            {
-                "datetime": "2023年11月13日 05時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4267257",
-                "title": "DRAMA QUEEN",
-                "text": "〇〇は、2020年4月3日からZIP-FMで放送されているラジオ番組である。"
             }
         ]
     }
