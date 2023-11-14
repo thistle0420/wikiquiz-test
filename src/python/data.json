@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年11月14日 19時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3089528",
+                "title": "甕襲",
+                "text": "〇〇は、『日本書紀』に伝わる古代日本の人物。"
+            },
+            {
                 "datetime": "2023年11月14日 18時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2046977",
                 "title": "天寿光希",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3459264",
                 "title": "スティーブ・サコマン",
                 "text": "〇〇は、アメリカ合衆国のコンピュータ開発者。2005年にAppleから引退し、コンサルタントである。"
-            },
-            {
-                "datetime": "2023年11月13日 01時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4241995",
-                "title": "榮枝裕貴",
-                "text": "〇〇は、高知県高知市出身のプロ野球選手（捕手）。右投右打。阪神タイガース所属。"
             }
         ]
     }
