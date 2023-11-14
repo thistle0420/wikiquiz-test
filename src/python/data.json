@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年11月14日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1253759",
+                "title": "高敞郡",
+                "text": "〇〇は、大韓民国全羅北道の南西部にある郡である。郡の南部を全羅南道と接している。"
+            },
+            {
                 "datetime": "2023年11月14日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2393222",
                 "title": "小野瀬忠兵衛",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=637623",
                 "title": "あさだみほ",
                 "text": "〇〇は、日本の女性漫画家。兵庫県明石市出身。血液型はA型。埼玉県在住。"
-            },
-            {
-                "datetime": "2023年11月12日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=40475",
-                "title": "外省人",
-                "text": "〇〇は、台湾光復（1945年10月25日）以降、中国大陸各地から台湾に移り、台湾人として定住している人々を指す。"
             }
         ]
     }
