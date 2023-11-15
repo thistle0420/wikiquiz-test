@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年11月16日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=238684",
+                "title": "太田英明のモクモクスポーツ",
+                "text": "〇〇は、文化放送で2002年から2005年にナイターシーズンに放送していたスポーツ情報番組である。"
+            },
+            {
                 "datetime": "2023年11月16日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1676691",
                 "title": "北大阪電気鉄道1形電車",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3614906",
                 "title": "高瀬愛奈",
                 "text": "〇〇は、日本のアイドルであり、女性アイドルグループ・日向坂46のメンバーである。大阪府出身。身長157 cm。"
-            },
-            {
-                "datetime": "2023年11月14日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4518703",
-                "title": "2×20",
-                "text": "〇〇は、日本のデュオ・花*花が2020年5月27日にLighthouse Musicから発売した3枚目のベストアルバムである。"
             }
         ]
     }
