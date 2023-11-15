@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年11月16日 05時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3205087",
+                "title": "大谷村 (愛媛県)",
+                "text": "〇〇は、愛媛県喜多郡にあった村。現在の大洲市肱川町大谷にあたる。"
+            },
+            {
                 "datetime": "2023年11月16日 04時の問題",
                 "url": "https://ja.wikipedia.org/?curid=71382",
                 "title": "延世大学校",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2393222",
                 "title": "小野瀬忠兵衛",
                 "text": "〇〇は、日本の政治家、実業家。衆議院議員（3期）。"
-            },
-            {
-                "datetime": "2023年11月14日 12時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1015233",
-                "title": "鰺ヶ沢中村テレビ中継局",
-                "text": "〇〇は、青森県西津軽郡鰺ヶ沢町に置かれているテレビ中継局である。"
             }
         ]
     }
