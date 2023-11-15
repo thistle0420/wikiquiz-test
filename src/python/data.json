@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年11月15日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2811738",
+                "title": "成田市立豊住中学校",
+                "text": "〇〇は、千葉県成田市北羽鳥にあった公立中学校。"
+            },
+            {
                 "datetime": "2023年11月15日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=704290",
                 "title": "春瀬サク",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1098685",
                 "title": "小川裕充",
                 "text": "〇〇は、日本の美術史家。専門は中国絵画史。東京大学名誉教授。元東京大学東洋文化研究所・東洋学研究情報センター長。大阪市出身。"
-            },
-            {
-                "datetime": "2023年11月13日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=714119",
-                "title": "藤縄祐爾",
-                "text": "〇〇は、日本の陸上自衛官。第26代陸上幕僚長、第23代統合幕僚会議議長。兵庫県出身。"
             }
         ]
     }
