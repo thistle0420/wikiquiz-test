@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年11月17日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3809367",
+                "title": "星屑リベンジャーズ",
+                "text": "〇〇は、AbemaTVとメ〜テレの共同制作により、2018年7月23日からAbemaTVにて配信され、同月31日（30日深夜）からメ〜テレで放送されていたテレビドラマ。主演は新川優愛。"
+            },
+            {
                 "datetime": "2023年11月17日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3560460",
                 "title": "ひふみ投信",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=564187",
                 "title": "アルシオン",
                 "text": "〇〇は、かつて存在した日本の女子プロレス団体。"
-            },
-            {
-                "datetime": "2023年11月15日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3126027",
-                "title": "渋谷区立猿楽小学校",
-                "text": "〇〇は、東京都渋谷区猿楽町にある公立小学校。猿楽町のオフィス街に所在する。"
             }
         ]
     }
