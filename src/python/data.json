@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年11月17日 16時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3768970",
+                "title": "横山町 (前橋市)",
+                "text": "〇〇は、群馬県前橋市の旧町名である。現在の千代田町二丁目、千代田町四丁目の各一部にあたる。1966年（昭和41年）の住居表示の実施により、千代田町二丁目、千代田町四丁目の各一部となった。"
+            },
+            {
                 "datetime": "2023年11月17日 15時の問題",
                 "url": "https://ja.wikipedia.org/?curid=352125",
                 "title": "静岡鉄道300形電車",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3219404",
                 "title": "テトラスパニン",
                 "text": "〇〇は、Cluster of Differentiationの略。)"
-            },
-            {
-                "datetime": "2023年11月15日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=517527",
-                "title": "モービル1",
-                "text": "〇〇は、エクソンモービルが販売している化学合成高性能エンジンオイルである。"
             }
         ]
     }
