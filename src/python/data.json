@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年11月20日 05時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1226885",
+                "title": "SOUL FIGHTING",
+                "text": "〇〇は、中部日本放送（CBC）とSOUL BOX畑中ボクシングジムによるプロボクシング中継の番組タイトル、或いは興行名である。"
+            },
+            {
                 "datetime": "2023年11月20日 04時の問題",
                 "url": "https://ja.wikipedia.org/?curid=368818",
                 "title": "横田喜三郎",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3669547",
                 "title": "1948年サンモリッツオリンピックのアメリカ合衆国選手団",
                 "text": "〇〇は、1948年1月30日から2月8日までスイスのサンモリッツで開催された冬季オリンピックのアメリカ合衆国選手団、およびその競技結果。"
-            },
-            {
-                "datetime": "2023年11月18日 12時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1012973",
-                "title": "ミシェル・シャミヤール",
-                "text": "〇〇は、フランスの政治家。ルイ14世の下で国務卿（大臣）を務めた。"
             }
         ]
     }
