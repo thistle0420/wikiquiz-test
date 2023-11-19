@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年11月20日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3469420",
+                "title": "モーリス・ロレ・ド・リル",
+                "text": "〇〇は、フランス海軍の水文学（河川や湖沼、海洋の研究）専門家、技術将校。1859年11月19日、パリに生まれ、1943年11月24日、パリで亡くなった。"
+            },
+            {
                 "datetime": "2023年11月20日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=177396",
                 "title": "ローリー (ノースカロライナ州)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2195438",
                 "title": "Beginner",
                 "text": "〇〇は、日本の女性アイドルグループ・AKB48の楽曲。楽曲は秋元康により作詞、井上ヨシマサにより作曲されている。2010年10月27日にAKB48のメジャー18作目のシングルとしてキングレコードから発売された。キャッチコピーは「今回のAKBは、かなり、ヤバい!」。"
-            },
-            {
-                "datetime": "2023年11月18日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3080",
-                "title": "XFree86",
-                "text": "〇〇は、1991年よりオープンソースで開発されていたX Window Systemの実装である。名称は、AT&Tによるi386向けX Window Systemの実装であるX386の3 (Three) をFreeに置き換えた点から由来している。PC向けに広く使われていたフリーソフトウェアであり、OSとしては、Linux、FreeBSD、NetBSD、OpenBSD、Solaris、Mac OS X、Windows NT、OS/2などを対象としている。CPUアーキテクチャとしては、当初i386系CPUだけがサポートされたが、後にPowerPCなどの他のCPUもサポートするようになっている。現在、2009年5月を最後にコミットされておらず、2011年にはプロジェクトは休止したと確認された。"
             }
         ]
     }
