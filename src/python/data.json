@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年11月20日 03時の問題",
+                "url": "https://ja.wikipedia.org/?curid=648522",
+                "title": "東彩子",
+                "text": "〇〇は、東京都出身のヴァイオリニスト。東京音楽大学講師。"
+            },
+            {
                 "datetime": "2023年11月20日 02時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2772249",
                 "title": "ジャクソン礁",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4810135",
                 "title": "中野孝三郎",
                 "text": "〇〇は、日本の経営者。キッコーマン社長を務めた。千葉県出身。"
-            },
-            {
-                "datetime": "2023年11月18日 10時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1958036",
-                "title": "鄭地 (潜水艦)",
-                "text": "〇〇は、大韓民国海軍の潜水艦。孫元一級潜水艦の2番艦。艦名は高麗末期の武将鄭地に由来する。"
             }
         ]
     }
