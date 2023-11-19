@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年11月20日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2854520",
+                "title": "Smash Room",
+                "text": "〇〇は、東京都渋谷区に本社を置く、日本の音楽プロダクション。"
+            },
+            {
                 "datetime": "2023年11月19日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2184668",
                 "title": "アンドリュス・アルギルダイティス",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3864738",
                 "title": "TranTixxii",
                 "text": "〇〇は、2017年よりリリースされている日本製鉄の意匠性チタン製品群ブランド。"
-            },
-            {
-                "datetime": "2023年11月18日 06時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1388632",
-                "title": "午後のロータリー",
-                "text": "〇〇は、1966年4月4日から1984年3月31日にかけて放送されたNHKラジオ第1放送の午後の情報番組である。"
             }
         ]
     }
