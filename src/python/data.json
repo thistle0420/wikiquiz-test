@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年11月21日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1667166",
+                "title": "綾部市立綾部中学校",
+                "text": "〇〇は、京都府綾部市にある公立中学校。"
+            },
+            {
                 "datetime": "2023年11月21日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2237930",
                 "title": "時忠 (小惑星)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4461963",
                 "title": "昌斎館",
                 "text": "〇〇は、陸奥国鹿角郡、現在の秋田県鹿角市十和田大湯字上折戸に所在した中世の城館である。"
-            },
-            {
-                "datetime": "2023年11月20日 00時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2854520",
-                "title": "Smash Room",
-                "text": "〇〇は、東京都渋谷区に本社を置く、日本の音楽プロダクション。"
             }
         ]
     }
