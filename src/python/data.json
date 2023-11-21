@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年11月21日 23時の問題",
+                "url": "https://ja.wikipedia.org/?curid=384432",
+                "title": "シーサワーンウォン",
+                "text": "〇〇は、最後のルアンパバーン国王、初代ラオス国王。"
+            },
+            {
                 "datetime": "2023年11月21日 22時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4782144",
                 "title": "藤原遠理",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3509406",
                 "title": "哈斉旅客専用線",
                 "text": "〇〇は、中華人民共和国黒竜江省ハルビン市のハルビン駅と同チチハル市のチチハル南駅を結ぶ高速鉄道である。"
-            },
-            {
-                "datetime": "2023年11月20日 05時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1226885",
-                "title": "SOUL FIGHTING",
-                "text": "〇〇は、中部日本放送（CBC）とSOUL BOX畑中ボクシングジムによるプロボクシング中継の番組タイトル、或いは興行名である。"
             }
         ]
     }
