@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年11月22日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3592392",
+                "title": "タマル・サニキゼ",
+                "text": "〇〇は、ジョージアの政治家。2013年7月から2016年6月まで教育科学大臣を務めた。"
+            },
+            {
                 "datetime": "2023年11月22日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=293144",
                 "title": "幣原外交",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3791362",
                 "title": "ナリオ",
                 "text": "〇〇は、日本の映画監督、映像制作チーム『東京想舎』ディレクター。東京都出身。"
-            },
-            {
-                "datetime": "2023年11月21日 00時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4716162",
-                "title": "松原健一",
-                "text": "〇〇は、釜山中／明治大学出身の日本の元ラグビー選手。ポジションはスクラムハーフ、スタンドオフ。"
             }
         ]
     }
