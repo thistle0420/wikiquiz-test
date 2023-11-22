@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年11月22日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2516347",
+                "title": "金竜温泉駅",
+                "text": "〇〇は、かつて岐阜県恵那郡大井町（現・恵那市大井町）にあった北恵那鉄道（現・北恵那交通）大井線の駅（廃駅）である。"
+            },
+            {
                 "datetime": "2023年11月22日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1755473",
                 "title": "石崎達",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1560611",
                 "title": "奈良ひとみ",
                 "text": "〇〇は、奈良県出身のタレント、レースクイーン。BERRY所属。"
-            },
-            {
-                "datetime": "2023年11月21日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4023495",
-                "title": "古今亭菊太楼",
-                "text": "〇〇は、落語協会所属の落語家。出囃子は『紀文大尽』。紋は「裏梅」。本名∶西村 一郎。"
             }
         ]
     }
