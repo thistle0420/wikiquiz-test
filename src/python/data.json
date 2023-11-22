@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年11月22日 16時の問題",
+                "url": "https://ja.wikipedia.org/?curid=218321",
+                "title": "サンパウロFC",
+                "text": "〇〇は、ブラジル・サンパウロ州サンパウロを本拠地とするサッカークラブである。"
+            },
+            {
                 "datetime": "2023年11月22日 15時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1052426",
                 "title": "イーハトーブ幻想〜KENjIの春",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4545796",
                 "title": "中村武",
                 "text": "〇〇は、日本の銀行家。"
-            },
-            {
-                "datetime": "2023年11月20日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2219413",
-                "title": "歌川芳景",
-                "text": "〇〇は、明治時代の浮世絵師。"
             }
         ]
     }
