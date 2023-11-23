@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年11月24日 04時の問題",
+                "url": "https://ja.wikipedia.org/?curid=315138",
+                "title": "八戸市営バス",
+                "text": "〇〇は、青森県八戸市の八戸市交通部が運営している公営バス。"
+            },
+            {
                 "datetime": "2023年11月24日 03時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4652748",
                 "title": "上石原",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1493018",
                 "title": "成島りゅう",
                 "text": "〇〇は、日本のAV女優。"
-            },
-            {
-                "datetime": "2023年11月22日 11時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2917003",
-                "title": "大須賀党",
-                "text": "〇〇は、下野の国司及び戦国大名宇都宮氏家中の精鋭として知られた軍事集団。"
             }
         ]
     }
