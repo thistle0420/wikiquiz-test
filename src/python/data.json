@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年11月23日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4843631",
+                "title": "クリストフォロ・ムナーリ",
+                "text": "〇〇は、イタリアの画家である。主に静物画を描いた。"
+            },
+            {
                 "datetime": "2023年11月23日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4656211",
                 "title": "在アルゼンチン日本国大使館",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1496870",
                 "title": "エラフスホソアカクワガタ",
                 "text": "〇〇は、節足動物門昆虫綱甲虫クワガタムシ科に属するクワガタムシの一種。elaphusは雄鹿という意味がある。エレファスホソアカクワガタと呼ぶこともある。"
-            },
-            {
-                "datetime": "2023年11月21日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1619405",
-                "title": "山根信成",
-                "text": "〇〇は、日本陸軍の軍人。最終階級は陸軍少将。"
             }
         ]
     }
