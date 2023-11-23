@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年11月23日 11時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2350049",
+                "title": "水野達夫",
+                "text": "〇〇は、日本の外交官。2007年からネパール駐箚特命全権大使。大阪府大阪市阿倍野区出身。"
+            },
+            {
                 "datetime": "2023年11月23日 10時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3837387",
                 "title": "M1902陸軍士官刀",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1667166",
                 "title": "綾部市立綾部中学校",
                 "text": "〇〇は、京都府綾部市にある公立中学校。"
-            },
-            {
-                "datetime": "2023年11月21日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2237930",
-                "title": "時忠 (小惑星)",
-                "text": "〇〇は、小惑星帯にある小惑星である。1987年10月、鈴木憲蔵と浦田武が愛知県豊田市で発見した。"
             }
         ]
     }
