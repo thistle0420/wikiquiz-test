@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年11月23日 23時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2184796",
+                "title": "紫竹通",
+                "text": "〇〇は、京都市北区を通る東西の通りの一つである。"
+            },
+            {
                 "datetime": "2023年11月23日 22時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1603069",
                 "title": "REINCARNATION (奥井雅美の曲)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1734078",
                 "title": "悲しみを愛しさで",
                 "text": "〇〇は、阪井あゆみの1枚目のシングル。"
-            },
-            {
-                "datetime": "2023年11月22日 05時の問題",
-                "url": "https://ja.wikipedia.org/?curid=206661",
-                "title": "補導",
-                "text": "〇〇は、少年の非行を抑止するために適切な措置を講ずることをいう。"
             }
         ]
     }
