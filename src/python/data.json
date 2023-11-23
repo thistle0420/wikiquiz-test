@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年11月23日 22時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1603069",
+                "title": "REINCARNATION (奥井雅美の曲)",
+                "text": "〇〇は、奥井雅美の通算4作目のシングルである。"
+            },
+            {
                 "datetime": "2023年11月23日 21時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1354853",
                 "title": "ステイシー・ケンプ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=206661",
                 "title": "補導",
                 "text": "〇〇は、少年の非行を抑止するために適切な措置を講ずることをいう。"
-            },
-            {
-                "datetime": "2023年11月22日 04時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4201880",
-                "title": "ジョン・デブレット",
-                "text": "〇〇は、イギリスの出版業者、編集者。『デブレット貴族名鑑』（2巻、1802年5月初版）の出版で知られる。"
             }
         ]
     }
