@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年11月24日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=664432",
+                "title": "リーヴェリ",
+                "text": "〇〇は、イタリア共和国カンパニア州ナポリ県にある、人口約1,600人の基礎自治体（コムーネ）。"
+            },
+            {
                 "datetime": "2023年11月23日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2184796",
                 "title": "紫竹通",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1732634",
                 "title": "月天心",
                 "text": "〇〇は、日本の歌手一青窈の1枚目のアルバムである。2002年12月18日発売。発売元はコロムビアミュージックエンタテインメント（現：日本コロムビア）。台湾盤(Guts Records-Subsidiary Of Rock Records/PASSION - GUT-2055 )には、日本のシングル盤「もらい泣き」のカップリング曲である「翡翠」がボーナス・トラックとして収録されている。"
-            },
-            {
-                "datetime": "2023年11月22日 06時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1734078",
-                "title": "悲しみを愛しさで",
-                "text": "〇〇は、阪井あゆみの1枚目のシングル。"
             }
         ]
     }
