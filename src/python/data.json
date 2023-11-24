@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年11月24日 16時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2921686",
+                "title": "中山巳代蔵",
+                "text": "〇〇は、日本の内務官僚、実業家。官選栃木県知事。"
+            },
+            {
                 "datetime": "2023年11月24日 15時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3079536",
                 "title": "笠原敦郎",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3974085",
                 "title": "在日ラトビア人",
                 "text": "〇〇は、日本に一定期間在住するラトビア国籍の人々である。"
-            },
-            {
-                "datetime": "2023年11月22日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3894189",
-                "title": "山本理仁",
-                "text": "〇〇は、神奈川県相模原市出身のプロサッカー選手。ジュピラー・プロ・リーグ・シント＝トロイデンVV所属。ポジションはミッドフィールダー。"
             }
         ]
     }
