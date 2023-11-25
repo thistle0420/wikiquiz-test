@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年11月25日 17時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1938252",
+                "title": "エリー・バインホルン",
+                "text": "〇〇は、ドイツのパイロットである。"
+            },
+            {
                 "datetime": "2023年11月25日 16時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1519469",
                 "title": "酒井敏夫",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=664432",
                 "title": "リーヴェリ",
                 "text": "〇〇は、イタリア共和国カンパニア州ナポリ県にある、人口約1,600人の基礎自治体（コムーネ）。"
-            },
-            {
-                "datetime": "2023年11月23日 23時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2184796",
-                "title": "紫竹通",
-                "text": "〇〇は、京都市北区を通る東西の通りの一つである。"
             }
         ]
     }
