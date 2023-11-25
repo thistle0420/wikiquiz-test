@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年11月26日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2941964",
+                "title": "DOWN STAIRS",
+                "text": "〇〇は、小野大輔の2作目のミニ・アルバムである。2013年9月25日にLantisより発売された。"
+            },
+            {
                 "datetime": "2023年11月25日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3216121",
                 "title": "ヌマガレイ属",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3679796",
                 "title": "訃報 2017年10月",
                 "text": "〇〇は、2017年10月に物故した、または物故が報じられた人物をまとめる。"
-            },
-            {
-                "datetime": "2023年11月24日 06時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3740251",
-                "title": "In Love With The Music",
-                "text": "〇〇は、日本のダンス＆ボーカルユニットw-inds.の35枚目のシングル。2015年6月10日に FLIGHT MASTERより発売。"
             }
         ]
     }
