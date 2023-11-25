@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年11月26日 02時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4117333",
+                "title": "斎藤幸夫",
+                "text": "〇〇は、東京府出身の元プロ野球選手。ポジションは内野手。"
+            },
+            {
                 "datetime": "2023年11月26日 01時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4700129",
                 "title": "主席大臣",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1293004",
                 "title": "香港の公園",
                 "text": "〇〇は、〇〇について解説する。"
-            },
-            {
-                "datetime": "2023年11月24日 08時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1021669",
-                "title": "田中精密工業",
-                "text": "〇〇は、富山県に所在する自動車部品製造メーカーである。本田技研工業の関連会社。社訓は『仕事の鬼となれ』。"
             }
         ]
     }
