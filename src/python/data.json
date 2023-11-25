@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年11月25日 16時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1519469",
+                "title": "酒井敏夫",
+                "text": "〇〇は、日本の医学者・生理学者、東京慈恵会医科大学名誉教授。"
+            },
+            {
                 "datetime": "2023年11月25日 15時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3680317",
                 "title": "岩出博",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2184796",
                 "title": "紫竹通",
                 "text": "〇〇は、京都市北区を通る東西の通りの一つである。"
-            },
-            {
-                "datetime": "2023年11月23日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1603069",
-                "title": "REINCARNATION (奥井雅美の曲)",
-                "text": "〇〇は、奥井雅美の通算4作目のシングルである。"
             }
         ]
     }
