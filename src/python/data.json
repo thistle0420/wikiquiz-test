@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年11月27日 06時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4279738",
+                "title": "サヴェッジ (アルバム)",
+                "text": "〇〇は、1987年にリリースされたユーリズミックスの6枚目のスタジオ・アルバム。"
+            },
+            {
                 "datetime": "2023年11月27日 05時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2019758",
                 "title": "小林貴子 (柔道)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4475218",
                 "title": "小野寺梓",
                 "text": "〇〇は、日本のアイドル。女性アイドルグループ・真っ白なキャンバスのメンバー。秋田県出身。"
-            },
-            {
-                "datetime": "2023年11月25日 13時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3381042",
-                "title": "加島 (広島県)",
-                "text": "〇〇は、広島県尾道市の無人島である。"
             }
         ]
     }
