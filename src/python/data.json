@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年11月28日 05時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4478425",
+                "title": "テムシロリムス",
+                "text": "〇〇は、シロリムスの誘導体およびプロドラッグである。"
+            },
+            {
                 "datetime": "2023年11月28日 04時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2781833",
                 "title": "REM (Mr.Childrenの曲)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2795716",
                 "title": "ストラットン",
                 "text": "〇〇は、英語圏の姓。元の綴りは様々である。ドロシー・〇〇 (Dorothy Stratten) - カナダ出身のモデル、女優。フレドリック・〇〇 (Frederick Stratton) - イギリスの天体物理学者。"
-            },
-            {
-                "datetime": "2023年11月26日 12時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2550793",
-                "title": "迷宮塔路レガシスタ",
-                "text": "〇〇は、日本一ソフトウェアより2012年3月15日に発売されたPlayStation 3用ゲーム。『クラシックダンジョン』と同じスタッフにより開発されており、「『クラシックダンジョン』でできなかったことをする」という思想の元設計されている。"
             }
         ]
     }
