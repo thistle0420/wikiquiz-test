@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年11月27日 10時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3885536",
+                "title": "玉野市立東児中学校",
+                "text": "〇〇は、岡山県玉野市にある公立中学校。"
+            },
+            {
                 "datetime": "2023年11月27日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4770310",
                 "title": "駒形町 (豊橋市)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1938252",
                 "title": "エリー・バインホルン",
                 "text": "〇〇は、ドイツのパイロットである。"
-            },
-            {
-                "datetime": "2023年11月25日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1519469",
-                "title": "酒井敏夫",
-                "text": "〇〇は、日本の医学者・生理学者、東京慈恵会医科大学名誉教授。"
             }
         ]
     }
