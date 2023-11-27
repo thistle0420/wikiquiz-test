@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年11月27日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4220180",
+                "title": "松尾和利",
+                "text": "〇〇は、日本の実業家。株式会社ジーダット代表取締役社長。福岡県出身。"
+            },
+            {
                 "datetime": "2023年11月27日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=512995",
                 "title": "間組",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=600275",
                 "title": "国際情報オリンピック",
                 "text": "〇〇は、1989年から毎年行われる、高校生を対象としたプログラミング能力を競う国際大会である。"
-            },
-            {
-                "datetime": "2023年11月26日 03時の問題",
-                "url": "https://ja.wikipedia.org/?curid=312013",
-                "title": "自転車メーカー一覧",
-                "text": "〇〇は、自転車の完成品・部品のメーカーと、それに準ずるブランドを挙げる。"
             }
         ]
     }
