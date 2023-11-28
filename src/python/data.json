@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年11月28日 10時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2422168",
+                "title": "広島県専修学校一覧",
+                "text": "〇〇は、広島県の専修学校の一覧。"
+            },
+            {
                 "datetime": "2023年11月28日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=850674",
                 "title": "アヴィニョン歴史地区",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3296220",
                 "title": "パンブフ",
                 "text": "〇〇は、フランス、ペイ・ド・ラ・ロワール地域圏、ロワール＝アトランティック県のコミューン。"
-            },
-            {
-                "datetime": "2023年11月26日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=24343",
-                "title": "矢野駅",
-                "text": "〇〇は、広島県広島市安芸区矢野西一丁目にある、西日本旅客鉄道（JR西日本）呉線の駅である。駅番号はJR-Y05。広島市内にある唯一の呉線内の駅である。"
             }
         ]
     }
