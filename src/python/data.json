@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年11月28日 22時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3834785",
+                "title": "錯枝",
+                "text": "〇〇は、中国の戦国時代の越の君主。"
+            },
+            {
                 "datetime": "2023年11月28日 21時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2125169",
                 "title": "価長",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2019758",
                 "title": "小林貴子 (柔道)",
                 "text": "〇〇は、京都府出身の日本の柔道家。現役時代は61kg級の選手。身長159cm。得意技は内股。"
-            },
-            {
-                "datetime": "2023年11月27日 04時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4841145",
-                "title": "荒川区立第三峡田小学校",
-                "text": "〇〇は、東京都荒川区荒川1丁目にある公立小学校。"
             }
         ]
     }
