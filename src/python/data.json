@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年11月29日 02時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3878443",
+                "title": "無謀運転",
+                "text": "〇〇は、自動車や自転車などの運転者による重大な事故や違反行為につながるような運転方法。英語ではReckless drivingという。"
+            },
+            {
                 "datetime": "2023年11月29日 01時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2637214",
                 "title": "美味だれ焼き鳥",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3885536",
                 "title": "玉野市立東児中学校",
                 "text": "〇〇は、岡山県玉野市にある公立中学校。"
-            },
-            {
-                "datetime": "2023年11月27日 08時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4770310",
-                "title": "駒形町 (豊橋市)",
-                "text": "〇〇は、愛知県豊橋市の地名。"
             }
         ]
     }
