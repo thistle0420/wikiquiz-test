@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年11月29日 22時の問題",
+                "url": "https://ja.wikipedia.org/?curid=528570",
+                "title": "大井川鉄道ED90形電気機関車",
+                "text": "〇〇は、大井川鉄道（現・大井川鐵道）が導入したアプト式電気機関車。"
+            },
+            {
                 "datetime": "2023年11月29日 21時の問題",
                 "url": "https://ja.wikipedia.org/?curid=35653",
                 "title": "モルダヴィア",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4478425",
                 "title": "テムシロリムス",
                 "text": "〇〇は、シロリムスの誘導体およびプロドラッグである。"
-            },
-            {
-                "datetime": "2023年11月28日 04時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2781833",
-                "title": "REM (Mr.Childrenの曲)",
-                "text": "〇〇は、日本のバンド・Mr.Childrenの5作目の配信限定シングル。2013年5月29日にトイズファクトリーより発売された。"
             }
         ]
     }
