@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年11月29日 10時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4420712",
+                "title": "ジャネット・オケロ",
+                "text": "〇〇は、ケニアの女子ラグビー選手。"
+            },
+            {
                 "datetime": "2023年11月29日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2121992",
                 "title": "ジェイ・ローチ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4077767",
                 "title": "村上紀生",
                 "text": "〇〇は、日本の声優・俳優。東京都出身。アクロスエンタテインメント所属。理学療法士免許を有する。"
-            },
-            {
-                "datetime": "2023年11月27日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=402324",
-                "title": "チャスジアメリカムシクイ",
-                "text": "〇〇は、スズメ目アメリカムシクイ科に分類される鳥。"
             }
         ]
     }
