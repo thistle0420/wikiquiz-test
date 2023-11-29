@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年11月29日 23時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4718093",
+                "title": "FCヴィゼラ",
+                "text": "〇〇は、ポルトガル・ブラガ地区のヴィゼラを本拠地とするサッカークラブである。"
+            },
+            {
                 "datetime": "2023年11月29日 22時の問題",
                 "url": "https://ja.wikipedia.org/?curid=528570",
                 "title": "大井川鉄道ED90形電気機関車",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3744737",
                 "title": "太田夢莉",
                 "text": "〇〇は、日本の女優、YouTuber。奈良県出身。元アイドルで女性アイドルグループ・NMB48チームNの元メンバー、派生ユニットQueentetのメンバーである。"
-            },
-            {
-                "datetime": "2023年11月28日 05時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4478425",
-                "title": "テムシロリムス",
-                "text": "〇〇は、シロリムスの誘導体およびプロドラッグである。"
             }
         ]
     }
