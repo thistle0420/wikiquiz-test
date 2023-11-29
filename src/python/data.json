@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年11月29日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1938619",
+                "title": "The Ultimate Fighter: Team Hughes vs. Team Serra Finale",
+                "text": "〇〇は、アメリカ合衆国の総合格闘技団体「UFC」の大会の一つ。本大会はリアリティ番組「The Ultimate Fighter」シーズン6のフィナーレとして、2007年12月8日、ネバダ州ラスベガスのザ・パールで開催された。"
+            },
+            {
                 "datetime": "2023年11月29日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2217593",
                 "title": "清水一平",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1845464",
                 "title": "コルト・コマンドー",
                 "text": "〇〇は、コルト社のアサルトカービンの総称。CAR-15 カービンやXM177 サブマシンガン、M4カービンなどが含まれる。また、近年では特に、M4 カービンの銃身をさらに短縮したコルト M4 コマンドーのことを指すこともある。"
-            },
-            {
-                "datetime": "2023年11月28日 00時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2763725",
-                "title": "ブージヴァル",
-                "text": "〇〇は、フランス、イル＝ド＝フランス地域圏、イヴリーヌ県のコミューン。"
             }
         ]
     }
