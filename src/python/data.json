@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年11月30日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4846189",
+                "title": "TOKAI RADIO MUSIC PROGRAM SESSIONS 929",
+                "text": "〇〇は、東海ラジオにて2023年10月3日から2024年3月までのナイターオフシーズン限定（予定）で放送されているラジオ番組である。"
+            },
+            {
                 "datetime": "2023年11月30日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4008335",
                 "title": "ムガヒンガ・ゴリラ国立公園",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2125169",
                 "title": "価長",
                 "text": "〇〇は、内蔵寮（2人）・大蔵省（4人）・東西市司（東西各5人）の各官司に設置された官人（伴部）。"
-            },
-            {
-                "datetime": "2023年11月28日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2234396",
-                "title": "日本総義歯補綴学会",
-                "text": "〇〇は、総義歯を中心とした学問を取り扱う専門団体の一つである。"
             }
         ]
     }
