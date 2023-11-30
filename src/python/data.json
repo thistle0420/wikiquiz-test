@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年11月30日 19時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4432455",
+                "title": "恒隆地産",
+                "text": "〇〇は、香港の恒隆集団の子会社である、不動産事業を行っている企業である。建設や所有、管理を行っている大手企業でもある。"
+            },
+            {
                 "datetime": "2023年11月30日 18時の問題",
                 "url": "https://ja.wikipedia.org/?curid=20714",
                 "title": "イネーブルウェア",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3878443",
                 "title": "無謀運転",
                 "text": "〇〇は、自動車や自転車などの運転者による重大な事故や違反行為につながるような運転方法。英語ではReckless drivingという。"
-            },
-            {
-                "datetime": "2023年11月29日 01時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2637214",
-                "title": "美味だれ焼き鳥",
-                "text": "〇〇は、長野県上田市発祥の焼き鳥料理。"
             }
         ]
     }
