@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年12月01日 03時の問題",
+                "url": "https://ja.wikipedia.org/?curid=371813",
+                "title": "伊藤栄次",
+                "text": "〇〇は、日本の男性声優。エスエスピー所属。埼玉県深谷市出身。甥に漫画家の大亜門がいる。姪にOSK日本歌劇団の南星杜有がいる。"
+            },
+            {
                 "datetime": "2023年12月01日 02時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1103421",
                 "title": "ラリサ・セレズネワ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2508325",
                 "title": "トップをねらえ! NeXT GENERATION",
                 "text": "〇〇は、ガイナックスのOVA作品『トップをねらえ!』のスピンオフとして発表されたメディアミックス作品。漫画・小説作品の媒体で展開された。"
-            },
-            {
-                "datetime": "2023年11月29日 10時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4420712",
-                "title": "ジャネット・オケロ",
-                "text": "〇〇は、ケニアの女子ラグビー選手。"
             }
         ]
     }
