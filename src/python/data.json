@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年12月01日 05時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3930010",
+                "title": "池上台",
+                "text": "〇〇は、愛知県名古屋市緑区の町名。現行行政地名は〇〇一丁目から〇〇三丁目。住居表示未実施。"
+            },
+            {
                 "datetime": "2023年12月01日 04時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4692063",
                 "title": "西垂水美桜",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1206126",
                 "title": "ビスケットエンターティメント",
                 "text": "〇〇は、かつて存在した日本の芸能事務所である。渡辺プロダクション系列。"
-            },
-            {
-                "datetime": "2023年11月29日 12時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4683977",
-                "title": "川崎市立下河原小学校",
-                "text": "〇〇は、神奈川県川崎市中原区上平間にある市立小学校。"
             }
         ]
     }
