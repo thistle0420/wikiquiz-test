@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年12月01日 04時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4692063",
+                "title": "西垂水美桜",
+                "text": "〇〇は、日本の女子バスケットボール選手である。ポジションはスモールフォワード。Wリーグの新潟アルビレックスBBラビッツ所属。"
+            },
+            {
                 "datetime": "2023年12月01日 03時の問題",
                 "url": "https://ja.wikipedia.org/?curid=371813",
                 "title": "伊藤栄次",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4683977",
                 "title": "川崎市立下河原小学校",
                 "text": "〇〇は、神奈川県川崎市中原区上平間にある市立小学校。"
-            },
-            {
-                "datetime": "2023年11月29日 11時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2508325",
-                "title": "トップをねらえ! NeXT GENERATION",
-                "text": "〇〇は、ガイナックスのOVA作品『トップをねらえ!』のスピンオフとして発表されたメディアミックス作品。漫画・小説作品の媒体で展開された。"
             }
         ]
     }
