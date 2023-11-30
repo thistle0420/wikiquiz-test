@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年11月30日 16時の問題",
+                "url": "https://ja.wikipedia.org/?curid=556168",
+                "title": "ルトランカード",
+                "text": "〇〇は、京浜急行電鉄が発売していた乗車カード。カード名はフランス語の\"le train\"（列車）に由来する。"
+            },
+            {
                 "datetime": "2023年11月30日 15時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4303467",
                 "title": "Adobe Creative Cloud Express",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1124517",
                 "title": "ラッシュ・リンボー",
                 "text": "〇〇は、アメリカ合衆国のトークラジオショーのホスト。ミズーリ州ケープジラード出身。ラッシュ・リムボウとも。米右派・タカ派の代表的ラジオパーソナリティの一人である。アンチフェミニズムでもある。"
-            },
-            {
-                "datetime": "2023年11月28日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3834785",
-                "title": "錯枝",
-                "text": "〇〇は、中国の戦国時代の越の君主。"
             }
         ]
     }
