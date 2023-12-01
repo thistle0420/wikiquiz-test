@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年12月01日 11時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2368307",
+                "title": "トカラ列島島めぐりマラソン大会",
+                "text": "〇〇は、鹿児島県十島村が主催するマラソン大会である。"
+            },
+            {
                 "datetime": "2023年12月01日 10時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1019457",
                 "title": "鈴木光枝",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1938619",
                 "title": "The Ultimate Fighter: Team Hughes vs. Team Serra Finale",
                 "text": "〇〇は、アメリカ合衆国の総合格闘技団体「UFC」の大会の一つ。本大会はリアリティ番組「The Ultimate Fighter」シーズン6のフィナーレとして、2007年12月8日、ネバダ州ラスベガスのザ・パールで開催された。"
-            },
-            {
-                "datetime": "2023年11月29日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2217593",
-                "title": "清水一平",
-                "text": "〇〇は、東京都出身のサッカー選手、フットサル選手。ポジションは、DF。"
             }
         ]
     }
