@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年12月02日 04時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4461846",
+                "title": "気仙沼カントリークラブ",
+                "text": "〇〇は、宮城県気仙沼市にあるゴルフ場である。"
+            },
+            {
                 "datetime": "2023年12月02日 03時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1560523",
                 "title": "デイヴィッド・ラヴァリング",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=58353",
                 "title": "いつもここから",
                 "text": "〇〇は、山田一成と菊地秀規からなる日本のお笑いコンビ。ワタナベエンターテインメント所属。略称は「いつここ」。"
-            },
-            {
-                "datetime": "2023年11月30日 11時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1768373",
-                "title": "本間友紀乃",
-                "text": "〇〇は、日本の元子役である。2010年引退。"
             }
         ]
     }
