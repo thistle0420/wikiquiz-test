@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年12月03日 04時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2298468",
+                "title": "コレステロール-25-ヒドロキシラーゼ",
+                "text": "〇〇は、次の化学反応を触媒する酸化還元酵素である。コレステロール + 還元型受容体 + O2                     ⇌              {\\displaystyle \\rightleftharpoons }   25-ヒドロキシコレステロール + 受容体 + H2Oこの酵素の基質はコレステロール、還元型受容体とO2で、生成物は25-ヒドロキシコレステロール、受容体とH2Oである。この酵素は酸化還元酵素に属し、基質に特異的に作用する。酸素は酸化剤として還元されると同時に基質に取り込まれる。組織名はcholesterol,hydrogen-donor:oxygen oxidoreductase (25-hydroxylating)で、別名にcholesterol 25-monooxygenaseがある。"
+            },
+            {
                 "datetime": "2023年12月03日 03時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4818735",
                 "title": "2015年アメリカ空軍C-130墜落事故",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4437064",
                 "title": "腹弁",
                 "text": "〇〇は、セミの腹部にある鳴き声を出すための器官。セミがなくのはオスだけでメスは鳴かない。オスの〇〇は大きく、メスは小さい。お腹の〇〇は丸い形のものが2個あり、メスは小さく鳴く機能はない。オスが鳴くのはメスを呼ぶためである。"
-            },
-            {
-                "datetime": "2023年12月01日 11時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2368307",
-                "title": "トカラ列島島めぐりマラソン大会",
-                "text": "〇〇は、鹿児島県十島村が主催するマラソン大会である。"
             }
         ]
     }
