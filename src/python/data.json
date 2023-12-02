@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年12月03日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1155493",
+                "title": "殊勲十字章",
+                "text": "〇〇は、軍人に対して授与される勲章。複数の国・軍種で制定されており、授与基準等の制度は国によって異なる。また、Navy Cross及びAir Force Crossが海軍〇〇、空軍〇〇と訳される場合もある。アメリカ陸軍（Distinguished Service Cross）: 陸軍〇〇と訳される場合もある。〇〇 (アメリカ合衆国)を参照アメリカ海軍（Navy Cross）: 海軍十字章を参照。アメリカ空軍（Air Force Cross）: 空軍十字章 (アメリカ合衆国)を参照。オーストラリア国防軍（Distinguished Service Cross） -  en:Distinguished Service Cross (Australia)を参照。イギリス軍（Distinguished Service Cross） - en:Distinguished Service Cross (United Kingdom)を参照。イギリス軍（Air Force Cross） - en:Air Force Cross (United Kingdom)を参照。"
+            },
+            {
                 "datetime": "2023年12月03日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3268256",
                 "title": "天津地下鉄3号線",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4073398",
                 "title": "老辺餃子館",
                 "text": "〇〇は、本店が中国遼寧省瀋陽市にある、1829年に設立された餃子レストランである。中国の中華老字号に選ばれている。"
-            },
-            {
-                "datetime": "2023年12月01日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4275054",
-                "title": "百姓伝記",
-                "text": "〇〇は、17世紀後半に著された日本の農書。写本で残され、同時代の刊本はない。17世紀の東海地方に伝わる農業に関するさまざまな経験や伝承を記したものである。先行書からの引用は少なく、中国の農書や本草書との関連もほとんどない。岩波文庫本の底本となった、西尾市立図書館岩瀬文庫所蔵の写本には、著者名も年代も記されていないので、岩波文庫の校訂を行った古島敏雄は、遠州横須賀藩の関係者が1680年ころに著したものだと推定している。また、著者については、村役人層にある人物を想定している。内容は基本的に耕作するものの立場から書かれ、稲作中心で商品作物にはあまりふれられていない。また、治水に関する記述が多く、また高潮に関する記述も詳しい。20世紀の刊本として岩波文庫本（1977年）がある。"
             }
         ]
     }
