@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年12月03日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4790434",
+                "title": "東急電鉄株式買い占め事件",
+                "text": "〇〇は、東京急行電鉄の株式の買い占めに係る事件。"
+            },
+            {
                 "datetime": "2023年12月03日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1155493",
                 "title": "殊勲十字章",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=65457",
                 "title": "414年",
                 "text": "〇〇は、西暦（ユリウス暦）による、平年。"
-            },
-            {
-                "datetime": "2023年12月01日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4073398",
-                "title": "老辺餃子館",
-                "text": "〇〇は、本店が中国遼寧省瀋陽市にある、1829年に設立された餃子レストランである。中国の中華老字号に選ばれている。"
             }
         ]
     }
