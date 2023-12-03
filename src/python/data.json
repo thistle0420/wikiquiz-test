@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年12月03日 11時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4146514",
+                "title": "青野てる坊",
+                "text": "〇〇は、日本の漫画家。男性。福岡県出身。"
+            },
+            {
                 "datetime": "2023年12月03日 10時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2176490",
                 "title": "広島市立仁保中学校",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=750125",
                 "title": "唐沢川 (秦野市)",
                 "text": "〇〇は、神奈川県秦野市を流れる二級河川で金目川水系葛葉川の支流である。"
-            },
-            {
-                "datetime": "2023年12月01日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2947187",
-                "title": "Tales of Purefly",
-                "text": "〇〇は、2014年3月12日にソニー・ミュージックレコーズから発売されたMAN WITH A MISSIONのアルバム。フルアルバムとしては3作目。"
             }
         ]
     }
