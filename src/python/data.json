@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年12月03日 10時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2176490",
+                "title": "広島市立仁保中学校",
+                "text": "〇〇は、広島県広島市南区にある公立中学校。"
+            },
+            {
                 "datetime": "2023年12月03日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4790434",
                 "title": "東急電鉄株式買い占め事件",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2947187",
                 "title": "Tales of Purefly",
                 "text": "〇〇は、2014年3月12日にソニー・ミュージックレコーズから発売されたMAN WITH A MISSIONのアルバム。フルアルバムとしては3作目。"
-            },
-            {
-                "datetime": "2023年12月01日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=65457",
-                "title": "414年",
-                "text": "〇〇は、西暦（ユリウス暦）による、平年。"
             }
         ]
     }
