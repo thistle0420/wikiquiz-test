@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年12月04日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2841631",
+                "title": "晴山由梨",
+                "text": "〇〇は、日本のタレント、モデル。過去にはドルチェスターに所属していた。"
+            },
+            {
                 "datetime": "2023年12月04日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4227527",
                 "title": "中川俊男",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2134593",
                 "title": "ヨーロピアンパーチ",
                 "text": "〇〇は、スズキ目ペルカ科に所属する魚類。単に「パーチ」と呼んで本種を指すこともあるほか、「Redfin perch」あるいは「English perch」など多くの地域名をもつ。ロシア名でОкунь（オークニ）と呼ばれている。"
-            },
-            {
-                "datetime": "2023年12月02日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2846533",
-                "title": "ビトレイヤー",
-                "text": "〇〇は、2013年のイギリスのクライムアクション映画。"
             }
         ]
     }
