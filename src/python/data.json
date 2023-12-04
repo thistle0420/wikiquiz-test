@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年12月05日 06時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2212644",
+                "title": "WOWOWプラス",
+                "text": "〇〇は、WOWOWの連結子会社で、放送・映像コンテンツ配信・提供を主業務としている会社である。"
+            },
+            {
                 "datetime": "2023年12月05日 05時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2109371",
                 "title": "石岡雅敬",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4197340",
                 "title": "環境昆虫学",
                 "text": "〇〇は、昆虫が環境の変化にどう適応しているのか、生物地理・進化・生態・行動などから考察し理解を深める学問であり、昆虫学の一分野。昆虫生態学にしばしば含まれる。"
-            },
-            {
-                "datetime": "2023年12月03日 13時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2949161",
-                "title": "井野町 (佐倉市)",
-                "text": "〇〇は、千葉県佐倉市の地名。郵便番号285-0856。"
             }
         ]
     }
