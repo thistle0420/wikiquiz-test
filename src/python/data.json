@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年12月05日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2496607",
+                "title": "千光寺 (名古屋市)",
+                "text": "〇〇は、愛知県名古屋市中区伊勢山二丁目にある曹洞宗の寺院。"
+            },
+            {
                 "datetime": "2023年12月05日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2212644",
                 "title": "WOWOWプラス",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1580375",
                 "title": "中嶋将平",
                 "text": "〇〇は、日本の男性声優。埼玉県出身。スターダス・21所属。"
-            },
-            {
-                "datetime": "2023年12月03日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4197340",
-                "title": "環境昆虫学",
-                "text": "〇〇は、昆虫が環境の変化にどう適応しているのか、生物地理・進化・生態・行動などから考察し理解を深める学問であり、昆虫学の一分野。昆虫生態学にしばしば含まれる。"
             }
         ]
     }
