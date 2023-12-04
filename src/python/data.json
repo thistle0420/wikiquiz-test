@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年12月04日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2809595",
+                "title": "成田市立高岡小学校",
+                "text": "〇〇は、千葉県成田市大和田にあった公立小学校。"
+            },
+            {
                 "datetime": "2023年12月04日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2074923",
                 "title": "柳下花恋",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4608915",
                 "title": "ヌマジカ属",
                 "text": "〇〇は、哺乳綱鯨偶蹄目シカ科シカ亜科に分類される属。"
-            },
-            {
-                "datetime": "2023年12月03日 00時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3833124",
-                "title": "佐野嘉彦",
-                "text": "〇〇は、日本の実業家。ニプロ創業者佐野實の甥で、同社第2代代表取締役社長を務める。"
             }
         ]
     }
