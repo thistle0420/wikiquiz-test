@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年12月05日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3436358",
+                "title": "佐々木大蔵",
+                "text": "〇〇は、日本の男性キックボクサー。東京都町田市出身。K-1ジム SAGAMI-ONO-KREST所属。現Krushスーパーライト級王者。元Krushライト級王者。弟の佐々木涼助も元プロキックボクサーである。"
+            },
+            {
                 "datetime": "2023年12月05日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2496607",
                 "title": "千光寺 (名古屋市)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=7409",
                 "title": "室温超伝導",
                 "text": "〇〇は、超伝導になる転移温度がおよそ300K程度であること。"
-            },
-            {
-                "datetime": "2023年12月03日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1580375",
-                "title": "中嶋将平",
-                "text": "〇〇は、日本の男性声優。埼玉県出身。スターダス・21所属。"
             }
         ]
     }
