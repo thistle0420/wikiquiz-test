@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年12月05日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1867888",
+                "title": "錦木",
+                "text": "〇〇は、以下のものを指す。"
+            },
+            {
                 "datetime": "2023年12月04日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=354153",
                 "title": "ザナドゥ (ゲーム)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1155493",
                 "title": "殊勲十字章",
                 "text": "〇〇は、軍人に対して授与される勲章。複数の国・軍種で制定されており、授与基準等の制度は国によって異なる。また、Navy Cross及びAir Force Crossが海軍〇〇、空軍〇〇と訳される場合もある。アメリカ陸軍（Distinguished Service Cross）: 陸軍〇〇と訳される場合もある。〇〇 (アメリカ合衆国)を参照アメリカ海軍（Navy Cross）: 海軍十字章を参照。アメリカ空軍（Air Force Cross）: 空軍十字章 (アメリカ合衆国)を参照。オーストラリア国防軍（Distinguished Service Cross） -  en:Distinguished Service Cross (Australia)を参照。イギリス軍（Distinguished Service Cross） - en:Distinguished Service Cross (United Kingdom)を参照。イギリス軍（Air Force Cross） - en:Air Force Cross (United Kingdom)を参照。"
-            },
-            {
-                "datetime": "2023年12月03日 06時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3268256",
-                "title": "天津地下鉄3号線",
-                "text": "〇〇は、中華人民共和国天津市西青区の南站駅から北辰区小淀駅までを結ぶ天津地下鉄の地下鉄路線である。ラインカラーは■水色。"
             }
         ]
     }
