@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年12月07日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=96621",
+                "title": "エトロフウミスズメ",
+                "text": "〇〇は、チドリ目ウミスズメ科に分類される海鳥の一種。"
+            },
+            {
                 "datetime": "2023年12月06日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2466761",
                 "title": "モベキマス",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2496607",
                 "title": "千光寺 (名古屋市)",
                 "text": "〇〇は、愛知県名古屋市中区伊勢山二丁目にある曹洞宗の寺院。"
-            },
-            {
-                "datetime": "2023年12月05日 06時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2212644",
-                "title": "WOWOWプラス",
-                "text": "〇〇は、WOWOWの連結子会社で、放送・映像コンテンツ配信・提供を主業務としている会社である。"
             }
         ]
     }
