@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年12月06日 10時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1161811",
+                "title": "Gone with the rain",
+                "text": "〇〇は、1997年12月3日にマーキュリー・ミュージックエンタテイメントからリリースされた松田聖子の通算46枚目のシングル。"
+            },
+            {
                 "datetime": "2023年12月06日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2571738",
                 "title": "Α酸",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2074923",
                 "title": "柳下花恋",
                 "text": "〇〇は、神奈川県出身、アルファコア(ALPHA-CORE)所属の元子役。"
-            },
-            {
-                "datetime": "2023年12月04日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2007616",
-                "title": "山本ふじこ",
-                "text": "〇〇は、大阪府出身の女優。身長167cm。劇団東京ヴォードヴィルショー所属。本名および旧芸名は山本富士子（読みは同じ）。"
             }
         ]
     }
