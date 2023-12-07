@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年12月08日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1262572",
+                "title": "Girl Meets Boy",
+                "text": "〇〇は、声優・宮崎羽衣の1枚目のシングル。2005年12月7日にLantisから発売された。"
+            },
+            {
                 "datetime": "2023年12月08日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2178275",
                 "title": "青木屋",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2886568",
                 "title": "尾畑美依奈",
                 "text": "〇〇は、日本の女優、声優。岐阜県出身。現在は夫ともに大阪市内にて、「イタリアンカレー らんらんルー」も営んでいる。事務所は青年座映画放送 → アティチュード"
-            },
-            {
-                "datetime": "2023年12月06日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=612042",
-                "title": "兵庫県立須磨友が丘高等学校",
-                "text": "〇〇は、兵庫県神戸市須磨区にある県立高等学校。"
             }
         ]
     }
