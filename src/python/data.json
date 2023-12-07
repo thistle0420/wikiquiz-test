@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年12月07日 10時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1622864",
+                "title": "ジョン・チョー",
+                "text": "〇〇は、大韓民国ソウル特別市生まれのアメリカ合衆国の俳優・コメディアン、ミュージシャン・声優、作家である。身長176cm。"
+            },
+            {
                 "datetime": "2023年12月07日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2662718",
                 "title": "思源杯プロ囲棋戦",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1208543",
                 "title": "高桑一",
                 "text": "〇〇は、日本の音響監督。東京都出身。"
-            },
-            {
-                "datetime": "2023年12月05日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4829182",
-                "title": "EA SPORTS FC 24",
-                "text": "〇〇は、EAバンクーバーとEAルーマニアが開発し、エレクトロニック・アーツより2023年9月29日に世界同時発売されたサッカーゲームである。EAスポーツとFIFA提携解消後初のEA Sports FC第一作。EAとサッカーゲーム通算31作目。対応機種はNintendo Switch、PlayStation 4、PlayStation 5、Windows、Xbox One、Xbox Series X/S。"
             }
         ]
     }
