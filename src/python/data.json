@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年12月08日 12時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4397468",
+                "title": "山城町瀬貝",
+                "text": "〇〇は、徳島県三好市の町名。郵便番号は779-5345。"
+            },
+            {
                 "datetime": "2023年12月08日 11時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1363492",
                 "title": "遊☆戯☆王5D's",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2749718",
                 "title": "長城警察署",
                 "text": "〇〇は、全南地方警察庁所管の警察署である。"
-            },
-            {
-                "datetime": "2023年12月06日 18時の問題",
-                "url": "https://ja.wikipedia.org/?curid=966730",
-                "title": "フートゴング",
-                "text": "〇〇は、路面電車が走行するとき周囲の人や車に注意を促すために鳴らす鐘である。フットゴング、警鈴（けいりん）とも呼ばれる。"
             }
         ]
     }
