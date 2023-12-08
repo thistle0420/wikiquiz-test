@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年12月08日 13時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1931802",
+                "title": "Drusilla",
+                "text": "〇〇は、アメリカ合衆国で発売されたコミック。アメリカのテレビドラマ『エンジェル』のコミック版で、発行はIDW Publishing。2部に分かれ、2009年8月と9月に発売された。"
+            },
+            {
                 "datetime": "2023年12月08日 12時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4397468",
                 "title": "山城町瀬貝",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4773695",
                 "title": "大成海運",
                 "text": "〇〇は、愛媛県新居浜市惣開町に本社を置く海運会社。住友倉庫のグループ会社である。"
-            },
-            {
-                "datetime": "2023年12月06日 19時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2749718",
-                "title": "長城警察署",
-                "text": "〇〇は、全南地方警察庁所管の警察署である。"
             }
         ]
     }
