@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年12月10日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1735673",
+                "title": "豊橋技術科学大学",
+                "text": "〇〇は、愛知県豊橋市天伯町雲雀ヶ丘1-1に本部を置く日本の国立大学。1976年創立、1976年大学設置。大学の略称は技科大、豊技大、TUT、Toyohashi Tech。"
+            },
+            {
                 "datetime": "2023年12月09日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2743518",
                 "title": "串田彗星",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1262572",
                 "title": "Girl Meets Boy",
                 "text": "〇〇は、声優・宮崎羽衣の1枚目のシングル。2005年12月7日にLantisから発売された。"
-            },
-            {
-                "datetime": "2023年12月08日 06時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2178275",
-                "title": "青木屋",
-                "text": "〇〇は、東京都府中市に本社を置く日本の製菓会社。1893年（明治26年）9月創業。和菓子を中心に土産菓子、洋菓子などの商品を製造・販売する。"
             }
         ]
     }
