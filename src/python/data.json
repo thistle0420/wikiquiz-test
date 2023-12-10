@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年12月10日 16時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2496817",
+                "title": "勝川駅周辺総合整備事業",
+                "text": "〇〇は、愛知県春日井市のJR勝川駅周辺で行われた都市再開発事業。"
+            },
+            {
                 "datetime": "2023年12月10日 15時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3146072",
                 "title": "エバラCJフレッシュフーズ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1708328",
                 "title": "小帯切除術",
                 "text": "〇〇は、小帯の位置・形態・数の異常がある患者に対して適応となる。歯周治療において、小帯の位置異常により、付着歯肉の不足やプラークコントロールの不足が生じる場合などに用いられる術式である。〇〇と小帯切断術は異なる．"
-            },
-            {
-                "datetime": "2023年12月08日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1108391",
-                "title": "ThinkPad G",
-                "text": "〇〇は、レノボ（元はIBM）のノートパソコン、ThinkPadブランドの一シリーズ。"
             }
         ]
     }
