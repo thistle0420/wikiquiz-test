@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年12月11日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3354363",
+                "title": "諫早市立有喜小学校",
+                "text": "〇〇は、長崎県諫早市有喜町にある公立小学校。"
+            },
+            {
                 "datetime": "2023年12月11日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1045454",
                 "title": "Noria",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3839135",
                 "title": "キム・ジヌ",
                 "text": "〇〇は、韓国の歌手、俳優である。WINNERのメンバーである。身長178cm、血液型A型。"
-            },
-            {
-                "datetime": "2023年12月09日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1691382",
-                "title": "中村恭平 (教育者)",
-                "text": "〇〇は、教育者。東京物理学講習所（後の東京物理学校、現在の東京理科大学）の創立者の一人で、東京物理学校第3代校長。"
             }
         ]
     }
