@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年12月10日 12時の問題",
+                "url": "https://ja.wikipedia.org/?curid=44170",
+                "title": "NASDAQ",
+                "text": "〇〇は、1971年に全米証券業協会（National Association of Securities Dealers、略称:NASD）主催で世界初の電子株式取引所として設立された証券取引所である。世界最大の新興（グロース）企業向け株式市場であり、AppleやMicrosoftなどのハイテク企業やIT関連企業の割合が高い。世界的にも時価総額でニューヨーク証券取引所（NYSE）と並ぶ規模を誇る。"
+            },
+            {
                 "datetime": "2023年12月10日 11時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1097017",
                 "title": "FOLFOX",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1690916",
                 "title": "西風雲",
                 "text": "〇〇は、多人数で構成するJ-POP音楽ユニット。「Break your name」がフジテレビジョン音楽番組『HEY!HEY!HEY! MUSIC CHAMP』の2009年2月及び3月のエンディングテーマとしてオンエアーされ、ユニットの存在が知らされるも正体は未公表。現在「〇〇」としての大きな活動は行ってない。"
-            },
-            {
-                "datetime": "2023年12月08日 18時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1241999",
-                "title": "カール＝ハインツ・パッシン",
-                "text": "〇〇は、ドイツのフルート奏者。ライプツィヒ・ゲヴァントハウス管弦楽団の首席フルート奏者を長らく務めた。オーボエ奏者のギュンター・パッシン（Günther Passin、1937年 -2014年 ）の弟である。"
             }
         ]
     }
