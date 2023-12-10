@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年12月11日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=607803",
+                "title": "梶トマト",
+                "text": "〇〇は、日本の男性プロレスラー。東京都葛飾区出身。血液型A型。"
+            },
+            {
                 "datetime": "2023年12月11日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3354363",
                 "title": "諫早市立有喜小学校",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=258973",
                 "title": "兵庫県道117号豊富北条線",
                 "text": "〇〇は、姫路市豊富町豊富から加西市北条町北条を結ぶ一般県道。"
-            },
-            {
-                "datetime": "2023年12月09日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3839135",
-                "title": "キム・ジヌ",
-                "text": "〇〇は、韓国の歌手、俳優である。WINNERのメンバーである。身長178cm、血液型A型。"
             }
         ]
     }
