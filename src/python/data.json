@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年12月11日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2938496",
+                "title": "マッターホルン・ゴッタルド鉄道Deh4/4 21-24形電車",
+                "text": "〇〇は、スイス南部の私鉄であるマッターホルン・ゴッタルド鉄道（Matterhorn-Gotthard-Bahn (MGB)）の山岳鉄道用ラック式荷物電車である。"
+            },
+            {
                 "datetime": "2023年12月11日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2602137",
                 "title": "冬が来る前に",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2210263",
                 "title": "田口省吾",
                 "text": "〇〇は、日本の画家。"
-            },
-            {
-                "datetime": "2023年12月09日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=935170",
-                "title": "マホマホだいぼうけん",
-                "text": "〇〇は、1994年4月4日から1995年4月7日までNHK教育テレビジョンで放送された寸劇形式の子供向け番組である。"
             }
         ]
     }
