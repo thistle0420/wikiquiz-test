@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年12月12日 13時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1016330",
+                "title": "土岐満貞",
+                "text": "〇〇は、南北朝時代の武将、守護大名。室町幕府侍所頭人、尾張守護。島田氏の祖。戦国時代に遠江などに所領を持ち、今川氏や徳川氏に仕えた菅沼氏一族は満貞の後裔とも伝えられる（藤原北家伊周流とする大森氏族などの異説あり）。"
+            },
+            {
                 "datetime": "2023年12月12日 12時の問題",
                 "url": "https://ja.wikipedia.org/?curid=467246",
                 "title": "横田濱夫",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4531832",
                 "title": "UFC Fight Night: Hermansson vs. Strickland",
                 "text": "〇〇は、アメリカ合衆国の総合格闘技団体「UFC」の大会の一つ。2022年2月5日、ネバダ州ラスベガスのUFC APEXで開催された。"
-            },
-            {
-                "datetime": "2023年12月10日 19時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4011856",
-                "title": "訃報 1990年2月",
-                "text": "〇〇は、1990年（平成2年）2月中に物故した人物の一覧である。"
             }
         ]
     }
