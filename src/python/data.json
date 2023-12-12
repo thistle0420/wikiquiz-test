@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年12月12日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3269022",
+                "title": "若き獅子たち (映画)",
+                "text": "〇〇は、1958年制作のアメリカ合衆国の戦争映画。アーウィン・ショーの同名小説をエドワード・ドミトリク監督、マーロン・ブランド、モンゴメリー・クリフト、ディーン・マーティンらの出演で映画化した作品である。"
+            },
+            {
                 "datetime": "2023年12月12日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1016330",
                 "title": "土岐満貞",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1999433",
                 "title": "ジャニュアリー・ジョーンズ",
                 "text": "〇〇は、アメリカ合衆国の女優。テレビドラマ『マッドメン』のベティ・ドレイパー役で知られる。"
-            },
-            {
-                "datetime": "2023年12月10日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4531832",
-                "title": "UFC Fight Night: Hermansson vs. Strickland",
-                "text": "〇〇は、アメリカ合衆国の総合格闘技団体「UFC」の大会の一つ。2022年2月5日、ネバダ州ラスベガスのUFC APEXで開催された。"
             }
         ]
     }
