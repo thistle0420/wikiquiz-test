@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年12月13日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4465224",
+                "title": "希代あみ",
+                "text": "〇〇は、日本のAV女優。C-more エンターテイメント所属。"
+            },
+            {
                 "datetime": "2023年12月13日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1790372",
                 "title": "Mr.脳",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3473857",
                 "title": "喫煙シェルター",
                 "text": "〇〇は、受動喫煙を防止する手段として、屋内施設を全面禁煙とした際に屋外に設置される喫煙専用の建屋に名づけられた名称である。また、同様の施設については、その形状・構造などから屋外喫煙室とも呼ばれることがある。"
-            },
-            {
-                "datetime": "2023年12月11日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2938496",
-                "title": "マッターホルン・ゴッタルド鉄道Deh4/4 21-24形電車",
-                "text": "〇〇は、スイス南部の私鉄であるマッターホルン・ゴッタルド鉄道（Matterhorn-Gotthard-Bahn (MGB)）の山岳鉄道用ラック式荷物電車である。"
             }
         ]
     }
