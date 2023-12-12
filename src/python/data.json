@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年12月13日 01時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3658806",
+                "title": "2017年シンガポールグランプリ",
+                "text": "〇〇は、2017年のF1世界選手権第14戦として、2017年9月17日にシンガポール市街地コースで開催された。正式名称は「2017 FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX」。"
+            },
+            {
                 "datetime": "2023年12月13日 00時の問題",
                 "url": "https://ja.wikipedia.org/?curid=872122",
                 "title": "月光花",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=607803",
                 "title": "梶トマト",
                 "text": "〇〇は、日本の男性プロレスラー。東京都葛飾区出身。血液型A型。"
-            },
-            {
-                "datetime": "2023年12月11日 07時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3354363",
-                "title": "諫早市立有喜小学校",
-                "text": "〇〇は、長崎県諫早市有喜町にある公立小学校。"
             }
         ]
     }
