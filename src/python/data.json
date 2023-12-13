@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年12月14日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4202598",
+                "title": "パスカル・ピノン",
+                "text": "〇〇は、アイスランドのレイキャビク出身の双子の姉妹アウスズヒルヅル(Ásthildur)とヨフリズル・アウカドッティル(Jófríður Ákadóttir)によって構成される音楽グループである 。"
+            },
+            {
                 "datetime": "2023年12月13日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4401754",
                 "title": "高知記念病院",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4032915",
                 "title": "丸山ナオミ",
                 "text": "〇〇は、日本の女性声優。青森県出身。LAL所属。"
-            },
-            {
-                "datetime": "2023年12月12日 06時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2992211",
-                "title": "末広町 (岡崎市)",
-                "text": "〇〇は、愛知県岡崎市の町名。町内には番地が設定されており小字、丁目は持たない。"
             }
         ]
     }
