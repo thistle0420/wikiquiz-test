@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年12月15日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3565251",
+                "title": "テュービンゲン郡",
+                "text": "〇〇は、バーデン＝ヴュルテンベルク州テュービンゲン行政管区の北西端に位置する郡。"
+            },
+            {
                 "datetime": "2023年12月14日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3127888",
                 "title": "チーズfilm",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4465224",
                 "title": "希代あみ",
                 "text": "〇〇は、日本のAV女優。C-more エンターテイメント所属。"
-            },
-            {
-                "datetime": "2023年12月13日 06時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1790372",
-                "title": "Mr.脳",
-                "text": "〇〇は、NHK教育テレビジョンが2009年に放送開始50年を迎えたのを記念して行われた年間キャンペーン「ETV50 学ぶ冒険」のイメージキャラクター。ヒトの脳の形をモデルとしている。"
             }
         ]
     }
