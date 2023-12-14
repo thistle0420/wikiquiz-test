@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年12月15日 04時の問題",
+                "url": "https://ja.wikipedia.org/?curid=734634",
+                "title": "大分県道673号小畑日田線",
+                "text": "〇〇は、大分県日田市を通る一般県道（大分県道）である。"
+            },
+            {
                 "datetime": "2023年12月15日 03時の問題",
                 "url": "https://ja.wikipedia.org/?curid=817285",
                 "title": "乾性油",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1184273",
                 "title": "葯培養",
                 "text": "〇〇は、半数体を作出するための、組織培養による植物育種方法である。"
-            },
-            {
-                "datetime": "2023年12月13日 11時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4661566",
-                "title": "Β-プリメベロシダーゼ",
-                "text": "〇〇は、以下の化学反応を触媒する酵素である。6-O-(β-D-キシロピラノシル)-β-D-グルコピラノシド + H2O                     ⇌              {\\displaystyle \\rightleftharpoons }   6-O-(β-D-キシロピラノシル)-β-D-グルコピラノース + アルコールしたがって、この酵素の基質は、6-O-(β-D-キシロピラノシル)-β-D-グルコピラノシドと水の2つ、生成物は6-O-(β-D-キシロピラノシル)-β-D-グルコピラノースとアルコールの2つである。この酵素は、ヒドロラーゼ、特にO-およびS-グリコシル化合物を加水分解するグリコシダーゼに分類される。系統名は、6-O-(β-D-キシロピラノシル)-β-D-グルコピラノシド　6-O-(β-D-キシロシル)-β-D-グルコヒドロラーゼ (6-O-(beta-D-xylopyranosyl)-beta-D-glucopyranoside 6-O-(beta-D-xylosyl)-beta-D-glucohydrolase) である。"
             }
         ]
     }
