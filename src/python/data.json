@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年12月14日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=813156",
+                "title": "MTVアンプラグド",
+                "text": "〇〇は、MTVで放送されている音楽番組。"
+            },
+            {
                 "datetime": "2023年12月14日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3445205",
                 "title": "趙国娜",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=862429",
                 "title": "経済的付加価値",
                 "text": "〇〇は、企業が生み出す経済的価値を測定する指標の1つである。アメリカ合衆国ニューヨーク州にあるコンサルティング会社STERN STEWART & CO.（現・STERN VALUE MANAGEMENT, LTD.）が開発し、「EVA」というワードマークで商標登録を行っている。"
-            },
-            {
-                "datetime": "2023年12月12日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=373970",
-                "title": "リイド社",
-                "text": "〇〇は、東京都杉並区高円寺北に所在する日本の出版社。"
             }
         ]
     }
