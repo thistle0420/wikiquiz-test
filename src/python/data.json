@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年12月15日 23時の問題",
+                "url": "https://ja.wikipedia.org/?curid=939650",
+                "title": "松林菜々見",
+                "text": "〇〇は、日本のグラビアアイドル、レースクイーン、タレント。プラチナムプロダクション所属。東京都東村山市出身。"
+            },
+            {
                 "datetime": "2023年12月15日 22時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4120439",
                 "title": "ムナフヒタキ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3994318",
                 "title": "小出八郎右衛門",
                 "text": "〇〇は、日本の実業家、政治家。衆議院議員。"
-            },
-            {
-                "datetime": "2023年12月14日 05時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4279470",
-                "title": "丸山儀四郎",
-                "text": "〇〇は、確率過程論研究の指導者として知られる日本の数学者である。オイラー・丸山法（Euler–Maruyama method）でも知られる。日本学術会議会員、日本数学会理事長。"
             }
         ]
     }
