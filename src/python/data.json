@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年12月17日 06時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3052711",
+                "title": "アア",
+                "text": "〇〇は、ラン科植物の1属。中南米高地の地生ランである。"
+            },
+            {
                 "datetime": "2023年12月17日 05時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3779675",
                 "title": "富沢賢治",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3733008",
                 "title": "ブライアン・ヤング (1958年生のアイスホッケー選手)",
                 "text": "〇〇は、カナダ連邦アルバータ州ジャスパー出身の元プロアイスホッケー選手。ポジションはディフェンス。"
-            },
-            {
-                "datetime": "2023年12月15日 13時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2958509",
-                "title": "大園栄三郎",
-                "text": "〇〇は、衆議院議員（政友本党→立憲民政党）、鉄道官僚。"
             }
         ]
     }
