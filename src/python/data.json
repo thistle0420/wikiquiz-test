@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年12月16日 16時の問題",
+                "url": "https://ja.wikipedia.org/?curid=15424",
+                "title": "テレビ長崎",
+                "text": "〇〇は、長崎県を放送対象地域としたテレビジョン放送事業を行っている、特定地上基幹放送事業者である。略称はKTN（K.K. Television Nagasaki）。コールサインはJOWH-DTV。フジテレビ系列（FNN・FNS）。1969年（昭和44年）4月1日開局。"
+            },
+            {
                 "datetime": "2023年12月16日 15時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1355587",
                 "title": "DS美文字トレーニング",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3127888",
                 "title": "チーズfilm",
                 "text": "〇〇は、東京都渋谷区に本社を置く、日本の制作会社および芸能事務所である。映画監督の戸田彬弘が代表を務める。"
-            },
-            {
-                "datetime": "2023年12月14日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1798704",
-                "title": "渡辺伸次",
-                "text": "〇〇は、日本の写真家、映像作家。広島県出身。"
             }
         ]
     }
