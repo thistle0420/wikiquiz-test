@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年12月19日 01時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2795767",
+                "title": "東京インターハイスクール",
+                "text": "〇〇は、東京都渋谷区渋谷にある通信制インターナショナル・スクール。米国ワシントン州の私立スクール Alger Learning Center & Independence High Schoolと提携し、卒業証書はアメリカ・ワシントン州認定の資格となる。NALSAS(the National Association for the Legal Support of Alternative Schools)の認定を受けている。"
+            },
+            {
                 "datetime": "2023年12月19日 00時の問題",
                 "url": "https://ja.wikipedia.org/?curid=296996",
                 "title": "武田中学校・高等学校",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=112573",
                 "title": "南信地方",
                 "text": "〇〇は、長野県の南部（木曽地域を除く）の地域を指す。"
-            },
-            {
-                "datetime": "2023年12月17日 07時の問題",
-                "url": "https://ja.wikipedia.org/?curid=795208",
-                "title": "ユーロビジョン・ソング・コンテスト1962",
-                "text": "〇〇は、CLTテレ・ルクセンブルク（現RTLグループ)。ヴィラ・ルヴィニーは、CLT本社の建物。プレゼンターはミレイユ・ドラノア、音楽監督はジャン・ロデル。日本でおなじみの指揮者としては、フランク・プゥルセルがフランス、レイモン・ルフェーブルがモナコ代表の楽曲の伴奏を担当。放映時間は1時間23分。"
             }
         ]
     }
