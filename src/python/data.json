@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年12月19日 02時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2983991",
+                "title": "ヴェラ・バラノフスカヤ",
+                "text": "〇〇は、帝政時代のロシアの女優。ドイツやチェコスロバキアで撮影された映画やロシアの劇場で有名な女優。"
+            },
+            {
                 "datetime": "2023年12月19日 01時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2795767",
                 "title": "東京インターハイスクール",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2274033",
                 "title": "道の駅木曽川源流の里 きそむら",
                 "text": "〇〇は、長野県木曽郡木祖村にある国道19号の道の駅である。"
-            },
-            {
-                "datetime": "2023年12月17日 08時の問題",
-                "url": "https://ja.wikipedia.org/?curid=112573",
-                "title": "南信地方",
-                "text": "〇〇は、長野県の南部（木曽地域を除く）の地域を指す。"
             }
         ]
     }
