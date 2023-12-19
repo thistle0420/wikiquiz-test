@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年12月19日 15時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3448480",
+                "title": "小柳泰貴",
+                "text": "〇〇は、日本の元ラグビー選手。"
+            },
+            {
                 "datetime": "2023年12月19日 14時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1078742",
                 "title": "携帯電話俺",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1114403",
                 "title": "広州起義烈士陵園",
                 "text": "〇〇は、広州歴史博物館などが設置されている。広州地下鉄1号線の烈士陵園駅の名称は、この公園に由来する。"
-            },
-            {
-                "datetime": "2023年12月17日 21時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3039114",
-                "title": "ノルウェー・カップ",
-                "text": "〇〇は、1902年に創設されたノルウェーで行われるサッカーのカップ戦である。"
             }
         ]
     }
