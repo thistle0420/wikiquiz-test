@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年12月19日 10時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3603317",
+                "title": "TOSHI'81",
+                "text": "〇〇は、田原俊彦2枚目のアルバム。1980年12月13日、NAVレコードよりリリース。"
+            },
+            {
                 "datetime": "2023年12月19日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1015320",
                 "title": "AS TIME GOES BY (HIM-eggの曲)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4543164",
                 "title": "ウクライナへの祈り",
                 "text": "〇〇は、ウクライナの愛国的な讃美歌。旋律はミコラ・リセンコが作曲し、歌詞は コニスキー・オレキサンドル・ヤーコヴィッチによって書かれ、いくつかの版がある。"
-            },
-            {
-                "datetime": "2023年12月17日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4013274",
-                "title": "スーパー (ペット・ショップ・ボーイズのアルバム)",
-                "text": "〇〇は、ペット・ショップ・ボーイズの13枚目のスタジオ・アルバム。"
             }
         ]
     }
