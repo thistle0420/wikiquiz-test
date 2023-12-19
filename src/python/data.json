@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年12月19日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1163801",
+                "title": "Synchronicity (牧野由依の曲)",
+                "text": "〇〇は、牧野由依の6枚目のシングル。2007年11月21日にFlyingDogから発売された。"
+            },
+            {
                 "datetime": "2023年12月19日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3215539",
                 "title": "室戸町",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3788005",
                 "title": "森本方乃香",
                 "text": "〇〇は、愛知県名古屋市出身のハンドボール選手。日本ハンドボールリーグの三重バイオレットアイリス所属。"
-            },
-            {
-                "datetime": "2023年12月18日 00時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4514547",
-                "title": "三十六進法",
-                "text": "〇〇は、36を底（てい）とし、底およびその冪を基準にして数を表す方法である。底である 36 は Microsoft Excel の BASE 関数や、Python の拡張モジュール・NumPy の base_repr 関数の基数パラメータに指定できる最大値である。"
             }
         ]
     }
