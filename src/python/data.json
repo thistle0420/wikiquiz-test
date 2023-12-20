@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年12月20日 17時の問題",
+                "url": "https://ja.wikipedia.org/?curid=10954",
+                "title": "イサーク・アルベニス",
+                "text": "〇〇は、スペインの作曲家・ピアニストであり、スペイン民族音楽の影響を受けた作品で知られる。"
+            },
+            {
                 "datetime": "2023年12月20日 16時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3784514",
                 "title": "ヒプノシスマイク",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2795767",
                 "title": "東京インターハイスクール",
                 "text": "〇〇は、東京都渋谷区渋谷にある通信制インターナショナル・スクール。米国ワシントン州の私立スクール Alger Learning Center & Independence High Schoolと提携し、卒業証書はアメリカ・ワシントン州認定の資格となる。NALSAS(the National Association for the Legal Support of Alternative Schools)の認定を受けている。"
-            },
-            {
-                "datetime": "2023年12月19日 00時の問題",
-                "url": "https://ja.wikipedia.org/?curid=296996",
-                "title": "武田中学校・高等学校",
-                "text": "〇〇は、広島県東広島市黒瀬町に所在し、中高一貫教育を提供する私立中学校・高等学校。"
             }
         ]
     }
