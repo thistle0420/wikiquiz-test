@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年12月20日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3279815",
+                "title": "曹小仏奴",
+                "text": "〇〇は、北宋の徽宗の妃嬪。"
+            },
+            {
                 "datetime": "2023年12月20日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=557095",
                 "title": "公民党 (香港)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4858602",
                 "title": "権田琉成",
                 "text": "〇〇は、東京都世田谷区出身のプロ野球選手（投手）。オリックス・バファローズ所属。"
-            },
-            {
-                "datetime": "2023年12月19日 03時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2670092",
-                "title": "サヨナラのかわりに",
-                "text": "〇〇は、テレビ東京「おはスタ」の1999年度出演者によるユニット・おはぐみのシングル。2000年2月2日にMCAビクターから発売された。"
             }
         ]
     }
