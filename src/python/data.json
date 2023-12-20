@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年12月21日 01時の問題",
+                "url": "https://ja.wikipedia.org/?curid=854043",
+                "title": "オオトノヂ・オオトノベ",
+                "text": "〇〇は、日本神話に登場する神である。"
+            },
+            {
                 "datetime": "2023年12月21日 00時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3785999",
                 "title": "山賊打線",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3603317",
                 "title": "TOSHI'81",
                 "text": "〇〇は、田原俊彦2枚目のアルバム。1980年12月13日、NAVレコードよりリリース。"
-            },
-            {
-                "datetime": "2023年12月19日 08時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1015320",
-                "title": "AS TIME GOES BY (HIM-eggの曲)",
-                "text": "〇〇は、ガールズ・ユニットHIM-eggの曲。1996年にシングルがリリースされた。HIM-eggは音楽プロジェクト兼ボーカル&ダンス・ユニットHIMがプロデュースを手がけたユニットで、本曲の作詞はHIMのメンバーであるHIMK（shungo.）、作曲はHIMを主宰する伊秩弘将による。後にhiroによってカバーされ、1999年にソロ1枚目のシングルとしてリリースされた。"
             }
         ]
     }
