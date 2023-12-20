@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年12月21日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=704060",
+                "title": "月島薫",
+                "text": "〇〇は、日本の漫画家。千葉県出身。男性。"
+            },
+            {
                 "datetime": "2023年12月21日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=249418",
                 "title": "エアシャカール",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4310543",
                 "title": "レッドアリオン",
                 "text": "〇〇は、日本の競走馬。主な勝ち鞍に2015年のマイラーズカップ、関屋記念。馬名の由来は、冠名＋ギリシャ神話に登場する天馬「アリオン」から。"
-            },
-            {
-                "datetime": "2023年12月19日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3448480",
-                "title": "小柳泰貴",
-                "text": "〇〇は、日本の元ラグビー選手。"
             }
         ]
     }
