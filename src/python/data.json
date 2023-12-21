@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年12月21日 10時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4613302",
+                "title": "山田弘 (馬主)",
+                "text": "〇〇は、日本の実業家（不動産会社経営）、馬主。"
+            },
+            {
                 "datetime": "2023年12月21日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=819957",
                 "title": "島津義弘 (播磨家)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1163801",
                 "title": "Synchronicity (牧野由依の曲)",
                 "text": "〇〇は、牧野由依の6枚目のシングル。2007年11月21日にFlyingDogから発売された。"
-            },
-            {
-                "datetime": "2023年12月19日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3215539",
-                "title": "室戸町",
-                "text": "〇〇は、高知県安芸郡にあった町。現在の室戸市の中心部にあたる。本項では町制前の名称である室戸村（むろとむら）についても述べる。"
             }
         ]
     }
