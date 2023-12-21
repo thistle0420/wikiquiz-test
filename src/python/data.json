@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年12月22日 03時の問題",
+                "url": "https://ja.wikipedia.org/?curid=140310",
+                "title": "河原木志穂",
+                "text": "〇〇は、日本の女性声優、歌手、ナレーター。東京都出身。ケンユウオフィス所属。"
+            },
+            {
                 "datetime": "2023年12月22日 02時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4724387",
                 "title": "河東村 (福岡県)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4613007",
                 "title": "中尾寛志",
                 "text": "〇〇は、日本の地方公務員。大阪市教育委員会教育次長、大阪市副市長、大阪市医学会顧問などを歴任した。"
-            },
-            {
-                "datetime": "2023年12月20日 10時の問題",
-                "url": "https://ja.wikipedia.org/?curid=718699",
-                "title": "青森県道121号七戸上北町停車場線",
-                "text": "〇〇は、青森県上北郡七戸町から東北町に至る一般県道である。"
             }
         ]
     }
