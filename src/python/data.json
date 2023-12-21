@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年12月21日 11時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3107315",
+                "title": "所憲佐",
+                "text": "〇〇は、兵庫県姫路市出身の元プロ野球選手（捕手）。右投左打。"
+            },
+            {
                 "datetime": "2023年12月21日 10時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4613302",
                 "title": "山田弘 (馬主)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2180626",
                 "title": "クルヴォドン",
                 "text": "〇〇は、フランスのノルマンディー地域圏、カルヴァドス県に属するコミューン。紋章には青地に3頭の豹の頭が描かれている。"
-            },
-            {
-                "datetime": "2023年12月19日 18時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1163801",
-                "title": "Synchronicity (牧野由依の曲)",
-                "text": "〇〇は、牧野由依の6枚目のシングル。2007年11月21日にFlyingDogから発売された。"
             }
         ]
     }
