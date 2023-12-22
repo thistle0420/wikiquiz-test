@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年12月23日 06時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2645701",
+                "title": "山形県体育館",
+                "text": "〇〇は、山形県山形市の霞城公園内にある屋内スポーツ施設である。"
+            },
+            {
                 "datetime": "2023年12月23日 05時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1861539",
                 "title": "さよなら、こんにちわ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1807615",
                 "title": "Love you close",
                 "text": "〇〇は、知念里奈の15枚目のシングル。2001年3月7日にソニー・ミュージックレコーズから発売。"
-            },
-            {
-                "datetime": "2023年12月21日 13時の問題",
-                "url": "https://ja.wikipedia.org/?curid=787484",
-                "title": "測量山",
-                "text": "〇〇は、北海道室蘭市清水町にある標高199.63mの山である。"
             }
         ]
     }
