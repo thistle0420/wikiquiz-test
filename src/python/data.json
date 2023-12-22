@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年12月22日 19時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4406981",
+                "title": "LIVE!! ACT TULIP",
+                "text": "〇〇は、チューリップのライブアルバム。1973年12月1日発売。"
+            },
+            {
                 "datetime": "2023年12月22日 18時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3943567",
                 "title": "セヴェルナヤハンダサ駅",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2016642",
                 "title": "メリシアン・ベンゾン",
                 "text": "〇〇は、アメリカ合衆国出身の女性、フィリピンのフィギュアスケート選手（女子シングル）。2009年ネーベルホルン杯、2010年四大陸フィギュアスケート選手権フィリピン代表。"
-            },
-            {
-                "datetime": "2023年12月21日 01時の問題",
-                "url": "https://ja.wikipedia.org/?curid=854043",
-                "title": "オオトノヂ・オオトノベ",
-                "text": "〇〇は、日本神話に登場する神である。"
             }
         ]
     }
