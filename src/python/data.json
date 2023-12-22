@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年12月23日 01時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1297365",
+                "title": "真弓 (生駒市)",
+                "text": "〇〇は、奈良県生駒市の町名。現行行政地名は真弓一丁目から真弓四丁目。郵便番号630-0122。"
+            },
+            {
                 "datetime": "2023年12月23日 00時の問題",
                 "url": "https://ja.wikipedia.org/?curid=126120",
                 "title": "ニューヨーク州立ファッション工科大学",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=819957",
                 "title": "島津義弘 (播磨家)",
                 "text": "〇〇は、安土桃山時代から江戸時代前期にかけての武将。播磨島津氏17代当主。"
-            },
-            {
-                "datetime": "2023年12月21日 07時の問題",
-                "url": "https://ja.wikipedia.org/?curid=704060",
-                "title": "月島薫",
-                "text": "〇〇は、日本の漫画家。千葉県出身。男性。"
             }
         ]
     }
