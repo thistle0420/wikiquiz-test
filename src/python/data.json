@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年12月23日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4460032",
+                "title": "相模原市立旭小学校",
+                "text": "〇〇は、神奈川県相模原市緑区橋本六丁目にある公立の小学校である。"
+            },
+            {
                 "datetime": "2023年12月23日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3424799",
                 "title": "ハバロフスク市電",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2598495",
                 "title": "パウロ・マシャド",
                 "text": "〇〇は、ポルトガル・ポルト県セルコ地区出身の元同国代表の元サッカー選手。現役時代のポジションはMF。"
-            },
-            {
-                "datetime": "2023年12月22日 03時の問題",
-                "url": "https://ja.wikipedia.org/?curid=140310",
-                "title": "河原木志穂",
-                "text": "〇〇は、日本の女性声優、歌手、ナレーター。東京都出身。ケンユウオフィス所属。"
             }
         ]
     }
