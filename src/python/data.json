@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年12月23日 10時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4506643",
+                "title": "太田博光",
+                "text": "〇〇は、日本の男性アニメーター、キャラクターデザイナー、アニメーション演出家である。"
+            },
+            {
                 "datetime": "2023年12月23日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=998423",
                 "title": "ストライカー (護衛空母)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1095265",
                 "title": "シギスヴァルト・クイケン",
                 "text": "〇〇は、ベルギーの古楽器演奏家。"
-            },
-            {
-                "datetime": "2023年12月21日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4348389",
-                "title": "ちょい足し",
-                "text": "〇〇は、CBCテレビで2021年4月10日から2022年3月12日まで毎週土曜日の17:00 - 17:30（JST）に放送されていたバラエティ番組である。"
             }
         ]
     }
