@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年12月23日 23時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3280334",
+                "title": "Vivid brilliant door!",
+                "text": "〇〇は、スフィアの楽曲。"
+            },
+            {
                 "datetime": "2023年12月23日 22時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1976878",
                 "title": "山崎千裕",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3202431",
                 "title": "里小学校",
                 "text": "〇〇は、日本の公立小学校。川口市立〇〇 - 埼玉県薩摩川内市立〇〇 - 鹿児島県"
-            },
-            {
-                "datetime": "2023年12月22日 05時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3021348",
-                "title": "デンソー福島",
-                "text": "〇〇は、福島県田村市に本社を置くカーエアコンの製造会社である。デンソーの子会社。"
             }
         ]
     }
