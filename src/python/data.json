@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年12月25日 03時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3811422",
+                "title": "HAPPY BLUES No.1",
+                "text": "〇〇は、2012年12月5日に発売されたシンガーソングライター白井貴子とギタリスト本田清巳のオリジナル・アルバム。"
+            },
+            {
                 "datetime": "2023年12月25日 02時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1719191",
                 "title": "ウインドリバー・システムズ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=965328",
                 "title": "ウラギンシジミ",
                 "text": "〇〇は、チョウ目シジミチョウ科〇〇属に分類されるチョウの一種。"
-            },
-            {
-                "datetime": "2023年12月23日 10時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4506643",
-                "title": "太田博光",
-                "text": "〇〇は、日本の男性アニメーター、キャラクターデザイナー、アニメーション演出家である。"
             }
         ]
     }
