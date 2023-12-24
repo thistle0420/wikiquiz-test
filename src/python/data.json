@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年12月25日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=770188",
+                "title": "FOXチャンネル",
+                "text": "〇〇は、ウォルト・ディズニー・ジャパンが運営する専門チャンネルである。通称〇〇。"
+            },
+            {
                 "datetime": "2023年12月25日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4139317",
                 "title": "多田神社 (中野区)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2965192",
                 "title": "デジタルハーツホールディングス",
                 "text": "〇〇は、ゲーム・モバイル・スマートフォン・Webサイトなどのデバッグを提供する株式会社デジタルハーツ、4Gamer.netの運営を行うAetas株式会社などを子会社に持つ持株会社。JPX日経中小型株指数の構成銘柄の一つ 。"
-            },
-            {
-                "datetime": "2023年12月23日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=558428",
-                "title": "日月鉄二",
-                "text": "〇〇は、東京都練馬区出身の元プロ野球選手（外野手）。"
             }
         ]
     }
