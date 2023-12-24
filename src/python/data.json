@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年12月24日 13時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1059865",
+                "title": "NHK伊万里大川中継局",
+                "text": "〇〇は、佐賀県伊万里市に置かれていたNHK佐賀放送局の地上アナログテレビジョン放送の中継局である。"
+            },
+            {
                 "datetime": "2023年12月24日 12時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4039818",
                 "title": "スウェーデン放送合唱団",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=795456",
                 "title": "学術・文化・産業ネットワーク多摩",
                 "text": "〇〇は、多摩地域の大学が中心となって地域の発展、教育の改善・発展や社会貢献を行う公益法人。産学官連携機構。略称はネットワーク多摩。"
-            },
-            {
-                "datetime": "2023年12月22日 19時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4406981",
-                "title": "LIVE!! ACT TULIP",
-                "text": "〇〇は、チューリップのライブアルバム。1973年12月1日発売。"
             }
         ]
     }
