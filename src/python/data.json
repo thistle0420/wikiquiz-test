@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年12月24日 12時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4039818",
+                "title": "スウェーデン放送合唱団",
+                "text": "〇〇は、スウェーデンのプロの合唱団である。スウェーデンの公共ラジオ放送会社であるスウェーデン・ラジオが運営している。"
+            },
+            {
                 "datetime": "2023年12月24日 11時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4129270",
                 "title": "第34回プライムタイム・エミー賞",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4406981",
                 "title": "LIVE!! ACT TULIP",
                 "text": "〇〇は、チューリップのライブアルバム。1973年12月1日発売。"
-            },
-            {
-                "datetime": "2023年12月22日 18時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3943567",
-                "title": "セヴェルナヤハンダサ駅",
-                "text": "〇〇は、ロシア連邦サハリン州にかつてあったロシア鉄道コルサコフ-ノグリキ線の駅である。"
             }
         ]
     }
