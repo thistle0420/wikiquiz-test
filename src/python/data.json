@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年12月24日 19時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2194519",
+                "title": "ろくぶんぎ座アルファ星",
+                "text": "〇〇は、ろくぶんぎ座で最も明るい恒星である。この星は白色の巨星である。ろくぶんぎ座α星は天の赤道から1/4度以内に位置し、非公式な「equator star」と考えられている。1900年には、赤道の7分北にあったが、地球の赤道傾斜角の運動のため、1923年12月に南半球に入った。"
+            },
+            {
                 "datetime": "2023年12月24日 18時の問題",
                 "url": "https://ja.wikipedia.org/?curid=229964",
                 "title": "ミューチケット",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3609065",
                 "title": "オメガラビリンスZ",
                 "text": "〇〇は、ディースリー・パブリッシャーより2017年7月6日に発売されたゲームソフト 。対応ハードはPlayStation 4、PlayStation Vita（PlayStation Vita TV）でクロスセーブにも対応。"
-            },
-            {
-                "datetime": "2023年12月23日 01時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1297365",
-                "title": "真弓 (生駒市)",
-                "text": "〇〇は、奈良県生駒市の町名。現行行政地名は真弓一丁目から真弓四丁目。郵便番号630-0122。"
             }
         ]
     }
