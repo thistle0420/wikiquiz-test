@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年12月26日 02時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1082065",
+                "title": "清家ちえ",
+                "text": "〇〇は、日本の女子バレーボール選手、ビーチバレー選手である。愛媛県越智郡菊間町（現今治市）出身。"
+            },
+            {
                 "datetime": "2023年12月26日 01時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4078690",
                 "title": "第41期棋聖戦 (将棋)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2874451",
                 "title": "吉高 (印西市)",
                 "text": "〇〇は、千葉県印西市の大字。郵便番号270-1603。"
-            },
-            {
-                "datetime": "2023年12月24日 08時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4841",
-                "title": "1745年",
-                "text": "〇〇は、西暦（グレゴリオ暦）による、金曜日から始まる平年。"
             }
         ]
     }
