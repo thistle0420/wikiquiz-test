@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年12月25日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1584515",
+                "title": "CEM",
+                "text": "〇〇は、紙とガラス布の複合材料にエポキシ樹脂を染み込ませることで製造する。Channel Electron Multiplier … チャンネル型2次電子増倍管Customer Experience Management … カスタマーエクスペリエンスマネジメント。CXMも使用される。"
+            },
+            {
                 "datetime": "2023年12月25日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2148023",
                 "title": "韓国強制併合100年共同行動",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=156290",
                 "title": "萩森侚子",
                 "text": "〇〇は、日本の女性声優、ナレーター。兵庫県出身。青二プロダクション所属。本名・旧芸名：萩森 順子（はぎもり じゅんこ）。"
-            },
-            {
-                "datetime": "2023年12月24日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2394838",
-                "title": "ダーシャ・ゲルム",
-                "text": "〇〇は、スロベニア・ツェリェ出身のフィギュアスケート選手（女子シングル）。"
             }
         ]
     }
