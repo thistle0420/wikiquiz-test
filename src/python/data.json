@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年12月25日 16時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3736023",
+                "title": "ブルービーズ",
+                "text": "〇〇は、花王が発売していた合成洗剤。"
+            },
+            {
                 "datetime": "2023年12月25日 15時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3829402",
                 "title": "連邦労働党 (バハマ)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3280334",
                 "title": "Vivid brilliant door!",
                 "text": "〇〇は、スフィアの楽曲。"
-            },
-            {
-                "datetime": "2023年12月23日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1976878",
-                "title": "山崎千裕",
-                "text": "〇〇は、日本のトランペット奏者。その他に、フリューゲルホルンもこなす。東京都出身。"
             }
         ]
     }
