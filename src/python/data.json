@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年12月27日 03時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3066972",
+                "title": "ウェルチ化学賞",
+                "text": "〇〇は、アメリカ合衆国の化学の賞。1954年ヒューストンにおいて設立されたロバート・A・ウェルチ財団（Robert A. Welch Foundation）が主催し、1972年以来授与されている。 実業家である財団の創設者の名を冠している。"
+            },
+            {
                 "datetime": "2023年12月27日 02時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1286061",
                 "title": "マイナーリーグ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3703941",
                 "title": "あの日のキミと今の僕に",
                 "text": "〇〇は、DOBERMAN INFINITYの6枚目のシングル。2017年11月22日にLDH MUSICから発売。"
-            },
-            {
-                "datetime": "2023年12月25日 10時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2607728",
-                "title": "宝萊山古墳",
-                "text": "〇〇は、東京都大田区田園調布にある古墳。形状は前方後円墳。荏原台古墳群（荏原古墳群）を構成する古墳の1つ。東京都指定史跡に指定されている。"
             }
         ]
     }
