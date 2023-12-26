@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年12月26日 22時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4255852",
+                "title": "2020年バーレーングランプリ",
+                "text": "〇〇は、2020年のF1世界選手権第15戦として、2020年11月29日にバーレーン・インターナショナル・サーキットのグランプリ・トラックで開催された。正式名称は「Formula 1 Gulf Air Bahrain Grand Prix 2020」。"
+            },
+            {
                 "datetime": "2023年12月26日 21時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4439739",
                 "title": "ヨワネハキ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4198235",
                 "title": "佐々木三味",
                 "text": "〇〇は、日本の茶道評論家。"
-            },
-            {
-                "datetime": "2023年12月25日 04時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1187487",
-                "title": "坂井隆憲",
-                "text": "〇〇は、日本の政治家、元大蔵官僚。元自由民主党所属。2021年10月17日に投開票が行われた佐賀市長選挙に初当選し第5代佐賀市長に就任した坂井英隆は長男である。"
             }
         ]
     }
