@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年12月27日 04時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2666458",
+                "title": "醴泉警察署",
+                "text": "〇〇は、慶北地方警察庁所管の警察署である。"
+            },
+            {
                 "datetime": "2023年12月27日 03時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3066972",
                 "title": "ウェルチ化学賞",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2008385",
                 "title": "メランコリック・ジゴロ -あぶない相続人-",
                 "text": "〇〇は、宝塚歌劇団のミュージカル作品。"
-            },
-            {
-                "datetime": "2023年12月25日 11時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3703941",
-                "title": "あの日のキミと今の僕に",
-                "text": "〇〇は、DOBERMAN INFINITYの6枚目のシングル。2017年11月22日にLDH MUSICから発売。"
             }
         ]
     }
