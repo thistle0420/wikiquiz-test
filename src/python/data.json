@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年12月27日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2472847",
+                "title": "山咲真由美",
+                "text": "〇〇は、日本の哲学者。専門は分析哲学、記号論理学。文学博士。元大学教授の女装家として知られる。"
+            },
+            {
                 "datetime": "2023年12月27日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1578244",
                 "title": "西城秀樹ROCKトリビュート",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3736023",
                 "title": "ブルービーズ",
                 "text": "〇〇は、花王が発売していた合成洗剤。"
-            },
-            {
-                "datetime": "2023年12月25日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3829402",
-                "title": "連邦労働党 (バハマ)",
-                "text": "〇〇は、かつて存在したバハマの小政党。1972年バハマ総選挙で立候補者を出したが254票しか獲得できず落選した。"
             }
         ]
     }
