@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年12月27日 10時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2608699",
+                "title": "奥平俊六",
+                "text": "〇〇は、日本美術の研究者、大阪大学教授。日本・東洋美術史専攻。"
+            },
+            {
                 "datetime": "2023年12月27日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2472847",
                 "title": "山咲真由美",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=354862",
                 "title": "ジェイミー・フォックス",
                 "text": "〇〇は、アメリカの俳優であり、シンガーソングライター、コメディアン、テレビ司会者、レコードプロデューサーである。"
-            },
-            {
-                "datetime": "2023年12月25日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3736023",
-                "title": "ブルービーズ",
-                "text": "〇〇は、花王が発売していた合成洗剤。"
             }
         ]
     }
