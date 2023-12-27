@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年12月27日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3258691",
+                "title": "ラザ・ジェフリー",
+                "text": "〇〇は、イギリスの俳優・歌手。CBSの『コード・ブラック』で演じたニール・ハドスン医師、BBC Oneの『MI-5 英国機密諜報部』で演じたザファー・ユーニスなどの役で知られる。2014年には、Showtimeの『HOMELAND』でパキスタン人中佐アーサー・カーンを演じた。"
+            },
+            {
                 "datetime": "2023年12月27日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2156982",
                 "title": "ベルビュー",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3050011",
                 "title": "吾輩は犬である",
                 "text": "〇〇は、TOKYO FMで放送されていたラジオ番組。"
-            },
-            {
-                "datetime": "2023年12月26日 03時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1052217",
-                "title": "フランク・セレー",
-                "text": "〇〇は、アメリカ合衆国ニューハンプシャー州アマースト出身のプロ野球監督。1999年にアメリカ野球殿堂入りを果たした。"
             }
         ]
     }
