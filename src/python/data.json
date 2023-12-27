@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年12月27日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4641489",
+                "title": "東淵野辺",
+                "text": "〇〇は、神奈川県相模原市中央区の町名。現行行政地名は〇〇一丁目から〇〇五丁目。住居表示実施済区域。"
+            },
+            {
                 "datetime": "2023年12月27日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4311009",
                 "title": "野田貝塚",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=163338",
                 "title": "黒瀬春樹",
                 "text": "〇〇は、岐阜県岐阜市出身の元プロ野球選手（内野手）。右投右打。"
-            },
-            {
-                "datetime": "2023年12月25日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1584515",
-                "title": "CEM",
-                "text": "〇〇は、紙とガラス布の複合材料にエポキシ樹脂を染み込ませることで製造する。Channel Electron Multiplier … チャンネル型2次電子増倍管Customer Experience Management … カスタマーエクスペリエンスマネジメント。CXMも使用される。"
             }
         ]
     }
