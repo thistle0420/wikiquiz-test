@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年12月28日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2698789",
+                "title": "イノチノリズム",
+                "text": "〇〇は、DANCE EARTH PARTYの1stシングル。2013年1月16日にUNIVERSAL SIGMAから発売。"
+            },
+            {
                 "datetime": "2023年12月28日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=621567",
                 "title": "春日市立春日野中学校",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3066972",
                 "title": "ウェルチ化学賞",
                 "text": "〇〇は、アメリカ合衆国の化学の賞。1954年ヒューストンにおいて設立されたロバート・A・ウェルチ財団（Robert A. Welch Foundation）が主催し、1972年以来授与されている。 実業家である財団の創設者の名を冠している。"
-            },
-            {
-                "datetime": "2023年12月27日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1286061",
-                "title": "マイナーリーグ",
-                "text": "〇〇は、リーグ戦形式で対戦するスポーツの最上位リーグに対する下位リーグ、あるいは小規模なリーグを意味する語。通常は北米プロ野球リーグの最高峰「メジャーリーグベースボール」の傘下リーグとなっている「〇〇ベースボール」を指して用いられる。"
             }
         ]
     }
