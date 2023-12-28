@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年12月29日 02時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2707270",
+                "title": "朴市秦田来津",
+                "text": "〇〇は、飛鳥時代の人物。氏は秦、朴市とも記される。姓は造。冠位は小山下。"
+            },
+            {
                 "datetime": "2023年12月29日 01時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4152620",
                 "title": "春木開",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2608699",
                 "title": "奥平俊六",
                 "text": "〇〇は、日本美術の研究者、大阪大学教授。日本・東洋美術史専攻。"
-            },
-            {
-                "datetime": "2023年12月27日 08時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2472847",
-                "title": "山咲真由美",
-                "text": "〇〇は、日本の哲学者。専門は分析哲学、記号論理学。文学博士。元大学教授の女装家として知られる。"
             }
         ]
     }
