@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年12月28日 17時の問題",
+                "url": "https://ja.wikipedia.org/?curid=633851",
+                "title": "村請制度",
+                "text": "〇〇は、日本の近世（主として江戸時代）における制度のひとつで、年貢・諸役を村単位で村全体の責任で納めるようにした制度。村請制（むらうけせい）ともいう。"
+            },
+            {
                 "datetime": "2023年12月28日 16時の問題",
                 "url": "https://ja.wikipedia.org/?curid=317152",
                 "title": "旭川電気軌道東旭川線",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=525890",
                 "title": "阿部幸江",
                 "text": "〇〇は、日本の元女子プロレスラー。"
-            },
-            {
-                "datetime": "2023年12月26日 23時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1731074",
-                "title": "山清路",
-                "text": "〇〇は、長野県東筑摩郡生坂村にある名勝。聖山高原県立公園。"
             }
         ]
     }
