@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年12月28日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3589175",
+                "title": "井上澄和",
+                "text": "〇〇は、日本の政治家。福岡県春日市長（7期）。元福岡県議会議員（3期）。"
+            },
+            {
                 "datetime": "2023年12月28日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2698789",
                 "title": "イノチノリズム",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2666458",
                 "title": "醴泉警察署",
                 "text": "〇〇は、慶北地方警察庁所管の警察署である。"
-            },
-            {
-                "datetime": "2023年12月27日 03時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3066972",
-                "title": "ウェルチ化学賞",
-                "text": "〇〇は、アメリカ合衆国の化学の賞。1954年ヒューストンにおいて設立されたロバート・A・ウェルチ財団（Robert A. Welch Foundation）が主催し、1972年以来授与されている。 実業家である財団の創設者の名を冠している。"
             }
         ]
     }
