@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年12月28日 10時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2854979",
+                "title": "徐雲麗",
+                "text": "〇〇は、中華人民共和国の元バレーボール選手。元中国代表。"
+            },
+            {
                 "datetime": "2023年12月28日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=887563",
                 "title": "半導体試験装置",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=88643",
                 "title": "豊田利晃",
                 "text": "〇〇は、日本の映画監督、脚本家。"
-            },
-            {
-                "datetime": "2023年12月26日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1951514",
-                "title": "鬼平犯科帳 (中村吉右衛門)",
-                "text": "〇〇は、フジテレビ系列で1989年7月より放映されていたテレビ時代劇である。"
             }
         ]
     }
