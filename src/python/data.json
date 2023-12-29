@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年12月30日 03時の問題",
+                "url": "https://ja.wikipedia.org/?curid=171050",
+                "title": "松井証券",
+                "text": "〇〇は、日本の証券会社。"
+            },
+            {
                 "datetime": "2023年12月30日 02時の問題",
                 "url": "https://ja.wikipedia.org/?curid=222980",
                 "title": "乗法",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3380647",
                 "title": "東京市街鉄道1001形電車",
                 "text": "〇〇は、1906年（明治39年）に登場した東京市街鉄道の路面電車車両。"
-            },
-            {
-                "datetime": "2023年12月28日 10時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2854979",
-                "title": "徐雲麗",
-                "text": "〇〇は、中華人民共和国の元バレーボール選手。元中国代表。"
             }
         ]
     }
