@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年12月31日 02時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1903894",
+                "title": "今田保典",
+                "text": "〇〇は、日本の政治家。民主党衆議院議員（2期）。同党山形県連会長。2012年旭日中綬章受章。"
+            },
+            {
                 "datetime": "2023年12月31日 01時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2514192",
                 "title": "北海道畜産公社",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3946134",
                 "title": "この世界で",
                 "text": "〇〇は、家入レオの楽曲。15枚目のシングルとして2019年1月30日にColourful Records（JVCケンウッド・ビクターエンタテインメント）から発売された。"
-            },
-            {
-                "datetime": "2023年12月29日 08時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2834537",
-                "title": "NGC 2997",
-                "text": "〇〇は、ポンプ座の方角に約4000万光年離れた位置にある正面を向いた非棒状渦巻銀河である。〇〇銀河群の中で最も明るい。〇〇は、イオン化した水素の熱い巨大な雲の鎖に核が囲まれていることで特に有名であり、James BinneyとScott Tremaineの著書Galactic Dynamicsの初版の表紙を飾った。"
             }
         ]
     }
