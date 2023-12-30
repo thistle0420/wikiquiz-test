@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年12月30日 22時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2639102",
+                "title": "根子村",
+                "text": "〇〇は、大正12年（1923年）まで岩手県稗貫郡にあった村。"
+            },
+            {
                 "datetime": "2023年12月30日 21時の問題",
                 "url": "https://ja.wikipedia.org/?curid=117287",
                 "title": "使用済自動車の再資源化等に関する法律",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1857030",
                 "title": "KARIYA洲原音楽祭",
                 "text": "〇〇は、愛知県刈谷市で2002年（平成14年）から毎年10月に開催されている音楽祭である。主催は刈谷市観光協会。"
-            },
-            {
-                "datetime": "2023年12月29日 04時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3253241",
-                "title": "塩谷信男",
-                "text": "〇〇は、日本の内科医師、心霊研究者。"
             }
         ]
     }
