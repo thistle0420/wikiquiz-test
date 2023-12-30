@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年12月30日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=489066",
+                "title": "西興部村コミュニケーションネットワーク",
+                "text": "〇〇は、北海道紋別郡西興部村が運営しているFTTH方式のケーブルテレビ局である。"
+            },
+            {
                 "datetime": "2023年12月30日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2489206",
                 "title": "サタデーフジ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3589175",
                 "title": "井上澄和",
                 "text": "〇〇は、日本の政治家。福岡県春日市長（7期）。元福岡県議会議員（3期）。"
-            },
-            {
-                "datetime": "2023年12月28日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2698789",
-                "title": "イノチノリズム",
-                "text": "〇〇は、DANCE EARTH PARTYの1stシングル。2013年1月16日にUNIVERSAL SIGMAから発売。"
             }
         ]
     }
