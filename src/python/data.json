@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年12月31日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3802179",
+                "title": "エリアス・エルナンデス",
+                "text": "〇〇は、メキシコのサッカー選手。メキシコ代表。ポジションはMF。"
+            },
+            {
                 "datetime": "2023年12月31日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3784867",
                 "title": "誓願寺 (豊中市)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3340656",
                 "title": "FANTASTIC TUNE",
                 "text": "〇〇は、2014年4月23日にLantisから発売された小野賢章のデビューシングルである。"
-            },
-            {
-                "datetime": "2023年12月29日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=354798",
-                "title": "明海大学",
-                "text": "〇〇は、千葉県浦安市明海1丁目に本部を置く日本の私立大学。1970年創立、1970年大学設置。大学の略称は明海（めいかい）、明海大（めいかいだい）。"
             }
         ]
     }
