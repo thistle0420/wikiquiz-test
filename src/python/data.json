@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年12月31日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1675644",
+                "title": "キフォティラピア・フロントーサ",
+                "text": "〇〇は、スズキ目カワスズメ科に分類される魚。"
+            },
+            {
                 "datetime": "2023年12月31日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=60841",
                 "title": "船岡駅 (宮城県)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2415319",
                 "title": "三沢村 (神奈川県)",
                 "text": "〇〇は、かつて神奈川県津久井郡にあった村である。現在は相模原市緑区の一部である。"
-            },
-            {
-                "datetime": "2023年12月30日 03時の問題",
-                "url": "https://ja.wikipedia.org/?curid=171050",
-                "title": "松井証券",
-                "text": "〇〇は、日本の証券会社。"
             }
         ]
     }
