@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年12月31日 12時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4544688",
+                "title": "M-flo TRIBUTE 〜maison de m-flo〜",
+                "text": "〇〇は、m-floの1枚目のトリビュート・アルバム。2009年9月16日にrhythm zoneよりリリースされた。"
+            },
+            {
                 "datetime": "2023年12月31日 11時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4782844",
                 "title": "髙橋大悟 (アナウンサー)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=219417",
                 "title": "無料新聞",
                 "text": "〇〇は、無料で配布される新聞（フリーペーパー）のうち、広告を主体としない本格的な新聞。日本では全国紙として日刊で発行されているものは無く、地方紙としては滋賀報知新聞が存在する。"
-            },
-            {
-                "datetime": "2023年12月29日 18時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2855194",
-                "title": "アイアプレゼンツ SKE48&HKT48のアイアイトーク",
-                "text": "〇〇は、2013年10月2日から2018年3月28日までニッポン放送で放送されていたラジオ番組である。"
             }
         ]
     }
