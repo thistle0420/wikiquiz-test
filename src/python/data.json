@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年12月31日 22時の問題",
+                "url": "https://ja.wikipedia.org/?curid=120623",
+                "title": "ムアンノンタブリー郡",
+                "text": "〇〇は、タイ中部・ノンタブリー県にある郡（アムプー）。ノンタブリー県の県庁所在地（ムアン）でもある。"
+            },
+            {
                 "datetime": "2023年12月31日 21時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1675644",
                 "title": "キフォティラピア・フロントーサ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4605888",
                 "title": "笹木里緒菜",
                 "text": "〇〇は、日本のアイドル。女性アイドルグループ・Sweet Alleyのメンバーでリーダーを務める。福井県出身。TWIN PLANET所属。愛称はつんた、りおな。"
-            },
-            {
-                "datetime": "2023年12月30日 04時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2415319",
-                "title": "三沢村 (神奈川県)",
-                "text": "〇〇は、かつて神奈川県津久井郡にあった村である。現在は相模原市緑区の一部である。"
             }
         ]
     }
