@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2023年12月31日 16時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4254603",
+                "title": "エネルゲティク＝BGUミンスク",
+                "text": "〇〇は、ベラルーシのミンスクをホームタウンとするサッカークラブである。"
+            },
+            {
                 "datetime": "2023年12月31日 15時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2824193",
                 "title": "海老名リン",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=328547",
                 "title": "井沢元彦",
                 "text": "〇〇は、日本の小説家、推理作家。元TBS報道記者。愛知県名古屋市出身。"
-            },
-            {
-                "datetime": "2023年12月29日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3811951",
-                "title": "有星あおり",
-                "text": "〇〇は、日本のAV女優。Y's Entertainment所属。"
             }
         ]
     }
