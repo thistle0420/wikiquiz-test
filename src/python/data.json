@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年01月02日 05時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3004623",
+                "title": "BRAND NEW STORY",
+                "text": "〇〇は、東京パフォーマンスドール（新生）の1枚目のシングル。2014年6月11日にエピックレコードジャパンから発売された。"
+            },
+            {
                 "datetime": "2024年01月02日 04時の問題",
                 "url": "https://ja.wikipedia.org/?curid=219020",
                 "title": "ロンブロン州",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3784867",
                 "title": "誓願寺 (豊中市)",
                 "text": "〇〇は、大阪府豊中市にある浄土真宗大谷派の寺院。"
-            },
-            {
-                "datetime": "2023年12月31日 12時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4544688",
-                "title": "M-flo TRIBUTE 〜maison de m-flo〜",
-                "text": "〇〇は、m-floの1枚目のトリビュート・アルバム。2009年9月16日にrhythm zoneよりリリースされた。"
             }
         ]
     }
