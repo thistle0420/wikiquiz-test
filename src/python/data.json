@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年01月02日 06時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2979377",
+                "title": "ダフネ・ギネス",
+                "text": "〇〇は、イギリスとアイルランドの国籍をもつ芸術家。18世紀に今日まで続くギネスのビール製法を発明したアーサー・ギネスの直系の子孫、資産継承者のひとり。"
+            },
+            {
                 "datetime": "2024年01月02日 05時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3004623",
                 "title": "BRAND NEW STORY",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3802179",
                 "title": "エリアス・エルナンデス",
                 "text": "〇〇は、メキシコのサッカー選手。メキシコ代表。ポジションはMF。"
-            },
-            {
-                "datetime": "2023年12月31日 13時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3784867",
-                "title": "誓願寺 (豊中市)",
-                "text": "〇〇は、大阪府豊中市にある浄土真宗大谷派の寺院。"
             }
         ]
     }
