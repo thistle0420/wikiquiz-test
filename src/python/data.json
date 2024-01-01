@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年01月02日 02時の問題",
+                "url": "https://ja.wikipedia.org/?curid=135072",
+                "title": "名もなき詩",
+                "text": "〇〇は、日本のバンド・Mr.Childrenによる10枚目のシングル。1996年2月5日にトイズファクトリーより発売された。"
+            },
+            {
                 "datetime": "2024年01月02日 01時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4461554",
                 "title": "渡辺義政",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1960951",
                 "title": "仮面の軍勢",
                 "text": "〇〇は、久保帯人作の漫画作品およびそれを原作としたアニメ『BLEACH』に登場する架空の集団。"
-            },
-            {
-                "datetime": "2023年12月31日 08時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1143663",
-                "title": "いと尊きわがイエスは見失われぬ",
-                "text": "〇〇は、ヨハン・ゼバスティアン・バッハが1724年1月9日の顕現祭後第1日曜日のために作曲した教会カンタータ。全8曲からなる。"
             }
         ]
     }
