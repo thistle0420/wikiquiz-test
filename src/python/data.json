@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年01月02日 23時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1761233",
+                "title": "和歌山県道222号城すさみ線",
+                "text": "〇〇は、和歌山県西牟婁郡白浜町 - すさみ町を通る一般県道である。"
+            },
+            {
                 "datetime": "2024年01月02日 22時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2033666",
                 "title": "最後の楽園",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4073494",
                 "title": "アリス・ハミルトン",
                 "text": "〇〇は、アメリカの産業医学のパイオニアである女性医師。国立労働安全衛生研究所（NIOSH）には、彼女の名前を冠した研究所があり、また、その年に最も優れた産業医学関連著作物を著した研究者を表彰する〇〇科学賞がある。姉のエディス・ハミルトン（英語: Edith Hamilton）は古典学者である。"
-            },
-            {
-                "datetime": "2024年01月01日 05時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4270744",
-                "title": "DBJ Green Building認証",
-                "text": "〇〇は、環境・社会への配慮がなされた不動産に関する認証制度である。"
             }
         ]
     }
