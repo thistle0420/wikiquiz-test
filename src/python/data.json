@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年01月02日 19時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1126486",
+                "title": "シモナ・アマナール",
+                "text": "〇〇は、ルーマニアのコンスタンツァ（Constanţa）出身の女子体操選手。"
+            },
+            {
                 "datetime": "2024年01月02日 18時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2942095",
                 "title": "石脇慶総",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1885906",
                 "title": "支那海 (映画)",
                 "text": "〇〇は、1935年に製作・公開されたアメリカ合衆国の映画である。テイ・ガーネットが監督、クラーク・ゲーブルとジーン・ハーロウ、ウォーレス・ビアリーが主演した。"
-            },
-            {
-                "datetime": "2024年01月01日 01時の問題",
-                "url": "https://ja.wikipedia.org/?curid=327316",
-                "title": "安曇野市",
-                "text": "〇〇は、長野県中部（中信地方）にある市。"
             }
         ]
     }
