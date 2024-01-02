@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年01月03日 04時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4868669",
+                "title": "リンド3!",
+                "text": "〇〇は、関川夏央の原作を谷口ジローが作画した日本の漫画作品である。"
+            },
+            {
                 "datetime": "2024年01月03日 03時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2793129",
                 "title": "張議潮",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3468624",
                 "title": "堺市出身の人物一覧",
                 "text": "〇〇は、大阪府堺市出身の人物およびゆかりの人物の一覧。"
-            },
-            {
-                "datetime": "2024年01月01日 11時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1045417",
-                "title": "矢神岳",
-                "text": "〇〇は、岩手県八幡平市にある標高666.3mの山である。"
             }
         ]
     }
