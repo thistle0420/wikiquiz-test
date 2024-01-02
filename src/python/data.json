@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年01月02日 15時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1041795",
+                "title": "ヤマハ・CS-80",
+                "text": "〇〇は、ヤマハのシンセサイザーの機種のひとつ。"
+            },
+            {
                 "datetime": "2024年01月02日 14時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2163597",
                 "title": "ラトビア・ソビエト社会主義共和国の国旗",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=120623",
                 "title": "ムアンノンタブリー郡",
                 "text": "〇〇は、タイ中部・ノンタブリー県にある郡（アムプー）。ノンタブリー県の県庁所在地（ムアン）でもある。"
-            },
-            {
-                "datetime": "2023年12月31日 21時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1675644",
-                "title": "キフォティラピア・フロントーサ",
-                "text": "〇〇は、スズキ目カワスズメ科に分類される魚。"
             }
         ]
     }
