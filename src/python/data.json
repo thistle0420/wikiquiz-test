@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年01月04日 04時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2152192",
+                "title": "ニック・ウィンター",
+                "text": "〇〇は、オーストラリアの男子陸上競技選手である。彼は1924年に開催されたパリオリンピックの三段跳で金メダルを獲得した。"
+            },
+            {
                 "datetime": "2024年01月04日 03時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1977192",
                 "title": "Intel Pentium (2010年)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2440963",
                 "title": "ゲット・ショーティ",
                 "text": "〇〇は、エルモア・レナードの小説を原作とした、バリー・ソネンフェルド監督による1995年のアメリカ映画である。"
-            },
-            {
-                "datetime": "2024年01月02日 11時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4010271",
-                "title": "櫻井あゆみ",
-                "text": "〇〇は、日本の女優。三重県出身。株式会社エコーズ所属。"
             }
         ]
     }
