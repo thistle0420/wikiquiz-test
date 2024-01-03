@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年01月04日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1867888",
+                "title": "錦木",
+                "text": "〇〇は、以下のものを指す。"
+            },
+            {
                 "datetime": "2024年01月04日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1990025",
                 "title": "1975年夏季ユニバーシアード",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2455188",
                 "title": "日向市立財光寺南小学校",
                 "text": "〇〇は、宮崎県日向市大字財光寺にある公立小学校。"
-            },
-            {
-                "datetime": "2024年01月02日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1041795",
-                "title": "ヤマハ・CS-80",
-                "text": "〇〇は、ヤマハのシンセサイザーの機種のひとつ。"
             }
         ]
     }
