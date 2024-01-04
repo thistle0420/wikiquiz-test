@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年01月05日 05時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2599646",
+                "title": "DISH//",
+                "text": "〇〇は、日本の4人組ダンスロックバンド。2011年結成。所属事務所はスターダストプロモーション。所属レコード会社はソニー・ミュージックレコーズ。"
+            },
+            {
                 "datetime": "2024年01月05日 04時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2291429",
                 "title": "コミュファ光テレビ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3367043",
                 "title": "大黒澤苑",
                 "text": "〇〇は、宮城県富谷市明石にある散策できる庭園を備えた公営の交流施設・文化施設。"
-            },
-            {
-                "datetime": "2024年01月03日 12時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2611158",
-                "title": "東久留米市立西中学校",
-                "text": "〇〇は、東京都東久留米市にある公立中学校。"
             }
         ]
     }
