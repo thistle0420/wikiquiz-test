@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年01月04日 13時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2244994",
+                "title": "BAD TIMES",
+                "text": "〇〇は、RIP SLYMEのB面集。2010年12月1日発売。"
+            },
+            {
                 "datetime": "2024年01月04日 12時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3027799",
                 "title": "岡崎活性化本部",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=180652",
                 "title": "防府読売マラソン",
                 "text": "〇〇は、毎年12月に山口県防府市で開催されている日本陸上競技連盟（日本陸連）公認のマラソン大会。"
-            },
-            {
-                "datetime": "2024年01月02日 19時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1126486",
-                "title": "シモナ・アマナール",
-                "text": "〇〇は、ルーマニアのコンスタンツァ（Constanţa）出身の女子体操選手。"
             }
         ]
     }
