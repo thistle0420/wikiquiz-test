@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年01月05日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3264278",
+                "title": "バール・マル",
+                "text": "〇〇は、北インドのラージャスターン地方、アンベール王国の君主（在位：1548年 - 1574年）。ビハーリー・マル（Bihari Mal）、バーラー・マル（Bhara Mal）、バーグ・マル（Bhagmal）とも呼ばれる。"
+            },
+            {
                 "datetime": "2024年01月05日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3108588",
                 "title": "アカバナ属",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2152192",
                 "title": "ニック・ウィンター",
                 "text": "〇〇は、オーストラリアの男子陸上競技選手である。彼は1924年に開催されたパリオリンピックの三段跳で金メダルを獲得した。"
-            },
-            {
-                "datetime": "2024年01月04日 03時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1977192",
-                "title": "Intel Pentium (2010年)",
-                "text": "〇〇は、インテルの、主としてパーソナルコンピュータのCPU向けx86マイクロプロセッサのブランドである。Pentium Dual-Coreの後継にあたり、グラフィックスコントローラ（HD Graphics）を内蔵したプロセッサとして2010年に登場した。製品の位置づけは、廉価版プロセッサに属する。2023年以降、Pentiumのブランドは廃止され、「インテルプロセッサー」(Intel Processor) ブランドに置き換えられることが発表された。"
             }
         ]
     }
