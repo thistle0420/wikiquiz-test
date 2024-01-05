@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年01月05日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3108588",
+                "title": "アカバナ属",
+                "text": "〇〇は、アカバナ科の属の1つ。"
+            },
+            {
                 "datetime": "2024年01月05日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2204320",
                 "title": "コエビ下目",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1977192",
                 "title": "Intel Pentium (2010年)",
                 "text": "〇〇は、インテルの、主としてパーソナルコンピュータのCPU向けx86マイクロプロセッサのブランドである。Pentium Dual-Coreの後継にあたり、グラフィックスコントローラ（HD Graphics）を内蔵したプロセッサとして2010年に登場した。製品の位置づけは、廉価版プロセッサに属する。2023年以降、Pentiumのブランドは廃止され、「インテルプロセッサー」(Intel Processor) ブランドに置き換えられることが発表された。"
-            },
-            {
-                "datetime": "2024年01月04日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1489599",
-                "title": "警察署前駅 (山梨県)",
-                "text": "〇〇は、山梨県甲府市 錦町（現・中央一丁目）に存在した山梨交通電車線の電停。"
             }
         ]
     }
