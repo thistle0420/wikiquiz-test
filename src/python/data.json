@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年01月05日 11時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2952619",
+                "title": "ナヴィド・ネガーバン",
+                "text": "〇〇は、イラン出身の俳優である。"
+            },
+            {
                 "datetime": "2024年01月05日 10時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1177088",
                 "title": "デネル・エアロスペース・システムズ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4011907",
                 "title": "芸術村",
                 "text": "〇〇は、次のような〇〇がある。"
-            },
-            {
-                "datetime": "2024年01月03日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=728711",
-                "title": "岡山表町商店街",
-                "text": "〇〇は、岡山県岡山市北区にある商店街である。岡山市街の中心的繁華街。"
             }
         ]
     }
