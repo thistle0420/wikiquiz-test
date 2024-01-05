@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年01月06日 05時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2575678",
+                "title": "日本クレジット協会",
+                "text": "〇〇は、クレジット業界の業界団体であり業界の自主規制機関。割賦販売法に基づく認定割賦販売協会。個人情報の保護に関する法律に基づく認定個人情報保護団体。"
+            },
+            {
                 "datetime": "2024年01月06日 04時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3780690",
                 "title": "本宮新町",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2244994",
                 "title": "BAD TIMES",
                 "text": "〇〇は、RIP SLYMEのB面集。2010年12月1日発売。"
-            },
-            {
-                "datetime": "2024年01月04日 12時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3027799",
-                "title": "岡崎活性化本部",
-                "text": "〇〇は、岡崎商工会議所会館内に設置された官民連携組織。一般社団法人岡崎市観光協会の発足に伴い、2018年（平成30年）3月31日付で解散した。"
             }
         ]
     }
