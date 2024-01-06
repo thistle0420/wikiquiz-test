@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年01月06日 19時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1576190",
+                "title": "ドラゴスラヴ・イェヴリッチ",
+                "text": "〇〇は、ユーゴスラビア（現：モンテネグロ）出身の元サッカー選手。ポジションはゴールキーパー。"
+            },
+            {
                 "datetime": "2024年01月06日 18時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1155421",
                 "title": "素浪人罷り通る",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1047197",
                 "title": "平安神宮前駅",
                 "text": "〇〇は、京都府京都市東山区にあった京阪神急行電鉄（現・阪急電鉄）京津線の停留場。"
-            },
-            {
-                "datetime": "2024年01月05日 01時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1731175",
-                "title": "NO MORE RULES.",
-                "text": "〇〇は、中島美嘉の企画アルバム。2009年3月4日、ソニー・ミュージックアソシエイテッドレコーズよりリリースした。"
             }
         ]
     }
