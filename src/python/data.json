@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年01月07日 03時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4859647",
+                "title": "谷原誠",
+                "text": "〇〇は、愛知県出身の弁護士、税理士、作家、みらい総合法律事務所の代表パートナー。"
+            },
+            {
                 "datetime": "2024年01月07日 02時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1318848",
                 "title": "朱雀の空",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2952619",
                 "title": "ナヴィド・ネガーバン",
                 "text": "〇〇は、イラン出身の俳優である。"
-            },
-            {
-                "datetime": "2024年01月05日 10時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1177088",
-                "title": "デネル・エアロスペース・システムズ",
-                "text": "〇〇は、南アフリカ共和国ハウテン州ツワネ都市圏（プレトリア）に本社を置く軍需産業を営む企業である。"
             }
         ]
     }
