@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年01月07日 02時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1318848",
+                "title": "朱雀の空",
+                "text": "〇〇は、ルルティアの4枚目のシングル。"
+            },
+            {
                 "datetime": "2024年01月07日 01時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2650204",
                 "title": "第二号新興丸",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1177088",
                 "title": "デネル・エアロスペース・システムズ",
                 "text": "〇〇は、南アフリカ共和国ハウテン州ツワネ都市圏（プレトリア）に本社を置く軍需産業を営む企業である。"
-            },
-            {
-                "datetime": "2024年01月05日 08時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2928509",
-                "title": "林屋礼二",
-                "text": "〇〇は、日本の法学者。専門は民事訴訟法。東北大学名誉教授。日本学術会議会員。従四位瑞宝中綬章。"
             }
         ]
     }
