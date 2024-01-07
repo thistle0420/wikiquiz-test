@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年01月07日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=245565",
+                "title": "村田雄浩",
+                "text": "〇〇は、日本の俳優。身長180センチメートル、体重81.5キログラム。バイ・ザ・ウェイ所属。"
+            },
+            {
                 "datetime": "2024年01月07日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3720032",
                 "title": "2018年平昌オリンピックのトーゴ選手団",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3264278",
                 "title": "バール・マル",
                 "text": "〇〇は、北インドのラージャスターン地方、アンベール王国の君主（在位：1548年 - 1574年）。ビハーリー・マル（Bihari Mal）、バーラー・マル（Bhara Mal）、バーグ・マル（Bhagmal）とも呼ばれる。"
-            },
-            {
-                "datetime": "2024年01月05日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3108588",
-                "title": "アカバナ属",
-                "text": "〇〇は、アカバナ科の属の1つ。"
             }
         ]
     }
