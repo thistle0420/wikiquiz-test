@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年01月09日 06時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2528813",
+                "title": "湊町 (新潟県)",
+                "text": "〇〇は、かつて新潟県佐渡郡にあった町。"
+            },
+            {
                 "datetime": "2024年01月09日 05時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3306236",
                 "title": "山本智矢",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=245565",
                 "title": "村田雄浩",
                 "text": "〇〇は、日本の俳優。身長180センチメートル、体重81.5キログラム。バイ・ザ・ウェイ所属。"
-            },
-            {
-                "datetime": "2024年01月07日 13時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3720032",
-                "title": "2018年平昌オリンピックのトーゴ選手団",
-                "text": "〇〇は、2018年2月9日から25日まで大韓民国江原道平昌で開催された〇〇の名簿。"
             }
         ]
     }
