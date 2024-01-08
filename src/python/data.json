@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年01月08日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3532476",
+                "title": "稲田三之助",
+                "text": "〇〇は、日本の逓信官僚。早稲田大学教授。錦鶏間祗候。勲三等瑞宝章受章。"
+            },
+            {
                 "datetime": "2024年01月08日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2490610",
                 "title": "唐梅院",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4859647",
                 "title": "谷原誠",
                 "text": "〇〇は、愛知県出身の弁護士、税理士、作家、みらい総合法律事務所の代表パートナー。"
-            },
-            {
-                "datetime": "2024年01月07日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1318848",
-                "title": "朱雀の空",
-                "text": "〇〇は、ルルティアの4枚目のシングル。"
             }
         ]
     }
