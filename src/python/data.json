@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年01月09日 17時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4874927",
+                "title": "マルタ・テミド",
+                "text": "〇〇は、ポルトガルの政治家。共和国議会議員。"
+            },
+            {
                 "datetime": "2024年01月09日 16時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1414790",
                 "title": "サウス・ドラゴンズ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1334226",
                 "title": "イブライム・バレ・マイナサラ",
                 "text": "〇〇は、ニジェールの軍人、政治家。1996年にクーデターで当時の民政を倒し、軍事政権を打ち立てた。"
-            },
-            {
-                "datetime": "2024年01月07日 23時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1969543",
-                "title": "有川貞真",
-                "text": "〇〇は、戦国時代から安土桃山時代にかけての武将。島津氏の家臣。"
             }
         ]
     }
