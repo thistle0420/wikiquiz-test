@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年01月11日 02時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3095458",
+                "title": "XcalableMP",
+                "text": "〇〇は、テンプレートと呼ばれる仮想的なインデックス集合を用いて並列化を行う。グローバルビューでは、OpenMPのように、プログラマは逐次コードに対して指示文を挿入することで、データのマッピング、ノード間のデータのread/write、ループ文の並列化などを行う。XMPの指示文のいくつかはHigh Performance Fortranの指示文を引き継いだものである。ローカルビューでは、Co-array Fortranのように、ノード番号を指定してノード間のデータのread/writeを行う。なお、Fortran言語のXMPはCo-array Fortranの上位互換である。"
+            },
+            {
                 "datetime": "2024年01月11日 01時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4209660",
                 "title": "ゲルハルト・リッター (化学者)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3896816",
                 "title": "グレミオ・エスポルチーヴォ・オザスコ",
                 "text": "〇〇は、ブラジル・サンパウロ州オザスコを本拠地とするサッカークラブである。2007年12月17日設立"
-            },
-            {
-                "datetime": "2024年01月09日 07時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2460726",
-                "title": "アルクビージャス",
-                "text": "〇〇は、スペイン・カスティーリャ＝ラ・マンチャ州シウダー・レアル県のムニシピオ（基礎自治体）。"
             }
         ]
     }
