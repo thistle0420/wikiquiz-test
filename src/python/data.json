@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年01月10日 10時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4351445",
+                "title": "Android One S2",
+                "text": "〇〇は、Google提唱規格で京セラが共同開発したAndroidスマートフォンである。製造型番はS2-KC。"
+            },
+            {
                 "datetime": "2024年01月10日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=392419",
                 "title": "サモエド",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2134942",
                 "title": "橘村 (神奈川県)",
                 "text": "〇〇は、1889年（明治22年）4月1日から1937年（昭和12年）6月1日まで存在した神奈川県橘樹郡の村。"
-            },
-            {
-                "datetime": "2024年01月08日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=38541",
-                "title": "鹿島市",
-                "text": "〇〇は、佐賀県の南部にある市である。旧藤津郡。1954年（昭和29年）市制施行。"
             }
         ]
     }
