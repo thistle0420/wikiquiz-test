@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年01月12日 02時の問題",
+                "url": "https://ja.wikipedia.org/?curid=930919",
+                "title": "魅せられて (テレビドラマ)",
+                "text": "〇〇は、東海テレビ制作・フジテレビ系列で、1994年10月3日～12月29日に放送された昼ドラマである。"
+            },
+            {
                 "datetime": "2024年01月12日 01時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3659083",
                 "title": "マリアナス・トレンチ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4351445",
                 "title": "Android One S2",
                 "text": "〇〇は、Google提唱規格で京セラが共同開発したAndroidスマートフォンである。製造型番はS2-KC。"
-            },
-            {
-                "datetime": "2024年01月10日 08時の問題",
-                "url": "https://ja.wikipedia.org/?curid=392419",
-                "title": "サモエド",
-                "text": "〇〇は、ロシアのシベリアを原産地とする犬の品種のひとつ。典型的なスピッツ系の体型をしており、シベリアン・スピッツとも呼ばれる。"
             }
         ]
     }
