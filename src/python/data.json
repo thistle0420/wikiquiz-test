@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年01月11日 13時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1087439",
+                "title": "木村彰一",
+                "text": "〇〇は、日本のロシア文学者、翻訳家。東京大学名誉教授。"
+            },
+            {
                 "datetime": "2024年01月11日 12時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3458039",
                 "title": "ジャスティン・ホリデー",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1659322",
                 "title": "That's Girls Life",
                 "text": "〇〇は、2008年12月24日に発売された岡本玲の1枚目のアルバムである。"
-            },
-            {
-                "datetime": "2024年01月09日 18時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4746973",
-                "title": "伊地知賢造",
-                "text": "〇〇は、日本の陸上競技選手。埼玉県鶴ヶ島市出身。國學院大學人間開発学部在学中。陸上競技部に所属し、専門種目は長距離走。"
             }
         ]
     }
