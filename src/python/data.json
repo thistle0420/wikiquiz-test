@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年01月13日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1354180",
+                "title": "ネームエントリー",
+                "text": "〇〇は、アーケードゲーム・家庭用ゲームなどのコンピュータゲームで、スコア（得点）とそれを記録したプレイヤー名を記録しておくための要素のことである。"
+            },
+            {
                 "datetime": "2024年01月13日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1150763",
                 "title": "AYA (声優)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=7424",
                 "title": "算術",
                 "text": "〇〇は、数の概念や数の演算を扱い、その性質や計算規則、あるいは計算法などの論理的手続きを明らかにしようとする学問分野である。"
-            },
-            {
-                "datetime": "2024年01月11日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1965572",
-                "title": "Speed of flow",
-                "text": "〇〇は、THE RODEO CARBURETTORの3枚目のシングル。2008年2月14日にエピックレコードジャパンから発売された。"
             }
         ]
     }
