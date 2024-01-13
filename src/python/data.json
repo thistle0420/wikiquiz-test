@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年01月14日 05時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1065138",
+                "title": "Armbrust",
+                "text": "〇〇は、ドイツのメッサーシュミット・ベルコウ・ブローム（MBB）社により開発された対戦車擲弾発射器。口径67mmの無誘導、使い捨ての無反動砲。なお、名称は「クロスボウ」を意味するドイツ語である。"
+            },
+            {
                 "datetime": "2024年01月14日 04時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2264053",
                 "title": "武豊町民会館",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=527516",
                 "title": "LVG C.V (航空機)",
                 "text": "〇〇は、ドイツ帝国のヨハニスタール航空運輸有限責任会社（ルフト・フェアケーアス・ゲゼルシャフト・ミット・ベシュレンクター・ハフトゥング・ヨハニスタール；Luft-Verkehrs Gesellschaft mit beschränkter Haftung Johannisthal; Luft-Verkehrs G.m.b.H. Johannisthal; L.V.G.; LVG）が開発した、単発複葉複座の偵察機。第一次世界大戦終盤の1917年に初飛行を果たした。"
-            },
-            {
-                "datetime": "2024年01月12日 12時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1939355",
-                "title": "北ビスマルクプレート",
-                "text": "〇〇は、ビスマルク海周辺に位置する小規模な構造プレートで、ニューギニア島の北東海岸と接している。北側で太平洋プレートとカロライナプレートと接している。西側ではニューギニア島のウッドラークプレートの下に沈みこんでいて、南ビスマルクプレートとは発散境界によって隔てられている。若干の地震活動が確認されている。"
             }
         ]
     }
