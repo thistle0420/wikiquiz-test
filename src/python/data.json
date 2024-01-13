@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年01月14日 02時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3150672",
+                "title": "東御市の歴史",
+                "text": "〇〇は、現在の東御市の区域における歴史について記述する。"
+            },
+            {
                 "datetime": "2024年01月14日 01時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4257540",
                 "title": "マンガン鋼",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2253849",
                 "title": "海軍指揮幕僚監部",
                 "text": "〇〇は、かつてドイツ連邦国防省の下で組織されていたドイツ連邦軍の五大指揮幕僚監部の一つで、ドイツ連邦海軍における最高幕僚機関であった。"
-            },
-            {
-                "datetime": "2024年01月12日 08時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3868809",
-                "title": "榎本英雄",
-                "text": "〇〇は、日本の中国語学者、明治学院大学名誉教授。"
             }
         ]
     }
