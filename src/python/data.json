@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年01月13日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1655163",
+                "title": "藤沢哲也",
+                "text": "〇〇は、大分県大分市鶴崎出身の元プロ野球選手（投手）。"
+            },
+            {
                 "datetime": "2024年01月13日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2088411",
                 "title": "水滸演武",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3659083",
                 "title": "マリアナス・トレンチ",
                 "text": "〇〇は、カナダのバンクーバー出身のポップ・ロックバンドである。"
-            },
-            {
-                "datetime": "2024年01月12日 00時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4676497",
-                "title": "忠望王",
-                "text": "〇〇は、平安時代中期の皇族。式部卿・是忠親王の子。官位は従四位上・神祇伯。"
             }
         ]
     }
