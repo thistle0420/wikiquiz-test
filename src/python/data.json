@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年01月14日 12時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3140866",
+                "title": "ジョゼフ・フィリップ・フランソワ・ドゥルーズ",
+                "text": "〇〇は、フランスの博物学者である。パリ自然史博物館の司書を務めた。動物磁気説の信奉者として知られる。"
+            },
+            {
                 "datetime": "2024年01月14日 11時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1588574",
                 "title": "ベネラ15号",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=724469",
                 "title": "〜Mermaid〜",
                 "text": "〇〇は、島谷ひとみの18枚目のシングル。2005年6月15日にavex traxよりリリースされた。"
-            },
-            {
-                "datetime": "2024年01月12日 18時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3899491",
-                "title": "吉田舜",
-                "text": "〇〇は、埼玉県熊谷市出身のプロサッカー選手。Jリーグ・浦和レッズ所属。ポジションはゴールキーパー。既婚。"
             }
         ]
     }
