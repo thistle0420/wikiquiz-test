@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年01月15日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3594893",
+                "title": "神津友好",
+                "text": "〇〇は、日本の放送演芸作家。"
+            },
+            {
                 "datetime": "2024年01月15日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=335598",
                 "title": "カルメル",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1952090",
                 "title": "海老原半三郎",
                 "text": "〇〇は、茨城県龍ケ崎市出身の大日本帝国陸軍軍人。明治期の近衛歩兵第1連隊幹部。日露戦争にて金鵄勲章を受章した。"
-            },
-            {
-                "datetime": "2024年01月14日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3150672",
-                "title": "東御市の歴史",
-                "text": "〇〇は、現在の東御市の区域における歴史について記述する。"
             }
         ]
     }
