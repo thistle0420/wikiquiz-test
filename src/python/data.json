@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年01月17日 03時の問題",
+                "url": "https://ja.wikipedia.org/?curid=28594",
+                "title": "池の浦駅",
+                "text": "〇〇は、三重県鳥羽市堅神町字宮の前にある、近畿日本鉄道（近鉄）鳥羽線の駅である。駅番号はM77。"
+            },
+            {
                 "datetime": "2024年01月17日 02時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1948820",
                 "title": "鈴木田登満留",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1973729",
                 "title": "教育方法学",
                 "text": "〇〇は、教育学・教育実践を、方法論的な視点から研究する学問である。"
-            },
-            {
-                "datetime": "2024年01月15日 10時の問題",
-                "url": "https://ja.wikipedia.org/?curid=52012",
-                "title": "392年",
-                "text": "〇〇は、西暦（ユリウス暦）による、閏年。"
             }
         ]
     }
