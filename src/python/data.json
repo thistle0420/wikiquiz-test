@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年01月16日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4716559",
+                "title": "トニ・ドムジョニ",
+                "text": "〇〇は、クロアチア・コプリヴニツァ出身のスイス系コソボ人サッカー選手。SBVフィテッセ所属。ポジションはMF。コソボ代表。"
+            },
+            {
                 "datetime": "2024年01月16日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=609069",
                 "title": "国分謙吉",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4592131",
                 "title": "奥田知明",
                 "text": "〇〇は、日本の化学者。慶應義塾大学理工学部応用化学科教授。大気環境学会常任理事。"
-            },
-            {
-                "datetime": "2024年01月15日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1219981",
-                "title": "あさみ順子",
-                "text": "〇〇は、神奈川県出身の日本のパズル作家。"
             }
         ]
     }
