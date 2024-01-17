@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年01月17日 12時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2582300",
+                "title": "アレシャンドレ・ダ・シルバ",
+                "text": "〇〇は、ブラジル・リオデジャネイロ出身の元サッカー選手。ポジションはフォワード。"
+            },
+            {
                 "datetime": "2024年01月17日 11時の問題",
                 "url": "https://ja.wikipedia.org/?curid=216341",
                 "title": "常総ニュータウン",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=335598",
                 "title": "カルメル",
                 "text": "〇〇は、ヘブライ語と英語の地名あるいは人名である。いずれもイスラエルにあるキリスト教の聖地の一つである〇〇山を語源とする。"
-            },
-            {
-                "datetime": "2024年01月15日 18時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1293051",
-                "title": "和合石",
-                "text": "〇〇は、香港新界北東部の住宅地区である。"
             }
         ]
     }
