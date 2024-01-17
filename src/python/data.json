@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年01月17日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3886155",
+                "title": "板取村立岩本小学校",
+                "text": "〇〇は、かつて岐阜県武儀郡板取村（現・関市）に存在した公立小学校。"
+            },
+            {
                 "datetime": "2024年01月17日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4373487",
                 "title": "大澤あんず",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1032657",
                 "title": "愛知県口論義運動公園",
                 "text": "〇〇は、愛知県日進市にある公園である。"
-            },
-            {
-                "datetime": "2024年01月16日 00時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2452187",
-                "title": "泉周二",
-                "text": "〇〇は、日本の作曲家、武蔵中学芸術科教諭。東京都出身。"
             }
         ]
     }
