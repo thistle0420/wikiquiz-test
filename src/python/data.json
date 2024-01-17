@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年01月17日 10時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2579002",
+                "title": "淡徳三郎",
+                "text": "〇〇は、日本の社会評論家。"
+            },
+            {
                 "datetime": "2024年01月17日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1949713",
                 "title": "野猿のビデオクリップと歴史 ザ・グレイテスト・ヒッツ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1002475",
                 "title": "ゲームデザイン",
                 "text": "〇〇は、ゲームの内容やルールのデザイン過程を指す。"
-            },
-            {
-                "datetime": "2024年01月15日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=177528",
-                "title": "燕三条エフエム放送",
-                "text": "〇〇は、新潟県燕市に本社・演奏所を置き超短波放送（FM放送）を行う特定地上基幹放送事業者である。ラヂオは～との愛称でコミュニティ放送をしている。"
             }
         ]
     }
