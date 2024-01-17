@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年01月17日 11時の問題",
+                "url": "https://ja.wikipedia.org/?curid=216341",
+                "title": "常総ニュータウン",
+                "text": "〇〇は、茨城県取手市・守谷市・つくばみらい市・常総市に跨って開発が行われた大規模ニュータウン。開発面積約850ha、計画人口90,000人。"
+            },
+            {
                 "datetime": "2024年01月17日 10時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2579002",
                 "title": "淡徳三郎",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1293051",
                 "title": "和合石",
                 "text": "〇〇は、香港新界北東部の住宅地区である。"
-            },
-            {
-                "datetime": "2024年01月15日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1002475",
-                "title": "ゲームデザイン",
-                "text": "〇〇は、ゲームの内容やルールのデザイン過程を指す。"
             }
         ]
     }
