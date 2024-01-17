@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年01月18日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2604050",
+                "title": "ヒューゲナット駅",
+                "text": "〇〇は、スタテンアイランドのヒューゲナットにあるスタテンアイランド鉄道の駅である。"
+            },
+            {
                 "datetime": "2024年01月18日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=171875",
                 "title": "柄本明",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4194002",
                 "title": "ヘレン・ボートン＝リー",
                 "text": "〇〇は、アメリカのアルペンスキーヤーだった。彼女は、1936年の冬季オリンピックで女子大会に出場した。"
-            },
-            {
-                "datetime": "2024年01月16日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4597013",
-                "title": "リサール公園",
-                "text": "〇〇は、フィリピンのマニラ首都圏・マニラ市にある都市公園。"
             }
         ]
     }
