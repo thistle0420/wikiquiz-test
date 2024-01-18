@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年01月18日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2245852",
+                "title": "アースリング",
+                "text": "〇〇は、デヴィッド・ボウイの19枚目のスタジオ・アルバム。"
+            },
+            {
                 "datetime": "2024年01月18日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3253824",
                 "title": "経団連会館",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=211192",
                 "title": "香川綾",
                 "text": "〇〇は、香川栄養学園の創始者。医学博士。日本における栄養学の普及に多大なる功績を残した。"
-            },
-            {
-                "datetime": "2024年01月16日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4716559",
-                "title": "トニ・ドムジョニ",
-                "text": "〇〇は、クロアチア・コプリヴニツァ出身のスイス系コソボ人サッカー選手。SBVフィテッセ所属。ポジションはMF。コソボ代表。"
             }
         ]
     }
