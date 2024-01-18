@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年01月18日 15時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3582499",
+                "title": "ビデオマーケット",
+                "text": "〇〇は、東京都新宿区に本社を置く、動画配信事業を行う企業である。"
+            },
+            {
                 "datetime": "2024年01月18日 14時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2245852",
                 "title": "アースリング",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2486657",
                 "title": "新潟県道268号越後湯沢停車場岩原線",
                 "text": "〇〇は、新潟県南魚沼郡湯沢町内を通る一般県道である。"
-            },
-            {
-                "datetime": "2024年01月16日 21時の問題",
-                "url": "https://ja.wikipedia.org/?curid=211192",
-                "title": "香川綾",
-                "text": "〇〇は、香川栄養学園の創始者。医学博士。日本における栄養学の普及に多大なる功績を残した。"
             }
         ]
     }
