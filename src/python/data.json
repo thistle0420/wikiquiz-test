@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年01月18日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3618763",
+                "title": "久保田有一",
+                "text": "〇〇は、日本の医師（脳外科）。医学博士（東京女子医科大学）。留学時の経験から、NCSE（非痙攣性てんかん重積状態）の診断・治療の普及に努めている。"
+            },
+            {
                 "datetime": "2024年01月18日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=466301",
                 "title": "大越孝太郎",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1475001",
                 "title": "あすかりの",
                 "text": "〇〇は、日本のAV女優。"
-            },
-            {
-                "datetime": "2024年01月17日 03時の問題",
-                "url": "https://ja.wikipedia.org/?curid=28594",
-                "title": "池の浦駅",
-                "text": "〇〇は、三重県鳥羽市堅神町字宮の前にある、近畿日本鉄道（近鉄）鳥羽線の駅である。駅番号はM77。"
             }
         ]
     }
