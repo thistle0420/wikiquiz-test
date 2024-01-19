@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年01月20日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4524645",
+                "title": "佐々木伸彦",
+                "text": "〇〇は、日本の経済産業官僚。第13代日本貿易振興機構理事長。"
+            },
+            {
                 "datetime": "2024年01月20日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=69722",
                 "title": "桜通信",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3582499",
                 "title": "ビデオマーケット",
                 "text": "〇〇は、東京都新宿区に本社を置く、動画配信事業を行う企業である。"
-            },
-            {
-                "datetime": "2024年01月18日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2245852",
-                "title": "アースリング",
-                "text": "〇〇は、デヴィッド・ボウイの19枚目のスタジオ・アルバム。"
             }
         ]
     }
