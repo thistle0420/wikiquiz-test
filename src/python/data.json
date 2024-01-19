@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年01月20日 04時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2266349",
+                "title": "SRC ASIA vol.1",
+                "text": "〇〇は、日本の総合格闘技団体「SRC」の大会の一つ。2010年7月4日、東京都江東区のディファ有明で開催された。"
+            },
+            {
                 "datetime": "2024年01月20日 03時の問題",
                 "url": "https://ja.wikipedia.org/?curid=465348",
                 "title": "松本斗機蔵",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=720520",
                 "title": "三栄薬品",
                 "text": "〇〇は、かつて存在した医薬品・衛生材料・化粧品の卸売を中心とする日本の企業である。現在はバイタルネットである。医薬品の卸売手。"
-            },
-            {
-                "datetime": "2024年01月18日 11時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3688005",
-                "title": "野萩町",
-                "text": "〇〇は、愛知県名古屋市守山区の地名。丁番を持たない単独町名である。住居表示実施。"
             }
         ]
     }
