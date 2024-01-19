@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年01月19日 13時の問題",
+                "url": "https://ja.wikipedia.org/?curid=60700",
+                "title": "DOORS MUSIC ENTERTAINMENT",
+                "text": "〇〇は、主にパソコンゲームメーカーF&Cのタイトルに楽曲を提供している音楽アーティスト集団である。運営会社は有限会社ドアーズ（のちに改称して有限会社TYRELL LAB.）で、F&Cの関連会社である。"
+            },
+            {
                 "datetime": "2024年01月19日 12時の問題",
                 "url": "https://ja.wikipedia.org/?curid=349258",
                 "title": "仁風閣",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4330371",
                 "title": "カーサ・プレセイ・リベレ",
                 "text": "〇〇は、ルーマニア、ブカレスト北部にある高層建築物である。1956年から2007年までの間、市内で最も高かった。"
-            },
-            {
-                "datetime": "2024年01月17日 19時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3986997",
-                "title": "貞刈厚仁",
-                "text": "〇〇は、日本の地方公務員。福岡市総務企画局長や、福岡市副市長を経て、博多座代表取締役社長。"
             }
         ]
     }
