@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年01月19日 10時の問題",
+                "url": "https://ja.wikipedia.org/?curid=662466",
+                "title": "内川 (東京都)",
+                "text": "〇〇は、東京都大田区を流れる河川。二級水系の本流である。全長1.55km、流域面積3.25km2。"
+            },
+            {
                 "datetime": "2024年01月19日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3383618",
                 "title": "OLレイン",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4373487",
                 "title": "大澤あんず",
                 "text": "〇〇は、日本の女優、タレントである。"
-            },
-            {
-                "datetime": "2024年01月17日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=670578",
-                "title": "海原千里・万里",
-                "text": "〇〇は、海原万里と海原千里の実姉妹からなる漫才コンビ。1970年代に人気を博した。"
             }
         ]
     }
