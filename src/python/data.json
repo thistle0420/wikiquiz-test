@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年01月21日 06時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2612640",
+                "title": "H.EAT",
+                "text": "〇〇は、日本の男性3人組のロックバンド。1995年結成。"
+            },
+            {
                 "datetime": "2024年01月21日 05時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4490992",
                 "title": "デルスウ・ウザーラ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3057085",
                 "title": "しあわせニュース",
                 "text": "〇〇は、NHK総合テレビジョンで2012年末から2017年末まで毎年大晦日などに放送されていた特別番組。"
-            },
-            {
-                "datetime": "2024年01月19日 13時の問題",
-                "url": "https://ja.wikipedia.org/?curid=60700",
-                "title": "DOORS MUSIC ENTERTAINMENT",
-                "text": "〇〇は、主にパソコンゲームメーカーF&Cのタイトルに楽曲を提供している音楽アーティスト集団である。運営会社は有限会社ドアーズ（のちに改称して有限会社TYRELL LAB.）で、F&Cの関連会社である。"
             }
         ]
     }
