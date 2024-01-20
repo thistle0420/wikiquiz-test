@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年01月20日 10時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2992997",
+                "title": "藤林敬三",
+                "text": "〇〇は、日本の経済学者。専門は労働経済論。"
+            },
+            {
                 "datetime": "2024年01月20日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=647735",
                 "title": "千本松喜兵衛",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=327268",
                 "title": "アルフレート・シュニトケ",
                 "text": "〇〇は、ソビエト連邦のドイツ・ユダヤ系作曲家。"
-            },
-            {
-                "datetime": "2024年01月18日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1493072",
-                "title": "ロシア古正教会",
-                "text": "〇〇は、ロシア正教古儀式派の一つで、司祭派（容僧派）に分類される。しばしばノボズィプコフ派、逃亡司祭派（ベグロポポーフツィ）とも呼ばれる。"
             }
         ]
     }
