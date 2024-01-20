@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年01月20日 23時の問題",
+                "url": "https://ja.wikipedia.org/?curid=624272",
+                "title": "イタリア軍",
+                "text": "〇〇は、イタリア共和国の軍隊。"
+            },
+            {
                 "datetime": "2024年01月20日 22時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2192476",
                 "title": "EUS (映像作品)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3291666",
                 "title": "野村治三郎",
                 "text": "〇〇は、日本の実業家、政治家。衆議院議員（立憲民政党）。野村銀行（りそな銀行の前身とは別の銀行）の頭取。幼名・常太郎、8代目〇〇。野辺地町名誉町民。"
-            },
-            {
-                "datetime": "2024年01月19日 05時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3227248",
-                "title": "千歳市立青葉中学校",
-                "text": "〇〇は、北海道千歳市に所在する公立中学校。"
             }
         ]
     }
