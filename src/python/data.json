@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年01月21日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1933682",
+                "title": "遥かなる我が子",
+                "text": "〇〇は、1946年に製作・公開されたアメリカ合衆国の映画である。"
+            },
+            {
                 "datetime": "2024年01月21日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3092312",
                 "title": "工藤竜平",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3745111",
                 "title": "孤独のニューヨーク",
                 "text": "〇〇は、ニルソンが1969年に発表した楽曲。"
-            },
-            {
-                "datetime": "2024年01月19日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2272464",
-                "title": "シアネ族",
-                "text": "〇〇は、パプアニューギニアに住む少数民族。小柄だが、引き締まった体格をしている。"
             }
         ]
     }
