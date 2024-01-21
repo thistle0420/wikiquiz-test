@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年01月21日 15時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1447583",
+                "title": "L-39 (航空機)",
+                "text": "〇〇は、旧チェコスロバキアで開発された高等ジェット練習機・軽攻撃機。アルバトロスとは「アホウドリ」という意味。"
+            },
+            {
                 "datetime": "2024年01月21日 14時の問題",
                 "url": "https://ja.wikipedia.org/?curid=247924",
                 "title": "生野銀山",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3482148",
                 "title": "大栗道栄",
                 "text": "〇〇は、真言宗の僧、文筆家。"
-            },
-            {
-                "datetime": "2024年01月19日 21時の問題",
-                "url": "https://ja.wikipedia.org/?curid=932581",
-                "title": "辻吉之助",
-                "text": "〇〇は、京都出身のヴァイオリニストである。"
             }
         ]
     }
