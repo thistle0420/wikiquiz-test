@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年01月22日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4829",
+                "title": "1837年",
+                "text": "〇〇は、西暦（グレゴリオ暦）による、日曜日から始まる平年。"
+            },
+            {
                 "datetime": "2024年01月22日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2246825",
                 "title": "松本信廣",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1034652",
                 "title": "コッレ・ダンキーゼ",
                 "text": "〇〇は、イタリア共和国モリーゼ州カンポバッソ県にある、人口約800人の基礎自治体（コムーネ）。"
-            },
-            {
-                "datetime": "2024年01月20日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2054707",
-                "title": "バトルグループ・オメガ",
-                "text": "〇〇は、アメリカのSFテレビドラマ『スタートレック』シリーズを原作とするMMORPG、『Star Trek Online』に登場する架空の組織。"
             }
         ]
     }
