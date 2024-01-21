@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年01月22日 02時の問題",
+                "url": "https://ja.wikipedia.org/?curid=549742",
+                "title": "タイガーロケッティ",
+                "text": "〇〇は、タイガー製作所が1954年から1975年頃まで製造・販売していた模型用固体燃料ロケットエンジンである。"
+            },
+            {
                 "datetime": "2024年01月22日 01時の問題",
                 "url": "https://ja.wikipedia.org/?curid=12060",
                 "title": "稲毛駅",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2992997",
                 "title": "藤林敬三",
                 "text": "〇〇は、日本の経済学者。専門は労働経済論。"
-            },
-            {
-                "datetime": "2024年01月20日 08時の問題",
-                "url": "https://ja.wikipedia.org/?curid=647735",
-                "title": "千本松喜兵衛",
-                "text": "〇〇は、新潟県柏崎市出身の俳優。血液型はB型。悪役商会所属。本名は内山 幸祐。"
             }
         ]
     }
