@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年01月22日 06時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2246825",
+                "title": "松本信廣",
+                "text": "〇〇は、大正から昭和にかけての民俗学者、神話学者。"
+            },
+            {
                 "datetime": "2024年01月22日 05時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4168111",
                 "title": "感電 (米津玄師の曲)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2054707",
                 "title": "バトルグループ・オメガ",
                 "text": "〇〇は、アメリカのSFテレビドラマ『スタートレック』シリーズを原作とするMMORPG、『Star Trek Online』に登場する架空の組織。"
-            },
-            {
-                "datetime": "2024年01月20日 13時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1591622",
-                "title": "三重県道112号磯部浜島線",
-                "text": "〇〇は、三重県志摩市内を通る一般県道。"
             }
         ]
     }
