@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年01月22日 17時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1782293",
+                "title": "教育委員会法",
+                "text": "〇〇は、公選制の教育委員会等について定めていた法律である。"
+            },
+            {
                 "datetime": "2024年01月22日 16時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3719235",
                 "title": "ニューポートカントリークラブ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=654534",
                 "title": "東京ボーイズ",
                 "text": "〇〇は、落語芸術協会、ボーイズバラエティ協会所属のボーイズ。1965年に結成。出囃子は「東京音頭」。"
-            },
-            {
-                "datetime": "2024年01月20日 23時の問題",
-                "url": "https://ja.wikipedia.org/?curid=624272",
-                "title": "イタリア軍",
-                "text": "〇〇は、イタリア共和国の軍隊。"
             }
         ]
     }
