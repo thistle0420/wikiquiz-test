@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年01月22日 16時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3719235",
+                "title": "ニューポートカントリークラブ",
+                "text": "〇〇は、1893年米国ロードアイランド州ニューポートで創立された、歴史ある会員制ゴルフクラブである。1895年開催の第1回の全米アマチュア選手権と第1回の全米オープンはいずれもこの〇〇で開催された。"
+            },
+            {
                 "datetime": "2024年01月22日 15時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4499122",
                 "title": "神善寺",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=624272",
                 "title": "イタリア軍",
                 "text": "〇〇は、イタリア共和国の軍隊。"
-            },
-            {
-                "datetime": "2024年01月20日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2192476",
-                "title": "EUS (映像作品)",
-                "text": "〇〇は、日本のミュージシャンCorneliusが2000年にリリースしたライブビデオである。ヨーロッパ（EU）、アメリカ合衆国（US）でのライブを映像加工したものになっている。タイトルの『EUS』とはEU＋USの意味。トラットリア・メニュー201。2010年にリマスターされて再発売された『FANTASMA』の初回限定盤に、『EUS』からオープニング映像、「Count Five Or Six」、「E」、「Ape Shall Never Kill Ape」がDVDで収録された。"
             }
         ]
     }
