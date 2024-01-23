@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年01月24日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=440993",
+                "title": "ブリティッシュ・エアロスペース",
+                "text": "〇〇は、イギリス国内にあった航空機メーカー4社が統合して1977年4月29日に誕生した国有航空宇宙企業である。1999年にはBAEシステムズ (BAE Systems) に組織改編された。"
+            },
+            {
                 "datetime": "2024年01月23日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3422894",
                 "title": "デジモンユニバース アプリモンスターズ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4829",
                 "title": "1837年",
                 "text": "〇〇は、西暦（グレゴリオ暦）による、日曜日から始まる平年。"
-            },
-            {
-                "datetime": "2024年01月22日 06時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2246825",
-                "title": "松本信廣",
-                "text": "〇〇は、大正から昭和にかけての民俗学者、神話学者。"
             }
         ]
     }
