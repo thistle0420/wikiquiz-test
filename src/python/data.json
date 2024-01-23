@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年01月23日 15時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3533396",
+                "title": "和久井透夏",
+                "text": "〇〇は、日本のライトノベル作家。"
+            },
+            {
                 "datetime": "2024年01月23日 14時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1755204",
                 "title": "フリッツ・バイエルライン",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1621411",
                 "title": "魔物語 愛しのベティ",
                 "text": "〇〇は、小池一夫原作・叶精作作画によるファンタジー・ラブコメ漫画。また、それを原作とするOVA。"
-            },
-            {
-                "datetime": "2024年01月21日 21時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2006662",
-                "title": "2008年エイゴンチャレンジ杯",
-                "text": "〇〇は、2008年にオランダで開催されたオランダスケート連盟によるフィギュアスケートの国際競技会。"
             }
         ]
     }
