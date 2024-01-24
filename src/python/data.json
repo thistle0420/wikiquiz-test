@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年01月24日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1618907",
+                "title": "シンポ",
+                "text": "〇〇は、愛知県名古屋市名東区に本社を置く無煙ロースターメーカー。"
+            },
+            {
                 "datetime": "2024年01月24日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4668813",
                 "title": "ジェームズ・クック (ランニングバック)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2907192",
                 "title": "高橋通夫",
                 "text": "〇〇は、日本の撮影監督（映画カメラマン）。"
-            },
-            {
-                "datetime": "2024年01月23日 03時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1279691",
-                "title": "晋陽公主",
-                "text": "〇〇は、中国の唐の太宗李世民の娘。字は明達。幼字は兕子。"
             }
         ]
     }
