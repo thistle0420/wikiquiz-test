@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年01月25日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4620941",
+                "title": "音楽 (NEWSのアルバム)",
+                "text": "〇〇は、2022年8月17日に発売された日本の男性アイドルグループ・NEWSの12thアルバム。"
+            },
+            {
                 "datetime": "2024年01月25日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1862009",
                 "title": "二番煎じ (落語)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1096565",
                 "title": "東京工学院専門学校",
                 "text": "〇〇は、東京都小金井市前原町にある私立専門学校（専修学校専門課程）。学校法人田中育英会が運営する。"
-            },
-            {
-                "datetime": "2024年01月23日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3533396",
-                "title": "和久井透夏",
-                "text": "〇〇は、日本のライトノベル作家。"
             }
         ]
     }
