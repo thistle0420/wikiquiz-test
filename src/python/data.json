@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年01月25日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1862009",
+                "title": "二番煎じ (落語)",
+                "text": "〇〇は、古典落語の演目の1つ。"
+            },
+            {
                 "datetime": "2024年01月25日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3474985",
                 "title": "スイートニング",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3533396",
                 "title": "和久井透夏",
                 "text": "〇〇は、日本のライトノベル作家。"
-            },
-            {
-                "datetime": "2024年01月23日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1755204",
-                "title": "フリッツ・バイエルライン",
-                "text": "〇〇は、第二次世界大戦中のドイツの軍人。エルヴィン・ロンメル麾下のドイツアフリカ軍団などで実績を積み、各部隊師団長を歴任した。最終階級はドイツ陸軍 (国防軍)中将。"
             }
         ]
     }
