@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年01月26日 04時の問題",
+                "url": "https://ja.wikipedia.org/?curid=113413",
+                "title": "広野ゴルフ倶楽部",
+                "text": "〇〇は、兵庫県三木市志染町広野にあるメンバーシップ制のゴルフ場である。"
+            },
+            {
                 "datetime": "2024年01月26日 03時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3393288",
                 "title": "京都市立京都工学院高等学校",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=514538",
                 "title": "TAKE BACK",
                 "text": "〇〇は、倖田來未の楽曲である。2000年12月6日にデビューシングルとして発売された。発売元はrhythm zone。"
-            },
-            {
-                "datetime": "2024年01月24日 11時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1382476",
-                "title": "ポートリンカーン",
-                "text": "〇〇は、オーストラリア大陸の中南部に位置する逆三角形の形の半島（エアー半島）の先端付近に位置する市である。"
             }
         ]
     }
