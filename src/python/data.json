@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年01月25日 13時の問題",
+                "url": "https://ja.wikipedia.org/?curid=967303",
+                "title": "Seahorse",
+                "text": "〇〇は、GNOMEに付属する暗号鍵の管理ソフトウェア。〇〇は、英語でタツノオトシゴのことである。"
+            },
+            {
                 "datetime": "2024年01月25日 12時の問題",
                 "url": "https://ja.wikipedia.org/?curid=400683",
                 "title": "カブトムシ属",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1026343",
                 "title": "サン・ピエトロ・アヴェッラーナ",
                 "text": "〇〇は、イタリア共和国モリーゼ州イゼルニア県にある、人口約500人の基礎自治体（コムーネ）。"
-            },
-            {
-                "datetime": "2024年01月23日 19時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4091126",
-                "title": "ハビエル・オロスコ",
-                "text": "〇〇は、メキシコの元サッカー選手。元メキシコ代表。現役時代のポジションはFW。"
             }
         ]
     }
