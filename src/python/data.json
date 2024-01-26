@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年01月26日 15時の問題",
+                "url": "https://ja.wikipedia.org/?curid=39256",
+                "title": "ロシア関係記事の一覧",
+                "text": "〇〇は、ロシア人の一覧を参照。"
+            },
+            {
                 "datetime": "2024年01月26日 14時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3786165",
                 "title": "杉野要吉",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=764342",
                 "title": "ガノンドロフ",
                 "text": "〇〇は、任天堂のコンピュータゲーム『ゼルダの伝説』シリーズで主にボスキャラクターとして登場する架空のキャラクター。「ガノンドルフ」という表記は誤りである。"
-            },
-            {
-                "datetime": "2024年01月24日 21時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1618907",
-                "title": "シンポ",
-                "text": "〇〇は、愛知県名古屋市名東区に本社を置く無煙ロースターメーカー。"
             }
         ]
     }
