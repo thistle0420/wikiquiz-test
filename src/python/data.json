@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年01月26日 22時の問題",
+                "url": "https://ja.wikipedia.org/?curid=143529",
+                "title": "キャメロット (ゲーム会社)",
+                "text": "〇〇は、日本のゲームソフト開発会社。"
+            },
+            {
                 "datetime": "2024年01月26日 21時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4103946",
                 "title": "稲荷町 (名古屋市)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1009755",
                 "title": "XXX (FENCE OF DEFENSEのアルバム)",
                 "text": "〇〇は、1997年6月25日にリリースされたFENCE OF DEFENSEの10枚目のアルバム。"
-            },
-            {
-                "datetime": "2024年01月25日 04時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4105386",
-                "title": "在サン・ペドロ・スーラ中華民国総領事館",
-                "text": "〇〇は、ホンジュラス第二の都市サン・ペドロ・スーラに設置されていた中華民国（台湾）の総領事館。"
             }
         ]
     }
