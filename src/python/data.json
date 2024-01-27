@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年01月27日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=734634",
+                "title": "大分県道673号小畑日田線",
+                "text": "〇〇は、大分県日田市を通る一般県道（大分県道）である。"
+            },
+            {
                 "datetime": "2024年01月27日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4120818",
                 "title": "OUR BEST (赤西仁のアルバム)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=113413",
                 "title": "広野ゴルフ倶楽部",
                 "text": "〇〇は、兵庫県三木市志染町広野にあるメンバーシップ制のゴルフ場である。"
-            },
-            {
-                "datetime": "2024年01月26日 03時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3393288",
-                "title": "京都市立京都工学院高等学校",
-                "text": "〇〇は、京都市伏見区深草西出山町に所在する京都市立の工業高等学校。"
             }
         ]
     }
