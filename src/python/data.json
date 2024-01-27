@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年01月28日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1874563",
+                "title": "谷田川元",
+                "text": "〇〇は、日本の政治家。立憲民主党所属の衆議院議員（3期）。元千葉県議会議員（4期）。"
+            },
+            {
                 "datetime": "2024年01月28日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4506953",
                 "title": "マルクス・ヴィニシウス・オリヴェイラ・アレンカル",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=39256",
                 "title": "ロシア関係記事の一覧",
                 "text": "〇〇は、ロシア人の一覧を参照。"
-            },
-            {
-                "datetime": "2024年01月26日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3786165",
-                "title": "杉野要吉",
-                "text": "〇〇は、日本の近代文学研究者、早稲田大学名誉教授。日本社会文学会代表理事（1997-1998）。"
             }
         ]
     }
