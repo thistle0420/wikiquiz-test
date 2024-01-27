@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年01月28日 04時の問題",
+                "url": "https://ja.wikipedia.org/?curid=731319",
+                "title": "福田晃治",
+                "text": "〇〇は、日本のボランティア団体代表、政治活動家。国民新党参議院群馬県第一支部支部長。"
+            },
+            {
                 "datetime": "2024年01月28日 03時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2313320",
                 "title": "ジャカジャカジャンケンポン",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2435886",
                 "title": "置賜野川",
                 "text": "〇〇は、山形県長井市を流れる一級河川。最上川の支流である。"
-            },
-            {
-                "datetime": "2024年01月26日 11時の問題",
-                "url": "https://ja.wikipedia.org/?curid=23051",
-                "title": "945年",
-                "text": "〇〇は、西暦（ユリウス暦）による、平年。"
             }
         ]
     }
