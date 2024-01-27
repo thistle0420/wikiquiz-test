@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年01月28日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2406972",
+                "title": "鈴木一馬 (陸軍軍人)",
+                "text": "〇〇は、日本の陸軍軍人。支那駐屯軍司令官を務め、最終階級は陸軍中将である。正四位勲二等功五級。"
+            },
+            {
                 "datetime": "2024年01月28日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1874563",
                 "title": "谷田川元",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2314522",
                 "title": "李昊乗",
                 "text": "〇〇は、大韓民国出身のプロサッカー選手。ポジションはゴールキーパー。"
-            },
-            {
-                "datetime": "2024年01月26日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=39256",
-                "title": "ロシア関係記事の一覧",
-                "text": "〇〇は、ロシア人の一覧を参照。"
             }
         ]
     }
