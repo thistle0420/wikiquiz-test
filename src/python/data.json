@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年01月27日 23時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1439720",
+                "title": "One Fine Day",
+                "text": "〇〇は、日本の女性歌手、華原朋美の4作目のオリジナル・アルバム。"
+            },
+            {
                 "datetime": "2024年01月27日 22時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3202742",
                 "title": "シャーマン・ヘンズリー",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2477161",
                 "title": "李尚烈",
                 "text": "〇〇は、韓国出身の元プロ野球選手。"
-            },
-            {
-                "datetime": "2024年01月26日 05時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4310937",
-                "title": "フレドリク・グルブランセン",
-                "text": "〇〇は、ノルウェー・アーケシュフース県リールストレム出身のサッカー選手。スュペル・リグ・アダナ・デミルスポル所属。ポジションはFW。"
             }
         ]
     }
