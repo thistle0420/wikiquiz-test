@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年01月27日 16時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4730191",
+                "title": "塩田アダム",
+                "text": "〇〇は、日本のジャーナリスト。TBS報道局記者。"
+            },
+            {
                 "datetime": "2024年01月27日 15時の問題",
                 "url": "https://ja.wikipedia.org/?curid=495076",
                 "title": "第1回全国中等学校優勝野球大会",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1668292",
                 "title": "池田忠夫",
                 "text": "〇〇は、日本の俳優、声優。東京府千駄ヶ谷町原宿出身。"
-            },
-            {
-                "datetime": "2024年01月25日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4577403",
-                "title": "黒龍酒造",
-                "text": "〇〇は、福井県吉田郡永平寺町に本社および工場を置く日本酒の蔵元。"
             }
         ]
     }
