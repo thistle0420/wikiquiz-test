@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年01月29日 03時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3007387",
+                "title": "Koi",
+                "text": "〇〇は、日本の2人組漫画家、イラストレーター。"
+            },
+            {
                 "datetime": "2024年01月29日 02時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1481446",
                 "title": "グレイラグ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4780553",
                 "title": "三辻茜",
                 "text": "〇〇は、豪日俳優、モデル。YouTube PremiumのオリジナルSFドラマシリーズ『オリジン』のシュン・ケンザキ役で知られる。近年ではPeacockの『BRAVE NEW WORLD/ブレイブ・ニュー・ワールド』に出演した。"
-            },
-            {
-                "datetime": "2024年01月27日 10時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2162259",
-                "title": "岡山城 (曖昧さ回避)",
-                "text": "〇〇は、日本各地の城。"
             }
         ]
     }
