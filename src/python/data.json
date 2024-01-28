@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年01月28日 15時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2552981",
+                "title": "インドレク・ペルテルソン",
+                "text": "〇〇は、エストニアのタリン出身の柔道選手。階級は100kg超級。身長193cm。体重112kg。"
+            },
+            {
                 "datetime": "2024年01月28日 14時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3687355",
                 "title": "アンドレアス・ビェラン",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=143529",
                 "title": "キャメロット (ゲーム会社)",
                 "text": "〇〇は、日本のゲームソフト開発会社。"
-            },
-            {
-                "datetime": "2024年01月26日 21時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4103946",
-                "title": "稲荷町 (名古屋市)",
-                "text": "〇〇は、愛知県名古屋市港区の地名。"
             }
         ]
     }
