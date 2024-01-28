@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年01月29日 04時の問題",
+                "url": "https://ja.wikipedia.org/?curid=636121",
+                "title": "大阪市立加美南中学校",
+                "text": "〇〇は、大阪府大阪市平野区にある公立中学校。生徒数の増加により、1977年に大阪市立加美中学校から分離開校した。キャリア教育を重視した教育活動をおこなっている。"
+            },
+            {
                 "datetime": "2024年01月29日 03時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3007387",
                 "title": "Koi",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2967245",
                 "title": "トリルビー・グローヴァー",
                 "text": "〇〇は、オーストラリアの女優。西オーストラリア州パース出身。"
-            },
-            {
-                "datetime": "2024年01月27日 11時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4780553",
-                "title": "三辻茜",
-                "text": "〇〇は、豪日俳優、モデル。YouTube PremiumのオリジナルSFドラマシリーズ『オリジン』のシュン・ケンザキ役で知られる。近年ではPeacockの『BRAVE NEW WORLD/ブレイブ・ニュー・ワールド』に出演した。"
             }
         ]
     }
