@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年01月28日 16時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4493380",
+                "title": "祥雲院",
+                "text": "〇〇は、室町幕府の第9代将軍・足利義尚の正室（御台所）。"
+            },
+            {
                 "datetime": "2024年01月28日 15時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2552981",
                 "title": "インドレク・ペルテルソン",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4027881",
                 "title": "細工谷",
                 "text": "〇〇は、大阪府大阪市天王寺区にある町名。現行行政地名は〇〇一丁目および〇〇二丁目。"
-            },
-            {
-                "datetime": "2024年01月26日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=143529",
-                "title": "キャメロット (ゲーム会社)",
-                "text": "〇〇は、日本のゲームソフト開発会社。"
             }
         ]
     }
