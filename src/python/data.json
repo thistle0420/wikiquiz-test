@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年01月30日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4056048",
+                "title": "石上大塚古墳",
+                "text": "〇〇は、奈良県天理市石上町にある古墳。形状は前方後円墳。石上・豊田古墳群を構成する古墳の1つ。史跡指定はされていない。"
+            },
+            {
                 "datetime": "2024年01月30日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3329323",
                 "title": "西岡一雄",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4493380",
                 "title": "祥雲院",
                 "text": "〇〇は、室町幕府の第9代将軍・足利義尚の正室（御台所）。"
-            },
-            {
-                "datetime": "2024年01月28日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2552981",
-                "title": "インドレク・ペルテルソン",
-                "text": "〇〇は、エストニアのタリン出身の柔道選手。階級は100kg超級。身長193cm。体重112kg。"
             }
         ]
     }
