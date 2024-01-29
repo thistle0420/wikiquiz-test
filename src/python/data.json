@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年01月29日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1666970",
+                "title": "中日病院",
+                "text": "〇〇は、愛知県名古屋市中区にある病院である。中日新聞社健康保険組合が運営を行っており、愛知県の救急指定病院に認定されている。"
+            },
+            {
                 "datetime": "2024年01月29日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2470848",
                 "title": "お話でてこい",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=731319",
                 "title": "福田晃治",
                 "text": "〇〇は、日本のボランティア団体代表、政治活動家。国民新党参議院群馬県第一支部支部長。"
-            },
-            {
-                "datetime": "2024年01月28日 03時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2313320",
-                "title": "ジャカジャカジャンケンポン",
-                "text": "〇〇は、日本の歌手グループFolderの4枚目のシングル。1998年9月2日に発売された。発売元はavex tune。"
             }
         ]
     }
