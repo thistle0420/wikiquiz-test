@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年01月30日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4208354",
+                "title": "Your Song (Hey! Say! JUMPの曲)",
+                "text": "〇〇は、Hey! Say! JUMPの楽曲。28作目のシングルとして、2020年9月30日にジェイ・ストームから発売。"
+            },
+            {
                 "datetime": "2024年01月29日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4142849",
                 "title": "暗黒大陸中国の真実",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1874563",
                 "title": "谷田川元",
                 "text": "〇〇は、日本の政治家。立憲民主党所属の衆議院議員（3期）。元千葉県議会議員（4期）。"
-            },
-            {
-                "datetime": "2024年01月28日 06時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4506953",
-                "title": "マルクス・ヴィニシウス・オリヴェイラ・アレンカル",
-                "text": "〇〇は、ブラジルのサッカー選手。リーグ・アン・FCナント所属。ポジションはFW。"
             }
         ]
     }
