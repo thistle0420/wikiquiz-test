@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年01月29日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2470848",
+                "title": "お話でてこい",
+                "text": "〇〇は、NHKラジオ第2放送で、主に幼稚園・保育園に向けた朗読の番組。"
+            },
+            {
                 "datetime": "2024年01月29日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2684245",
                 "title": "孫春蘭",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2313320",
                 "title": "ジャカジャカジャンケンポン",
                 "text": "〇〇は、日本の歌手グループFolderの4枚目のシングル。1998年9月2日に発売された。発売元はavex tune。"
-            },
-            {
-                "datetime": "2024年01月28日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2924155",
-                "title": "藤嶋洸",
-                "text": "〇〇は、岩手県八幡平市出身のサッカー選手。ポジションはミッドフィールダー（MF）。"
             }
         ]
     }
