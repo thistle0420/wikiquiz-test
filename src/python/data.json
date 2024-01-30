@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年01月30日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2194019",
+                "title": "石川県薬剤師会",
+                "text": "〇〇は、石川県知事所管の石川県の薬剤師を会員とする公益法人。"
+            },
+            {
                 "datetime": "2024年01月30日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=30746",
                 "title": "REIT",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=636121",
                 "title": "大阪市立加美南中学校",
                 "text": "〇〇は、大阪府大阪市平野区にある公立中学校。生徒数の増加により、1977年に大阪市立加美中学校から分離開校した。キャリア教育を重視した教育活動をおこなっている。"
-            },
-            {
-                "datetime": "2024年01月29日 03時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3007387",
-                "title": "Koi",
-                "text": "〇〇は、日本の2人組漫画家、イラストレーター。"
             }
         ]
     }
