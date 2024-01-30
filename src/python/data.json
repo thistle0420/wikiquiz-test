@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年01月30日 15時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4409205",
+                "title": "大島酒造",
+                "text": "〇〇は、日本の焼酎製造業者である。旧社名は長崎大島醸造株式会社（ながさきおおしまじょうぞうかぶしきがいしゃ、英語: Nagasaki Oshima Jozo Co., Ltd.）。"
+            },
+            {
                 "datetime": "2024年01月30日 14時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4326271",
                 "title": "山中春雄",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3197547",
                 "title": "バケーロス・デ・ラ・アバナ",
                 "text": "〇〇は、キューバの野球リーグであるセリエ・ナシオナル・デ・ベイスボルに2010年まで所属していた野球チーム。ハバナ州を本拠地としていた。"
-            },
-            {
-                "datetime": "2024年01月28日 21時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2967414",
-                "title": "MASAKO",
-                "text": "〇〇は、日本のローカルタレント、パーソナリティ、モデル。元レースクイーン。鳥取県米子市出身。鳥取県立米子西高等学校卒業。"
             }
         ]
     }
