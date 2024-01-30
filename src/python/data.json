@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年01月30日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4326271",
+                "title": "山中春雄",
+                "text": "〇〇は、日本の洋画家。"
+            },
+            {
                 "datetime": "2024年01月30日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4023947",
                 "title": "Isao Cato",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2967414",
                 "title": "MASAKO",
                 "text": "〇〇は、日本のローカルタレント、パーソナリティ、モデル。元レースクイーン。鳥取県米子市出身。鳥取県立米子西高等学校卒業。"
-            },
-            {
-                "datetime": "2024年01月28日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4027697",
-                "title": "Dear CALL -ディアコール-",
-                "text": "〇〇は、群千キリによる日本の漫画。『ジャンプスクエア』（集英社）より2019年12月号から2021年2月号まで連載された。"
             }
         ]
     }
