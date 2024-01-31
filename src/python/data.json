@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年01月31日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3383612",
+                "title": "今之浦 (磐田市)",
+                "text": "〇〇は、静岡県磐田市にある地名。現行行政地名は今之浦一丁目から今之浦五丁目。"
+            },
+            {
                 "datetime": "2024年01月31日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2798877",
                 "title": "タン・タン・タン",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4409849",
                 "title": "拒否権が行使された国際連合安全保障理事会決議案の一覧",
                 "text": "〇〇は、〇〇である。1946年2月16日以降で、5つの常任理事国のいずれかによって拒否権が行使された安保理決議案の一覧を以下に示す。"
-            },
-            {
-                "datetime": "2024年01月30日 00時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4208354",
-                "title": "Your Song (Hey! Say! JUMPの曲)",
-                "text": "〇〇は、Hey! Say! JUMPの楽曲。28作目のシングルとして、2020年9月30日にジェイ・ストームから発売。"
             }
         ]
     }
