@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年02月01日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3296681",
+                "title": "マニトバ州の地方行政区",
+                "text": "〇〇は、さまざまな地方自治体が存在する。自治体の種類のついては州法である自治体法（The Municipal Act）に定められている。"
+            },
+            {
                 "datetime": "2024年02月01日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4434017",
                 "title": "名人冠軍戦",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4763990",
                 "title": "永岡昌憲",
                 "text": "〇〇は、日本の歌手・シンガーソングライター。"
-            },
-            {
-                "datetime": "2024年01月30日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4409205",
-                "title": "大島酒造",
-                "text": "〇〇は、日本の焼酎製造業者である。旧社名は長崎大島醸造株式会社（ながさきおおしまじょうぞうかぶしきがいしゃ、英語: Nagasaki Oshima Jozo Co., Ltd.）。"
             }
         ]
     }
