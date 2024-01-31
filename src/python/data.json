@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年02月01日 06時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4857575",
+                "title": "愛媛県道150号徳能伊予三芳停車場線",
+                "text": "〇〇は、愛媛県西条市を通る県道である。"
+            },
+            {
                 "datetime": "2024年02月01日 05時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1398843",
                 "title": "キプロスの女王ロザムンデ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4326271",
                 "title": "山中春雄",
                 "text": "〇〇は、日本の洋画家。"
-            },
-            {
-                "datetime": "2024年01月30日 13時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4023947",
-                "title": "Isao Cato",
-                "text": "〇〇は、日本のドラマー、パーカッション奏者。東京都練馬区出身。血液型はA型。JAPA Blocoの打楽器隊総責任者、森下玲可のステージドラマー、スタジオ・ミュージシャンとしても活動。ブラジルのEscola de Sambaを領域に研究、執筆活動を行なっている。楽器メーカーZildjain、ASPR、Conteporânea、Lerniのエンドーサー。ブラジル連邦共和国・サンパウロのソウザリマ音楽大学のNúcleo de Percussão SL ドラム科、パーカッション科出身。ドラマーの東原力哉に師事。"
             }
         ]
     }
