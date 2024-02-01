@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年02月01日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=799092",
+                "title": "ユーシン渓谷",
+                "text": "〇〇は、ユーシンロッジ（休業中）付近の地名である。"
+            },
+            {
                 "datetime": "2024年02月01日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3486321",
                 "title": "2016年リオデジャネイロパラリンピックのカーボベルデ選手団",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1568438",
                 "title": "1982-1983シーズンのNBA",
                 "text": "〇〇は、NBAの37回目のシーズンである。"
-            },
-            {
-                "datetime": "2024年01月31日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=171994",
-                "title": "水無海浜温泉",
-                "text": "〇〇は、北海道函館市椴法華地区にある温泉である。活火山である恵山東斜面裾野の海岸線に位置する。"
             }
         ]
     }
