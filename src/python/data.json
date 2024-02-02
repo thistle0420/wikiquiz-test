@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年02月02日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4797911",
+                "title": "西郷川河口公園",
+                "text": "〇〇は、兵庫県神戸市灘区岩屋南町にある河川公園。"
+            },
+            {
                 "datetime": "2024年02月02日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1551476",
                 "title": "蔡瀾",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3022550",
                 "title": "馬渡俊雄",
                 "text": "〇〇は、日本の内務・警察官僚、実業家。官選県知事。旧姓・加藤。"
-            },
-            {
-                "datetime": "2024年02月01日 00時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2557761",
-                "title": "ファントム・ファイアー",
-                "text": "〇〇は、2007年のアメリカ合衆国のテレビ映画。アメリカ合衆国ではSyfyチャンネルで放送された。"
             }
         ]
     }
