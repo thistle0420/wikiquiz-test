@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年02月03日 05時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4874352",
+                "title": "久保徳雄",
+                "text": "〇〇は、日本の経営者。東京エレクトロン社長を務めた。"
+            },
+            {
                 "datetime": "2024年02月03日 04時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2051998",
                 "title": "ソニービジネスソリューション",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4070009",
                 "title": "吉祥寺CLUB SEATA",
                 "text": "〇〇は、東京都武蔵野市吉祥寺本町にあるライブハウス・クラブである。大阪を中心に事業展開を行う株式会社ベースオントップが運営を行っている。吉祥寺SEATAあるいはCLUB SEATAとも呼称される。"
-            },
-            {
-                "datetime": "2024年02月01日 12時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1609330",
-                "title": "猿谷紀郎",
-                "text": "〇〇は、日本の作曲家。大阪教育大学准教授。東京学芸大学教育学部附属世田谷中学校、慶應義塾高等学校、慶應義塾大学法学部法律学科卒業。"
             }
         ]
     }
