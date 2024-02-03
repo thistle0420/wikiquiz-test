@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年02月03日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1092800",
+                "title": "Happiest Princess",
+                "text": "〇〇は、新谷良子の7thマキシシングルである。2005年10月5日にLantisからリリースされた。販売元はキングレコード。"
+            },
+            {
                 "datetime": "2024年02月03日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4257544",
                 "title": "理想汽車",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4751317",
                 "title": "タラートバーンヤイ駅",
                 "text": "〇〇は、タイ王国、ノンタブリー県バーンヤイ郡サオトンヒン町にあるバンコク・メトロパープルラインの駅。タラートバーンヤイはバーンヤイ市場の意味である。駅番号はPP02。"
-            },
-            {
-                "datetime": "2024年02月01日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=799092",
-                "title": "ユーシン渓谷",
-                "text": "〇〇は、ユーシンロッジ（休業中）付近の地名である。"
             }
         ]
     }
