@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年02月03日 19時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4490475",
+                "title": "アルフィー・ジョーンズ",
+                "text": "〇〇は、イングランド・ブリストル出身のサッカー選手。ハル・シティAFC所属。ポジションはDF。"
+            },
+            {
                 "datetime": "2024年02月03日 18時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2515314",
                 "title": "馬入堂山城",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4624978",
                 "title": "市川和子",
                 "text": "〇〇は、日本の元女優。"
-            },
-            {
-                "datetime": "2024年02月02日 01時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2816946",
-                "title": "シガレッツ・アンド・アルコール",
-                "text": "〇〇は、イギリスのロックバンドであるオアシスが1994年に発表した楽曲、および同曲を収録したシングル。"
             }
         ]
     }
