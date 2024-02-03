@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年02月03日 10時の問題",
+                "url": "https://ja.wikipedia.org/?curid=964350",
+                "title": "白木山 (周防大島)",
+                "text": "〇〇は、屋代島に位置する標高374.3mの山である。山口県大島郡周防大島町に位置する。"
+            },
+            {
                 "datetime": "2024年02月03日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=469532",
                 "title": "カンティクム",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3250393",
                 "title": "Every Little Thing Concert Tour Spirit 2000",
                 "text": "〇〇は、日本の音楽ユニットEvery Little Thingが開催したコンサートツアー、および2000年8月30日にリリースしたVHS・DVD作品。"
-            },
-            {
-                "datetime": "2024年02月01日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4597999",
-                "title": "2015年バレーボール男子アジア選手権",
-                "text": "〇〇は、2015年に開催されたバレーボールアジア選手権の第18回男子大会である。"
             }
         ]
     }
