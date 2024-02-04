@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年02月05日 01時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2530487",
+                "title": "宮崎県道377号内海加江田線",
+                "text": "〇〇は、宮崎県宮崎市を通る一般県道である。"
+            },
+            {
                 "datetime": "2024年02月05日 00時の問題",
                 "url": "https://ja.wikipedia.org/?curid=92957",
                 "title": "アムプー",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=469532",
                 "title": "カンティクム",
                 "text": "〇〇は、キリスト教の聖歌の一種である。"
-            },
-            {
-                "datetime": "2024年02月03日 07時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1296788",
-                "title": "全日本学生文化会議",
-                "text": "〇〇は、全国の保守系学生サークルの連合体。1969年（昭和44年）5月に結成された後、一旦断絶し、昭和50年代に再結成された。"
             }
         ]
     }
