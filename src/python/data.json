@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年02月05日 03時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2499776",
+                "title": "メディオ・クデージョ",
+                "text": "〇〇は、スペイン・カンタブリア州のムニシピオ（基礎自治体）。トラスミエーラ郡に属する。"
+            },
+            {
                 "datetime": "2024年02月05日 02時の問題",
                 "url": "https://ja.wikipedia.org/?curid=615879",
                 "title": "佐藤剛男",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1009080",
                 "title": "松平直方 (前橋藩主)",
                 "text": "〇〇は、上野国前橋藩第2代（最後）の藩知事。直基系越前松平家12代。"
-            },
-            {
-                "datetime": "2024年02月03日 10時の問題",
-                "url": "https://ja.wikipedia.org/?curid=964350",
-                "title": "白木山 (周防大島)",
-                "text": "〇〇は、屋代島に位置する標高374.3mの山である。山口県大島郡周防大島町に位置する。"
             }
         ]
     }
