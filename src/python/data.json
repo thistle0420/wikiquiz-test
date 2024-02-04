@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年02月05日 06時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4675482",
+                "title": "舎人監",
+                "text": "〇〇は、律令制において春宮坊に属する機関の一つで、東宮に仕える舎人を監督する官司である。"
+            },
+            {
                 "datetime": "2024年02月05日 05時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4423225",
                 "title": "橋本大輝 (体操選手)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1092800",
                 "title": "Happiest Princess",
                 "text": "〇〇は、新谷良子の7thマキシシングルである。2005年10月5日にLantisからリリースされた。販売元はキングレコード。"
-            },
-            {
-                "datetime": "2024年02月03日 13時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4257544",
-                "title": "理想汽車",
-                "text": "〇〇は、中華人民共和国の自動車メーカー。北京市に本社を置く。中国新興EVメーカー「御三家」の一つとされる。ただし、2022年時点で当社はPHEVしか販売していない。"
             }
         ]
     }
