@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年02月06日 02時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4052759",
+                "title": "見目清 (初代)",
+                "text": "〇〇は、明治期の地主、政治家。衆議院議員。"
+            },
+            {
                 "datetime": "2024年02月06日 01時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2711249",
                 "title": "趙祖康",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2819464",
                 "title": "小金村",
                 "text": "〇〇は、石川県河北郡にあった村。現在の金沢市の中部、北陸本線東金沢駅周辺から南東一帯にあたる。"
-            },
-            {
-                "datetime": "2024年02月04日 08時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2386139",
-                "title": "和田敏雄",
-                "text": "〇〇は、日本の経済学者・元官僚。専門はソ連の経済制度の研究。元・北海道拓殖短期大学学長。福井県生まれ。"
             }
         ]
     }
