@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年02月06日 05時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3318980",
+                "title": "グルぐるあーす",
+                "text": "〇〇は、2015年11月4日に発売された、nanoCUNEのメジャー2ndシングル。"
+            },
+            {
                 "datetime": "2024年02月06日 04時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1795404",
                 "title": "古麓城",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1388599",
                 "title": "おはようジョッキー",
                 "text": "〇〇は、1978年から1984年まで放送されていたNHKラジオ第1放送の情報番組である。パーソナリティは、最初の4年間（1978年4月 - 1982年3月）が俳優の浜畑賢吉。"
-            },
-            {
-                "datetime": "2024年02月04日 12時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2781498",
-                "title": "HEROES (GReeeeNの曲)",
-                "text": "〇〇は、GReeeeNの21枚目のシングル。2013年5月15日にNAYUTAWAVE RECORDSから発売された。"
             }
         ]
     }
