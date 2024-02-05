@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年02月05日 10時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3195408",
+                "title": "重原村",
+                "text": "〇〇は、かつて愛知県碧海郡にあった村である。現在の刈谷市の一部（重原本町・下重原町など）に該当する。"
+            },
+            {
                 "datetime": "2024年02月05日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4537950",
                 "title": "あっぷる出版社",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=953910",
                 "title": "パケットラジオ",
                 "text": "〇〇は、ドワンゴが運営するインターネットラジオ配信サイトである。略称はパケラジ。"
-            },
-            {
-                "datetime": "2024年02月03日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1962679",
-                "title": "小千谷市民会館",
-                "text": "〇〇は、新潟県小千谷市土川1丁目にある多目的ホール。"
             }
         ]
     }
