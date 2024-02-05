@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年02月06日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3521875",
+                "title": "渥美沢庵",
+                "text": "〇〇は、愛知県田原市において生産されている沢庵漬けの一種。"
+            },
+            {
                 "datetime": "2024年02月06日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1937648",
                 "title": "坂本麗衣",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3260819",
                 "title": "K-ROCK (アルバム)",
                 "text": "〇〇は、アン・ルイスのスタジオ・アルバム。1992年9月23日にビクターエンタテインメントから発売された。"
-            },
-            {
-                "datetime": "2024年02月04日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1846431",
-                "title": "サイクロングラフィックス",
-                "text": "〇〇は、アニメーションを中心とした映像作品の企画・制作を主な事業内容とする日本の企業。"
             }
         ]
     }
