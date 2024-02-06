@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年02月06日 10時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3442697",
+                "title": "佐世保市立愛宕中学校",
+                "text": "〇〇は、長崎県佐世保市赤崎町にある公立の中学校。"
+            },
+            {
                 "datetime": "2024年02月06日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3521875",
                 "title": "渥美沢庵",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=70385",
                 "title": "ウッチャンナンチャン",
                 "text": "〇〇は、マセキ芸能社に所属する内村光良と南原清隆からなる日本のお笑いコンビ、司会者。通称「ウンナン」「UN」。"
-            },
-            {
-                "datetime": "2024年02月04日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3260819",
-                "title": "K-ROCK (アルバム)",
-                "text": "〇〇は、アン・ルイスのスタジオ・アルバム。1992年9月23日にビクターエンタテインメントから発売された。"
             }
         ]
     }
