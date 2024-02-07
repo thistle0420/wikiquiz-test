@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年02月08日 04時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2529857",
+                "title": "LOVER\"S\"MiLE",
+                "text": "〇〇は、LiSAの1枚目のオリジナルアルバム。2012年2月22日にアニプレックスから発売された。"
+            },
+            {
                 "datetime": "2024年02月08日 03時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2466769",
                 "title": "二枚橋衛生組合",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3432328",
                 "title": "飛べ、バージル/プロジェクトX",
                 "text": "〇〇は、1987年制作のアメリカ合衆国の映画。アメリカ空軍がチンパンジーを使って実際に行っていた実験を元に制作されたスリラー映画。ジョナサン・カプラン監督。"
-            },
-            {
-                "datetime": "2024年02月06日 11時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4422770",
-                "title": "南陽神社",
-                "text": "〇〇は、徳島県板野郡藍住町に鎮座する神社。"
             }
         ]
     }
