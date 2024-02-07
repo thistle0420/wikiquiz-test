@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年02月07日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2354425",
+                "title": "プラモのモ子ちゃん",
+                "text": "〇〇は、ふじたゆきひさ（藤田幸久）による、タミヤのマスコットキャラクター。1980年代にタミヤ（田宮模型）の出版物に登場した。"
+            },
+            {
                 "datetime": "2024年02月07日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4692126",
                 "title": "サン・イシドロ・クルブ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2400536",
                 "title": "竹原春朝斎",
                 "text": "〇〇は、江戸時代中期から後期の大坂の浮世絵師。"
-            },
-            {
-                "datetime": "2024年02月06日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4052759",
-                "title": "見目清 (初代)",
-                "text": "〇〇は、明治期の地主、政治家。衆議院議員。"
             }
         ]
     }
