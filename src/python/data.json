@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年02月08日 01時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1144670",
+                "title": "Beginning of the Endless",
+                "text": "〇〇は、2003年9月24日にUNIVERSAL J (Universal Music) から発売された、EAST ENDにとって11年振り、再結成後では初のスタジオ・アルバムである。"
+            },
+            {
                 "datetime": "2024年02月08日 00時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2429792",
                 "title": "ALFEE SILVER",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3521875",
                 "title": "渥美沢庵",
                 "text": "〇〇は、愛知県田原市において生産されている沢庵漬けの一種。"
-            },
-            {
-                "datetime": "2024年02月06日 07時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1937648",
-                "title": "坂本麗衣",
-                "text": "〇〇は、日本のシンガーソングライター。東京都大田区蒲田で生まれ育つ。『AXIAアーティスト・オーディション』で2年連続で最終審査にノミネートされた後、元ピチカート・ファイヴの高浪敬太郎（現・高浪慶太郎）プロデュースでマキシシングル『あした晴れたら』でデビュー。アーティスト活動の傍ら、下川みくに、島谷ひとみ、SANTOS ANNAらに楽曲を提供している。"
             }
         ]
     }
