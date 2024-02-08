@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年02月08日 15時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2507773",
+                "title": "大和特殊硝子",
+                "text": "〇〇は、大阪府大阪市淀川区新高に本社を置く、日本のガラス製品メーカーである。"
+            },
+            {
                 "datetime": "2024年02月08日 14時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2012065",
                 "title": "キリンカップサッカー1992",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2507392",
                 "title": "ダニエル・ハーゲン",
                 "text": "〇〇は、アメリカ合衆国の俳優・声優。"
-            },
-            {
-                "datetime": "2024年02月06日 21時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2901141",
-                "title": "アキヒト・フツナ",
-                "text": "〇〇は、ハゼ科アキヒト属に属する魚類の一種。"
             }
         ]
     }
