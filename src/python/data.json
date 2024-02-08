@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年02月09日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2727676",
+                "title": "ソング・アプローチ",
+                "text": "〇〇は、NHK-FM放送の音楽番組である。"
+            },
+            {
                 "datetime": "2024年02月09日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=317167",
                 "title": "ロマーヌ・ボーランジェ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2661789",
                 "title": "ルネサンス豊田高等学校",
                 "text": "〇〇は、愛知県豊田市にある私立の通信制高等学校。"
-            },
-            {
-                "datetime": "2024年02月07日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1245888",
-                "title": "進め!クリフハンガー冒険隊",
-                "text": "〇〇は、1992年4月4日から1997年3月29日まで中部日本放送（CBC）で放送されたバラエティ番組。JR東海の一社提供。放送時間は毎週土曜 13時00分 - 13時30分 (JST) 。"
             }
         ]
     }
