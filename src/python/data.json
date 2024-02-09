@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年02月10日 01時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1438319",
+                "title": "都築香弥子",
+                "text": "〇〇は、日本の女優、声優。"
+            },
+            {
                 "datetime": "2024年02月10日 00時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2050411",
                 "title": "志村軒",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1939663",
                 "title": "北陸鉄道EB30形電気機関車",
                 "text": "〇〇は、かつて北陸鉄道で運用されていた電気機関車である。1両（EB301）が在籍していた。金石線で貨物輸送、入換に運用されていた。"
-            },
-            {
-                "datetime": "2024年02月08日 07時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2817180",
-                "title": "鎌田久仁宏",
-                "text": "〇〇は、埼玉県出身の日本の男性タレント。株式会社ライトハウス所属。"
             }
         ]
     }
