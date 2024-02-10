@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年02月11日 01時の問題",
+                "url": "https://ja.wikipedia.org/?curid=89047",
+                "title": "播磨駅",
+                "text": "〇〇は、三重県桑名市大字播磨にある、養老鉄道養老線の駅である。"
+            },
+            {
                 "datetime": "2024年02月11日 00時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1099280",
                 "title": "まいづる百貨店",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4458220",
                 "title": "L441studio",
                 "text": "〇〇は、日本の女性YouTubeアーティストで歌手のLefty Hand Creamが所有する自宅の音楽録音スタジオ。「L」はLeftyのL、「441」は録音の際の基準値の周波数441Hzから命名している。なお「〇〇」の名称は、2020年1月22日に開設した自身の公式ファンクラブの名称やその関連ツイートのハッシュタグにも使われている。"
-            },
-            {
-                "datetime": "2024年02月09日 07時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2727676",
-                "title": "ソング・アプローチ",
-                "text": "〇〇は、NHK-FM放送の音楽番組である。"
             }
         ]
     }
