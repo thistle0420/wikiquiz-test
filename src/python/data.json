@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年02月10日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1666308",
+                "title": "FUJI BIKES",
+                "text": "〇〇は、日本で誕生し100年以上の歴史を持つ、現在はアメリカのアドバンス・スポーツ（Advanced Sports, Inc. ）の自転車ブランドである。日本ではかつての名称「日米富士自転車株式会社」で知られている。"
+            },
+            {
                 "datetime": "2024年02月10日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3782735",
                 "title": "山田庄一",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1244498",
                 "title": "東亜大学硬式野球部",
                 "text": "〇〇は、中国地区大学野球連盟（中国六大学野球リーグ）に所属する大学野球チーム。東亜大学の学生によって構成されている。"
-            },
-            {
-                "datetime": "2024年02月09日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=451953",
-                "title": "ワライフクロウ",
-                "text": "〇〇は、フクロウ目フクロウ科に属する鳥類の1種。"
             }
         ]
     }
