@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年02月11日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4236744",
+                "title": "ダニエル・シヴァン",
+                "text": "〇〇は、ネゲヴ・ベン＝グリオン大学ヘブライ語学科のイスラエル人名誉教授である。"
+            },
+            {
                 "datetime": "2024年02月11日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=219087",
                 "title": "辻本祐樹",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=412602",
                 "title": "DICカラーガイド",
                 "text": "〇〇は、DICが出版する色見本帳で、同社の登録商標。"
-            },
-            {
-                "datetime": "2024年02月09日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=27225",
-                "title": "散弾銃",
-                "text": "〇〇は、多数の小さい弾丸を散開発射する大口径の銃。クレー射撃や狩猟、有害鳥獣捕獲、さらに軍隊や法執行機関で使用される。"
             }
         ]
     }
