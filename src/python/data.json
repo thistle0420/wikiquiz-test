@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年02月11日 10時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3329840",
+                "title": "二宮雅也",
+                "text": "〇〇は、日本の実業家。SOMPOホールディングス特別顧問。"
+            },
+            {
                 "datetime": "2024年02月11日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4236744",
                 "title": "ダニエル・シヴァン",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=237686",
                 "title": "開宝",
                 "text": "〇〇は、北宋の太祖趙匡胤の治世に行われた3番目の元号。968年 - 976年。"
-            },
-            {
-                "datetime": "2024年02月09日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=412602",
-                "title": "DICカラーガイド",
-                "text": "〇〇は、DICが出版する色見本帳で、同社の登録商標。"
             }
         ]
     }
