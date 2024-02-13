@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年02月13日 23時の問題",
+                "url": "https://ja.wikipedia.org/?curid=388365",
+                "title": "白鳥高原駅",
+                "text": "〇〇は、岐阜県郡上市白鳥町二日町字清水垣内にある長良川鉄道越美南線の駅である。駅番号は35。"
+            },
+            {
                 "datetime": "2024年02月13日 22時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1264796",
                 "title": "第64回東京箱根間往復大学駅伝競走",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4849431",
                 "title": "ACミラン 2023-24シーズン",
                 "text": "〇〇は、ACミランの2023-24シーズンの成績と所属選手を詳述する。"
-            },
-            {
-                "datetime": "2024年02月12日 05時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3832311",
-                "title": "藤田栄一",
-                "text": "〇〇は、日本の英文学者、ビジネス英語教育者。"
             }
         ]
     }
