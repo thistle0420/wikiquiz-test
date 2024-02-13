@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年02月13日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2211701",
+                "title": "瀬戸麻沙美",
+                "text": "〇〇は、日本の女性声優。埼玉県出身。StarCrew所属。"
+            },
+            {
                 "datetime": "2024年02月13日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2501568",
                 "title": "ヤメ判 新堂謙介 殺しの事件簿",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=117811",
                 "title": "千葉県道59号市川印西線",
                 "text": "〇〇は、千葉県市川市から印西市に至る県道（主要地方道）である。愛称は「木下街道（きおろしかいどう）」。"
-            },
-            {
-                "datetime": "2024年02月12日 00時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1724222",
-                "title": "西堀有美",
-                "text": "〇〇は、日本のフリーアナウンサー。M&Mエージェンシー所属。"
             }
         ]
     }
