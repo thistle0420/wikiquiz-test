@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年02月13日 10時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4508872",
+                "title": "山下茂",
+                "text": "〇〇は、日本の政治家。宮崎県串間市長。"
+            },
+            {
                 "datetime": "2024年02月13日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4500629",
                 "title": "関口スグヤ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3428281",
                 "title": "貴方日記",
                 "text": "〇〇は、株式会社ビジュアルワークス企画/制作のボーイズラブゲーム（17歳以上推奨）。"
-            },
-            {
-                "datetime": "2024年02月11日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=75422",
-                "title": "515年",
-                "text": "〇〇は、西暦（ユリウス暦）による、平年。"
             }
         ]
     }
