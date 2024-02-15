@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年02月15日 11時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3513583",
+                "title": "HELLO WORLD EP",
+                "text": "〇〇は、ゆるめるモ!のシングル。同グループの1stシングルとして2013年4月20日にYou'll Recordsから発売された。"
+            },
+            {
                 "datetime": "2024年02月15日 10時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3531967",
                 "title": "酒井浩司",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2211701",
                 "title": "瀬戸麻沙美",
                 "text": "〇〇は、日本の女性声優。埼玉県出身。StarCrew所属。"
-            },
-            {
-                "datetime": "2024年02月13日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2501568",
-                "title": "ヤメ判 新堂謙介 殺しの事件簿",
-                "text": "〇〇は、2011年から2017年までTBS系で放送されたテレビドラマシリーズ。全5回。主演は橋爪功。放送枠は「月曜ゴールデン」（第1作 - 第3作）、「月曜名作劇場」（第4作 - 第5作）。"
             }
         ]
     }
