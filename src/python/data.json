@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年02月15日 12時の問題",
+                "url": "https://ja.wikipedia.org/?curid=129326",
+                "title": "パロアルト研究所",
+                "text": "〇〇は、アメリカ合衆国のカリフォルニア州パロアルトにある研究開発企業である。"
+            },
+            {
                 "datetime": "2024年02月15日 11時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3513583",
                 "title": "HELLO WORLD EP",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=613916",
                 "title": "ズームアップくれ",
                 "text": "〇〇は、2007年3月まで広島テレビで放送された呉市の市政番組。"
-            },
-            {
-                "datetime": "2024年02月13日 18時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2211701",
-                "title": "瀬戸麻沙美",
-                "text": "〇〇は、日本の女性声優。埼玉県出身。StarCrew所属。"
             }
         ]
     }
