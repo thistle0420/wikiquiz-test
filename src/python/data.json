@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年02月19日 06時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2123206",
+                "title": "墨田区花火問屋爆発事故",
+                "text": "〇〇は、1955年（昭和30年）8月1日に、東京都墨田区の厩橋にて発生した火薬による爆発事故である。"
+            },
+            {
                 "datetime": "2024年02月19日 05時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3259700",
                 "title": "観念学",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=131883",
                 "title": "大阪鉄道 (2代目)",
                 "text": "〇〇は、現在の近畿日本鉄道（近鉄）道明寺線・南大阪線・長野線をかつて運営していた会社である。通称は「大鉄（だいてつ）」。"
-            },
-            {
-                "datetime": "2024年02月17日 13時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3964850",
-                "title": "BMW・X7",
-                "text": "〇〇は、ドイツの自動車メーカー・BMWが製造・販売しているフルサイズSUVである。"
             }
         ]
     }
