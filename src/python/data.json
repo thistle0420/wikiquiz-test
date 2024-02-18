@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年02月19日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3383682",
+                "title": "レメキロマノラヴァ",
+                "text": "〇〇は、JAPAN RUGBY LEAGUE ONENECグリーンロケッツ東葛に所属する日本国籍のラグビー選手でチームの主将。"
+            },
+            {
                 "datetime": "2024年02月19日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2123206",
                 "title": "墨田区花火問屋爆発事故",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=306436",
                 "title": "大松尚逸",
                 "text": "〇〇は、石川県金沢市出身の元プロ野球選手（外野手、内野手）。左投左打。2020年シーズンから、東京ヤクルトスワローズでコーチを務める。"
-            },
-            {
-                "datetime": "2024年02月17日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=131883",
-                "title": "大阪鉄道 (2代目)",
-                "text": "〇〇は、現在の近畿日本鉄道（近鉄）道明寺線・南大阪線・長野線をかつて運営していた会社である。通称は「大鉄（だいてつ）」。"
             }
         ]
     }
