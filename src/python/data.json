@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年02月19日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2140807",
+                "title": "ランニング・ウォーカー・クーンハウンド",
+                "text": "〇〇は、アメリカ合衆国原産のツリーイング・ドッグ犬種のひとつである。"
+            },
+            {
                 "datetime": "2024年02月18日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4743921",
                 "title": "ハルドラ・ブリエム",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2545607",
                 "title": "江戸川区スポーツセンター",
                 "text": "〇〇は、東京都江戸川区にある屋内スポーツ施設である。"
-            },
-            {
-                "datetime": "2024年02月17日 06時の問題",
-                "url": "https://ja.wikipedia.org/?curid=797403",
-                "title": "古井千佳夫",
-                "text": "〇〇は、鹿児島テレビの社員で、元アナウンサー。"
             }
         ]
     }
