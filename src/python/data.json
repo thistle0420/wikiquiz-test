@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年02月21日 01時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1248161",
+                "title": "ゴードン・パークス",
+                "text": "〇〇は、ライフ誌での彼の写真エッセイと1971年の映画『黒いジャガー』の監督として最も記憶されている。"
+            },
+            {
                 "datetime": "2024年02月21日 00時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2785961",
                 "title": "彦狭島王",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2872900",
                 "title": "徳島県民歌",
                 "text": "〇〇は、かつて日本の都道府県の一つ、徳島県の初代県民歌として演奏されていた楽曲である。作詞・金沢治、補作・富田砕花、作曲・服部良一。"
-            },
-            {
-                "datetime": "2024年02月19日 07時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3383682",
-                "title": "レメキロマノラヴァ",
-                "text": "〇〇は、JAPAN RUGBY LEAGUE ONENECグリーンロケッツ東葛に所属する日本国籍のラグビー選手でチームの主将。"
             }
         ]
     }
