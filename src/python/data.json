@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年02月21日 06時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1729983",
+                "title": "曲芸ギミーシェルター",
+                "text": "〇〇は、2009年2月15日から配信されているインターネットラジオ番組（ポッドキャスト番組）である。"
+            },
+            {
                 "datetime": "2024年02月21日 05時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1653772",
                 "title": "藤本壮介",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2539359",
                 "title": "ふたみ潮風ふれあい公園",
                 "text": "〇〇は、愛媛県伊予市にある公園である。公園内には、多数のスポーツ施設が整う。"
-            },
-            {
-                "datetime": "2024年02月19日 13時の問題",
-                "url": "https://ja.wikipedia.org/?curid=897192",
-                "title": "花園 (京都市)",
-                "text": "〇〇は、京都市右京区の地名である。"
             }
         ]
     }
