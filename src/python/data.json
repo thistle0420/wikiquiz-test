@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年02月21日 05時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1653772",
+                "title": "藤本壮介",
+                "text": "〇〇は、日本の建築家。〇〇建築設計事務所主宰。東京大学特任准教授。日本建築大賞、JIA新人賞など多数受賞。"
+            },
+            {
                 "datetime": "2024年02月21日 04時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3567206",
                 "title": "京山将弥",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=897192",
                 "title": "花園 (京都市)",
                 "text": "〇〇は、京都市右京区の地名である。"
-            },
-            {
-                "datetime": "2024年02月19日 12時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3547072",
-                "title": "西山伸宏",
-                "text": "〇〇は、日本の研究者。東京工業大学化学生命科学研究所教授。"
             }
         ]
     }
