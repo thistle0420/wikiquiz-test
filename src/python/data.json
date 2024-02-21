@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年02月22日 03時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2690133",
+                "title": "MODEN",
+                "text": "〇〇は、韓国の2人組の男性音楽グループである。"
+            },
+            {
                 "datetime": "2024年02月22日 02時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1938160",
                 "title": "サバイバル・フィールド",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3995848",
                 "title": "早川権弥",
                 "text": "〇〇は、日本の政治家。衆議院議員、本名は早川義親。"
-            },
-            {
-                "datetime": "2024年02月20日 10時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1901179",
-                "title": "Everyone Deserves a Roof",
-                "text": "〇〇は、金属性のパイプによるフレーム、4個のロックできる車輪、両側が折り畳める網かご、防水性のキャンパス布、光を反射するテープを取り付けた物を製作した。EDAR はメリッサ・ヘルムブレヒト (Melissa Helmbrecht) が始めた Splashlife.com という若者のための新しい非営利組織と協力関係を結んだ。"
             }
         ]
     }
