@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年02月22日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1861570",
+                "title": "平島義武",
+                "text": "〇〇は、江戸時代中期の阿波徳島藩の人物。第7代平島公方。母および妻は『系図纂要』には記載なし。享年84。"
+            },
+            {
                 "datetime": "2024年02月22日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4363755",
                 "title": "カレン・ホーバック",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2324204",
                 "title": "一乗院 (池田市)",
                 "text": "〇〇は、大阪府池田市鉢塚にある高野山真言宗の仏教寺院。"
-            },
-            {
-                "datetime": "2024年02月21日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3596476",
-                "title": "妙情寺",
-                "text": "〇〇は、東京都台東区谷中にある日蓮宗の寺院。山号は究竟山。"
             }
         ]
     }
