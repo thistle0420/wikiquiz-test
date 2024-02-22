@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年02月23日 04時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3518897",
+                "title": "井上町 (奈良市)",
+                "text": "〇〇は、奈良県奈良市の中央部、市街地の中央部に位置する地区である。郵便番号は630-8317。"
+            },
+            {
                 "datetime": "2024年02月23日 03時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1886197",
                 "title": "本多政昌",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2556105",
                 "title": "Brainstorm",
                 "text": "〇〇は、FM802が毎週水曜日の24:00～深夜3:00に放送していた生放送のラジオ番組。DJは吉村昌広。正式タイトルは『802 MUSIC PLANET MERCURY brainstorm』。"
-            },
-            {
-                "datetime": "2024年02月21日 11時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4013160",
-                "title": "武石館",
-                "text": "〇〇は、千葉市花見川区武石町にあった日本の城。"
             }
         ]
     }
