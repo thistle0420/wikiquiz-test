@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年02月23日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4565264",
+                "title": "久世蘭",
+                "text": "〇〇は、日本の漫画家。"
+            },
+            {
                 "datetime": "2024年02月23日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=448125",
                 "title": "円光寺雅彦",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2690133",
                 "title": "MODEN",
                 "text": "〇〇は、韓国の2人組の男性音楽グループである。"
-            },
-            {
-                "datetime": "2024年02月22日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1938160",
-                "title": "サバイバル・フィールド",
-                "text": "〇〇は、2009年のスペイン映画。"
             }
         ]
     }
