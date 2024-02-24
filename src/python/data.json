@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年02月25日 03時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1030137",
+                "title": "滝新バイパス",
+                "text": "〇〇は、北海道の樺戸郡新十津川町から滝川市に至る、国道451号のバイパス道路である。"
+            },
+            {
                 "datetime": "2024年02月25日 02時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2906943",
                 "title": "3フランシスコ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=597164",
                 "title": "茨木市立福井小学校",
                 "text": "〇〇は、大阪府茨木市にある公立小学校。"
-            },
-            {
-                "datetime": "2024年02月23日 10時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1866563",
-                "title": "白方秀和",
-                "text": "〇〇は、大分県大分市出身のフットサル選手。Fリーグ・しながわシティ所属。ポジションはアラ。"
             }
         ]
     }
