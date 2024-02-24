@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年02月24日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2762905",
+                "title": "MARK IS 静岡",
+                "text": "〇〇は、静岡市葵区柚木（ゆのき）にある、三菱地所の大型商業施設である。"
+            },
+            {
                 "datetime": "2024年02月24日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4425369",
                 "title": "イオンタウン山科椥辻",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3284347",
                 "title": "梨谷駅",
                 "text": "〇〇は、大韓民国大邱広域市達西区にある大邱都市鉄道2号線の駅である。駅番号は(222)。"
-            },
-            {
-                "datetime": "2024年02月23日 00時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2542208",
-                "title": "北九州市立年長者研修大学校",
-                "text": "〇〇は、北九州市にある高齢者を対象とした研修施設である。"
             }
         ]
     }
