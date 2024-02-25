@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年02月26日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3410901",
+                "title": "10th Anniversary Best BLUE",
+                "text": "〇〇は、Aqua Timezの2枚目のベストアルバム。2015年8月24日発売。発売元はエピックレコードジャパン。"
+            },
+            {
                 "datetime": "2024年02月25日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3131982",
                 "title": "宇山翠",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2097787",
                 "title": "上行寺 (宮崎市)",
                 "text": "〇〇は、宮崎県宮崎市にある日蓮宗の寺院。山号は法華経山（ほけきょうざん）。興統法縁。松ケ迫池空襲の犠牲者を供養する法要が行われる。"
-            },
-            {
-                "datetime": "2024年02月24日 06時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3983732",
-                "title": "HD 68988",
-                "text": "〇〇は、おおぐま座の方向におよそ199光年の距離にある8等星である。周囲に1つの太陽系外惑星が発見されている。"
             }
         ]
     }
