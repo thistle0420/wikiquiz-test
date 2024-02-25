@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年02月25日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4334373",
+                "title": "東野幸治のホンモノラジオ",
+                "text": "〇〇は、朝日放送ラジオ（ABCラジオ）で2021年4月3日から放送しているトーク番組。"
+            },
+            {
                 "datetime": "2024年02月25日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=673639",
                 "title": "アイドル水泳大会",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4768131",
                 "title": "切田太郎",
                 "text": "〇〇は、日本の商学者。第6代台北高等商業学校校長。"
-            },
-            {
-                "datetime": "2024年02月24日 00時の問題",
-                "url": "https://ja.wikipedia.org/?curid=396530",
-                "title": "篠原停留場",
-                "text": "〇〇は、高知県南国市篠原にあるとさでん交通後免線の路面電車停留場。"
             }
         ]
     }
