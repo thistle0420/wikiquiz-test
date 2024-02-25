@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年02月25日 13時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4162995",
+                "title": "万福寺 (世田谷区)",
+                "text": "〇〇は、東京都世田谷区にある浄土真宗本願寺派の寺院。「烏山寺町」を構成する26の寺院の1つである。"
+            },
+            {
                 "datetime": "2024年02月25日 12時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4119268",
                 "title": "忠告社",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4565264",
                 "title": "久世蘭",
                 "text": "〇〇は、日本の漫画家。"
-            },
-            {
-                "datetime": "2024年02月23日 19時の問題",
-                "url": "https://ja.wikipedia.org/?curid=448125",
-                "title": "円光寺雅彦",
-                "text": "〇〇は、日本の指揮者。"
             }
         ]
     }
