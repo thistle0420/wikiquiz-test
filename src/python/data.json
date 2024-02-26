@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年02月26日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=236710",
+                "title": "矢内雄一郎",
+                "text": "〇〇は、テレビ東京アナウンサー。"
+            },
+            {
                 "datetime": "2024年02月26日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3954436",
                 "title": "ティエンラン県",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2256009",
                 "title": "エリーザベト・アマーリエ・フォン・エスターライヒ",
                 "text": "〇〇は、オーストリア＝ハンガリー帝国の皇族。皇帝フランツ・ヨーゼフ1世の姪、帝位継承者フランツ・フェルディナント大公の異母妹、皇帝カール1世の叔母。リヒテンシュタイン侯フランツ・ヨーゼフ2世の母親。全名はエリーザベト・アマーリエ・オイゲーニア・マリア・テレジア・カロリーネ・ルイーゼ・ヨーゼファ（Elisabeth Amalie Eugenia Maria Theresia Karoline Luise Josepha von Österreich）。"
-            },
-            {
-                "datetime": "2024年02月25日 00時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1472571",
-                "title": "エスタンピー",
-                "text": "〇〇は、中世ヨーロッパのダンス・楽式の両方を指す。"
             }
         ]
     }
