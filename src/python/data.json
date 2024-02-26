@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年02月26日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=620172",
+                "title": "エミリー・ブラウニング",
+                "text": "〇〇は、オーストラリアの女優。"
+            },
+            {
                 "datetime": "2024年02月26日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2255866",
                 "title": "光州FC",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1775821",
                 "title": "越後福嶋騒動",
                 "text": "〇〇は、江戸時代前期に起こった越後高田藩（福嶋藩）の堀家家中におけるお家騒動である。"
-            },
-            {
-                "datetime": "2024年02月25日 03時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1030137",
-                "title": "滝新バイパス",
-                "text": "〇〇は、北海道の樺戸郡新十津川町から滝川市に至る、国道451号のバイパス道路である。"
             }
         ]
     }
