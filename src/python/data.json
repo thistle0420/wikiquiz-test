@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年02月26日 17時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3954436",
+                "title": "ティエンラン県",
+                "text": "〇〇は、ベトナム社会主義共和国のハイフォン市に存在する県。面積は189.04 km²、人口は182,200人（2018年）である。"
+            },
+            {
                 "datetime": "2024年02月26日 16時の問題",
                 "url": "https://ja.wikipedia.org/?curid=81385",
                 "title": "大宝律令",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1472571",
                 "title": "エスタンピー",
                 "text": "〇〇は、中世ヨーロッパのダンス・楽式の両方を指す。"
-            },
-            {
-                "datetime": "2024年02月24日 23時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1334572",
-                "title": "勝山市消防本部",
-                "text": "〇〇は、福井県勝山市の消防部局（消防本部）。管轄区域は勝山市全域。"
             }
         ]
     }
