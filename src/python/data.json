@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年02月26日 11時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4676060",
+                "title": "第2回全国地域リーグ決勝大会",
+                "text": "〇〇は、1978年に開催された全国地域リーグ決勝大会。"
+            },
+            {
                 "datetime": "2024年02月26日 10時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4892184",
                 "title": "ヤマイバラ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2762905",
                 "title": "MARK IS 静岡",
                 "text": "〇〇は、静岡市葵区柚木（ゆのき）にある、三菱地所の大型商業施設である。"
-            },
-            {
-                "datetime": "2024年02月24日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4425369",
-                "title": "イオンタウン山科椥辻",
-                "text": "〇〇は、京都府京都市山科区にあるイオンタウン。2019年開業。"
             }
         ]
     }
