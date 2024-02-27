@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年02月27日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=289667",
+                "title": "安玖深音",
+                "text": "〇〇は、日本の女性声優。主にアダルトゲームに声をあてている。"
+            },
+            {
                 "datetime": "2024年02月27日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3539851",
                 "title": "渡辺覚造",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=528050",
                 "title": "吉村奈見",
                 "text": "〇〇は、日本の元子役。元女優。東京都出身。血液型O型。本名の〇〇子から〇〇へ芸名を改名している。"
-            },
-            {
-                "datetime": "2024年02月25日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2654173",
-                "title": "ジョヴァンニ・マルティーノ・チェーザレ",
-                "text": "〇〇は、イタリアの作曲家、ツィンク奏者。"
             }
         ]
     }
