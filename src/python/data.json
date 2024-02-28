@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年02月29日 03時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1677734",
+                "title": "オリンパス μ850SW",
+                "text": "〇〇は、オリンパス光学工業のデジタルスチルカメラ、μシリーズの一機種である。"
+            },
+            {
                 "datetime": "2024年02月29日 02時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1780953",
                 "title": "SHARE SMILE",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=498620",
                 "title": "紀元前827年",
                 "text": "〇〇は、西暦による年。"
-            },
-            {
-                "datetime": "2024年02月27日 10時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1408522",
-                "title": "韓寿 (西晋)",
-                "text": "〇〇は、西晋の人物。字は徳真。南陽郡堵陽県（現在の河南省南陽市方城県）の人。恵帝司馬衷の外戚。賈謐の父。魏の司徒韓曁の曾孫で、韓王信の子孫とされる。"
             }
         ]
     }
