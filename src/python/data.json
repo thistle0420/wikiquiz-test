@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年02月28日 16時の問題",
+                "url": "https://ja.wikipedia.org/?curid=573959",
+                "title": "西濃",
+                "text": "〇〇は、岐阜県南西部（美濃国西部）の総称である。"
+            },
+            {
                 "datetime": "2024年02月28日 15時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1118817",
                 "title": "パンクロニウム",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=180325",
                 "title": "鬼北町",
                 "text": "〇〇は、愛媛県の南予地方の町。北宇和郡に属する。四万十川の上流、広見川流域の中山間地帯に位置する。"
-            },
-            {
-                "datetime": "2024年02月26日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1587716",
-                "title": "丸根砦",
-                "text": "〇〇は、愛知県名古屋市緑区にあった砦。"
             }
         ]
     }
