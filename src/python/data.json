@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年02月28日 13時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2263819",
+                "title": "SBS歌謡大祭典",
+                "text": "〇〇は、SBS芸能本部主催、例年12月25日に開催する音楽祭である。"
+            },
+            {
                 "datetime": "2024年02月28日 12時の問題",
                 "url": "https://ja.wikipedia.org/?curid=102655",
                 "title": "愛媛県道11号新居浜角野線",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2255866",
                 "title": "光州FC",
                 "text": "〇〇は、韓国の光州広域市を本拠地とする韓国プロサッカークラブである。2011年よりKリーグに参加、加盟している。"
-            },
-            {
-                "datetime": "2024年02月26日 19時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3958830",
-                "title": "板垣只二",
-                "text": "〇〇は、朝鮮総督府官僚。弁護士。"
             }
         ]
     }
