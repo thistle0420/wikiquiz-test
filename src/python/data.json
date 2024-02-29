@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年02月29日 19時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1323814",
+                "title": "熊本県道266号梶屋多良木線",
+                "text": "〇〇は、熊本県球磨郡多良木町を通る一般県道である。"
+            },
+            {
                 "datetime": "2024年02月29日 18時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4291026",
                 "title": "TBSアクト",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1650965",
                 "title": "ジアン",
                 "text": "〇〇は、フランス、サントル＝ヴァル・ド・ロワール地域圏ロワレ県のコミューン。"
-            },
-            {
-                "datetime": "2024年02月28日 01時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2314461",
-                "title": "花本ロミオ",
-                "text": "〇〇は、日本の小説家。血液型はAB型。"
             }
         ]
     }
