@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月01日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4188537",
+                "title": "堀込奈央",
+                "text": "〇〇は、日本の元女子バレーボール選手。"
+            },
+            {
                 "datetime": "2024年03月01日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1065695",
                 "title": "チョ・インソン (俳優)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1892057",
                 "title": "White winter song",
                 "text": "〇〇は、2002年12月11日にリリースされたCHARCOAL FILTERの10枚目のシングル。music video監督 山根真樹"
-            },
-            {
-                "datetime": "2024年02月28日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4605969",
-                "title": "ジラフとアンニカ",
-                "text": "〇〇は、インディーゲームメーカーのatelier miminaが開発したゲームソフト。2020年2月17日にSteamにてPC版がPLAYISMより発売され、その後8月27日にPlayStation 4・Nintendo Switch・Xbox One版がアクティブゲーミングメディアより発売された。記憶を失ったネコ耳の少女・アンニカを操作し、謎の少年ジラフとともにスピカ島を冒険していくアドベンチャーゲーム。敵と戦うという行動はなく、ボス戦はリズムアクションゲームの形態をとっている。"
             }
         ]
     }
