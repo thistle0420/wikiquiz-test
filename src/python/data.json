@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月01日 15時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2938501",
+                "title": "マリア・コミサロワ",
+                "text": "〇〇は、ロシア、サンクトペテルブルク出身のフリースタイルスキー選手。"
+            },
+            {
                 "datetime": "2024年03月01日 14時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4188537",
                 "title": "堀込奈央",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=92433",
                 "title": "明宗 (高麗王)",
                 "text": "〇〇は、第19代高麗王（在位：1170年 - 1197年）。姓は王、諱は晧、諡号は皇明光孝大王。妃は江陵公王温の娘、光靖王后金氏。"
-            },
-            {
-                "datetime": "2024年02月28日 21時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1892057",
-                "title": "White winter song",
-                "text": "〇〇は、2002年12月11日にリリースされたCHARCOAL FILTERの10枚目のシングル。music video監督 山根真樹"
             }
         ]
     }
