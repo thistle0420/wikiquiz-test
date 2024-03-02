@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月03日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4593971",
+                "title": "宇留摩庵",
+                "text": "〇〇は、岐阜県各務原市鵜沼西町1丁目116番地3にある観光施設（飲食施設）。"
+            },
+            {
                 "datetime": "2024年03月03日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2738648",
                 "title": "FileCapsule Slate",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1580127",
                 "title": "牛乳寒天",
                 "text": "〇〇は、牛乳と寒天と砂糖を使って作る冷たい菓子である。牛乳かん（ぎゅうにゅうかん、牛乳寒/牛乳羹）、またはミルク寒天（ミルクかんてん）とも呼ばれる。"
-            },
-            {
-                "datetime": "2024年03月01日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2938501",
-                "title": "マリア・コミサロワ",
-                "text": "〇〇は、ロシア、サンクトペテルブルク出身のフリースタイルスキー選手。"
             }
         ]
     }
