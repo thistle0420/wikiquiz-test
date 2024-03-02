@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月03日 06時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1965609",
+                "title": "スペシャルナンバー",
+                "text": "〇〇は、Sound Scheduleの7作目のシングル。2004年6月9日にDANGUY RECORDSより発売された。"
+            },
+            {
                 "datetime": "2024年03月03日 05時の問題",
                 "url": "https://ja.wikipedia.org/?curid=961001",
                 "title": "オールパシフィック王座",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4188537",
                 "title": "堀込奈央",
                 "text": "〇〇は、日本の元女子バレーボール選手。"
-            },
-            {
-                "datetime": "2024年03月01日 13時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1065695",
-                "title": "チョ・インソン (俳優)",
-                "text": "〇〇は、韓国の俳優。テコンドー三段。身長189cm。体重72kg。1998年に広告モデルでデビュー。2009年4月6日空軍に入隊。2011年5月4日空軍軍楽隊を除隊。"
             }
         ]
     }
