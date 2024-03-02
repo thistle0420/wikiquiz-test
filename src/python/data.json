@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月02日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3765383",
+                "title": "浦真人",
+                "text": "〇〇は、日本の元ラグビー選手。"
+            },
+            {
                 "datetime": "2024年03月02日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3929884",
                 "title": "コンコード郡区",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4832077",
                 "title": "グロジェヴォ",
                 "text": "〇〇は、ブルガリア北東部のルセ州ヴェトヴォ市にある基礎自治体（オプシュティナ）。"
-            },
-            {
-                "datetime": "2024年03月01日 03時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1931266",
-                "title": "川勝瀬平",
-                "text": "〇〇は、明治時代初期に京都府船井郡富本村（現・南丹市）の西谷池開削を指導した篤農家、豪農。富本村青戸の人。"
             }
         ]
     }
