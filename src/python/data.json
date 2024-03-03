@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月04日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1342290",
+                "title": "三岐鉄道601系電車",
+                "text": "〇〇は、かつて三岐鉄道三岐線に在籍した通勤形電車。"
+            },
+            {
                 "datetime": "2024年03月04日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2535023",
                 "title": "三草",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1641547",
                 "title": "飯島忠義",
                 "text": "〇〇は、日本の政治家、元衆議院議員である。"
-            },
-            {
-                "datetime": "2024年03月02日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2296877",
-                "title": "ティジェイ・ヴァン・ガーデレン",
-                "text": "〇〇は、アメリカ合衆国、タコマ出身の自転車競技（ロードレース）選手。名は「ティージェイ」、姓は「ヴァン・ガードレン」とも表記される。"
             }
         ]
     }
