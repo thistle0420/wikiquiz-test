@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月03日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3298928",
+                "title": "肉食女子部",
+                "text": "〇〇は、2015年10月から2016年3月にかけて、5いっしょ3ちゃんねる加盟各局および岐阜放送、サンテレビジョン、ひかりTV、NOTTV、スターキャット・ケーブルネットワークの共同制作により放送されていたバラエティ番組・グルメ番組である。"
+            },
+            {
                 "datetime": "2024年03月03日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1794426",
                 "title": "〜Midnight Dejavu〜 色彩のブルース",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=497654",
                 "title": "ダボス",
                 "text": "〇〇は、スイス・グラウビュンデン州にある基礎自治体である。"
-            },
-            {
-                "datetime": "2024年03月02日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1143805",
-                "title": "横山浩之",
-                "text": "〇〇は、映画監督。東京都葛飾区出身。"
             }
         ]
     }
