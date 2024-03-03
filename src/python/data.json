@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月04日 03時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3571348",
+                "title": "パトリック・ファビアン",
+                "text": "〇〇は、ドイツの元サッカー選手。現役時代のポジションはDF。"
+            },
+            {
                 "datetime": "2024年03月04日 02時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3376108",
                 "title": "字彙補",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3828024",
                 "title": "ジエゴ・ヴィウヴェルソン・フェレイラ・ソウザ",
                 "text": "〇〇は、ブラジル・マラニョン州出身のサッカー選手。セグンダ・ディビシオン・ADアルコルコン所属。ポジションはFW。"
-            },
-            {
-                "datetime": "2024年03月02日 10時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2431566",
-                "title": "ルテル",
-                "text": "〇〇は、フランス、グラン・テスト地域圏、アルデンヌ県のコミューン。"
             }
         ]
     }
