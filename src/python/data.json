@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月04日 10時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1869444",
+                "title": "ヤマハ・ロードレーサー",
+                "text": "〇〇は、ヤマハ発動機製ロードレーサーについて説明する。ロードレーサーとは、ロードレースに使用する競技用バイクのことである。"
+            },
+            {
                 "datetime": "2024年03月04日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1342290",
                 "title": "三岐鉄道601系電車",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2265480",
                 "title": "森田進",
                 "text": "〇〇は、日本の詩人。"
-            },
-            {
-                "datetime": "2024年03月02日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1641547",
-                "title": "飯島忠義",
-                "text": "〇〇は、日本の政治家、元衆議院議員である。"
             }
         ]
     }
