@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月05日 03時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2517259",
+                "title": "清水馨",
+                "text": "〇〇は、日本の舞台女優。東京都出身。文学座所属。"
+            },
+            {
                 "datetime": "2024年03月05日 02時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1278476",
                 "title": "福井照",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1965609",
                 "title": "スペシャルナンバー",
                 "text": "〇〇は、Sound Scheduleの7作目のシングル。2004年6月9日にDANGUY RECORDSより発売された。"
-            },
-            {
-                "datetime": "2024年03月03日 05時の問題",
-                "url": "https://ja.wikipedia.org/?curid=961001",
-                "title": "オールパシフィック王座",
-                "text": "〇〇は、全日本女子プロレスが管理、WWWAが認定していた王座。"
             }
         ]
     }
