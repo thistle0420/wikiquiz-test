@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月05日 04時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4662551",
+                "title": "アレイ・キャッツ",
+                "text": "〇〇は、1986年11月1日に発売されたEPOの12枚目のシングル。発売元はDear heart / MIDI。"
+            },
+            {
                 "datetime": "2024年03月05日 03時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2517259",
                 "title": "清水馨",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2738648",
                 "title": "FileCapsule Slate",
                 "text": "〇〇は、コンピュータ上に保存されたファイルを暗号化または復号するためのソフトウエア。暗号化を行うための方式として、共通鍵暗号と公開鍵暗号が利用できる。Windowsストアからダウンロードすることができる。"
-            },
-            {
-                "datetime": "2024年03月03日 06時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1965609",
-                "title": "スペシャルナンバー",
-                "text": "〇〇は、Sound Scheduleの7作目のシングル。2004年6月9日にDANGUY RECORDSより発売された。"
             }
         ]
     }
