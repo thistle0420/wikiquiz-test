@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月04日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=275406",
+                "title": "CIMA (プロレスラー)",
+                "text": "〇〇は、日本の男性プロレスラー。大阪府堺市北区出身。血液型O型。「心臓バクバクするプロレス」をテーマに掲げている。闘龍門JAPANの旗揚げのメンバーであり、1期生でもあるDRAGON GATEでは中心選手として活躍していた。"
+            },
+            {
                 "datetime": "2024年03月04日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3705810",
                 "title": "湾曲部",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3440165",
                 "title": "青島北駅",
                 "text": "〇〇は、中華人民共和国山東省青島市李滄区にある、中国国鉄済南鉄路局と青島地下鉄の駅である。"
-            },
-            {
-                "datetime": "2024年03月02日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1424549",
-                "title": "宝塚市立末成小学校",
-                "text": "〇〇は、兵庫県宝塚市にある公立小学校。"
             }
         ]
     }
