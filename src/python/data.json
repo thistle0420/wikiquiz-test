@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月04日 12時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2750073",
+                "title": "高崎川 (千葉県)",
+                "text": "〇〇は、千葉県中央部を流れる利根川（印旛沼）水系の一級河川。"
+            },
+            {
                 "datetime": "2024年03月04日 10時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1869444",
                 "title": "ヤマハ・ロードレーサー",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=754574",
                 "title": "カピバラさん",
                 "text": "〇〇は、バンプレスト（2019年4月1日以降は、バンプレストを吸収合併したBANDAI SPIRITS）製作の、カピバラをモチーフにしたキャラクター。同社に在籍する女性12人で構成されたチーム「トライワークス」によって開発された。"
-            },
-            {
-                "datetime": "2024年03月02日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2265480",
-                "title": "森田進",
-                "text": "〇〇は、日本の詩人。"
             }
         ]
     }
