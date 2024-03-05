@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月06日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2115305",
+                "title": "東政敏",
+                "text": "〇〇は、宮崎県出身の元プロ野球選手（捕手）。"
+            },
+            {
                 "datetime": "2024年03月06日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=748052",
                 "title": "オレンジ油",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2750073",
                 "title": "高崎川 (千葉県)",
                 "text": "〇〇は、千葉県中央部を流れる利根川（印旛沼）水系の一級河川。"
-            },
-            {
-                "datetime": "2024年03月04日 10時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1869444",
-                "title": "ヤマハ・ロードレーサー",
-                "text": "〇〇は、ヤマハ発動機製ロードレーサーについて説明する。ロードレーサーとは、ロードレースに使用する競技用バイクのことである。"
             }
         ]
     }
