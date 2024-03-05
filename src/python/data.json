@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月06日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4133154",
+                "title": "都塚北",
+                "text": "〇〇は、大阪府八尾市の地名。現行行政地名は〇〇一丁目及び〇〇二丁目。住居表示は未実施。"
+            },
+            {
                 "datetime": "2024年03月06日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2115305",
                 "title": "東政敏",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=760737",
                 "title": "ジム・ライトル",
                 "text": "〇〇は、アメリカ合衆国オハイオ州ハミルトン出身の元プロ野球選手（外野手）。"
-            },
-            {
-                "datetime": "2024年03月04日 12時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2750073",
-                "title": "高崎川 (千葉県)",
-                "text": "〇〇は、千葉県中央部を流れる利根川（印旛沼）水系の一級河川。"
             }
         ]
     }
