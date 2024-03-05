@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月05日 16時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2002140",
+                "title": "高橋巌 (農学者)",
+                "text": "〇〇は、日本の農業経済学者、農学者。日本大学教授。東京都国分寺市生まれ。"
+            },
+            {
                 "datetime": "2024年03月05日 15時の問題",
                 "url": "https://ja.wikipedia.org/?curid=371629",
                 "title": "鹿児島県道31号加世田川辺線",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1794426",
                 "title": "〜Midnight Dejavu〜 色彩のブルース",
                 "text": "〇〇は、日本のバンドEGO-WRAPPIN'の1枚目のシングルである。2001年11月28日にユニバーサルミュージックより発売。2008年10月16日、トイズファクトリーより再発された。"
-            },
-            {
-                "datetime": "2024年03月03日 18時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3501373",
-                "title": "プロトン・アイリス",
-                "text": "〇〇は、プロトンが製造・販売しているBセグメント級のハッチバック型自動車である。"
             }
         ]
     }
