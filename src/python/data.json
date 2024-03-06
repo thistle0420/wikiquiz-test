@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月06日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4637032",
+                "title": "れおな",
+                "text": "〇〇は、日本のAV女優。ボディコーポレーション所属。"
+            },
+            {
                 "datetime": "2024年03月06日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2050798",
                 "title": "蘇炳添",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=707111",
                 "title": "THIS MORNING",
                 "text": "〇〇は、平日早朝にJFN系各局をネットして1991年4月から2000年3月まで放送された番組。新聞のラジオ欄では「ジス・モーニング」と表記された。基本的に自社制作の早朝番組を組まない地方局向けのBラインの番組であるが、一部時間帯でAライン（全国共通番組）が放送された。"
-            },
-            {
-                "datetime": "2024年03月05日 00時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1036951",
-                "title": "新北京プロレス",
-                "text": "〇〇は、日本のプロレス団体であるDDTプロレスリングが開催する興行名。"
             }
         ]
     }
