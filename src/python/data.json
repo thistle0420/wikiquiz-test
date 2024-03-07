@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月07日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2106380",
+                "title": "イーディス・ロバーツ",
+                "text": "〇〇は、アメリカ合衆国の女優である。日本では大正時代にエディス・ロバーツと紹介された。出生名はイーディス・ジョゼフィン・ロバーツ（Edith Josephine Roberts）。"
+            },
+            {
                 "datetime": "2024年03月07日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2241335",
                 "title": "ロベルト・カンマレーレ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2449704",
                 "title": "T-01D",
                 "text": "〇〇は、富士通（現・FCNT、詳細は後述）によって開発された、NTTドコモの第3世代移動通信システム（FOMA）端末である。docomo with seriesのひとつ。"
-            },
-            {
-                "datetime": "2024年03月06日 04時の問題",
-                "url": "https://ja.wikipedia.org/?curid=52423",
-                "title": "川崎病",
-                "text": "〇〇は、日本の小児科医：川崎富作によって1960年代に発見された、主に乳幼児がかかる発熱性疾患（病気）である。突然の高熱が数日続き、目や唇の充血、身体の発疹、手足の発赤（＝赤くなること）、首リンパ節の腫脹など様々な症状を惹き起こす。小児急性熱性皮膚粘膜リンパ節症候群（英: MucoCutaneous Lymph-node Syndrome, MCLS）とも言われるが、世界的に「〇〇 (KD)」と呼ばれるのが一般的である。"
             }
         ]
     }
