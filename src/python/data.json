@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月08日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=80437",
+                "title": "豊川信用金庫",
+                "text": "〇〇は、愛知県豊川市に本店を置く信用金庫。通称「かわしん」。"
+            },
+            {
                 "datetime": "2024年03月07日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1645399",
                 "title": "シェコヴィチ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4133154",
                 "title": "都塚北",
                 "text": "〇〇は、大阪府八尾市の地名。現行行政地名は〇〇一丁目及び〇〇二丁目。住居表示は未実施。"
-            },
-            {
-                "datetime": "2024年03月06日 07時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2115305",
-                "title": "東政敏",
-                "text": "〇〇は、宮崎県出身の元プロ野球選手（捕手）。"
             }
         ]
     }
