@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月09日 06時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3272505",
+                "title": "児玉実良",
+                "text": "〇〇は、明治末から昭和期の裁判官、検察官、弁護士。衆議院議員。"
+            },
+            {
                 "datetime": "2024年03月09日 05時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1035672",
                 "title": "テオーラ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3097860",
                 "title": "精巣上体炎",
                 "text": "〇〇は、精巣上体（副睾丸）に炎症が起こる病気の事である。副睾丸炎（ふくこうがんえん）とも呼ばれる。"
-            },
-            {
-                "datetime": "2024年03月07日 13時の問題",
-                "url": "https://ja.wikipedia.org/?curid=544516",
-                "title": "前村早紀",
-                "text": "〇〇は、日本の元女子プロレスラー。"
             }
         ]
     }
