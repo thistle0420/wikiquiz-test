@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月08日 10時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1278539",
+                "title": "交響曲第1番 (バラキレフ)",
+                "text": "〇〇は、1897年に完成された作品。演奏時間は約42分。"
+            },
+            {
                 "datetime": "2024年03月08日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2837505",
                 "title": "常駐",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4637032",
                 "title": "れおな",
                 "text": "〇〇は、日本のAV女優。ボディコーポレーション所属。"
-            },
-            {
-                "datetime": "2024年03月06日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2050798",
-                "title": "蘇炳添",
-                "text": "〇〇は、中国の男子陸上競技選手。専門は短距離走。100mのアジア記録保持者、60mの室内アジア記録保持者。アジア出身選手として初めて10秒の壁を突破した選手である。"
             }
         ]
     }
