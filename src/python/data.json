@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月09日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2497106",
+                "title": "2012 FIFAフットサルワールドカップ",
+                "text": "〇〇は、2012年11月1日から18日まで、タイ王国で開催された、第7回目のFIFAフットサルワールドカップである。"
+            },
+            {
                 "datetime": "2024年03月09日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2578332",
                 "title": "反撥",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3996410",
                 "title": "ヴィクトル・アレシャンデル・ダ・シウヴァ",
                 "text": "〇〇は、ブラジル・ベロオリゾンテ出身のサッカー選手。バーンリーFC所属。ポジションはDF。"
-            },
-            {
-                "datetime": "2024年03月08日 03時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1819614",
-                "title": "八谷賢一",
-                "text": "〇〇は、日本のアニメーション演出家、アニメーション監督である。"
             }
         ]
     }
