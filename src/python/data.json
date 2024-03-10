@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月10日 10時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2387225",
+                "title": "もっと愛したかった",
+                "text": "〇〇は、日本の歌手真崎ゆかの2枚目のシングルとして2011年4月27日に発売された。"
+            },
+            {
                 "datetime": "2024年03月10日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4013328",
                 "title": "シドニー・フォスター",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3064305",
                 "title": "山口真 (ジャーナリスト)",
                 "text": "〇〇は、フジテレビジョン報道局長兼FNN事務局長兼解説委員、元報道記者。慶應義塾大学法学部政治学科卒業。"
-            },
-            {
-                "datetime": "2024年03月08日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=749373",
-                "title": "Melody〜SOUNDS REAL〜",
-                "text": "〇〇は、絢香の2枚目のシングル。2006年5月10日にワーナーミュージック・ジャパンから発売された。"
             }
         ]
     }
