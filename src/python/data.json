@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月10日 17時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4142076",
+                "title": "SECRET NUMBER",
+                "text": "〇〇は、韓国の女性アイドルグループ。2020年5月19日にシングルアルバム『Who Dis?』でデビュー。メンバーは韓国、日本、インドネシア、アメリカ出身の6人で構成される。Vineエンターテインメント所属。"
+            },
+            {
                 "datetime": "2024年03月10日 16時の問題",
                 "url": "https://ja.wikipedia.org/?curid=31905",
                 "title": "中江有里",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4200267",
                 "title": "芹澤清",
                 "text": "〇〇は、日本の防衛官僚。"
-            },
-            {
-                "datetime": "2024年03月08日 23時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4234711",
-                "title": "Polyspace",
-                "text": "〇〇は、静的コード解析ツール。C言語、C++、Adaのソースコードに実行時エラーが存在しないことを検出または証明するための抽象解釈による大規模分析ができる。このツールはソースコードが適切なコード標準に準拠しているかどうかもチェックできる。"
             }
         ]
     }
