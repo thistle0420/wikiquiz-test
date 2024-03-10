@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月11日 06時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2715259",
+                "title": "宇和島屋",
+                "text": "〇〇は、アメリカ合衆国のワシントン州シアトルに本社を置くスーパーマーケット。"
+            },
+            {
                 "datetime": "2024年03月11日 05時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1107715",
                 "title": "AXIS (雑誌)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2718739",
                 "title": "空想委員会",
                 "text": "〇〇は、日本の3人組ロックバンド。所属レコード会社はキングレコード。2008年に結成され、2011年にミニ・アルバム『恋愛下手の作り方』でインディーズデビュー、2014年にシングル『種の起源』でメジャーデビュー。"
-            },
-            {
-                "datetime": "2024年03月09日 13時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3731108",
-                "title": "市民科学",
-                "text": "〇〇は、全面的もしくは部分的にアマチュア科学者によって行われる科学研究を指す。「科学研究への公衆の関与」、「参加型モニタリング (participatory monitoring)」、「参加型アクション・リサーチ (participatory action research)」と説明されることがある。"
             }
         ]
     }
