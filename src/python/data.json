@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月11日 15時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3152408",
+                "title": "ITF男子ワールドテニスツアー",
+                "text": "〇〇は、国際テニス連盟（ITF）が主催するプロフェッショナルテニスのトーナメントシリーズで、男子プロテニスでは最も低いカテゴリに位置する大会群である。2019年にITF男子サーキット（英: ITF Men's Circuit）から改称された。この大会群は毎年、世界各地で開催されている。"
+            },
+            {
                 "datetime": "2024年03月11日 14時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4699921",
                 "title": "炭酸コバルト(II)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4347985",
                 "title": "海樹リコ",
                 "text": "〇〇は、日本の女子プロレスラー。山口県下関市出身。血液型O型。SEAdLINNNG所属。"
-            },
-            {
-                "datetime": "2024年03月09日 21時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2497106",
-                "title": "2012 FIFAフットサルワールドカップ",
-                "text": "〇〇は、2012年11月1日から18日まで、タイ王国で開催された、第7回目のFIFAフットサルワールドカップである。"
             }
         ]
     }
