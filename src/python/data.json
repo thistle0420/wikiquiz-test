@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月11日 11時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4363341",
+                "title": "G-CRISIS",
+                "text": "〇〇は、日本のロックバンドである。"
+            },
+            {
                 "datetime": "2024年03月11日 10時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3384852",
                 "title": "都島橋",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=382270",
                 "title": "飛鳥井雅庸",
                 "text": "〇〇は、安土桃山時代から江戸時代初期にかけての公卿・歌人。飛鳥井雅敦の子。官位は従二位・権大納言。飛鳥井家13代当主。"
-            },
-            {
-                "datetime": "2024年03月09日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4782302",
-                "title": "天谷直次郎",
-                "text": "〇〇は、大日本帝国陸軍軍人。最終階級は陸軍中将。功二級"
             }
         ]
     }
