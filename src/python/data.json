@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月11日 16時の問題",
+                "url": "https://ja.wikipedia.org/?curid=203499",
+                "title": "嶺東高速道路",
+                "text": "〇〇は、仁川広域市南洞区から京畿道を経由して江原特別自治道江陵市までの全長234kmに至る高速道路である。"
+            },
+            {
                 "datetime": "2024年03月11日 15時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3152408",
                 "title": "ITF男子ワールドテニスツアー",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4073271",
                 "title": "神野亮太",
                 "text": "〇〇は、鹿児島県鹿児島市出身の元サッカー選手。現役時代のポジションは MF。又はDF（サイドバック・センターバック）。"
-            },
-            {
-                "datetime": "2024年03月09日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4347985",
-                "title": "海樹リコ",
-                "text": "〇〇は、日本の女子プロレスラー。山口県下関市出身。血液型O型。SEAdLINNNG所属。"
             }
         ]
     }
