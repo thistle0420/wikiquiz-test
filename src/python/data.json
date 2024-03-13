@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月13日 22時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2806722",
+                "title": "ジョイ・フローラ",
+                "text": "〇〇は、千葉県野田市に本社を置く企業。"
+            },
+            {
                 "datetime": "2024年03月13日 21時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1047289",
                 "title": "ソレート",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4021845",
                 "title": "マーサ・ジョンソン (第8代ウェントワース女男爵)",
                 "text": "〇〇は、イングランド貴族。"
-            },
-            {
-                "datetime": "2024年03月12日 04時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2805307",
-                "title": "Acid Black Cherry 5th Anniversary Live “Erect”",
-                "text": "〇〇は、日本のバンド、Janne Da ArcのボーカリストのyasuのソロプロジェクトであるAcid Black Cherryのライブビデオ。"
             }
         ]
     }
