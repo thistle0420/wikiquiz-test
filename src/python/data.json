@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月13日 16時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1960796",
+                "title": "1992年イタリア総選挙",
+                "text": "〇〇は、1992年4月5日に施行されたイタリアの国会議員総選挙である。"
+            },
+            {
                 "datetime": "2024年03月13日 15時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1576294",
                 "title": "X-39 (航空機)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2535470",
                 "title": "日産プリンス岩手販売",
                 "text": "〇〇は、岩手県盛岡市に本社を置く日産自動車の販売会社である。"
-            },
-            {
-                "datetime": "2024年03月11日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2940924",
-                "title": "スレイド・ピアース",
-                "text": "〇〇は、アメリカ合衆国出身の俳優である。"
             }
         ]
     }
