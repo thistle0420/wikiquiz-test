@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月13日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1047289",
+                "title": "ソレート",
+                "text": "〇〇は、イタリア共和国プッリャ州レッチェ県にある、人口約5,400人の基礎自治体（コムーネ）。"
+            },
+            {
                 "datetime": "2024年03月13日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3209141",
                 "title": "マウントバーノン (ニューヨーク州)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2805307",
                 "title": "Acid Black Cherry 5th Anniversary Live “Erect”",
                 "text": "〇〇は、日本のバンド、Janne Da ArcのボーカリストのyasuのソロプロジェクトであるAcid Black Cherryのライブビデオ。"
-            },
-            {
-                "datetime": "2024年03月12日 03時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2671730",
-                "title": "加水分解コムギ",
-                "text": "〇〇は、小麦の主にグルテンであるタンパク質を、酵素や酸やアルカリを使って加水分解し、タンパク質を細かに切断したもの。食品添加物、また化粧品によく使われる。日本で特定の石鹸製品によって小麦アレルギーを発症する事例が相次ぎ、2017年に医薬部外品として使用できる基準が策定された。化粧品に使用するには安全の確保のため分子量3,500ダルトン未満にする必要がある。"
             }
         ]
     }
