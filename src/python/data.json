@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月14日 04時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4602883",
+                "title": "1995年の出版",
+                "text": "〇〇は、〇〇に関する出来事についてまとめる。"
+            },
+            {
                 "datetime": "2024年03月14日 03時の問題",
                 "url": "https://ja.wikipedia.org/?curid=513288",
                 "title": "家門",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1985015",
                 "title": "アモーレパシフィック",
                 "text": "〇〇は、大韓民国の化粧品メーカー。"
-            },
-            {
-                "datetime": "2024年03月12日 11時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4654244",
-                "title": "アーセル数",
-                "text": "〇〇は、流体力学で用いられる無次元数の1つ。以下の公式で求められる。                    U        =                                                            a                                  λ                                      2                                                                              h                                  3                                                                          {\\displaystyle U={\\sqrt {\\frac {a\\lambda ^{2}}{h^{3}}}}}  ただし、                    U              {\\displaystyle U}  は〇〇、                    a              {\\displaystyle a}  は波の振幅、                    λ              {\\displaystyle \\lambda }  は波の波長、                    h              {\\displaystyle h}  は波のある場所の水深を意味する。〇〇が1に近ければ、この波の中には非線形成分（クノイダル波）が含まれることになるが、〇〇が1より十分に大きければ段波以外が波形を変えることになり、1より十分に小さい場合は波はストークス波のみと見なせ、非線形成分の影響は無視できる。"
             }
         ]
     }
