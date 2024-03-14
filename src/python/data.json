@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月14日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1012533",
+                "title": "津曲勝利",
+                "text": "〇〇は、日本の元バレーボール選手、現指導者。宮崎県串間市出身。ポジションはリベロ。Vプレミアリーグのサントリーサンバーズ所属。"
+            },
+            {
                 "datetime": "2024年03月14日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=266555",
                 "title": "鉄道写真家",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2515212",
                 "title": "四ツ沢村",
                 "text": "〇〇は、かつて新潟県南蒲原郡にあった村。"
-            },
-            {
-                "datetime": "2024年03月13日 03時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1943439",
-                "title": "第10次長期滞在",
-                "text": "〇〇は、国際宇宙ステーション（ISS）での10度目の長期滞在である。往来にはソユーズTMA-5が用いられ、緊急避難用としてISSに留まった。"
             }
         ]
     }
