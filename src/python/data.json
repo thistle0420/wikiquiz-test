@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月14日 16時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4034405",
+                "title": "ボーエン比",
+                "text": "〇〇は、乾湿を表す指標である。天文学者アイラ・ボーエンに由来する。顕熱フラックス（sensible heat flux）を                    H              {\\displaystyle H}  、潜熱フラックス（latent heat flux）を                              L                      e                          E              {\\displaystyle L_{e}E}  （                              L                      e                                {\\displaystyle L_{e}}  は水の蒸発時に必要な潜熱、                    E              {\\displaystyle E}  は水の蒸発量）とすると、〇〇                    B        o              {\\displaystyle Bo}  は以下のように表される。                    B        o        =                              H                                          L                                  e                                            E                                            {\\displaystyle Bo={\\frac {H}{L_{e}E}}}  一般に〇〇は乾燥地域で大きくなり、湿潤地域や水域で小さくなる。乾燥地域では水分の蒸発量が小さく、潜熱フラックス                              L                      e                          E              {\\displaystyle L_{e}E}  の値が小さくなるため顕熱フラックス                    H              {\\displaystyle H}  が大きくなる傾向にある。一方、湿潤地域では潜熱フラックス                              L                      e                          E              {\\displaystyle L_{e}E}  の値が大きくなる。"
+            },
+            {
                 "datetime": "2024年03月14日 15時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2615757",
                 "title": "プリメディカ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3091930",
                 "title": "プルートの動物園",
                 "text": "〇〇は、ウォルト・ディズニー・プロダクション（現：ウォルト・ディズニー・カンパニー）が制作したアニメーション短編映画作品。1942年公開。プルートの短編映画シリーズの一作品である。"
-            },
-            {
-                "datetime": "2024年03月12日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1765400",
-                "title": "アルジェリア民族解放戦線",
-                "text": "〇〇は、アルジェリアの社会主義政党である。1954年10月10日、フランスからの独立を勝ち取るためにいくつかの小さな集団が合併することで創立された。"
             }
         ]
     }
