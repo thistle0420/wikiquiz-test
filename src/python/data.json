@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月15日 05時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2547672",
+                "title": "ペペ・メル",
+                "text": "〇〇は、スペインのサッカー指導者。"
+            },
+            {
                 "datetime": "2024年03月15日 04時の問題",
                 "url": "https://ja.wikipedia.org/?curid=333874",
                 "title": "あぶり餅",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=696664",
                 "title": "パセリを摘みに",
                 "text": "〇〇は、川原泉の漫画作品。『花とゆめ』1985年23号に掲載された。"
-            },
-            {
-                "datetime": "2024年03月13日 12時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4835658",
-                "title": "小野修 (陸軍軍人)",
-                "text": "〇〇は、大日本帝国陸軍軍人。最終階級は陸軍少将。功四級。兵科は歩兵科。"
             }
         ]
     }
