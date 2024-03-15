@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月16日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2821996",
+                "title": "オディエルヌ",
+                "text": "〇〇は、フランス、ブルターニュ地域圏、フィニステール県のコミューン。2016年1月1日、エスキビアンと合併した。"
+            },
+            {
                 "datetime": "2024年03月16日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4291432",
                 "title": "木本元敬",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4034405",
                 "title": "ボーエン比",
                 "text": "〇〇は、乾湿を表す指標である。天文学者アイラ・ボーエンに由来する。顕熱フラックス（sensible heat flux）を                    H              {\\displaystyle H}  、潜熱フラックス（latent heat flux）を                              L                      e                          E              {\\displaystyle L_{e}E}  （                              L                      e                                {\\displaystyle L_{e}}  は水の蒸発時に必要な潜熱、                    E              {\\displaystyle E}  は水の蒸発量）とすると、〇〇                    B        o              {\\displaystyle Bo}  は以下のように表される。                    B        o        =                              H                                          L                                  e                                            E                                            {\\displaystyle Bo={\\frac {H}{L_{e}E}}}  一般に〇〇は乾燥地域で大きくなり、湿潤地域や水域で小さくなる。乾燥地域では水分の蒸発量が小さく、潜熱フラックス                              L                      e                          E              {\\displaystyle L_{e}E}  の値が小さくなるため顕熱フラックス                    H              {\\displaystyle H}  が大きくなる傾向にある。一方、湿潤地域では潜熱フラックス                              L                      e                          E              {\\displaystyle L_{e}E}  の値が大きくなる。"
-            },
-            {
-                "datetime": "2024年03月14日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2615757",
-                "title": "プリメディカ",
-                "text": "〇〇は、予防医療領域の疾病リスク検査サービスの研究開発・測定解析・販売提供を行うスタートアップ企業。"
             }
         ]
     }
