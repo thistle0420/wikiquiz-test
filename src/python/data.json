@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月16日 05時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2845374",
+                "title": "We Love hide 〜The Best in The World〜",
+                "text": "〇〇は、hideのベストアルバム。"
+            },
+            {
                 "datetime": "2024年03月16日 04時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3055118",
                 "title": "ラフグラフィックス",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1124142",
                 "title": "サンショクツバメ",
                 "text": "〇〇は、スズメ目ツバメ科に分類される鳥類の一種。"
-            },
-            {
-                "datetime": "2024年03月14日 12時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2333996",
-                "title": "課徴金",
-                "text": "〇〇は、国家が国権に基づいて徴収する租税以外の金銭をいう。財政法第3条より、すべて法律又は国会の議決に基いて定めなければならない。"
             }
         ]
     }
