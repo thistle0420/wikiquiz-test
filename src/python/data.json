@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月16日 06時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4577881",
+                "title": "おんなの出船",
+                "text": "〇〇は、1979年7月1日に発売された松原のぶえのデビュー・シングル。"
+            },
+            {
                 "datetime": "2024年03月16日 05時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2845374",
                 "title": "We Love hide 〜The Best in The World〜",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4346827",
                 "title": "博愛記念病院",
                 "text": "〇〇は、徳島県徳島市勝占町にある病院。救急告示病院に指定されている。"
-            },
-            {
-                "datetime": "2024年03月14日 13時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1124142",
-                "title": "サンショクツバメ",
-                "text": "〇〇は、スズメ目ツバメ科に分類される鳥類の一種。"
             }
         ]
     }
