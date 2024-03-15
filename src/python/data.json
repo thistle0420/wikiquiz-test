@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月15日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2432415",
+                "title": "ブルナンイルカ",
+                "text": "〇〇は、マイルカ科ハンドウイルカ属に属するイルカである。"
+            },
+            {
                 "datetime": "2024年03月15日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3582290",
                 "title": "オトッペ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=513288",
                 "title": "家門",
                 "text": "〇〇は、歴史学における男子直系を根幹とした血縁集団を指す用語。"
-            },
-            {
-                "datetime": "2024年03月14日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2010462",
-                "title": "鳥園斎栄深",
-                "text": "〇〇は、江戸時代の浮世絵師。"
             }
         ]
     }
