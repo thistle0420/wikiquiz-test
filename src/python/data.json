@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月15日 22時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2604244",
+                "title": "蓮 (駆逐艦)",
+                "text": "〇〇は、日本海軍の駆逐艦。樅型駆逐艦の17番艦である。"
+            },
+            {
                 "datetime": "2024年03月15日 21時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4349066",
                 "title": "RBW",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1877593",
                 "title": "佐川滉",
                 "text": "〇〇は、日本の映画プロデューサー、脚本家、小説家である。新東宝での石井輝男作品を多く企画した。小説家としての筆名に牧 源太郎（まき げんたろう）がある。"
-            },
-            {
-                "datetime": "2024年03月14日 04時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4602883",
-                "title": "1995年の出版",
-                "text": "〇〇は、〇〇に関する出来事についてまとめる。"
             }
         ]
     }
