@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月16日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4291432",
+                "title": "木本元敬",
+                "text": "〇〇は、日本の実業家。西日本鉄道第11代社長（1981年 - 1985年）を務めた。"
+            },
+            {
                 "datetime": "2024年03月16日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4577881",
                 "title": "おんなの出船",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2615757",
                 "title": "プリメディカ",
                 "text": "〇〇は、予防医療領域の疾病リスク検査サービスの研究開発・測定解析・販売提供を行うスタートアップ企業。"
-            },
-            {
-                "datetime": "2024年03月14日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4346827",
-                "title": "博愛記念病院",
-                "text": "〇〇は、徳島県徳島市勝占町にある病院。救急告示病院に指定されている。"
             }
         ]
     }
