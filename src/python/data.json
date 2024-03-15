@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月15日 10時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3945215",
+                "title": "中山民三郎",
+                "text": "〇〇は、大日本帝国陸軍軍人。最終階級は陸軍少将。功三級。"
+            },
+            {
                 "datetime": "2024年03月15日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=752059",
                 "title": "タイムコード",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4137845",
                 "title": "大南亮",
                 "text": "〇〇は、徳島県名西郡出身の日本のブラジリアン柔術家で黒帯4段。グレイシーバッハ徳島の代表を務める。"
-            },
-            {
-                "datetime": "2024年03月13日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1960796",
-                "title": "1992年イタリア総選挙",
-                "text": "〇〇は、1992年4月5日に施行されたイタリアの国会議員総選挙である。"
             }
         ]
     }
