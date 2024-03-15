@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月15日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4349066",
+                "title": "RBW",
+                "text": "〇〇は、大韓民国ソウル特別市にある芸能企画会社（芸能事務所）、総合エンターテインメント企業。キム・ジヌ（朝: 김진우）とキム・ドフン（朝: 김도훈）によって設立された。"
+            },
+            {
                 "datetime": "2024年03月15日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2432415",
                 "title": "ブルナンイルカ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4602883",
                 "title": "1995年の出版",
                 "text": "〇〇は、〇〇に関する出来事についてまとめる。"
-            },
-            {
-                "datetime": "2024年03月14日 03時の問題",
-                "url": "https://ja.wikipedia.org/?curid=513288",
-                "title": "家門",
-                "text": "〇〇は、歴史学における男子直系を根幹とした血縁集団を指す用語。"
             }
         ]
     }
