@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月17日 03時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4544661",
+                "title": "ケタンジ・ブラウン・ジャクソン",
+                "text": "〇〇は、アメリカ合衆国の法律家。2022年4月7日、同国で黒人女性初の最高裁判事。"
+            },
+            {
                 "datetime": "2024年03月17日 02時の問題",
                 "url": "https://ja.wikipedia.org/?curid=91625",
                 "title": "カデシュの戦い",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=54117",
                 "title": "バジリスク",
                 "text": "〇〇は、ヨーロッパの伝承上の生物である。名称はギリシア語で「小さな王」を意味する（βασιλεύς, basileus「王」＋指小辞 -ίσκος, -iskos）。ラテン語ではそれを直訳したregulusとも呼ばれた（rex 「王」+ 指小辞-ulus）。"
-            },
-            {
-                "datetime": "2024年03月15日 10時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3945215",
-                "title": "中山民三郎",
-                "text": "〇〇は、大日本帝国陸軍軍人。最終階級は陸軍少将。功三級。"
             }
         ]
     }
