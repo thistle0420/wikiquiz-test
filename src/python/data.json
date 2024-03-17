@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月18日 01時の問題",
+                "url": "https://ja.wikipedia.org/?curid=109657",
+                "title": "豊田綾乃",
+                "text": "〇〇は、TBSテレビチーフアナウンサー。"
+            },
+            {
                 "datetime": "2024年03月18日 00時の問題",
                 "url": "https://ja.wikipedia.org/?curid=597011",
                 "title": "インフレリスク",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2821996",
                 "title": "オディエルヌ",
                 "text": "〇〇は、フランス、ブルターニュ地域圏、フィニステール県のコミューン。2016年1月1日、エスキビアンと合併した。"
-            },
-            {
-                "datetime": "2024年03月16日 07時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4291432",
-                "title": "木本元敬",
-                "text": "〇〇は、日本の実業家。西日本鉄道第11代社長（1981年 - 1985年）を務めた。"
             }
         ]
     }
