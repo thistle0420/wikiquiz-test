@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月17日 15時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2784252",
+                "title": "HTL22",
+                "text": "〇〇は、台・HTCによって開発された、auブランドを展開するKDDI及び沖縄セルラー電話のCDMA 1X WIN、および第3.9世代移動通信システム（au 4G LTE）対応ストレート型スマートフォンである。輸入元はHTC NIPPONである。"
+            },
+            {
                 "datetime": "2024年03月17日 14時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4602278",
                 "title": "最愛の敵〜王たる宿命〜",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2604244",
                 "title": "蓮 (駆逐艦)",
                 "text": "〇〇は、日本海軍の駆逐艦。樅型駆逐艦の17番艦である。"
-            },
-            {
-                "datetime": "2024年03月15日 21時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4349066",
-                "title": "RBW",
-                "text": "〇〇は、大韓民国ソウル特別市にある芸能企画会社（芸能事務所）、総合エンターテインメント企業。キム・ジヌ（朝: 김진우）とキム・ドフン（朝: 김도훈）によって設立された。"
             }
         ]
     }
