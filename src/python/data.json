@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月17日 19時の問題",
+                "url": "https://ja.wikipedia.org/?curid=154627",
+                "title": "三浦敬三",
+                "text": "〇〇は、日本のプロスキーヤー。"
+            },
+            {
                 "datetime": "2024年03月17日 18時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2668833",
                 "title": "フェルマー＝カタラン予想",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1592698",
                 "title": "ゴスフォース",
                 "text": "〇〇は、イングランドの東北部にある都市、ニューカッスル・アポン・タインに属する地名。1895年から1974年にかけてニューカッスルと合併するまでアーバン・ディストリクトを構成した。〇〇にはEast Gosforth とWest Gosforth2つの意味がある。"
-            },
-            {
-                "datetime": "2024年03月16日 01時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3976144",
-                "title": "Lyrical school minanのLet's チルアウト",
-                "text": "〇〇は、エフエム群馬（FM GUNMA）で放送しているラジオ番組。パーソナリティはminan（lyrical school）。"
             }
         ]
     }
