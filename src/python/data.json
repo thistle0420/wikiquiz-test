@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月17日 22時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1063066",
+                "title": "こんばんは!とやま6:30",
+                "text": "〇〇は、1979年10月1日から1981年10月2日までに富山テレビで放送された平日夕方の富山県向けローカルワイドニュース番組である。"
+            },
+            {
                 "datetime": "2024年03月17日 21時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2089607",
                 "title": "福浦 (横浜市)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2845374",
                 "title": "We Love hide 〜The Best in The World〜",
                 "text": "〇〇は、hideのベストアルバム。"
-            },
-            {
-                "datetime": "2024年03月16日 04時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3055118",
-                "title": "ラフグラフィックス",
-                "text": "〇〇は、日本の映像制作プロダクション。"
             }
         ]
     }
