@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月17日 16時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4353654",
+                "title": "富士市立大淵第一小学校",
+                "text": "〇〇は、静岡県富士市にある公立小学校。校地面積18,041m2（うち校舎面積6,712m2、屋体面積947m2）。"
+            },
+            {
                 "datetime": "2024年03月17日 15時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2784252",
                 "title": "HTL22",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4370834",
                 "title": "Discover (企業)",
                 "text": "〇〇は、東京都渋谷区に本社を構えるインバウンド向けの観光サービスを行っているベンチャー企業である。"
-            },
-            {
-                "datetime": "2024年03月15日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2604244",
-                "title": "蓮 (駆逐艦)",
-                "text": "〇〇は、日本海軍の駆逐艦。樅型駆逐艦の17番艦である。"
             }
         ]
     }
