@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月18日 15時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3791547",
+                "title": "長和町立和田小学校",
+                "text": "〇〇は、長野県小県郡長和町にある公立小学校。"
+            },
+            {
                 "datetime": "2024年03月18日 14時の問題",
                 "url": "https://ja.wikipedia.org/?curid=607089",
                 "title": "ジ・アップリフト・モフォ・パーティ・プラン",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3688541",
                 "title": "TOUR FIRST CHOICE LAST STANCE",
                 "text": "〇〇は、日本のロックバンド・Suchmosの4度目の全国ライブツアー。"
-            },
-            {
-                "datetime": "2024年03月16日 21時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4360396",
-                "title": "上坂すみれのおまえがねるまで",
-                "text": "〇〇は、上坂すみれがパーソナリティを務める動画付きのインターネットラジオ番組である。"
             }
         ]
     }
