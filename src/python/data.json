@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月19日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1295079",
+                "title": "藤岡寛生",
+                "text": "〇〇は、兵庫県神戸市北区出身の元プロ野球選手（内野手）。右投右打。"
+            },
+            {
                 "datetime": "2024年03月19日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4528225",
                 "title": "琴吹千草",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4353654",
                 "title": "富士市立大淵第一小学校",
                 "text": "〇〇は、静岡県富士市にある公立小学校。校地面積18,041m2（うち校舎面積6,712m2、屋体面積947m2）。"
-            },
-            {
-                "datetime": "2024年03月17日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2784252",
-                "title": "HTL22",
-                "text": "〇〇は、台・HTCによって開発された、auブランドを展開するKDDI及び沖縄セルラー電話のCDMA 1X WIN、および第3.9世代移動通信システム（au 4G LTE）対応ストレート型スマートフォンである。輸入元はHTC NIPPONである。"
             }
         ]
     }
