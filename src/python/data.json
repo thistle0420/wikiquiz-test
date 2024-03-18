@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月19日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4331797",
+                "title": "三浦彩佳",
+                "text": "〇〇は、日本の女性総合格闘家。埼玉県さいたま市出身。TRIBE TOKYO M.M.A所属。ONE Championship女子ストロー級ランキング4位。"
+            },
+            {
                 "datetime": "2024年03月18日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=629565",
                 "title": "樋脇町",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=894336",
                 "title": "アーマード・コア2 アナザーエイジ",
                 "text": "〇〇は、フロム・ソフトウェアから発売されたPlayStation 2用ロボットアクションゲームであり、『アーマード・コアシリーズ』の5作目である。通称は『AA』（Another Ageから）。2001年4月12日発売。2002年11月7日に廉価版が発売された。"
-            },
-            {
-                "datetime": "2024年03月17日 06時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4873227",
-                "title": "古鉄恵美子",
-                "text": "〇〇は、日本のファイナンシャル・プランナー。島根県出身。上智大学文学部卒業。"
             }
         ]
     }
