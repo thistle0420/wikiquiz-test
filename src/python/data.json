@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月18日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2375947",
+                "title": "Microsoft Windows Home Server 2011",
+                "text": "〇〇は、マイクロソフトが開発したホームサーバー用オペレーティングシステム (OS) である。2007年に発売されたWindows Home Server の後継バージョンとなる。2010年4月26日に\"コードネームVail\"としてベータ版が公開され、翌2011年2月3日の製品候補版公開にあわせて、Windows Home Server 2011 の名称に決定した。"
+            },
+            {
                 "datetime": "2024年03月18日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=75662",
                 "title": "669年",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4893162",
                 "title": "床安",
                 "text": "〇〇は、大相撲の元床山。本名は西村安士。長崎県出身。出羽海部屋に所属していた。最高位は特等床山。"
-            },
-            {
-                "datetime": "2024年03月17日 00時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4418567",
-                "title": "汚水溜",
-                "text": "〇〇は、生活排水を処理するための設備の一種。英語でセスプール（Cesspool）やセスピット（Cesspit）ともいう。水洗トイレからの下水や台所や洗濯での生活雑排水を処理する。"
             }
         ]
     }
