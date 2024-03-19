@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月19日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=571393",
+                "title": "ランカグア空港",
+                "text": "〇〇は、チリ共和国オイヒンス州の州都ランカグアにある空港。〇〇とも呼ばれる。"
+            },
+            {
                 "datetime": "2024年03月19日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4628350",
                 "title": "のんバス",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2089607",
                 "title": "福浦 (横浜市)",
                 "text": "〇〇は、神奈川県横浜市金沢区の町名。現行行政地名は福浦一丁目から福浦三丁目。住居表示未実施区域。"
-            },
-            {
-                "datetime": "2024年03月17日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4638249",
-                "title": "飯田町 (太田市)",
-                "text": "〇〇は、群馬県太田市にある地名（町丁）。郵便番号は373-0851。"
             }
         ]
     }
