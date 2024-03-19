@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月19日 15時の問題",
+                "url": "https://ja.wikipedia.org/?curid=369161",
+                "title": "WADA-Q",
+                "text": "〇〇は、日本のレーシングドライバー。"
+            },
+            {
                 "datetime": "2024年03月19日 14時の問題",
                 "url": "https://ja.wikipedia.org/?curid=571393",
                 "title": "ランカグア空港",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1063066",
                 "title": "こんばんは!とやま6:30",
                 "text": "〇〇は、1979年10月1日から1981年10月2日までに富山テレビで放送された平日夕方の富山県向けローカルワイドニュース番組である。"
-            },
-            {
-                "datetime": "2024年03月17日 21時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2089607",
-                "title": "福浦 (横浜市)",
-                "text": "〇〇は、神奈川県横浜市金沢区の町名。現行行政地名は福浦一丁目から福浦三丁目。住居表示未実施区域。"
             }
         ]
     }
