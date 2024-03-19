@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月20日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=949870",
+                "title": "三木市の歴史",
+                "text": "〇〇は、兵庫県〇〇について解説する。"
+            },
+            {
                 "datetime": "2024年03月20日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3411129",
                 "title": "佐世保市立大野小学校",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3701635",
                 "title": "柊優花",
                 "text": "〇〇は、日本の女性声優、歌手。愛称はみさみさなど。京都府出身。旧芸名は吉岡 美咲（よしおか みさき）、2023年から柊 優花名義での活動を統一している。"
-            },
-            {
-                "datetime": "2024年03月18日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3791547",
-                "title": "長和町立和田小学校",
-                "text": "〇〇は、長野県小県郡長和町にある公立小学校。"
             }
         ]
     }
