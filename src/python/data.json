@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月19日 10時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1853855",
+                "title": "ヌリ・ビルゲ・ジェイラン",
+                "text": "〇〇は、トルコの映画監督・脚本家。"
+            },
+            {
                 "datetime": "2024年03月19日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1295079",
                 "title": "藤岡寛生",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1855968",
                 "title": "CAUTION",
                 "text": "〇〇は、SERIKA with DOGが1983年9月21日にビクターインビテーションからリリースした1stオリジナル・アルバムである。"
-            },
-            {
-                "datetime": "2024年03月17日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4353654",
-                "title": "富士市立大淵第一小学校",
-                "text": "〇〇は、静岡県富士市にある公立小学校。校地面積18,041m2（うち校舎面積6,712m2、屋体面積947m2）。"
             }
         ]
     }
