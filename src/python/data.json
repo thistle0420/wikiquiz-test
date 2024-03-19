@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月20日 02時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2046733",
+                "title": "フルーツ (アルバム)",
+                "text": "〇〇は、1996年7月1日に、Epic/Sony Records/M's Factoryから発売された、佐野元春の10枚目のアルバム。"
+            },
+            {
                 "datetime": "2024年03月20日 01時の問題",
                 "url": "https://ja.wikipedia.org/?curid=826233",
                 "title": "甲府地方検察庁",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3303292",
                 "title": "交通学院駅",
                 "text": "〇〇は、中華人民共和国黒龍江省哈爾濱市道外区にある駅。"
-            },
-            {
-                "datetime": "2024年03月18日 08時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3864715",
-                "title": "トム・シャパレー",
-                "text": "〇〇は、東京都出身の歌手、シンガーソングライター 。代表曲に「雪の街の少女」や「ミア」（mia!）などがある。主にDTMで作曲し、ボーカル及びギターとピアノを演奏、コーラスアレンジも手がける。"
             }
         ]
     }
