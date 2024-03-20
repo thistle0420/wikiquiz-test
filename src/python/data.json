@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月20日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4109606",
+                "title": "人選のセンス",
+                "text": "〇〇は、日本のバンド。ゲスの極み乙女。のライバルバンドを自称している。所属レーベルはゲスの極み乙女。のフロントマンである川谷絵音が発足させた自主レーベル、TACO RECORDS。"
+            },
+            {
                 "datetime": "2024年03月20日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4711000",
                 "title": "丸山塚古墳 (若狭町)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2240383",
                 "title": "Ring My Bell (blue dropsの曲)",
                 "text": "〇〇は、blue dropsの1枚目のシングル。2009年11月4日にコロムビアミュージックエンタテインメントから発売された。"
-            },
-            {
-                "datetime": "2024年03月18日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=124220",
-                "title": "箕面有料道路",
-                "text": "〇〇は、大阪府箕面市内の、延長7.2 kmの国道423号のバイパスである。公式愛称は「箕面グリーンロード」。2007年5月30日開通。"
             }
         ]
     }
