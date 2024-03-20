@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月21日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=28918",
+                "title": "立教大学",
+                "text": "〇〇は、東京都豊島区西池袋三丁目34番1号に本部を置く日本の私立大学。1874年創立、1883年大学設置。大学の略称は立大（りつだい）。"
+            },
+            {
                 "datetime": "2024年03月21日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=81765",
                 "title": "春風亭昇太",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2839391",
                 "title": "アメリカ海軍先進戦術戦闘機計画",
                 "text": "〇〇は、1988年頃にアメリカ海軍によって提案された、ATFをベースとしたF-14D艦上戦闘機の後継機開発計画である。"
-            },
-            {
-                "datetime": "2024年03月19日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=369161",
-                "title": "WADA-Q",
-                "text": "〇〇は、日本のレーシングドライバー。"
             }
         ]
     }
