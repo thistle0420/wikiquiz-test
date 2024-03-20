@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月20日 11時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3816652",
+                "title": "ショア記念館",
+                "text": "〇〇は、第二次世界大戦中のナチス・ドイツによるユダヤ人大量虐殺（ショア）の犠牲者に捧げられた記念館（メモリアル）である。分館として2012年にドランシー収容所の正面にドランシー・〇〇が設立された。"
+            },
+            {
                 "datetime": "2024年03月20日 10時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2293981",
                 "title": "木村心一",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2375947",
                 "title": "Microsoft Windows Home Server 2011",
                 "text": "〇〇は、マイクロソフトが開発したホームサーバー用オペレーティングシステム (OS) である。2007年に発売されたWindows Home Server の後継バージョンとなる。2010年4月26日に\"コードネームVail\"としてベータ版が公開され、翌2011年2月3日の製品候補版公開にあわせて、Windows Home Server 2011 の名称に決定した。"
-            },
-            {
-                "datetime": "2024年03月18日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=75662",
-                "title": "669年",
-                "text": "〇〇は、西暦（ユリウス暦）による、平年。"
             }
         ]
     }
