@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月20日 10時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2293981",
+                "title": "木村心一",
+                "text": "〇〇は、日本の小説家、ライトノベル作家。京都府京都市出身。"
+            },
+            {
                 "datetime": "2024年03月20日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=949870",
                 "title": "三木市の歴史",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=75662",
                 "title": "669年",
                 "text": "〇〇は、西暦（ユリウス暦）による、平年。"
-            },
-            {
-                "datetime": "2024年03月18日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3701635",
-                "title": "柊優花",
-                "text": "〇〇は、日本の女性声優、歌手。愛称はみさみさなど。京都府出身。旧芸名は吉岡 美咲（よしおか みさき）、2023年から柊 優花名義での活動を統一している。"
             }
         ]
     }
