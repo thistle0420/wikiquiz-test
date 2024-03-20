@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月20日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=925958",
+                "title": "小田原ドラゴン",
+                "text": "〇〇は、日本の漫画家。兵庫県明石市出身。代表作は『チェリーナイツ』、『ワイルドチェリーナイツ』。"
+            },
+            {
                 "datetime": "2024年03月20日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4867022",
                 "title": "2024アストラ映画賞",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4597773",
                 "title": "松原町 (瀬戸市)",
                 "text": "〇〇は、愛知県瀬戸市效範連区の町名。現行行政地名は松原町1丁目から3丁目。"
-            },
-            {
-                "datetime": "2024年03月19日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2081457",
-                "title": "濱村健",
-                "text": "〇〇は、日本の男性総合格闘家。京都府出身。Tri.Hstudio代表。"
             }
         ]
     }
