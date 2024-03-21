@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月22日 01時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4747101",
+                "title": "三都大官",
+                "text": "〇〇は、中国北魏の前期に設置されていた官職。中都大官・内都大官・外都大官の3つの職の総称であり、鮮卑など北方民族の裁判を担当した。"
+            },
+            {
                 "datetime": "2024年03月22日 00時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1550494",
                 "title": "水城凪",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=949870",
                 "title": "三木市の歴史",
                 "text": "〇〇は、兵庫県〇〇について解説する。"
-            },
-            {
-                "datetime": "2024年03月20日 07時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3411129",
-                "title": "佐世保市立大野小学校",
-                "text": "〇〇は、長崎県佐世保市原分町（はるぶんちょう）にある公立小学校。"
             }
         ]
     }
