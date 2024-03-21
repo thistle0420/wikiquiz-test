@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月21日 12時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2566423",
+                "title": "石塚峠 (岩手県)",
+                "text": "〇〇は、岩手県釜石市にある峠。標高は312m。"
+            },
+            {
                 "datetime": "2024年03月21日 11時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4378050",
                 "title": "宗田聡",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2249806",
                 "title": "三縄一郎",
                 "text": "〇〇は、日本映画の音響効果技師。東京都文京区本郷真砂町出身。"
-            },
-            {
-                "datetime": "2024年03月19日 18時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3998810",
-                "title": "1925年1月24日の日食",
-                "text": "〇〇は、1925年1月24日に観測された日食である。カナダとアメリカで皆既日食が観測され、北大西洋両岸の広い範囲で部分日食が観測された。"
             }
         ]
     }
