@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月21日 10時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1872583",
+                "title": "茜色の夕日",
+                "text": "〇〇は、日本のバンド、フジファブリックの通算6枚目のシングル。"
+            },
+            {
                 "datetime": "2024年03月21日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=28918",
                 "title": "立教大学",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3405896",
                 "title": "地を這う魚",
                 "text": "〇〇は、前作にあたる「魚シリーズ」の2短編、「夜の魚」「笑わない魚」についても解説する。"
-            },
-            {
-                "datetime": "2024年03月19日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2839391",
-                "title": "アメリカ海軍先進戦術戦闘機計画",
-                "text": "〇〇は、1988年頃にアメリカ海軍によって提案された、ATFをベースとしたF-14D艦上戦闘機の後継機開発計画である。"
             }
         ]
     }
