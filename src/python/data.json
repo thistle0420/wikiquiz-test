@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月21日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2945224",
+                "title": "エスタディオ・D. アフォンソ・エンリケス",
+                "text": "〇〇は、ポルトガル・ギマランイスにあるサッカー専用スタジアム。ヴィトーリアSCがホームスタジアムとして使用している。"
+            },
+            {
                 "datetime": "2024年03月21日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=275264",
                 "title": "武蔵小室藩",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1784478",
                 "title": "アキュラ・ARX-02",
                 "text": "〇〇は、アメリカン・ルマン・シリーズ（ALMS）のLMP1クラスへの参戦のために開発されたスポーツプロトタイプカーである。LMP2クラスのアキュラ・ARX-01a/bとは異なり、モノコックを含めて独自設計のものである。"
-            },
-            {
-                "datetime": "2024年03月20日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2046733",
-                "title": "フルーツ (アルバム)",
-                "text": "〇〇は、1996年7月1日に、Epic/Sony Records/M's Factoryから発売された、佐野元春の10枚目のアルバム。"
             }
         ]
     }
