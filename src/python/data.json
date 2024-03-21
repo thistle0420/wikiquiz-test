@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月21日 23時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2539254",
+                "title": "マルゴーAOC",
+                "text": "〇〇は、フランスのワイン産地。"
+            },
+            {
                 "datetime": "2024年03月21日 22時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1375447",
                 "title": "土沢バイパス",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4484273",
                 "title": "ジョン・フィッツパトリック (初代カースルタウン男爵)",
                 "text": "〇〇は、イギリスの政治家、貴族。自由党に所属し、庶民院議員（在任：1837年 – 1841年、1847年 – 1852年、1865年 – 1869年）を務めた。"
-            },
-            {
-                "datetime": "2024年03月20日 05時の問題",
-                "url": "https://ja.wikipedia.org/?curid=130332",
-                "title": "31年",
-                "text": "〇〇は、西暦（ユリウス暦）による、平年。"
             }
         ]
     }
