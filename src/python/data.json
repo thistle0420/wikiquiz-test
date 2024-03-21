@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月21日 19時の問題",
+                "url": "https://ja.wikipedia.org/?curid=275264",
+                "title": "武蔵小室藩",
+                "text": "〇〇は、武蔵国足立郡（現在の埼玉県北足立郡伊奈町）小室に存在した藩。"
+            },
+            {
                 "datetime": "2024年03月21日 18時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1787512",
                 "title": "ローランド MC-8",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2046733",
                 "title": "フルーツ (アルバム)",
                 "text": "〇〇は、1996年7月1日に、Epic/Sony Records/M's Factoryから発売された、佐野元春の10枚目のアルバム。"
-            },
-            {
-                "datetime": "2024年03月20日 01時の問題",
-                "url": "https://ja.wikipedia.org/?curid=826233",
-                "title": "甲府地方検察庁",
-                "text": "〇〇は、山梨県甲府市にある日本の地方検察庁の一つで、山梨県を管轄している。略称は、甲府地検（こうふちけん）。山梨県を管轄しており、甲府市に設置されている本庁のほか、都留に支部を設置している。"
             }
         ]
     }
