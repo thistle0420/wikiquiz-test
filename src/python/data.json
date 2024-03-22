@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月23日 02時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2027112",
+                "title": "杉ひろし・まり",
+                "text": "〇〇は、日本の夫婦漫才コンビ。落語芸術協会所属。"
+            },
+            {
                 "datetime": "2024年03月23日 01時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4861780",
                 "title": "Bcachefs",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1872583",
                 "title": "茜色の夕日",
                 "text": "〇〇は、日本のバンド、フジファブリックの通算6枚目のシングル。"
-            },
-            {
-                "datetime": "2024年03月21日 08時の問題",
-                "url": "https://ja.wikipedia.org/?curid=28918",
-                "title": "立教大学",
-                "text": "〇〇は、東京都豊島区西池袋三丁目34番1号に本部を置く日本の私立大学。1874年創立、1883年大学設置。大学の略称は立大（りつだい）。"
             }
         ]
     }
