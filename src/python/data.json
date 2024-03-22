@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月23日 05時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2582300",
+                "title": "アレシャンドレ・ダ・シルバ",
+                "text": "〇〇は、ブラジル・リオデジャネイロ出身の元サッカー選手。ポジションはフォワード。"
+            },
+            {
                 "datetime": "2024年03月23日 04時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1751055",
                 "title": "Soundtrack Pro",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1630573",
                 "title": "ブラック・ロシアン・テリア",
                 "text": "〇〇は、ロシア原産の軍用・警察用の犬種である。テリアの名を持つがテリアではない。別名ロシアン・ベア・シュナウザー（Russian Bear Schnauzer）。"
-            },
-            {
-                "datetime": "2024年03月21日 12時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2566423",
-                "title": "石塚峠 (岩手県)",
-                "text": "〇〇は、岩手県釜石市にある峠。標高は312m。"
             }
         ]
     }
