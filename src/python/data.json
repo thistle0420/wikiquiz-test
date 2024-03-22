@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月23日 06時の問題",
+                "url": "https://ja.wikipedia.org/?curid=407158",
+                "title": "弁天町ミニパーキングエリア",
+                "text": "〇〇は、大阪府大阪市港区の阪神高速道路17号西大阪線にあるパーキングエリア。堺出入口堺・あべの方面のみ利用可である。"
+            },
+            {
                 "datetime": "2024年03月23日 05時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2582300",
                 "title": "アレシャンドレ・ダ・シルバ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3322909",
                 "title": "跡美しゅり",
                 "text": "〇〇は、日本の女性アイドル、元AV女優。バンビプロモーション所属。東京都出身。"
-            },
-            {
-                "datetime": "2024年03月21日 13時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1630573",
-                "title": "ブラック・ロシアン・テリア",
-                "text": "〇〇は、ロシア原産の軍用・警察用の犬種である。テリアの名を持つがテリアではない。別名ロシアン・ベア・シュナウザー（Russian Bear Schnauzer）。"
             }
         ]
     }
