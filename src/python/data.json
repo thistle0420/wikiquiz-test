@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月23日 04時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1751055",
+                "title": "Soundtrack Pro",
+                "text": "〇〇は、かつてAppleが開発・販売していたプロ向けのオーディオ編集・制作ソフトウェアである。Final Cut Studio の構成ソフトの1つ。"
+            },
+            {
                 "datetime": "2024年03月23日 03時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1181604",
                 "title": "アリューシャン海溝",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2566423",
                 "title": "石塚峠 (岩手県)",
                 "text": "〇〇は、岩手県釜石市にある峠。標高は312m。"
-            },
-            {
-                "datetime": "2024年03月21日 11時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4378050",
-                "title": "宗田聡",
-                "text": "〇〇は、日本の産婦人科医師、医学者。医学博士（筑波大学・1996年）。広尾レディース 院長、茨城県立医療大学 客員教授。専門は周産期診断など。著書に『31歳からの子宮の教科書』 、『これからはじめる周産期メンタルヘルス』などがある。"
             }
         ]
     }
