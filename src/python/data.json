@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月24日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1050738",
+                "title": "テレサ・エドワーズ",
+                "text": "〇〇は、アメリカ合衆国ジョージア州出身の元女子バスケットボール選手である。ロス五輪から5大会連続で五輪に出場した。現在は解説者。"
+            },
+            {
                 "datetime": "2024年03月24日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2396510",
                 "title": "ドラゴン・プロジェクト",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3930044",
                 "title": "But I Miss You (赤西仁の曲)",
                 "text": "〇〇は、赤西仁の配布シングル。2019年4月6日から2019年5月30日間の期間限定でJIN AKANISHI 5th Anniversary Our Years Filmの各会場にて配布。"
-            },
-            {
-                "datetime": "2024年03月22日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3952631",
-                "title": "駐日ハイチ大使館",
-                "text": "〇〇は、ハイチが日本の首都東京に設置している大使館である。1956年4月に両国間の外交関係が再開した後、1960年に大使館が開設されたが、特命全権大使が常駐を開始したのは1995年5月である。"
             }
         ]
     }
