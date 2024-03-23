@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月23日 16時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4276918",
+                "title": "スリー・ディ",
+                "text": "〇〇は、東京都渋谷区にあるアニメーションを制作しているスタジオ。"
+            },
+            {
                 "datetime": "2024年03月23日 15時の問題",
                 "url": "https://ja.wikipedia.org/?curid=23477",
                 "title": "パンゲア (曖昧さ回避)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2539254",
                 "title": "マルゴーAOC",
                 "text": "〇〇は、フランスのワイン産地。"
-            },
-            {
-                "datetime": "2024年03月21日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1375447",
-                "title": "土沢バイパス",
-                "text": "〇〇は、岩手県花巻市を通る国道283号および国道456号のバイパス道路。"
             }
         ]
     }
