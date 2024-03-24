@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月24日 19時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2088598",
+                "title": "アンゴ",
+                "text": "〇〇は、フランス南西部のオート＝ピレネー県に属するコミューン。"
+            },
+            {
                 "datetime": "2024年03月24日 18時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4237334",
                 "title": "山水情",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2027112",
                 "title": "杉ひろし・まり",
                 "text": "〇〇は、日本の夫婦漫才コンビ。落語芸術協会所属。"
-            },
-            {
-                "datetime": "2024年03月23日 01時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4861780",
-                "title": "Bcachefs",
-                "text": "〇〇は、Linuxベースのオペレーティングシステム向けのコピーオンライト（COW）のファイルシステムである。〇〇は主要開発者のケント・オーバーストリート（英語: Kent Overstreet）によって2015年に初めて発表され、Linuxカーネルのバージョン6.7から追加される予定である。〇〇はZFSやBtrfsの現代的な機能と、ext4やXFSの速度とパフォーマンスの両方に匹敵することを目的としている。2022年12月の時点で、〇〇は「安定している」と自称している。"
             }
         ]
     }
