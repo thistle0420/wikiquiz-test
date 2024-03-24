@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月25日 01時の問題",
+                "url": "https://ja.wikipedia.org/?curid=343888",
+                "title": "鐘釣駅",
+                "text": "〇〇は、富山県黒部市にある黒部峡谷鉄道本線の駅。標高443メートルに位置。"
+            },
+            {
                 "datetime": "2024年03月25日 00時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3630716",
                 "title": "誰かがサズを弾いていた",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4844264",
                 "title": "ミロイコ・スパイッチ",
                 "text": "〇〇は、モンテネグロの政治家、金融エンジニア。同国首相、中道派のヨーロッパ・ナウ!党首を務める。"
-            },
-            {
-                "datetime": "2024年03月23日 07時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1838101",
-                "title": "小平重吉",
-                "text": "〇〇は、栃木県出身の日本の政治家、実業家。"
             }
         ]
     }
