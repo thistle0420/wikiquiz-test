@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月27日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2178888",
+                "title": "桂木麻也子",
+                "text": "〇〇は、日本の元AV女優。"
+            },
+            {
                 "datetime": "2024年03月27日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3773110",
                 "title": "Crazy Rays/KEEP GOING",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3641384",
                 "title": "GOSPE☆RATS 〜ペラッII〜",
                 "text": "〇〇は、2015年9月2日にリリースされたゴスペラッツ2枚目のオリジナル・アルバム。"
-            },
-            {
-                "datetime": "2024年03月25日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1832347",
-                "title": "イリノイダービー",
-                "text": "〇〇は、アメリカ合衆国イリノイ州のホーソーン競馬場で開催されているサラブレッド競馬の競走である。同州のダービーに相当する競走で、毎年4月下旬に開催される。"
             }
         ]
     }
