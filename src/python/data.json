@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月26日 19時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2108657",
+                "title": "F-06B",
+                "text": "〇〇は、富士通によって開発された、NTTドコモの第三世代携帯電話（FOMA）端末である。docomo PRIME seriesの端末。"
+            },
+            {
                 "datetime": "2024年03月26日 18時の問題",
                 "url": "https://ja.wikipedia.org/?curid=324731",
                 "title": "平坦性問題",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3085314",
                 "title": "花車町",
                 "text": "〇〇は、名古屋市中村区の地名。現在の中村区名駅の一部に相当する。"
-            },
-            {
-                "datetime": "2024年03月25日 01時の問題",
-                "url": "https://ja.wikipedia.org/?curid=343888",
-                "title": "鐘釣駅",
-                "text": "〇〇は、富山県黒部市にある黒部峡谷鉄道本線の駅。標高443メートルに位置。"
             }
         ]
     }
