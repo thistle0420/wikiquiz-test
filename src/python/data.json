@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月27日 17時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2576973",
+                "title": "請人",
+                "text": "〇〇は、鎌倉時代から明治維新まで売買・貸借・身元保証などの契約の際に保証人になった者。"
+            },
+            {
                 "datetime": "2024年03月27日 16時の問題",
                 "url": "https://ja.wikipedia.org/?curid=12494",
                 "title": "ワシントンD.C.",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3763747",
                 "title": "坪井清志郎",
                 "text": "〇〇は、富山県南砺市出身のプロサッカー選手。徳島ヴォルティス所属。ポジションは、フォワード（FW）。"
-            },
-            {
-                "datetime": "2024年03月25日 23時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3558319",
-                "title": "鶉 (水雷艇)",
-                "text": "〇〇は、日本海軍の水雷艇で、隼型水雷艇の12番艇である。"
             }
         ]
     }
