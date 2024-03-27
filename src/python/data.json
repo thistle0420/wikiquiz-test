@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月27日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4288733",
+                "title": "マルティナ・カールス",
+                "text": "〇〇は、ARISTRISTのファッションデザイナー、プロレスラー蝶野正洋の妻である。"
+            },
+            {
                 "datetime": "2024年03月27日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2576973",
                 "title": "請人",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3621985",
                 "title": "カン・ソンフン",
                 "text": "〇〇は、韓国で活動するアイドル歌手である。"
-            },
-            {
-                "datetime": "2024年03月26日 00時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3763747",
-                "title": "坪井清志郎",
-                "text": "〇〇は、富山県南砺市出身のプロサッカー選手。徳島ヴォルティス所属。ポジションは、フォワード（FW）。"
             }
         ]
     }
