@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月28日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1618750",
+                "title": "山本真一",
+                "text": "〇〇は、宮崎県出身の元プロ野球選手。ポジションは内野手。"
+            },
+            {
                 "datetime": "2024年03月28日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3452998",
                 "title": "ヤスペル・ストゥイヴェン",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=58930",
                 "title": "金木駅",
                 "text": "〇〇は、青森県五所川原市金木町芦野にある、津軽鉄道津軽鉄道線の駅である。"
-            },
-            {
-                "datetime": "2024年03月26日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=407242",
-                "title": "新納忠増",
-                "text": "〇〇は、安土桃山時代から江戸時代初期にかけての武将。島津氏の家臣。"
             }
         ]
     }
