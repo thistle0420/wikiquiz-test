@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月28日 23時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4511346",
+                "title": "三浦理奈",
+                "text": "〇〇は、日本のタレント。"
+            },
+            {
                 "datetime": "2024年03月28日 22時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2257125",
                 "title": "忌火",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3773110",
                 "title": "Crazy Rays/KEEP GOING",
                 "text": "〇〇は、V6の49枚目のシングル。2018年5月30日にavex traxから発売された。"
-            },
-            {
-                "datetime": "2024年03月27日 05時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3491362",
-                "title": "キム・ヒエ",
-                "text": "〇〇は、韓国の女優。済州特別自治道出身。身長164cm。数多くのドラマ・映画で活躍する韓国を代表する女優の一人である。"
             }
         ]
     }
