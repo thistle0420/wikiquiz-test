@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月28日 16時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3498575",
+                "title": "道の駅うご",
+                "text": "〇〇は、秋田県雄勝郡羽後町にある国道398号の道の駅である。"
+            },
+            {
                 "datetime": "2024年03月28日 15時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4331553",
                 "title": "モウコカワヒラ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3028730",
                 "title": "彼に守ってほしい10のこと",
                 "text": "〇〇は、2014年8月6日にGIZA studioから発売された植田真梨恵のメジャー1枚目のシングル。"
-            },
-            {
-                "datetime": "2024年03月26日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2556497",
-                "title": "Your Eyes (嵐の曲)",
-                "text": "〇〇は、日本の男性アイドルグループ・嵐の通算39枚目となるシングル。2012年6月6日にジェイ・ストームから発売された。"
             }
         ]
     }
