@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月29日 11時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3108240",
+                "title": "六角町",
+                "text": "〇〇は、日本の地名。〇〇 (豊川市) - 愛知県豊川市の地名。〇〇 (京都市) - 京都府京都市中京区の地名。"
+            },
+            {
                 "datetime": "2024年03月29日 10時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2876785",
                 "title": "上野動物園クロヒョウ脱走事件",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4288733",
                 "title": "マルティナ・カールス",
                 "text": "〇〇は、ARISTRISTのファッションデザイナー、プロレスラー蝶野正洋の妻である。"
-            },
-            {
-                "datetime": "2024年03月27日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2576973",
-                "title": "請人",
-                "text": "〇〇は、鎌倉時代から明治維新まで売買・貸借・身元保証などの契約の際に保証人になった者。"
             }
         ]
     }
