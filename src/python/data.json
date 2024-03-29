@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月29日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3370743",
+                "title": "海賊盤 (中村一義のアルバム)",
+                "text": "〇〇は、中村一義が2016年3月2日に発表したスタジオ・アルバムである。"
+            },
+            {
                 "datetime": "2024年03月29日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4499149",
                 "title": "河野孝太郎",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4541859",
                 "title": "楓ふうあ",
                 "text": "〇〇は、日本のAV女優。アトラクティブ所属を経てc-more ENTERTAINMENT所属。"
-            },
-            {
-                "datetime": "2024年03月28日 00時の問題",
-                "url": "https://ja.wikipedia.org/?curid=223921",
-                "title": "目名駅",
-                "text": "〇〇は、北海道磯谷郡蘭越町目名にある北海道旅客鉄道（JR北海道）函館本線の駅である。駅番号はS28。電報略号はメナ。事務管理コードは▲130102。当駅から滝川駅まで本社管轄となる。"
             }
         ]
     }
