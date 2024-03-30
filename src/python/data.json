@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月31日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1639615",
+                "title": "ダイセキ",
+                "text": "〇〇は、愛知県名古屋市港区に本社を置く産業廃棄物処理会社である。"
+            },
+            {
                 "datetime": "2024年03月31日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2808759",
                 "title": "三浦博史",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3793428",
                 "title": "ハルシメジ (アルバム)",
                 "text": "〇〇は、フォークデュオさくらしめじの初のフルアルバム。2018年4月4日に発売された。"
-            },
-            {
-                "datetime": "2024年03月29日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2569416",
-                "title": "ミューズの微笑み",
-                "text": "〇〇は、2007年7月29日から2010年12月18日までNHK教育テレビで放送されていたテレビ番組。"
             }
         ]
     }
