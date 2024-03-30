@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月30日 22時の問題",
+                "url": "https://ja.wikipedia.org/?curid=921616",
+                "title": "さっぽろ映画祭",
+                "text": "〇〇は、北海道札幌市で行われている映画祭。"
+            },
+            {
                 "datetime": "2024年03月30日 21時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1847642",
                 "title": "山代慶長一揆",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3238194",
                 "title": "スターリング・シリファント",
                 "text": "〇〇は、アメリカ合衆国の脚本家、映画プロデューサー。"
-            },
-            {
-                "datetime": "2024年03月29日 04時の問題",
-                "url": "https://ja.wikipedia.org/?curid=730534",
-                "title": "ジェニ",
-                "text": "〇〇は、日本のテーブルトークRPG、ソード・ワールドRPGに登場する架空の人物。“剣の姫”の異名を持つ。アレクラスト大陸中原地方の王国オーファンにてマイリー神殿の最高司祭を務めた。"
             }
         ]
     }
