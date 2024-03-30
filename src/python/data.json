@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月30日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3839706",
+                "title": "和田博之",
+                "text": "〇〇は、日本の実業家。東急モールズデベロップメント代表取締役社長を経て、渋谷マークシティ代表取締役社長。"
+            },
+            {
                 "datetime": "2024年03月30日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3601909",
                 "title": "陽水ライブ＜ジェラシー＞",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2374830",
                 "title": "愛媛県道259号信里伊予平野停車場線",
                 "text": "〇〇は、愛媛県西予市信里から大洲市平野町野田へ至る一般県道である。"
-            },
-            {
-                "datetime": "2024年03月28日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1522063",
-                "title": "ティーパワーズ",
-                "text": "〇〇は、東京都品川区に本社を置くAVプロダクション。"
             }
         ]
     }
