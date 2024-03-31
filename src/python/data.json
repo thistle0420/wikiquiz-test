@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月31日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2072356",
+                "title": "上崎美恵子",
+                "text": "〇〇は、日本の児童文学作家。福島県二本松市出身。本名・美枝子。"
+            },
+            {
                 "datetime": "2024年03月31日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3819248",
                 "title": "マッターホルン作戦",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2326425",
                 "title": "歌 (SURFACEの曲)",
                 "text": "〇〇は、2002年7月31日に発売されたSURFACEの13枚目のシングル。"
-            },
-            {
-                "datetime": "2024年03月29日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3859423",
-                "title": "杉田真彦",
-                "text": "〇〇は、静岡県静岡市出身のサッカー選手。ポジションはミッドフィールダー(MF)。Jリーグ・藤枝MYFC所属。"
             }
         ]
     }
