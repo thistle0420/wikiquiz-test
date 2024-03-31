@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年04月01日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=422480",
+                "title": "三次ケーブルビジョン",
+                "text": "〇〇は、広島県三次市をエリアとするケーブルテレビ局である。通称は「ピオネット」。"
+            },
+            {
                 "datetime": "2024年04月01日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=839904",
                 "title": "BITTER AND SWEET (中森明菜のアルバム)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4555327",
                 "title": "日下部民藝館",
                 "text": "〇〇は、岐阜県高山市にある博物館。"
-            },
-            {
-                "datetime": "2024年03月30日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3839706",
-                "title": "和田博之",
-                "text": "〇〇は、日本の実業家。東急モールズデベロップメント代表取締役社長を経て、渋谷マークシティ代表取締役社長。"
             }
         ]
     }
