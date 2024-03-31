@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年03月31日 10時の問題",
+                "url": "https://ja.wikipedia.org/?curid=593186",
+                "title": "入定",
+                "text": "〇〇は、真言宗に伝わる伝説的信仰。原義は単に「禅定（ぜんじょう）に入る」という意味だが、ことに弘法大師空海が永遠の瞑想に入っているという信仰を指す。"
+            },
+            {
                 "datetime": "2024年03月31日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1639615",
                 "title": "ダイセキ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4499149",
                 "title": "河野孝太郎",
                 "text": "〇〇は、JAPAN RUGBY LEAGUE ONE三重ホンダヒートに所属するラグビーユニオン選手。"
-            },
-            {
-                "datetime": "2024年03月29日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3793428",
-                "title": "ハルシメジ (アルバム)",
-                "text": "〇〇は、フォークデュオさくらしめじの初のフルアルバム。2018年4月4日に発売された。"
             }
         ]
     }
