@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年04月02日 05時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4590105",
+                "title": "山県武光",
+                "text": "〇〇は、日本の陸軍軍人。最終階級は陸軍少将。"
+            },
+            {
                 "datetime": "2024年04月02日 04時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2858271",
                 "title": "ガーデナ (カリフォルニア州)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3819248",
                 "title": "マッターホルン作戦",
                 "text": "〇〇は、第二次世界大戦における連合国による日本空襲作戦。"
-            },
-            {
-                "datetime": "2024年03月31日 12時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2878892",
-                "title": "徳島県の灯台一覧",
-                "text": "〇〇は、徳島県にある灯台及び、照射灯、浮標灯などをまとめた一覧である。"
             }
         ]
     }
