@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年04月02日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=558479",
+                "title": "さよならを待ってる",
+                "text": "〇〇は、1990年9月21日にリリースされたDREAMS COME TRUEの7thシングル。"
+            },
+            {
                 "datetime": "2024年04月01日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=669175",
                 "title": "ヴァレー州",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2808759",
                 "title": "三浦博史",
                 "text": "〇〇は、日本の選挙プランナー。日本で最初に選挙プランニングを行った人物として知られる。"
-            },
-            {
-                "datetime": "2024年03月31日 06時の問題",
-                "url": "https://ja.wikipedia.org/?curid=714281",
-                "title": "ピアノソナタ第6番 (ベートーヴェン)",
-                "text": "〇〇は、ルートヴィヒ・ヴァン・ベートーヴェンが作曲したピアノソナタ。"
             }
         ]
     }
