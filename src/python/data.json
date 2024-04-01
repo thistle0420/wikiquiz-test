@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年04月01日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3606329",
+                "title": "ジン・ユウ・フライ",
+                "text": "〇〇は、アメリカ合衆国の女性総合格闘家。アーカンソー州出身。モーラーMMA所属。元Invicta FC世界アトム級女王。ジン・ユ・フレイとも。"
+            },
+            {
                 "datetime": "2024年04月01日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1067737",
                 "title": "諸宗寺院法度",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1847642",
                 "title": "山代慶長一揆",
                 "text": "〇〇は、江戸時代慶長年間に、周防国山代（現山口県岩国市本郷町および錦町）で発生したとされる、一揆である。"
-            },
-            {
-                "datetime": "2024年03月30日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4508388",
-                "title": "2022年のJ1リーグ",
-                "text": "〇〇は、2022年シーズンのJ1リーグについて述べる。"
             }
         ]
     }
