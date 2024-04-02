@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年04月03日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1779380",
+                "title": "増田裕司",
+                "text": "〇〇は、将棋棋士。奈良県御所市出身。森信雄門下。棋士番号は225。"
+            },
+            {
                 "datetime": "2024年04月03日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4847883",
                 "title": "ボイルドドレッシング",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=13263",
                 "title": "1739年",
                 "text": "〇〇は、西暦（グレゴリオ暦）による、木曜日から始まる平年。"
-            },
-            {
-                "datetime": "2024年04月01日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3606329",
-                "title": "ジン・ユウ・フライ",
-                "text": "〇〇は、アメリカ合衆国の女性総合格闘家。アーカンソー州出身。モーラーMMA所属。元Invicta FC世界アトム級女王。ジン・ユ・フレイとも。"
             }
         ]
     }
