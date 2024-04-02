@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年04月02日 19時の問題",
+                "url": "https://ja.wikipedia.org/?curid=823625",
+                "title": "向水遙",
+                "text": "〇〇は、日本の漫画家、イラストレーター。"
+            },
+            {
                 "datetime": "2024年04月02日 18時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1529028",
                 "title": "黒井城の戦い",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3819191",
                 "title": "バヴィ県",
                 "text": "〇〇は、ベトナム社会主義共和国の首都ハノイ市に存在する行政区。"
-            },
-            {
-                "datetime": "2024年04月01日 01時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4747069",
-                "title": "モリー・オキャラハン",
-                "text": "〇〇は、オーストラリアクイーンズランド州出身のオーストラリア人女子競泳選手。"
             }
         ]
     }
