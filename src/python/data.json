@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年04月02日 23時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3608284",
+                "title": "YOSHIZUMI",
+                "text": "〇〇は、日本の作曲家・劇伴作家。本名：深野良純（ふかのよしずみ）。"
+            },
+            {
                 "datetime": "2024年04月02日 22時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3230297",
                 "title": "マヤ・バンクス",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=839904",
                 "title": "BITTER AND SWEET (中森明菜のアルバム)",
                 "text": "〇〇は、日本の歌手中森明菜の7枚目のスタジオ・アルバム。このアルバムは1985年4月3日にワーナー・パイオニアよりリリースされた (LP: L-12593, CT: LKF-8093)。"
-            },
-            {
-                "datetime": "2024年04月01日 05時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4189036",
-                "title": "ワッチャラ・スクチュム",
-                "text": "〇〇は、ジェニー・パナン（タイ語: เจนนี่ ปาหนัน、英語: Jennie Panhan）という名前で知られるタイの俳優、司会。"
             }
         ]
     }
