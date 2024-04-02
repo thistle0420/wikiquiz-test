@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年04月02日 10時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3730642",
+                "title": "湯村光",
+                "text": "〇〇は、日本の彫刻家。"
+            },
+            {
                 "datetime": "2024年04月02日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3748975",
                 "title": "中津川市立坂下小学校",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2554326",
                 "title": "HD 10180",
                 "text": "〇〇は、太陽に似たG型主系列星である。"
-            },
-            {
-                "datetime": "2024年03月31日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=918935",
-                "title": "彌彦神社事件",
-                "text": "〇〇は、1956年（昭和31年）1月1日午前0時過ぎ、新潟県西蒲原郡弥彦村の彌彦神社（弥彦神社）拝殿前で初詣客が新年の餅撒きに殺到して発生した群集事故である:125。"
             }
         ]
     }
