@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年04月04日 02時の問題",
+                "url": "https://ja.wikipedia.org/?curid=797293",
+                "title": "L.A.U.G.H.I.N'",
+                "text": "〇〇は、ロックバンド・少年カミカゼの、6枚目のシングルである。"
+            },
+            {
                 "datetime": "2024年04月04日 01時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2346742",
                 "title": "ポール・ボノー",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3730642",
                 "title": "湯村光",
                 "text": "〇〇は、日本の彫刻家。"
-            },
-            {
-                "datetime": "2024年04月02日 08時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3748975",
-                "title": "中津川市立坂下小学校",
-                "text": "〇〇は、岐阜県中津川市にある公立小学校。"
             }
         ]
     }
