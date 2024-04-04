@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年04月05日 03時の問題",
+                "url": "https://ja.wikipedia.org/?curid=474586",
+                "title": "加藤製作所",
+                "text": "〇〇は、日本の建設機械・特装車メーカー。"
+            },
+            {
                 "datetime": "2024年04月05日 02時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3781608",
                 "title": "オールドフレンズ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2592743",
                 "title": "デニス・ストラックアルルシ",
                 "text": "〇〇は、アルゼンチン・サンタフェ州出身のサッカー選手。ポジションはフォワード。"
-            },
-            {
-                "datetime": "2024年04月03日 10時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4509859",
-                "title": "訃報 1970年7月",
-                "text": "〇〇は、1970年（昭和45年）7月中に物故した、又は物故が報じられた人物についてまとめる。"
             }
         ]
     }
