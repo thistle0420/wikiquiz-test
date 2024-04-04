@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年04月05日 04時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3737596",
+                "title": "長万部中央商店街",
+                "text": "〇〇は、北海道山越郡長万部町にある本町通沿いの商店街。"
+            },
+            {
                 "datetime": "2024年04月05日 03時の問題",
                 "url": "https://ja.wikipedia.org/?curid=474586",
                 "title": "加藤製作所",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=700819",
                 "title": "森秀昭",
                 "text": "〇〇は、長崎県諫早市出身の元サッカー選手、サッカー指導者。現FCバイエルン・ツネイシU-13コーチ。"
-            },
-            {
-                "datetime": "2024年04月03日 11時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2592743",
-                "title": "デニス・ストラックアルルシ",
-                "text": "〇〇は、アルゼンチン・サンタフェ州出身のサッカー選手。ポジションはフォワード。"
             }
         ]
     }
