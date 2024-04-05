@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年04月05日 22時の問題",
+                "url": "https://ja.wikipedia.org/?curid=885925",
+                "title": "田野倉雅秋",
+                "text": "〇〇は、東京都生まれのヴァイオリニストである。"
+            },
+            {
                 "datetime": "2024年04月05日 21時の問題",
                 "url": "https://ja.wikipedia.org/?curid=73368",
                 "title": "龐統",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3556066",
                 "title": "宍戸要介",
                 "text": "〇〇は、日本の元ラグビー選手。"
-            },
-            {
-                "datetime": "2024年04月04日 03時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2520451",
-                "title": "ベラルーシ・プレミアリーグ",
-                "text": "〇〇は、ベラルーシにおけるプロサッカーの最上位リーグである。"
             }
         ]
     }
