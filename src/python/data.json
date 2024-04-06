@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年04月06日 22時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3764112",
+                "title": "高塩博",
+                "text": "〇〇は、日本の法制史学者、國學院大學名誉教授。日本法制史専攻。"
+            },
+            {
                 "datetime": "2024年04月06日 21時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1785608",
                 "title": "土山剛弘",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3737596",
                 "title": "長万部中央商店街",
                 "text": "〇〇は、北海道山越郡長万部町にある本町通沿いの商店街。"
-            },
-            {
-                "datetime": "2024年04月05日 03時の問題",
-                "url": "https://ja.wikipedia.org/?curid=474586",
-                "title": "加藤製作所",
-                "text": "〇〇は、日本の建設機械・特装車メーカー。"
             }
         ]
     }
