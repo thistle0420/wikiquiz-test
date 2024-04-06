@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年04月06日 17時の問題",
+                "url": "https://ja.wikipedia.org/?curid=35849",
+                "title": "リッター",
+                "text": "〇〇は、\"〇km/L\"を「〇〇〇キロ」と読むことがある。"
+            },
+            {
                 "datetime": "2024年04月06日 16時の問題",
                 "url": "https://ja.wikipedia.org/?curid=931923",
                 "title": "道の駅はしかみ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1874011",
                 "title": "阿部潤",
                 "text": "〇〇は、日本の漫画家。静岡県出身。"
-            },
-            {
-                "datetime": "2024年04月04日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1181613",
-                "title": "Kakiiin",
-                "text": "〇〇は、2007年10月2日より2015年3月23日までTBSラジオで放送されていた音楽を主体としたラジオ番組。基本的に生放送となっている。"
             }
         ]
     }
