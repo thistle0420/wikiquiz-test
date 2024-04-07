@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年04月07日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2783163",
+                "title": "中路啓太",
+                "text": "〇〇は、日本の小説家。東京都生まれ。"
+            },
+            {
                 "datetime": "2024年04月07日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2633207",
                 "title": "マスカティン郡 (アイオワ州)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4243873",
                 "title": "ダニ・カルボ",
                 "text": "〇〇は、スペイン・アラゴン州ウエスカ県ウエスカ出身のサッカー選手。レアル・オビエド所属。ポジションはDF。"
-            },
-            {
-                "datetime": "2024年04月06日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1332456",
-                "title": "ルネ・カイエ",
-                "text": "〇〇は、フランスの探検家。"
             }
         ]
     }
