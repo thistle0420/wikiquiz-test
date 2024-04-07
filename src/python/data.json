@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年04月07日 17時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2756292",
+                "title": "ウィグナー＝エッカルトの定理",
+                "text": "〇〇は、量子力学において、角運動量(J,Jz{\\displaystyle \\mathbf {J} ,J_{z}})の固有状態に対する球面テンソル演算子Tq(k){\\displaystyle T_{q}^{(k)}}の行列要素が、次のように物理的因子と幾何学的因子に分離できることをいう。⟨αjm|Tq(k)|α′j′m′⟩=⟨j′m′kq|j′kjm⟩2j+1⟨αj||T(k)||α′j′⟩{\\displaystyle \\langle \\alpha jm|T_{q}^{(k)}|\\alpha 'j'm'\\rangle ={\\frac {\\langle j'm'kq|j'kjm\\rangle }{\\sqrt {2j+1}}}\\langle \\alpha j||T^{(k)}||\\alpha 'j'\\rangle }ここでj,j′{\\displaystyle j,j'}は全角運動量量子数、m,m′{\\displaystyle m,m'}は全角運動量のz成分の量子数、α,α′{\\displaystyle \\alpha ,\\alpha '}はそれ以外の量子数である。⟨αj||T(k)||α′j′⟩{\\displaystyle \\langle \\alpha j||T^{(k)}||\\alpha 'j'\\rangle }は換算行列要素と呼ばれ、Jz{\\displaystyle J_{z}}の固有値m,m′,q{\\displaystyle m,m',q}に依存せず、座標軸の取り方などにも依らない。球面テンソルの物理的な情報はすべてこの中に含まれる。⟨j′m′kq|j′kjm⟩{\\displaystyle \\langle j'm'kq|j'kjm\\rangle }はクレブシュ-ゴルダン係数で、幾何学的な情報はこの中に含まれる。換算行列要素の定義は様々である。"
+            },
+            {
                 "datetime": "2024年04月07日 16時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4055418",
                 "title": "撒き餌レンズ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=198458",
                 "title": "紀元前220年",
                 "text": "〇〇は、ローマ暦の年である。当時は、「ラエウィヌス/カトゥルスとスカエウォラ/ピロが共和政ローマ執政官に就任した年」として知られていた（もしくは、それほど使われてはいないが、ローマ建国紀元534年）。紀年法として西暦（キリスト紀元）がヨーロッパで広く普及した中世時代初期以降、この年は〇〇と表記されるのが一般的となった。"
-            },
-            {
-                "datetime": "2024年04月05日 23時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3339066",
-                "title": "鈴木圭介 (翻訳家)",
-                "text": "〇〇は、日本の翻訳家・著述家。東京生まれ。東京外国語大学大学院修了。フランス現代思想・文学専攻。映画・建築・音楽関係の翻訳多数。"
             }
         ]
     }
