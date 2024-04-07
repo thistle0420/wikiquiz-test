@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年04月08日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1708350",
+                "title": "上善恒雄",
+                "text": "〇〇は、大阪市出身の情報学者。工学博士。大阪電気通信大学教授。"
+            },
+            {
                 "datetime": "2024年04月07日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3708852",
                 "title": "ソウル・フード (1997年の映画)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2367609",
                 "title": "ゲリラゲームズ",
                 "text": "〇〇は、オランダにある、ソニー傘下のテレビゲーム開発会社。商号はゲリラ（英: Guerrilla B.V.）。ソニー・インタラクティブエンタテインメント（SIE）の子会社で、PlayStationプラットフォームのゲームソフトウェア開発を行うSIEワールドワイド・スタジオのひとつである。『KILLZONE』シリーズや『Horizon』シリーズが代表作。400名ほどのスタッフを擁している（2019年時点）"
-            },
-            {
-                "datetime": "2024年04月06日 06時の問題",
-                "url": "https://ja.wikipedia.org/?curid=101891",
-                "title": "南部安信",
-                "text": "〇〇は、戦国時代の陸奥国の大名。南部氏23代当主。"
             }
         ]
     }
