@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年04月07日 16時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4055418",
+                "title": "撒き餌レンズ",
+                "text": "〇〇は、写真レンズの一種である。"
+            },
+            {
                 "datetime": "2024年04月07日 15時の問題",
                 "url": "https://ja.wikipedia.org/?curid=363666",
                 "title": "はたかぜ型護衛艦",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3339066",
                 "title": "鈴木圭介 (翻訳家)",
                 "text": "〇〇は、日本の翻訳家・著述家。東京生まれ。東京外国語大学大学院修了。フランス現代思想・文学専攻。映画・建築・音楽関係の翻訳多数。"
-            },
-            {
-                "datetime": "2024年04月05日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=885925",
-                "title": "田野倉雅秋",
-                "text": "〇〇は、東京都生まれのヴァイオリニストである。"
             }
         ]
     }
