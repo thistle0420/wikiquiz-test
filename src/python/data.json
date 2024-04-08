@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年04月08日 19時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2029308",
+                "title": "沖縄本島近海地震",
+                "text": "〇〇は、2010年（平成22年）2月27日5時31分に沖縄本島南東沖の琉球海溝付近のユーラシアプレート内で発生したマグニチュード（M）7.2の地震である。震源の深さは37km。発震機構は北西－南東方向に張力軸を持つ横ずれ断層型。"
+            },
+            {
                 "datetime": "2024年04月08日 18時の問題",
                 "url": "https://ja.wikipedia.org/?curid=930910",
                 "title": "花瀬めぐみ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3489119",
                 "title": "白川町 (名古屋市)",
                 "text": "〇〇は、愛知県名古屋市中区の地名。"
-            },
-            {
-                "datetime": "2024年04月07日 01時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4196388",
-                "title": "小木曽晃大",
-                "text": "〇〇は、JAPAN RUGBY LEAGUE ONE三菱重工相模原ダイナボアーズに所属するラグビー選手。"
             }
         ]
     }
