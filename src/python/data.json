@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年04月08日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=930910",
+                "title": "花瀬めぐみ",
+                "text": "〇〇は、日本のナレーター、モデル。本名、杉山 めぐみ（すぎやま めぐみ）。京都府亀岡市出身。"
+            },
+            {
                 "datetime": "2024年04月08日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1905028",
                 "title": "INDEX",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4196388",
                 "title": "小木曽晃大",
                 "text": "〇〇は、JAPAN RUGBY LEAGUE ONE三菱重工相模原ダイナボアーズに所属するラグビー選手。"
-            },
-            {
-                "datetime": "2024年04月07日 00時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2294801",
-                "title": "愛媛県道31号宇和三間線",
-                "text": "〇〇は、愛媛県西予市から宇和島市に至る県道（主要地方道）である。"
             }
         ]
     }
