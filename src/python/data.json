@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年04月09日 22時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1042352",
+                "title": "ルストラ",
+                "text": "〇〇は、イタリア共和国カンパニア州サレルノ県にある、人口約1,000人の基礎自治体（コムーネ）。"
+            },
+            {
                 "datetime": "2024年04月09日 21時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4557877",
                 "title": "がい骨",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=294727",
                 "title": "1968年アメリカ合衆国大統領選挙",
                 "text": "〇〇は、1968年11月5日に行われたアメリカ合衆国大統領選挙（第46回）。"
-            },
-            {
-                "datetime": "2024年04月08日 04時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4653026",
-                "title": "学園西町 (小平市)",
-                "text": "〇〇は、東京都小平市の地名。郵便番号は187-0045。"
             }
         ]
     }
