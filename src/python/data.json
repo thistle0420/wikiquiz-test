@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年04月09日 10時の問題",
+                "url": "https://ja.wikipedia.org/?curid=53344",
+                "title": "ポートタウン東駅",
+                "text": "〇〇は、大阪府大阪市住之江区南港中二丁目にある大阪市高速電気軌道 (Osaka Metro) 南港ポートタウン線（ニュートラム）の駅。駅番号はP13。"
+            },
+            {
                 "datetime": "2024年04月09日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=822182",
                 "title": "日本出版社",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2756292",
                 "title": "ウィグナー＝エッカルトの定理",
                 "text": "〇〇は、量子力学において、角運動量(J,Jz{\\displaystyle \\mathbf {J} ,J_{z}})の固有状態に対する球面テンソル演算子Tq(k){\\displaystyle T_{q}^{(k)}}の行列要素が、次のように物理的因子と幾何学的因子に分離できることをいう。⟨αjm|Tq(k)|α′j′m′⟩=⟨j′m′kq|j′kjm⟩2j+1⟨αj||T(k)||α′j′⟩{\\displaystyle \\langle \\alpha jm|T_{q}^{(k)}|\\alpha 'j'm'\\rangle ={\\frac {\\langle j'm'kq|j'kjm\\rangle }{\\sqrt {2j+1}}}\\langle \\alpha j||T^{(k)}||\\alpha 'j'\\rangle }ここでj,j′{\\displaystyle j,j'}は全角運動量量子数、m,m′{\\displaystyle m,m'}は全角運動量のz成分の量子数、α,α′{\\displaystyle \\alpha ,\\alpha '}はそれ以外の量子数である。⟨αj||T(k)||α′j′⟩{\\displaystyle \\langle \\alpha j||T^{(k)}||\\alpha 'j'\\rangle }は換算行列要素と呼ばれ、Jz{\\displaystyle J_{z}}の固有値m,m′,q{\\displaystyle m,m',q}に依存せず、座標軸の取り方などにも依らない。球面テンソルの物理的な情報はすべてこの中に含まれる。⟨j′m′kq|j′kjm⟩{\\displaystyle \\langle j'm'kq|j'kjm\\rangle }はクレブシュ-ゴルダン係数で、幾何学的な情報はこの中に含まれる。換算行列要素の定義は様々である。"
-            },
-            {
-                "datetime": "2024年04月07日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4055418",
-                "title": "撒き餌レンズ",
-                "text": "〇〇は、写真レンズの一種である。"
             }
         ]
     }
