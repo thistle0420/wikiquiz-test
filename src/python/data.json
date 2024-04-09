@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年04月10日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3714276",
+                "title": "早野義章",
+                "text": "〇〇は、日本の海苔養殖家、教育者。小学校校長を経て、海苔の養殖業に転身し、有明海で初めて海苔の養殖に成功した。門下生により、岡山、愛媛、朝鮮半島に海苔の養殖技術が広まった。"
+            },
+            {
                 "datetime": "2024年04月10日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=222290",
                 "title": "森啓 (行政学者)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4069261",
                 "title": "AAA 15th Anniversary All Time Best -thanx AAA lot-",
                 "text": "〇〇は、AAAの5枚目のベスト・アルバム。2020年2月19日にavex traxから発売された。"
-            },
-            {
-                "datetime": "2024年04月08日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1763338",
-                "title": "崇実",
-                "text": "〇〇は、清朝の官僚。字は子華。満洲鑲黄旗人で、金の皇室ワンギャ氏（wanggiya hala、完顔氏）の末裔。"
             }
         ]
     }
