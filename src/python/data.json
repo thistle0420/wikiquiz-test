@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年04月09日 11時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2234361",
+                "title": "明星抄",
+                "text": "〇〇は、源氏物語の注釈書である。"
+            },
+            {
                 "datetime": "2024年04月09日 10時の問題",
                 "url": "https://ja.wikipedia.org/?curid=53344",
                 "title": "ポートタウン東駅",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4578919",
                 "title": "カスタードクリームたい焼き",
                 "text": "〇〇は、2010年4月30日にアクシスから発売されたアダルトゲームである。2022年3月18日にはFANZA GAMESのサブスクリプション「GAME遊び放題プラス」に追加された。本作は他者の嘘を見抜く特性を持つ主人公の元に、疎遠だった幼馴染が結婚を申し込むために押し掛ける様子を描いた作品であり、ゲーム内では特性を反映し、過去の出来事からヒロインの嘘を見抜く「嘘★NAVI」が実装されている。また、本編クリア後にはアフターシナリオが解放され、さらにそれをクリアするとおまけシナリオが解放される。なお、「〇〇」という題名は、メインヒロインである乙部あいらの好物に由来する。"
-            },
-            {
-                "datetime": "2024年04月07日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2756292",
-                "title": "ウィグナー＝エッカルトの定理",
-                "text": "〇〇は、量子力学において、角運動量(J,Jz{\\displaystyle \\mathbf {J} ,J_{z}})の固有状態に対する球面テンソル演算子Tq(k){\\displaystyle T_{q}^{(k)}}の行列要素が、次のように物理的因子と幾何学的因子に分離できることをいう。⟨αjm|Tq(k)|α′j′m′⟩=⟨j′m′kq|j′kjm⟩2j+1⟨αj||T(k)||α′j′⟩{\\displaystyle \\langle \\alpha jm|T_{q}^{(k)}|\\alpha 'j'm'\\rangle ={\\frac {\\langle j'm'kq|j'kjm\\rangle }{\\sqrt {2j+1}}}\\langle \\alpha j||T^{(k)}||\\alpha 'j'\\rangle }ここでj,j′{\\displaystyle j,j'}は全角運動量量子数、m,m′{\\displaystyle m,m'}は全角運動量のz成分の量子数、α,α′{\\displaystyle \\alpha ,\\alpha '}はそれ以外の量子数である。⟨αj||T(k)||α′j′⟩{\\displaystyle \\langle \\alpha j||T^{(k)}||\\alpha 'j'\\rangle }は換算行列要素と呼ばれ、Jz{\\displaystyle J_{z}}の固有値m,m′,q{\\displaystyle m,m',q}に依存せず、座標軸の取り方などにも依らない。球面テンソルの物理的な情報はすべてこの中に含まれる。⟨j′m′kq|j′kjm⟩{\\displaystyle \\langle j'm'kq|j'kjm\\rangle }はクレブシュ-ゴルダン係数で、幾何学的な情報はこの中に含まれる。換算行列要素の定義は様々である。"
             }
         ]
     }
