@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年04月11日 06時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4446349",
+                "title": "デジタル庁令",
+                "text": "〇〇は、内閣総理大臣がデジタル庁設置法第7条第3項に基づいて発するデジタル庁の命令。"
+            },
+            {
                 "datetime": "2024年04月11日 05時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3331830",
                 "title": "2015年の浦和レッドダイヤモンズ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4724009",
                 "title": "神明町 (豊田市)",
                 "text": "〇〇は、愛知県豊田市の町名。現行行政地名は神明町1丁目から3丁目。"
-            },
-            {
-                "datetime": "2024年04月09日 13時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3001173",
-                "title": "ポーラ・ワインスタイン",
-                "text": "〇〇は、アメリカ合衆国の映画プロデューサー。"
             }
         ]
     }
