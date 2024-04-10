@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年04月11日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3046439",
+                "title": "原田志",
+                "text": "〇〇は、大阪府出身の日本の俳優。"
+            },
+            {
                 "datetime": "2024年04月11日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2095848",
                 "title": "第11回ロサンゼルス映画批評家協会賞",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1671154",
                 "title": "三重県道55号久居河芸線",
                 "text": "〇〇は、三重県津市を通る県道（主要地方道）である。"
-            },
-            {
-                "datetime": "2024年04月09日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3709252",
-                "title": "馬頭郡",
-                "text": "〇〇は、中国にかつて存在した郡。東晋から北斉にかけて、現在の安徽省蚌埠市一帯に設置された。"
             }
         ]
     }
