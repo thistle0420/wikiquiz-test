@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年04月10日 15時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1127256",
+                "title": "服部駅 (石川県)",
+                "text": "〇〇は、石川県石川郡鳥越村河合（現・白山市河合町）にかつてあった、北陸鉄道金名線の駅である。"
+            },
+            {
                 "datetime": "2024年04月10日 14時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3535419",
                 "title": "アーシャ・ウィーヴィル",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2463996",
                 "title": "中西元彦",
                 "text": "〇〇は、三重県出身の音楽プロデューサー・作曲家・編曲家・演出家。アーティストの育成・プロデュースを行う。"
-            },
-            {
-                "datetime": "2024年04月08日 21時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2846858",
-                "title": "山田瑛瑠",
-                "text": "〇〇は、日本の俳優。"
             }
         ]
     }
