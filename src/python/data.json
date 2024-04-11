@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年04月11日 10時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2485460",
+                "title": "オープン・ユア・ハート",
+                "text": "〇〇は、楽曲のタイトル。Open Your Heart (寺田恵子の曲) - 寺田恵子の3rdシングル。浜田麻里の10thシングル。Open Your Heart〜素顔のままで〜 - JUJUの1stミニ・アルバム。水樹奈々の楽曲。シングル「innocent starter」収録。〇〇 (マドンナの曲) - マドンナの3rdアルバム『トゥルー・ブルー』からの4曲目のシングル・カット。プレイング・マンティスの3rdアルバム『ア・クライ・フォー・ザ・ニュー・ワールド』の収録曲。"
+            },
+            {
                 "datetime": "2024年04月11日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3046439",
                 "title": "原田志",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3942975",
                 "title": "学校法人医療創生大学",
                 "text": "〇〇は、東京都千代田区内幸町に本部を置く学校法人。"
-            },
-            {
-                "datetime": "2024年04月09日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1671154",
-                "title": "三重県道55号久居河芸線",
-                "text": "〇〇は、三重県津市を通る県道（主要地方道）である。"
             }
         ]
     }
