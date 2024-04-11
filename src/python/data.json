@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年04月12日 04時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1645180",
+                "title": "清州空港駅",
+                "text": "〇〇は、大韓民国忠清北道清州市清原区内秀邑にある韓国鉄道公社（KORAIL）忠北線の駅である。"
+            },
+            {
                 "datetime": "2024年04月12日 03時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1114624",
                 "title": "痛快!三匹のご隠居",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=75725",
                 "title": "マルチタレント",
                 "text": "〇〇は、俳優、歌手、演芸、司会、声優など多様なジャンルをこなす芸能人のこと。"
-            },
-            {
-                "datetime": "2024年04月10日 11時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2442821",
-                "title": "2001年ウィンブルドン選手権男子シングルス",
-                "text": "〇〇は、フェデラーがグランドスラムで初めてシード選手として出場した大会でもある。"
             }
         ]
     }
