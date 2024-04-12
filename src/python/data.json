@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年04月12日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4442392",
+                "title": "妖怪ウォッチ メダルウォーズ",
+                "text": "〇〇は、ネットマーブルより配信されていたスマートフォン向けゲームアプリ。"
+            },
+            {
                 "datetime": "2024年04月12日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=660263",
                 "title": "地目",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=565312",
                 "title": ".ad",
                 "text": "〇〇は、国別コードトップレベルドメイン (ccTLD) の一つ。アンドラに割り当てられている。アンドラ・テレコムによって管理されている。このドメインは、様々なドメインハックに利用されている。advertisementやadvertisementの略称（アド）として、広告メディアで利用されたり、西暦紀元(anno domini)の略称として利用されたりしている。"
-            },
-            {
-                "datetime": "2024年04月11日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4611439",
-                "title": "2022-23 V.LEAGUE DIVISION1 WOMEN",
-                "text": "〇〇は、2022-2023年に開催されるV.LEAGUE DIVISION1 WOMEN（女子1部リーグ、略称V1女子）である。"
             }
         ]
     }
