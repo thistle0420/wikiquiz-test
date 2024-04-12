@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年04月12日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=781751",
+                "title": "ジルソン・ベルナルド",
+                "text": "〇〇は、ブラジルの男子バレーボール選手、指導者。元ブラジル代表。"
+            },
+            {
                 "datetime": "2024年04月12日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4440801",
                 "title": "「SUPERMARKET」Live 2021 at 中野サンプラザ (映像作品)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4396869",
                 "title": "三重城",
                 "text": "〇〇は、沖縄県那覇市にある琉球のグスクである。那覇港の国場川北側の河口に位置している。"
-            },
-            {
-                "datetime": "2024年04月10日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1389552",
-                "title": "クィントゥス・ラビエヌス",
-                "text": "〇〇は、共和政ローマ末期の政務官。のちにパルティアへ転じて、パルティアの将軍を務めた。"
             }
         ]
     }
