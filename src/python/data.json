@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年04月13日 09時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3959912",
+                "title": "青鬼オンライン",
+                "text": "〇〇は、LiTMUSがiOSとAndroid向けにサービスを行っている基本プレイ無料のオンラインゲーム。UUUMが株式会社GOODROID(CyberAgentGroup)と共同開発し、2018年9月13日に配信を開始した。"
+            },
+            {
                 "datetime": "2024年04月13日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1894766",
                 "title": "出来高給",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1821156",
                 "title": "ジョージ・シャウプ",
                 "text": "〇〇は、アメリカ合衆国アイダホ州が州に昇格したときに短期間初代知事となり、その後州では初めてのアメリカ合衆国上院議員となった政治家である。"
-            },
-            {
-                "datetime": "2024年04月11日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1623293",
-                "title": "川野雄一",
-                "text": "〇〇は、大分県出身の元プロ野球選手（捕手）。"
             }
         ]
     }
