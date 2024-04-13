@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年04月13日 22時の問題",
+                "url": "https://ja.wikipedia.org/?curid=764272",
+                "title": "川田正澂",
+                "text": "〇〇は、日本の教育者。"
+            },
+            {
                 "datetime": "2024年04月13日 21時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3376334",
                 "title": "海外ホテル協会",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1286849",
                 "title": "ポンメルン (戦艦)",
                 "text": "〇〇は、ドイツ帝国海軍の前弩級戦艦。ドイッチュラント級戦艦の一隻。艦名はプロイセンのポンメルン州に因む。"
-            },
-            {
-                "datetime": "2024年04月12日 05時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3929061",
-                "title": "ラッド郡区 (アイオワ州フロイド郡)",
-                "text": "〇〇は、 米国 アイオワ州 フロイド郡にある12の郡区の1つ。  2000年国勢調査では、人口は693人。"
             }
         ]
     }
