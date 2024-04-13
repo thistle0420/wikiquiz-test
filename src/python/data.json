@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年04月14日 05時の問題",
+                "url": "https://ja.wikipedia.org/?curid=56373",
+                "title": "シロイヌナズナ",
+                "text": "〇〇は、アブラナ科〇〇属の一年草。植物のモデル生物として有名。"
+            },
+            {
                 "datetime": "2024年04月14日 04時の問題",
                 "url": "https://ja.wikipedia.org/?curid=165988",
                 "title": "スペイン語の日本語表記",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=781751",
                 "title": "ジルソン・ベルナルド",
                 "text": "〇〇は、ブラジルの男子バレーボール選手、指導者。元ブラジル代表。"
-            },
-            {
-                "datetime": "2024年04月12日 13時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4440801",
-                "title": "「SUPERMARKET」Live 2021 at 中野サンプラザ (映像作品)",
-                "text": "〇〇は、藤原さくらの2作目の映像作品。DVDとBlu-ray Discで発売。"
             }
         ]
     }
