@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年04月16日 03時の問題",
+                "url": "https://ja.wikipedia.org/?curid=63385",
+                "title": "267年",
+                "text": "〇〇は、西暦（ユリウス暦）による、平年。"
+            },
+            {
                 "datetime": "2024年04月16日 02時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2422633",
                 "title": "国際情報社",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3626816",
                 "title": "ヴィクター・スペンサー (初代チャーチル子爵)",
                 "text": "〇〇は、イギリスの貴族。父からチャーチル男爵位を継承した1886年から、子爵に叙された1902年まではチャーチル卿（The Lord Churchill）と名乗った。"
-            },
-            {
-                "datetime": "2024年04月13日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=494251",
-                "title": "ビンドゥサーラ",
-                "text": "〇〇は、古代インドのマウリヤ朝の第2代ラージャ。前王死後各地で発生した反乱を鎮圧し、マウリヤ朝の拡大を継続した。ギリシア人の史料にはアミトロカテス（Amitrochates）と記録されている。"
             }
         ]
     }
