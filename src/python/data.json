@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年04月16日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=696848",
+                "title": "スカルファック",
+                "text": "〇〇は、アダルトビデオ用語である。"
+            },
+            {
                 "datetime": "2024年04月16日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=973267",
                 "title": "興津仮乗降場",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2429792",
                 "title": "ALFEE SILVER",
                 "text": "〇〇は、1984年9月5日に発売されたALFEE5枚目のベスト・アルバム。"
-            },
-            {
-                "datetime": "2024年04月13日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=764272",
-                "title": "川田正澂",
-                "text": "〇〇は、日本の教育者。"
             }
         ]
     }
