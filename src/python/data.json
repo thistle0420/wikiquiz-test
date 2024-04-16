@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年04月17日 01時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3062597",
+                "title": "佐藤円香",
+                "text": "〇〇は、日本のアイドル。千葉県出身。クレアトゥール所属。足のサイズ24cm。"
+            },
+            {
                 "datetime": "2024年04月17日 00時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1727342",
                 "title": "二輪草 (川中美幸の曲)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1605639",
                 "title": "ウインタ郡",
                 "text": "〇〇は、アメリカ合衆国内に複数ある郡の名称である。〇〇 (ユタ州)（Uintah County）〇〇 (ワイオミング州)（Uinta County）"
-            },
-            {
-                "datetime": "2024年04月14日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4015912",
-                "title": "楊文徳",
-                "text": "〇〇は、中国の南北朝時代の仇池氐の首長。武都王。"
             }
         ]
     }
