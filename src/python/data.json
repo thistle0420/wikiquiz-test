@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年04月17日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3765064",
+                "title": "ウィキペディアモバイル (ウェブサイト)",
+                "text": "〇〇は、ウィキメディア財団が公式に運営する携帯機器（PDA・携帯電話・スマートフォン・タブレット）でウィキペディアを閲覧・執筆するためのウェブサイトである。ウィキペディアモバイルのURLはhttps://[言語名].m.wikipedia.org/である。"
+            },
+            {
                 "datetime": "2024年04月17日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4658804",
                 "title": "南岸和尚",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2767332",
                 "title": "岡見文克",
                 "text": "〇〇は、日本の俳優、声優、演出家。東京都出身。舞台を中心に活動している。"
-            },
-            {
-                "datetime": "2024年04月16日 03時の問題",
-                "url": "https://ja.wikipedia.org/?curid=63385",
-                "title": "267年",
-                "text": "〇〇は、西暦（ユリウス暦）による、平年。"
             }
         ]
     }
