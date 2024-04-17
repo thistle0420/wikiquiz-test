@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年04月18日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=586890",
+                "title": "桜坂洋",
+                "text": "〇〇は、日本の小説家。"
+            },
+            {
                 "datetime": "2024年04月18日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=854279",
                 "title": "長島有里枝",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4663484",
                 "title": "ツキヨミ/彩り",
                 "text": "〇〇は、日本の男性アイドルグループ・King & Princeの11枚目となるシングル。2022年11月9日にユニバーサルミュージックから発売された。"
-            },
-            {
-                "datetime": "2024年04月16日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1933111",
-                "title": "2009年東アジア競技大会",
-                "text": "〇〇は、2009年12月5日から12月13日まで、香港で開催されたスポーツ競技大会。"
             }
         ]
     }
