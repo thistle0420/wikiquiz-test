@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年04月18日 03時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3023642",
+                "title": "平壤柳京鄭周永体育館",
+                "text": "〇〇は、朝鮮民主主義人民共和国（北朝鮮）平壌直轄市普通江区域にある体育館である。"
+            },
+            {
                 "datetime": "2024年04月18日 02時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4828598",
                 "title": "ジョヴァンニ・ディ・ニコラオ・アルノルフィーニの肖像",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2827603",
                 "title": "SUPERSONIC SUNRISE",
                 "text": "〇〇は、日本のロックバンド、ザ・コレクターズ(THE COLLECTORS)のメジャー12作目のオリジナル・アルバム。"
-            },
-            {
-                "datetime": "2024年04月16日 10時の問題",
-                "url": "https://ja.wikipedia.org/?curid=251742",
-                "title": "中田あすみ",
-                "text": "〇〇は、日本の女性タレント。オスカープロモーション所属。モデルとしてはローティーン向けのファッション誌『ピチレモン』で活躍し、同世代の少女たちからの支持を獲得する。"
             }
         ]
     }
