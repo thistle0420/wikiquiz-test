@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年04月18日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=214055",
+                "title": "神戸市立長峰中学校",
+                "text": "〇〇は、兵庫県神戸市灘区にある公立中学校。"
+            },
+            {
                 "datetime": "2024年04月18日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=586890",
                 "title": "桜坂洋",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=898919",
                 "title": "ブッティリエーラ・ダスティ",
                 "text": "〇〇は、イタリア共和国ピエモンテ州アスティ県にある基礎自治体（コムーネ）。"
-            },
-            {
-                "datetime": "2024年04月16日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4663484",
-                "title": "ツキヨミ/彩り",
-                "text": "〇〇は、日本の男性アイドルグループ・King & Princeの11枚目となるシングル。2022年11月9日にユニバーサルミュージックから発売された。"
             }
         ]
     }
