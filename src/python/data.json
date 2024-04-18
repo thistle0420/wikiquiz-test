@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年04月18日 23時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1763784",
+                "title": "王文豹",
+                "text": "〇〇は、中華民国の政治家。字は紹荃。"
+            },
+            {
                 "datetime": "2024年04月18日 22時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2762746",
                 "title": "谷口登司夫",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3588601",
                 "title": "水野年方顕彰碑",
                 "text": "〇〇は、浮世絵師水野年方を顕彰するために建立された石碑のこと。"
-            },
-            {
-                "datetime": "2024年04月17日 05時の問題",
-                "url": "https://ja.wikipedia.org/?curid=101289",
-                "title": "赤井駅",
-                "text": "〇〇は、福島県いわき市平赤井字田中にある、東日本旅客鉄道（JR東日本）磐越東線の駅である。"
             }
         ]
     }
