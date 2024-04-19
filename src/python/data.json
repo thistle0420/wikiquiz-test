@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年04月20日 02時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4700604",
+                "title": "小野成時",
+                "text": "〇〇は、鎌倉時代前期の武士。"
+            },
+            {
                 "datetime": "2024年04月20日 01時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2015375",
                 "title": "VELscope",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1772188",
                 "title": "相馬市立磯部中学校",
                 "text": "〇〇は、福島県相馬市磯部にある公立中学校。"
-            },
-            {
-                "datetime": "2024年04月18日 08時の問題",
-                "url": "https://ja.wikipedia.org/?curid=214055",
-                "title": "神戸市立長峰中学校",
-                "text": "〇〇は、兵庫県神戸市灘区にある公立中学校。"
             }
         ]
     }
