@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年04月19日 22時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3435421",
+                "title": "モーニング スコール",
+                "text": "〇〇は、杏里の18枚目のシングル。1986年6月5日発売。発売元はフォーライフ・レコード。"
+            },
+            {
                 "datetime": "2024年04月19日 21時の問題",
                 "url": "https://ja.wikipedia.org/?curid=269840",
                 "title": "落葉の宮",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=750618",
                 "title": "新潟県立見附高等学校",
                 "text": "〇〇は、新潟県見附市に所在する県立高等学校。地域内では見高（みこう）の愛称で親しまれる。"
-            },
-            {
-                "datetime": "2024年04月18日 04時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2336692",
-                "title": "NIGHT ADULTCHILDREN",
-                "text": "〇〇は、たがみよしひさによる日本の漫画作品。『月刊コミックNORA』（学習研究社）にて、1997年8月号から1998年8月号まで連載。全13話（1編の前後編を含む）。単行本は全2巻。"
             }
         ]
     }
