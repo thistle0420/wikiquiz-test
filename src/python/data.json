@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年04月20日 12時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4462824",
+                "title": "Mxmtoon",
+                "text": "〇〇は、アメリカ合衆国のソングライターとYouTuber。実家ゲストルームで録音したデビューEP plum blossomが1億以上ストリーミングを記録し名前を知らせ始めた。2019年9月には、デビューアルバムthe masqueradeを発売した。"
+            },
+            {
                 "datetime": "2024年04月20日 11時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1801415",
                 "title": "フロレンティーノ・ペレス",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=832205",
                 "title": "鹿屋市立市成中学校",
                 "text": "〇〇は、鹿児島県鹿屋市輝北町市成にあった市立中学校。"
-            },
-            {
-                "datetime": "2024年04月18日 18時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3014674",
-                "title": "クリストファー・コレット",
-                "text": "〇〇は、アメリカ合衆国の俳優。"
             }
         ]
     }
