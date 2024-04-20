@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年04月20日 13時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1337061",
+                "title": "WILD & MILD",
+                "text": "〇〇は、1997年3月26日にSony Recordsよりリリースされた、TOKIOの4作目のアルバム。"
+            },
+            {
                 "datetime": "2024年04月20日 12時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4462824",
                 "title": "Mxmtoon",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=830336",
                 "title": "1987年全仏オープン",
                 "text": "〇〇は、フランス・パリにある「スタッド・ローラン・ギャロス」にて、1987年5月25日から6月7日にかけて開催された。"
-            },
-            {
-                "datetime": "2024年04月18日 19時の問題",
-                "url": "https://ja.wikipedia.org/?curid=832205",
-                "title": "鹿屋市立市成中学校",
-                "text": "〇〇は、鹿児島県鹿屋市輝北町市成にあった市立中学校。"
             }
         ]
     }
