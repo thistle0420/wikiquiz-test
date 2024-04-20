@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年04月20日 19時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4911847",
+                "title": "創価池田女子大学",
+                "text": "〇〇は、インド・チェンナイに本部を置くインドの私立大学。2000年創立、2000年大学設置。"
+            },
+            {
                 "datetime": "2024年04月20日 18時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4921402",
                 "title": "キーエンス ジャイロソーサー",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=724696",
                 "title": "兵庫県立氷上西高等学校",
                 "text": "〇〇は、兵庫県丹波市にある公立高等学校。"
-            },
-            {
-                "datetime": "2024年04月19日 01時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1834907",
-                "title": "ハビ・ルイス",
-                "text": "〇〇は、スペイン・アルメリア出身の元サッカー選手。現役時代のポジションはGK。"
             }
         ]
     }
