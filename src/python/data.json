@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年04月22日 11時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2937925",
+                "title": "塩屋村 (和歌山県)",
+                "text": "〇〇は、和歌山県日高郡にあった村。現在の御坊市塩屋町各町にあたる。"
+            },
+            {
                 "datetime": "2024年04月22日 10時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1138411",
                 "title": "三次構造",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4921402",
                 "title": "キーエンス ジャイロソーサー",
                 "text": "〇〇は、日本のキーエンスが開発・販売したマルチコプター形式のホビー用無線操縦ヘリコプター。"
-            },
-            {
-                "datetime": "2024年04月20日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3774838",
-                "title": "半月弁",
-                "text": "〇〇は、左心室から大動脈に出る大動脈弁と、右心室から肺動脈に出る肺動脈弁の総称。"
             }
         ]
     }
