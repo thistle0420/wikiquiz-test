@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年04月22日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4560591",
+                "title": "神田左京",
+                "text": "〇〇は、日本の生物学者。ホタルの研究で知られる。"
+            },
+            {
                 "datetime": "2024年04月22日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1123151",
                 "title": "鉄道駅",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2356645",
                 "title": "全国柔道事故被害者の会",
                 "text": "〇〇は、柔道による事故・事件・犯罪の被害者のサポートを目的とした団体。"
-            },
-            {
-                "datetime": "2024年04月20日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4105552",
-                "title": "笹倉一広",
-                "text": "〇〇は、日本の文学者、教育者。一橋大学経済学研究科准教授。"
             }
         ]
     }
