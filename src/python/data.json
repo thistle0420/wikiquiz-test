@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年04月23日 17時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3555705",
+                "title": "十津川村立西川第一小学校",
+                "text": "〇〇は、奈良県吉野郡十津川村大字重里にあった公立小学校である。"
+            },
+            {
                 "datetime": "2024年04月23日 16時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3663756",
                 "title": "吉留真",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1382897",
                 "title": "ヨコハマ・チーク",
                 "text": "〇〇は、近藤真彦の2作目のシングルレコード。1981年3月12日に発売された。発売元はRVC株式会社（現・アリオラジャパン）。"
-            },
-            {
-                "datetime": "2024年04月21日 23時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2877145",
-                "title": "ヤシマドオター",
-                "text": "〇〇は、日本の競走馬。"
             }
         ]
     }
