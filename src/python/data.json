@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年04月24日 16時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1165805",
+                "title": "松郷 (川越市)",
+                "text": "〇〇は、埼玉県川越市の大字。郵便番号350-0857。"
+            },
+            {
                 "datetime": "2024年04月24日 15時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2276248",
                 "title": "名島嘉吉郎",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2951667",
                 "title": "ソルスティスミュージック",
                 "text": "〇〇は、エレクトロニックミュージックのパーティーのオーガナイザーである。"
-            },
-            {
-                "datetime": "2024年04月22日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=589738",
-                "title": "来宮神社",
-                "text": "〇〇は、静岡県熱海市にある神社である。社格は旧村社。"
             }
         ]
     }
