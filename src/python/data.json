@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年04月24日 10時の問題",
+                "url": "https://ja.wikipedia.org/?curid=406889",
+                "title": "万引き",
+                "text": "〇〇は、盗犯の一種。買い物客として商業施設に入場し、手にした商品の一部もしくは全部について、金銭を支払うことなく持ち去る犯罪行為の通称である。"
+            },
+            {
                 "datetime": "2024年04月24日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3887169",
                 "title": "開港5都市景観まちづくり会議",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4917166",
                 "title": "東国文献備考",
                 "text": "〇〇は、朝鮮王朝時代後期に成立した類書。"
-            },
-            {
-                "datetime": "2024年04月22日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1994025",
-                "title": "藤沢炒麺",
-                "text": "〇〇は、神奈川県藤沢市で販売されているご当地焼きそばである。"
             }
         ]
     }
