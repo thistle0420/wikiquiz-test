@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年04月25日 11時の問題",
+                "url": "https://ja.wikipedia.org/?curid=264435",
+                "title": "アピア",
+                "text": "〇〇は、サモアの首都である。南太平洋に浮かぶウポル島の北方の海岸に位置している。サモアの唯一の都市であり、港湾施設もある。"
+            },
+            {
                 "datetime": "2024年04月25日 10時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4322727",
                 "title": "3unshine",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4700273",
                 "title": "エミリー・ツットシ",
                 "text": "〇〇は、カナダの女子ラグビー選手。"
-            },
-            {
-                "datetime": "2024年04月23日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3555705",
-                "title": "十津川村立西川第一小学校",
-                "text": "〇〇は、奈良県吉野郡十津川村大字重里にあった公立小学校である。"
             }
         ]
     }
