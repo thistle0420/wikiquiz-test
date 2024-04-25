@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年04月25日 10時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4322727",
+                "title": "3unshine",
+                "text": "〇〇は、中国の女性アイドルグループ。2015年にデビュー。"
+            },
+            {
                 "datetime": "2024年04月25日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1279694",
                 "title": "長野県道309号塚原穂高停車場線",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3555705",
                 "title": "十津川村立西川第一小学校",
                 "text": "〇〇は、奈良県吉野郡十津川村大字重里にあった公立小学校である。"
-            },
-            {
-                "datetime": "2024年04月23日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3663756",
-                "title": "吉留真",
-                "text": "〇〇は、日本の実業家。元大和証券キャピタル・マーケッツ社長。"
             }
         ]
     }
