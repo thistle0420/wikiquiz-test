@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年04月26日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2966956",
+                "title": "ミリオレ",
+                "text": "〇〇は、大韓民国のファッション専門のデパートメントチェーンストアである。"
+            },
+            {
                 "datetime": "2024年04月26日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4207941",
                 "title": "緑の心財団",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1165805",
                 "title": "松郷 (川越市)",
                 "text": "〇〇は、埼玉県川越市の大字。郵便番号350-0857。"
-            },
-            {
-                "datetime": "2024年04月24日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2276248",
-                "title": "名島嘉吉郎",
-                "text": "〇〇は、日本の実業家、政治家。米子銀行、中国貯蓄銀行、倉庫会社の各取締役。元米子町会議員。鳥取県平民。"
             }
         ]
     }
