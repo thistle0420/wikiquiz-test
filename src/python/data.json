@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年04月27日 03時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4019642",
+                "title": "エリック・タンギー",
+                "text": "〇〇は、フランスの作曲家。"
+            },
+            {
                 "datetime": "2024年04月27日 02時の問題",
                 "url": "https://ja.wikipedia.org/?curid=498081",
                 "title": "ロンボク島",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=264435",
                 "title": "アピア",
                 "text": "〇〇は、サモアの首都である。南太平洋に浮かぶウポル島の北方の海岸に位置している。サモアの唯一の都市であり、港湾施設もある。"
-            },
-            {
-                "datetime": "2024年04月25日 10時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4322727",
-                "title": "3unshine",
-                "text": "〇〇は、中国の女性アイドルグループ。2015年にデビュー。"
             }
         ]
     }
