@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年04月27日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2229934",
+                "title": "Hey! Say! JUMP デビュー&ファーストコンサート いきなり!in 東京ドーム",
+                "text": "〇〇は、Hey! Say! JUMP の1stライブDVD。2008年4月30日発売。発売元はジェイ・ストーム。"
+            },
+            {
                 "datetime": "2024年04月27日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1915904",
                 "title": "Dot Rainbow",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1670805",
                 "title": "高橋李枝",
                 "text": "〇〇は、群馬県出身のシンガーソングライター。"
-            },
-            {
-                "datetime": "2024年04月25日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3793825",
-                "title": "テイホー区",
-                "text": "〇〇は、ベトナムの首都ハノイ市に存在する区 (郡)。"
             }
         ]
     }
