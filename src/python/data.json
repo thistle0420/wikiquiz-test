@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年04月28日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1604331",
+                "title": "福岡県立朝倉東高等学校",
+                "text": "〇〇は、福岡県朝倉市甘木にある公立高等学校。"
+            },
+            {
                 "datetime": "2024年04月28日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4708012",
                 "title": "ツキヨノハマグリ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2097668",
                 "title": "君は裸足の神を見たか",
                 "text": "〇〇は、1986年公開の日本映画。金秀吉監督の第1回監督作品で、プロデューサーは今村昌平。"
-            },
-            {
-                "datetime": "2024年04月27日 03時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4019642",
-                "title": "エリック・タンギー",
-                "text": "〇〇は、フランスの作曲家。"
             }
         ]
     }
