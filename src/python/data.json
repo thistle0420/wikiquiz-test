@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年04月28日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4708012",
+                "title": "ツキヨノハマグリ",
+                "text": "〇〇は、マルスダレガイ科の二枚貝。1758年、カール・フォン・リンネによってVenus dione Linnaeus, 1758と命名された。Hysteroconcha dione (Linnaeus, 1758)はシノニム。"
+            },
+            {
                 "datetime": "2024年04月28日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=902079",
                 "title": "山本拓夫",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4019642",
                 "title": "エリック・タンギー",
                 "text": "〇〇は、フランスの作曲家。"
-            },
-            {
-                "datetime": "2024年04月27日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=498081",
-                "title": "ロンボク島",
-                "text": "〇〇は、インドネシア中部の小スンダ列島に属し、バリ島の東隣にある島である。人口約270万人、行政区分は西ヌサ・トゥンガラ州に属し、州都マタラムの所在地である。「ロンボク」とはインドネシア語で「唐辛子」という意味を持つが、元々は〇〇東部地域の呼称であり、先住民であるササク人は「スラパラン」（Selaparang）と呼んでいた。"
             }
         ]
     }
