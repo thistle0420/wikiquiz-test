@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年04月29日 06時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4486948",
+                "title": "竹中太一",
+                "text": "〇〇は、JAPAN RUGBY LEAGUE ONE三重ホンダヒートに所属するラグビー選手。"
+            },
+            {
                 "datetime": "2024年04月29日 05時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3603370",
                 "title": "年豊",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2229934",
                 "title": "Hey! Say! JUMP デビュー&ファーストコンサート いきなり!in 東京ドーム",
                 "text": "〇〇は、Hey! Say! JUMP の1stライブDVD。2008年4月30日発売。発売元はジェイ・ストーム。"
-            },
-            {
-                "datetime": "2024年04月27日 13時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1915904",
-                "title": "Dot Rainbow",
-                "text": "〇〇は、日本のインディーズバンドである。2004年に結成され、現在は活動休止中。鹿児島在住のままで活動したが、映画、CMへの楽曲提供など鹿児島にとどまらない活動を展開した。鹿児島においてはラジオ番組のパーソナリティをつとめたり、多数のCMに出演したり、様々なイベントに出演したりした。"
             }
         ]
     }
