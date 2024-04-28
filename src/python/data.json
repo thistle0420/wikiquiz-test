@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年04月28日 17時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3315737",
+                "title": "藤岡町西前原",
+                "text": "〇〇は、栃木県栃木市の大字。郵便番号は329-0318。　"
+            },
+            {
                 "datetime": "2024年04月28日 16時の問題",
                 "url": "https://ja.wikipedia.org/?curid=90227",
                 "title": "杉作J太郎",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2491004",
                 "title": "津有村",
                 "text": "〇〇は、かつて新潟県中頸城郡にあった村。"
-            },
-            {
-                "datetime": "2024年04月26日 23時の問題",
-                "url": "https://ja.wikipedia.org/?curid=124834",
-                "title": "遙洋子",
-                "text": "〇〇は、日本の作家、タレント、コラムニストである。"
             }
         ]
     }
