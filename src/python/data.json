@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年04月29日 11時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4237241",
+                "title": "新ン町",
+                "text": "〇〇は、京都府京都市上京区の町名。"
+            },
+            {
                 "datetime": "2024年04月29日 10時の問題",
                 "url": "https://ja.wikipedia.org/?curid=179442",
                 "title": "吉井駅 (群馬県)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1591887",
                 "title": "笑う警官 (佐々木譲)",
                 "text": "〇〇は、佐々木譲による日本の警察小説。"
-            },
-            {
-                "datetime": "2024年04月27日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1744457",
-                "title": "三篠橋",
-                "text": "〇〇は、広島県広島市の旧太田川（本川）に架かる道路橋。"
             }
         ]
     }
