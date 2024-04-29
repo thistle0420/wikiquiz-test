@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年04月29日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3482094",
+                "title": "後藤祐里",
+                "text": "〇〇は、日本の女優。岡山県出身。円谷プロダクション、A-PROに所属していた。"
+            },
+            {
                 "datetime": "2024年04月29日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2307192",
                 "title": "ラブ & ドラッグ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=700783",
                 "title": "ベレロフォン級戦艦",
                 "text": "〇〇は、イギリス海軍が「ドレッドノート」に続いて建造した2番目の弩級戦艦の艦級である。"
-            },
-            {
-                "datetime": "2024年04月28日 00時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4551235",
-                "title": "由利本荘市立出羽中学校",
-                "text": "〇〇は、秋田県由利本荘市中舘にあった公立中学校。学校区は、旧大内町、北内越など。"
             }
         ]
     }
