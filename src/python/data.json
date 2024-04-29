@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年04月29日 19時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2922726",
+                "title": "ザ・ヴァンプス",
+                "text": "〇〇は、イギリス出身のバンド。YouTubeにカバー曲を投稿し人気を集め、2013年9月にCDデビュー。ファーストシングルはUKチャート初週2位。MTV Brand New Artist For 2014。2014年5-6月、プロモーションのため初来日。"
+            },
+            {
                 "datetime": "2024年04月29日 18時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3482094",
                 "title": "後藤祐里",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=212967",
                 "title": "ウーベ・バイン",
                 "text": "〇〇は、ドイツ・ヘッセン州出身の元サッカー選手。ポジションはMF（攻撃的MF）。ドイツ語の発音では「ウーヴェ・バイン」に近い。"
-            },
-            {
-                "datetime": "2024年04月28日 01時の問題",
-                "url": "https://ja.wikipedia.org/?curid=700783",
-                "title": "ベレロフォン級戦艦",
-                "text": "〇〇は、イギリス海軍が「ドレッドノート」に続いて建造した2番目の弩級戦艦の艦級である。"
             }
         ]
     }
