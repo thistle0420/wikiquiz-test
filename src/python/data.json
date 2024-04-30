@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年04月30日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1174704",
+                "title": "若鶴酒造",
+                "text": "〇〇は、富山県砺波市三郎丸にある清酒などを製造・販売する日本の酒造メーカー。"
+            },
+            {
                 "datetime": "2024年04月30日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1418945",
                 "title": "嶋崎伸夫",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1604331",
                 "title": "福岡県立朝倉東高等学校",
                 "text": "〇〇は、福岡県朝倉市甘木にある公立高等学校。"
-            },
-            {
-                "datetime": "2024年04月28日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4708012",
-                "title": "ツキヨノハマグリ",
-                "text": "〇〇は、マルスダレガイ科の二枚貝。1758年、カール・フォン・リンネによってVenus dione Linnaeus, 1758と命名された。Hysteroconcha dione (Linnaeus, 1758)はシノニム。"
             }
         ]
     }
