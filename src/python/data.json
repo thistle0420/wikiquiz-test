@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年04月30日 22時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3495890",
+                "title": "2016 WBSC U-23ワールドカップ チャイニーズタイペイ代表",
+                "text": "〇〇は、2016年10月28日から11月6日に開催されたWBSC U-23ワールドカップ第1回大会に出場したチャイニーズタイペイ代表である。"
+            },
+            {
                 "datetime": "2024年04月30日 21時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2379251",
                 "title": "伊藤節+伊藤志信",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3603370",
                 "title": "年豊",
                 "text": "〇〇は、明治時代の浮世絵師。"
-            },
-            {
-                "datetime": "2024年04月29日 04時の問題",
-                "url": "https://ja.wikipedia.org/?curid=980829",
-                "title": "白地城",
-                "text": "〇〇は、阿波国三好郡白地（現在の徳島県三好市池田町白地）にあった日本の城。三好市指定史跡。"
             }
         ]
     }
