@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年05月01日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4824244",
+                "title": "金屋上司古墳",
+                "text": "〇〇は、京都府与謝郡与謝野町金屋にある古墳。形状は方墳（または円墳）。与謝野町指定史跡に指定されている。"
+            },
+            {
                 "datetime": "2024年05月01日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3012442",
                 "title": "マヤ・アルム",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2476161",
                 "title": "ハマIN自動車学校",
                 "text": "〇〇は、静岡県内で自動車販売、レジャー産業を運営する国際グループの企業である。2024年1月4日、株式会社浜名湖自動車学校（はまなこじどうしゃがっこう、英称Hamanako Driving School）より社名・校名を変更した。"
-            },
-            {
-                "datetime": "2024年04月29日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3188255",
-                "title": "バサヴァカリヤーン",
-                "text": "〇〇は、インドのカルナータカ州、ビーダル県の都市。"
             }
         ]
     }
