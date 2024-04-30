@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年05月01日 03時の問題",
+                "url": "https://ja.wikipedia.org/?curid=520200",
+                "title": "プーケット国際空港",
+                "text": "〇〇は、タイ王国のプーケット県タラーン郡マイカーオ町（タムボン）にある国際空港である。"
+            },
+            {
                 "datetime": "2024年05月01日 02時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3234748",
                 "title": "井上晴丸",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4237241",
                 "title": "新ン町",
                 "text": "〇〇は、京都府京都市上京区の町名。"
-            },
-            {
-                "datetime": "2024年04月29日 10時の問題",
-                "url": "https://ja.wikipedia.org/?curid=179442",
-                "title": "吉井駅 (群馬県)",
-                "text": "〇〇は、群馬県高崎市吉井町吉井にある上信電鉄上信線の駅。"
             }
         ]
     }
