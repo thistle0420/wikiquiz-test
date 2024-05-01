@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年05月01日 22時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4419793",
+                "title": "BAD APPLE (GLAYの曲)",
+                "text": "〇〇は、GLAYの通算59作目のシングル。2021年8月18日にLSGから発売。"
+            },
+            {
                 "datetime": "2024年05月01日 21時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3932068",
                 "title": "佐川はるみ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1254847",
                 "title": "無燃料重量",
                 "text": "〇〇は、航空機において離陸重量から搭載されている燃料の重量を差し引いたもの。零燃料重量（れいねんりょうじゅうりょう）とも言う。"
-            },
-            {
-                "datetime": "2024年04月30日 04時の問題",
-                "url": "https://ja.wikipedia.org/?curid=202367",
-                "title": "大塩温泉 (長野県)",
-                "text": "〇〇は、長野県上田市（旧国信濃国）にある温泉。"
             }
         ]
     }
