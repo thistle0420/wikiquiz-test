@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年05月01日 12時の問題",
+                "url": "https://ja.wikipedia.org/?curid=876005",
+                "title": "ホーカー・シドレー",
+                "text": "〇〇は、マクドネル・ダグラス社の参入によって発展し続け、ハリアー IIとして現在も運用されている。"
+            },
+            {
                 "datetime": "2024年05月01日 11時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3976637",
                 "title": "容赦なき戦争",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2922726",
                 "title": "ザ・ヴァンプス",
                 "text": "〇〇は、イギリス出身のバンド。YouTubeにカバー曲を投稿し人気を集め、2013年9月にCDデビュー。ファーストシングルはUKチャート初週2位。MTV Brand New Artist For 2014。2014年5-6月、プロモーションのため初来日。"
-            },
-            {
-                "datetime": "2024年04月29日 18時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3482094",
-                "title": "後藤祐里",
-                "text": "〇〇は、日本の女優。岡山県出身。円谷プロダクション、A-PROに所属していた。"
             }
         ]
     }
