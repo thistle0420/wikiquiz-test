@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年05月01日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3932068",
+                "title": "佐川はるみ",
+                "text": "〇〇は、日本の元AV女優。クルーズグループ所属。"
+            },
+            {
                 "datetime": "2024年05月01日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1077499",
                 "title": "金烏",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=202367",
                 "title": "大塩温泉 (長野県)",
                 "text": "〇〇は、長野県上田市（旧国信濃国）にある温泉。"
-            },
-            {
-                "datetime": "2024年04月30日 03時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4716483",
-                "title": "ミアン人",
-                "text": "〇〇は、豚、ヒクイドリ、鳥、魚、蛇、小型の爬虫類が含まれる。 狩りはもっぱら男性の仕事で、対する女性は普通、食事の準備をする。"
             }
         ]
     }
