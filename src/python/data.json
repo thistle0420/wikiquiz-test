@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年05月02日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2312471",
+                "title": "ジャスティン・ノヅカ",
+                "text": "〇〇は、カナダの歌手である。ニューヨークで生まれた。フルネームはジャスティン・トキミツ・ノズカである。"
+            },
+            {
                 "datetime": "2024年05月02日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=849355",
                 "title": "ジョン・A・ムーア (フリゲート)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1592035",
                 "title": "連れてって 連れてって",
                 "text": "〇〇は、DREAMS COME TRUEの43作目のシングル。2008年11月12日発売。"
-            },
-            {
-                "datetime": "2024年05月01日 00時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2855601",
-                "title": "山形スバル",
-                "text": "〇〇は、山形県山形市に本社を置くSUBARUのディーラーである。"
             }
         ]
     }
