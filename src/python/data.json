@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年05月03日 01時の問題",
+                "url": "https://ja.wikipedia.org/?curid=747156",
+                "title": "仁義ストーム The Arcade",
+                "text": "〇〇は、アトラティーバ・ジャパンが開発した3D格闘ゲーム。"
+            },
+            {
                 "datetime": "2024年05月03日 00時の問題",
                 "url": "https://ja.wikipedia.org/?curid=370224",
                 "title": "峡東ケーブルネット",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4824244",
                 "title": "金屋上司古墳",
                 "text": "〇〇は、京都府与謝郡与謝野町金屋にある古墳。形状は方墳（または円墳）。与謝野町指定史跡に指定されている。"
-            },
-            {
-                "datetime": "2024年05月01日 07時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3012442",
-                "title": "マヤ・アルム",
-                "text": "〇〇は、デンマークのオリエンテーリング選手であり、スプリント競技を得意とする。オーフス在住。"
             }
         ]
     }
