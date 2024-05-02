@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年05月03日 02時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2439978",
+                "title": "安達明",
+                "text": "〇〇は、日本の歌手である。"
+            },
+            {
                 "datetime": "2024年05月03日 01時の問題",
                 "url": "https://ja.wikipedia.org/?curid=747156",
                 "title": "仁義ストーム The Arcade",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=709419",
                 "title": "マジックバス",
                 "text": "〇〇は、日本のアニメ制作会社。成人向け作品においては「ホランナビ」や「MB企画」とクレジットされる。"
-            },
-            {
-                "datetime": "2024年05月01日 08時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4824244",
-                "title": "金屋上司古墳",
-                "text": "〇〇は、京都府与謝郡与謝野町金屋にある古墳。形状は方墳（または円墳）。与謝野町指定史跡に指定されている。"
             }
         ]
     }
