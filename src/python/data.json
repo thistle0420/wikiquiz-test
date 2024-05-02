@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年05月02日 22時の問題",
+                "url": "https://ja.wikipedia.org/?curid=249977",
+                "title": "飛騨川",
+                "text": "〇〇は、木曽川水系の一級河川。岐阜県高山市・下呂市・加茂郡白川町・加茂郡八百津町・加茂郡七宗町・加茂郡川辺町・美濃加茂市を流れる。木曽川本川に合流する1次支川。"
+            },
+            {
                 "datetime": "2024年05月02日 21時の問題",
                 "url": "https://ja.wikipedia.org/?curid=365853",
                 "title": "ヒメキクラゲ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1714329",
                 "title": "北魚沼農業協同組合",
                 "text": "〇〇は、新潟県魚沼市に本店を置いていた農業協同組合。"
-            },
-            {
-                "datetime": "2024年05月01日 04時の問題",
-                "url": "https://ja.wikipedia.org/?curid=266250",
-                "title": "形成外科学",
-                "text": "〇〇は、外科学の一分野。"
             }
         ]
     }
