@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年05月04日 01時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2821212",
+                "title": "クリスマス (競走馬)",
+                "text": "〇〇は、日本の競走馬。馬名の由来は、クリスマス。主な勝ち鞍は2013年の函館2歳ステークス。"
+            },
+            {
                 "datetime": "2024年05月04日 00時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2106090",
                 "title": "稲葉迂斎",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=50414",
                 "title": "北松戸駅",
                 "text": "〇〇は、千葉県松戸市上本郷にある、東日本旅客鉄道（JR東日本）常磐線の駅である。常磐緩行線の列車が停車する。駅番号はJL 23。当駅は松戸市の上本郷に位置し、松戸競輪や北松戸工業団地の最寄り駅である。"
-            },
-            {
-                "datetime": "2024年05月02日 07時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2338869",
-                "title": "ALL TIME LIVE BEST",
-                "text": "〇〇は、DEENのライブベストアルバム。また、本作発売と、同時に配信が開始された配信限定ライブ・アルバム『〇〇 (DIGITAL ONLY)』についても、こちらに記載する。"
             }
         ]
     }
