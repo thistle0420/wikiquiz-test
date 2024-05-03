@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年05月03日 16時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1778144",
+                "title": "安部行洋",
+                "text": "〇〇は、日本のプロレスラー。"
+            },
+            {
                 "datetime": "2024年05月03日 15時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1551127",
                 "title": "大野橋 (岐阜県)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4728311",
                 "title": "櫻井もえ",
                 "text": "〇〇は、日本のグラビアアイドル。アイドルグループ「I MY ME MINE」のメンバー。"
-            },
-            {
-                "datetime": "2024年05月01日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4419793",
-                "title": "BAD APPLE (GLAYの曲)",
-                "text": "〇〇は、GLAYの通算59作目のシングル。2021年8月18日にLSGから発売。"
             }
         ]
     }
