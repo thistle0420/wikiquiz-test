@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年05月04日 16時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3396630",
+                "title": "Innocent Age (茅原実里のアルバム)",
+                "text": "〇〇は、茅原実里の6枚目のオリジナルアルバム。2016年4月6日にLantisから発売された。"
+            },
+            {
                 "datetime": "2024年05月04日 15時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2443762",
                 "title": "栃尾駅",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3620903",
                 "title": "石川村 (京都府)",
                 "text": "〇〇は、京都府与謝郡にあった村。現在の与謝野町石川にあたる。"
-            },
-            {
-                "datetime": "2024年05月02日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=249977",
-                "title": "飛騨川",
-                "text": "〇〇は、木曽川水系の一級河川。岐阜県高山市・下呂市・加茂郡白川町・加茂郡八百津町・加茂郡七宗町・加茂郡川辺町・美濃加茂市を流れる。木曽川本川に合流する1次支川。"
             }
         ]
     }
