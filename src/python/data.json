@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年05月05日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2599010",
+                "title": "2014 FIFAワールドカップ・大陸間プレーオフ",
+                "text": "〇〇は、2014 FIFAワールドカップ・予選の大陸間プレーオフの結果をまとめたものである。"
+            },
+            {
                 "datetime": "2024年05月04日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4852403",
                 "title": "Galaxy Watch6",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2474106",
                 "title": "小間漁港",
                 "text": "〇〇は、京都府京丹後市丹後町間人にある港。漁港漁場整備法（昭和25年5月2日法律第137号）第1章第5条に規定する第1種漁港である。なお、丹後町間人には第2種漁港の間人漁港もある。"
-            },
-            {
-                "datetime": "2024年05月03日 06時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1568309",
-                "title": "ヤマアノア",
-                "text": "〇〇は、ウシ科アジアスイギュウ属（Anoa属とする説もあり）に分類される偶蹄類。"
             }
         ]
     }
