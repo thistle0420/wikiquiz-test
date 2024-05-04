@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年05月04日 19時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1999278",
+                "title": "2,5-ジオキソ吉草酸デヒドロゲナーゼ",
+                "text": "〇〇は、アスコルビン酸およびアルダル酸の代謝酵素の一つで、次の化学反応を触媒する酸化還元酵素である。2,5-ジオキソ吉草酸 + NADP+ + H2O                     ⇌              {\\displaystyle \\rightleftharpoons }   2-オキソグルタル酸 + NADPH + 2 H+反応式の通り、この酵素の基質は2,5-ジオキソ吉草酸とNADP+と水、生成物は2-オキソグルタル酸とNADPHとH+である。組織名は2,5-dioxopentanoate:NADP+ 5-oxidoreductaseで、別名に2-oxoglutarate semialdehyde dehydrogenase, α-ketoglutaric semialdehyde dehydrogenaseがある。"
+            },
+            {
                 "datetime": "2024年05月04日 18時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1285322",
                 "title": "宮城政業",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2439978",
                 "title": "安達明",
                 "text": "〇〇は、日本の歌手である。"
-            },
-            {
-                "datetime": "2024年05月03日 01時の問題",
-                "url": "https://ja.wikipedia.org/?curid=747156",
-                "title": "仁義ストーム The Arcade",
-                "text": "〇〇は、アトラティーバ・ジャパンが開発した3D格闘ゲーム。"
             }
         ]
     }
