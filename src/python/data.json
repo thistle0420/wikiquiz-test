@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年05月04日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2238965",
+                "title": "Alstroemeria Records",
+                "text": "〇〇は、日本の同人音楽サークル。音楽プロデューサーのMasayoshi Minoshimaが主宰しており、主に東方Project楽曲のアレンジ作品をリリースしている。"
+            },
+            {
                 "datetime": "2024年05月04日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=763392",
                 "title": "杉山圭",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1251711",
                 "title": "マンフレッド (シューマン)",
                 "text": "〇〇は、ロベルト・シューマンが作曲した独唱・合唱とオーケストラのための劇音楽である。バイロンの詩劇『マンフレッド』の上演のために書き下ろしたもので、序曲と15の場面の音楽からなる。"
-            },
-            {
-                "datetime": "2024年05月03日 03時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3675502",
-                "title": "ツバキ・ナカシマ",
-                "text": "〇〇は、日本の機械・自動車部品メーカーである。JPX日経中小型株指数の構成銘柄の一つ。"
             }
         ]
     }
