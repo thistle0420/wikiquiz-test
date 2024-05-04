@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年05月04日 10時の問題",
+                "url": "https://ja.wikipedia.org/?curid=52649",
+                "title": "台湾海峡",
+                "text": "〇〇は、中国大陸（中華人民共和国福建省）と台湾（中華民国）を隔てる海峡。"
+            },
+            {
                 "datetime": "2024年05月04日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2622856",
                 "title": "TEAM SHACHI",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=849355",
                 "title": "ジョン・A・ムーア (フリゲート)",
                 "text": "〇〇は、アメリカ海軍のミサイルフリゲート。オリバー・ハザード・ペリー級ミサイルフリゲートの11番艦。艦名は〇〇(1910 - 1944) に因む。"
-            },
-            {
-                "datetime": "2024年05月02日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4873922",
-                "title": "板橋 (札幌市)",
-                "text": "〇〇は、かつて北海道札幌市白石区東米里にて、開拓が試みられた地区を指す名称。"
             }
         ]
     }
