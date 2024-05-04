@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年05月04日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=763392",
+                "title": "杉山圭",
+                "text": "〇〇は、日本の元AV女優。茨城県出身。"
+            },
+            {
                 "datetime": "2024年05月04日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1999278",
                 "title": "2,5-ジオキソ吉草酸デヒドロゲナーゼ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3675502",
                 "title": "ツバキ・ナカシマ",
                 "text": "〇〇は、日本の機械・自動車部品メーカーである。JPX日経中小型株指数の構成銘柄の一つ。"
-            },
-            {
-                "datetime": "2024年05月03日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2439978",
-                "title": "安達明",
-                "text": "〇〇は、日本の歌手である。"
             }
         ]
     }
