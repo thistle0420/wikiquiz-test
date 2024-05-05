@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年05月05日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2403953",
+                "title": "長崎県央農業協同組合",
+                "text": "〇〇は、長崎県諫早市に本店を置く農業協同組合である。通称JAながさき県央。統一金融機関コードは8813。"
+            },
+            {
                 "datetime": "2024年05月05日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=6683",
                 "title": "同位体",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4768592",
                 "title": "古岡滉",
                 "text": "〇〇は、日本の経営者。学習研究社(現在の学研ホールディングス)社長を務めた。創業者である古岡秀人の長男でもある。"
-            },
-            {
-                "datetime": "2024年05月04日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3850932",
-                "title": "NFPA 13",
-                "text": "〇〇は、全米防火協会（NFPA）が策定・管理するスプリンクラー設備の設計および設置に関する規程である。"
             }
         ]
     }
