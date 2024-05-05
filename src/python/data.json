@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年05月05日 11時の問題",
+                "url": "https://ja.wikipedia.org/?curid=590819",
+                "title": "朝比奈伸",
+                "text": "〇〇は、静岡県藤枝市出身の元サッカー選手、サッカー指導者。現役時代のポジションはディフェンダー（センターバック）。"
+            },
+            {
                 "datetime": "2024年05月05日 10時の問題",
                 "url": "https://ja.wikipedia.org/?curid=369676",
                 "title": "ウィルソン山天文台",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3280334",
                 "title": "Vivid brilliant door!",
                 "text": "〇〇は、スフィアの楽曲。"
-            },
-            {
-                "datetime": "2024年05月03日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4872259",
-                "title": "更生町",
-                "text": "〇〇は、愛知県半田市の地名。"
             }
         ]
     }
