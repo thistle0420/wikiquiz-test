@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年05月05日 23時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4765935",
+                "title": "SAD…",
+                "text": "〇〇は、森重樹一の3枚目のシングル。"
+            },
+            {
                 "datetime": "2024年05月05日 22時の問題",
                 "url": "https://ja.wikipedia.org/?curid=569544",
                 "title": "ジュダ・ベンジャミン",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4521565",
                 "title": "351号工場",
                 "text": "〇〇は、北朝鮮（朝鮮民主主義人民共和国）北部、慈江道の道都江界市に所在するミサイル工場。"
-            },
-            {
-                "datetime": "2024年05月04日 05時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4397885",
-                "title": "山城町中野",
-                "text": "〇〇は、徳島県三好市の町名。郵便番号は779-5323。"
             }
         ]
     }
