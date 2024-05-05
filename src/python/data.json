@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年05月05日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1747623",
+                "title": "Quiet life",
+                "text": "〇〇は、delofamiliaの1枚目のオリジナルアルバム。"
+            },
+            {
                 "datetime": "2024年05月05日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2403953",
                 "title": "長崎県央農業協同組合",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2726381",
                 "title": "スクラップ・ヘブン",
                 "text": "〇〇は、2005年10月8日に公開された李相日監督の日本映画。キャッチフレーズは、「世界を一瞬で消す方法がわかりました。」"
-            },
-            {
-                "datetime": "2024年05月04日 03時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4768592",
-                "title": "古岡滉",
-                "text": "〇〇は、日本の経営者。学習研究社(現在の学研ホールディングス)社長を務めた。創業者である古岡秀人の長男でもある。"
             }
         ]
     }
