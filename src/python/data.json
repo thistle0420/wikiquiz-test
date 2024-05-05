@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年05月05日 13時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4035987",
+                "title": "束田涼太",
+                "text": "〇〇は、日本の元ラグビー選手。"
+            },
+            {
                 "datetime": "2024年05月05日 12時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3418753",
                 "title": "順位",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4372764",
                 "title": "ヒア・カムズ・ザ・レイン・アゲイン",
                 "text": "〇〇は、ユーリズミックスの楽曲。3枚目のスタジオ・アルバム『タッチ』からイギリスでは3枚目、北米では1枚目のシングルとして発売された。Billboard Hot 100ではデュオにとって2作目となるTOP10入りを果たした。"
-            },
-            {
-                "datetime": "2024年05月03日 19時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1635741",
-                "title": "牧野忠泰",
-                "text": "〇〇は、越後三根山藩（嶺岡藩）主。"
             }
         ]
     }
