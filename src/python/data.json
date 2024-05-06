@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年05月06日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1035244",
+                "title": "金沢将棋",
+                "text": "〇〇は、金沢伸一郎の開発したコンピュータ将棋のプログラムである。市販ソフト版はアンバランスから発売されている。かつてはCS版はセタ、『極』時代はログから発売されていた。"
+            },
+            {
                 "datetime": "2024年05月06日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1869983",
                 "title": "高橋光子",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1207120",
                 "title": "THE EYE OF JUDGMENT",
                 "text": "〇〇は、ソニー・コンピュータエンタテインメントが発売したPlayStation 3（PS3）用ゲームソフト。略称はEOJ。"
-            },
-            {
-                "datetime": "2024年05月05日 00時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2599010",
-                "title": "2014 FIFAワールドカップ・大陸間プレーオフ",
-                "text": "〇〇は、2014 FIFAワールドカップ・予選の大陸間プレーオフの結果をまとめたものである。"
             }
         ]
     }
