@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年05月06日 15時の問題",
+                "url": "https://ja.wikipedia.org/?curid=200148",
+                "title": "王様のレストラン",
+                "text": "〇〇は、1995年4月19日から7月5日まで毎週水曜日21:00 - 21:54に、フジテレビ系「水曜劇場」枠で放送されていた日本のテレビドラマ。主演は九代目松本幸四郎。"
+            },
+            {
                 "datetime": "2024年05月06日 14時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4769994",
                 "title": "ケラウノス",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4662337",
                 "title": "ブリティッシュコロンビア州議事堂",
                 "text": "〇〇は、カナダのブリティッシュコロンビア州の議事堂。州都ビクトリアにある。"
-            },
-            {
-                "datetime": "2024年05月04日 21時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2238965",
-                "title": "Alstroemeria Records",
-                "text": "〇〇は、日本の同人音楽サークル。音楽プロデューサーのMasayoshi Minoshimaが主宰しており、主に東方Project楽曲のアレンジ作品をリリースしている。"
             }
         ]
     }
