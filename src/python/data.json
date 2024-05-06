@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年05月06日 16時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2995315",
+                "title": "工藤啓子",
+                "text": "〇〇は、日本の女優。本名は菅原 啓子。"
+            },
+            {
                 "datetime": "2024年05月06日 15時の問題",
                 "url": "https://ja.wikipedia.org/?curid=200148",
                 "title": "王様のレストラン",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4852403",
                 "title": "Galaxy Watch6",
                 "text": "〇〇は、サムスン電子が2023年7月26日に発表し、2023年8月11日に発売したスマートウォッチである。日本では2023年9月15日に発売した。"
-            },
-            {
-                "datetime": "2024年05月04日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4662337",
-                "title": "ブリティッシュコロンビア州議事堂",
-                "text": "〇〇は、カナダのブリティッシュコロンビア州の議事堂。州都ビクトリアにある。"
             }
         ]
     }
