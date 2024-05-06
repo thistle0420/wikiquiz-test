@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年05月06日 12時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1411160",
+                "title": "峰打ち",
+                "text": "〇〇は、日本刀などの両刃ではない刀剣の背面にあたる峰の部分で相手を叩くこと。棟打ち（むねうち）ともいい、両方の読み方で刀背打ちと書くこともある。なお、刀剣の側面でたたくことは平打ち（ひらうち）という。"
+            },
+            {
                 "datetime": "2024年05月06日 11時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2218331",
                 "title": "桜三世",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1999278",
                 "title": "2,5-ジオキソ吉草酸デヒドロゲナーゼ",
                 "text": "〇〇は、アスコルビン酸およびアルダル酸の代謝酵素の一つで、次の化学反応を触媒する酸化還元酵素である。2,5-ジオキソ吉草酸 + NADP+ + H2O                     ⇌              {\\displaystyle \\rightleftharpoons }   2-オキソグルタル酸 + NADPH + 2 H+反応式の通り、この酵素の基質は2,5-ジオキソ吉草酸とNADP+と水、生成物は2-オキソグルタル酸とNADPHとH+である。組織名は2,5-dioxopentanoate:NADP+ 5-oxidoreductaseで、別名に2-oxoglutarate semialdehyde dehydrogenase, α-ketoglutaric semialdehyde dehydrogenaseがある。"
-            },
-            {
-                "datetime": "2024年05月04日 18時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1285322",
-                "title": "宮城政業",
-                "text": "〇〇は、戦国時代の武将。武蔵国足立郡宮城（現在の東京都足立区宮城）の国人領主。豊島氏の同族。妻は宇多重広の娘。子に宮城為業。文明年間に豊島氏が太田道灌に滅ぼされると、宮城氏も太田氏に仕える。政業は太田資頼以来6代の主君に仕えたとされている。太田資正が第二次国府台合戦に敗れて岩付城を追われた後も太田氏資に仕えて、そのまま後北条氏の指揮下に入った。長命で子の為業・孫の泰業・曾孫の正重と4代揃って太田氏に仕え、95歳で没した。"
             }
         ]
     }
