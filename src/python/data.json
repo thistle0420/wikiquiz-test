@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年05月08日 23時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2635117",
+                "title": "磐田市立福田中学校",
+                "text": "〇〇は、静岡県磐田市福田中島にある市立中学校。"
+            },
+            {
                 "datetime": "2024年05月08日 22時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3797906",
                 "title": "ダヴィト・カチャラヴァ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=5588",
                 "title": "7月25日",
                 "text": "〇〇は、グレゴリオ暦で年始から206日目（閏年では207日目）にあたり、年末まであと159日ある。"
-            },
-            {
-                "datetime": "2024年05月07日 06時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4593434",
-                "title": "樋田毅",
-                "text": "〇〇は、日本のジャーナリスト、ノンフィクション作家。"
             }
         ]
     }
