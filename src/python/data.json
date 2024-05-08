@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年05月08日 09時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4221533",
+                "title": "福岡市立三宅中学校",
+                "text": "〇〇は、福岡県福岡市南区大橋三丁目にある公立中学校。"
+            },
+            {
                 "datetime": "2024年05月08日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4804680",
                 "title": "コナー・ベダード",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1869983",
                 "title": "高橋光子",
                 "text": "〇〇は、日本の小説家。上条由紀名義で70年代から80年代にかけて少女小説も手掛けた。東京都武蔵野市在住。日本文藝家協会会員。"
-            },
-            {
-                "datetime": "2024年05月06日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2995315",
-                "title": "工藤啓子",
-                "text": "〇〇は、日本の女優。本名は菅原 啓子。"
             }
         ]
     }
