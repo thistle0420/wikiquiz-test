@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年05月09日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4242783",
+                "title": "福岡県道597号三箇山山隈線",
+                "text": "〇〇は、福岡県朝倉郡筑前町を通る一般県道である。"
+            },
+            {
                 "datetime": "2024年05月09日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3534836",
                 "title": "内藤慎平",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1208045",
                 "title": "小国ラジオ中継局",
                 "text": "〇〇は、山形県西置賜郡小国町にある中波放送中継局である。"
-            },
-            {
-                "datetime": "2024年05月08日 01時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4292372",
-                "title": "@小豆",
-                "text": "〇〇は、日本のインフルエンサー、YouTuber、クリエイター。愛称は「あーずー」。UUUM所属。踊ってみたや、ブイログなど動画のジャンルは多岐にわたる。"
             }
         ]
     }
