@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年05月10日 16時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4803124",
+                "title": "エリーア・カプリーレ",
+                "text": "〇〇は、イタリア・ヴェローナ出身のサッカー選手。エンポリFC所属。ポジションはゴールキーパー。"
+            },
+            {
                 "datetime": "2024年05月10日 15時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4360365",
                 "title": "面矢行斗",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2635117",
                 "title": "磐田市立福田中学校",
                 "text": "〇〇は、静岡県磐田市福田中島にある市立中学校。"
-            },
-            {
-                "datetime": "2024年05月08日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3797906",
-                "title": "ダヴィト・カチャラヴァ",
-                "text": "〇〇は、ジョージアのラグビーユニオン選手。主たるポジションはセンター。"
             }
         ]
     }
