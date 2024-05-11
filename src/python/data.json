@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年05月12日 02時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4525974",
+                "title": "藤久保",
+                "text": "〇〇は、埼玉県入間郡三芳町の大字。郵便番号は354-0041。"
+            },
+            {
                 "datetime": "2024年05月12日 01時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2136339",
                 "title": "茨城中学校・高等学校",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2716967",
                 "title": "エドガー・ラミレス (野球)",
                 "text": "〇〇は、アメリカ合衆国フロリダ州マイアミ出身のプロ野球選手(投手)。"
-            },
-            {
-                "datetime": "2024年05月10日 08時の問題",
-                "url": "https://ja.wikipedia.org/?curid=901120",
-                "title": "レッドプラン",
-                "text": "〇〇は、ソフトバンクが提供する料金プランのうち、ボーダフォン時代から継続提供しているものの通称である。"
             }
         ]
     }
