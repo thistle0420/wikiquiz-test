@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年05月13日 06時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2753845",
+                "title": "浮石寺 (瑞山市)",
+                "text": "〇〇は、大韓民国忠清南道瑞山市にある仏教寺院である。"
+            },
+            {
                 "datetime": "2024年05月13日 05時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4173858",
                 "title": "徳川大坂城東六甲採石場",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2733095",
                 "title": "YOHKO",
                 "text": "〇〇は、日本の女性シンガーソングライター。奈良県出身。血液型はO型。"
-            },
-            {
-                "datetime": "2024年05月11日 13時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1855502",
-                "title": "後漢の諸侯王一覧",
-                "text": "〇〇は、後漢の諸侯王を邦国別に一覧で示す。"
             }
         ]
     }
