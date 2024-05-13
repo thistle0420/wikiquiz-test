@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年05月13日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2627595",
+                "title": "大台町立大台中学校",
+                "text": "〇〇は、三重県多気郡大台町にある公立中学校。"
+            },
+            {
                 "datetime": "2024年05月13日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1334883",
                 "title": "SQUALL (松田聖子のアルバム)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2093249",
                 "title": "At Ease",
                 "text": "〇〇は、1990年代初期にApple Computerにより開発された、Macintoshの代替デスクトップ環境である。新規のMacintoshユーザが指示を受けなくても使えるシンプルな環境を提供する。〇〇はFinderデスクトップの手前に表示され、アプリケーションとドキュメントが大きなボタンとして表示される、シンプルなタブ・パネル指向のGUIを提供する。セキュリティ機能はともかく、そのインタフェースや基本機能はPackard Bell Navigatorと非常に近似している。"
-            },
-            {
-                "datetime": "2024年05月12日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4525974",
-                "title": "藤久保",
-                "text": "〇〇は、埼玉県入間郡三芳町の大字。郵便番号は354-0041。"
             }
         ]
     }
