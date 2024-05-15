@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年05月15日 12時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3834349",
+                "title": "カシム・アダムス",
+                "text": "〇〇は、ガーナ・クマシ出身のサッカー選手。ガーナ代表。ポジションはディフェンダー。TSG1899ホッフェンハイム所属。"
+            },
+            {
                 "datetime": "2024年05月15日 11時の問題",
                 "url": "https://ja.wikipedia.org/?curid=883799",
                 "title": "小久保英一郎",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1334883",
                 "title": "SQUALL (松田聖子のアルバム)",
                 "text": "〇〇は、松田聖子初のオリジナル・アルバム。1980年8月1日発売。発売元はCBS・ソニー。"
-            },
-            {
-                "datetime": "2024年05月13日 18時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4685862",
-                "title": "GRESB",
-                "text": "〇〇は、不動産会社・ファンド等のESGに対する配慮を測るベンチマーク評価、及びそれを運営するオランダ・アムステルダム所在の組織の名称である。元々の名称のGlobal Real Estate Sustainability Benchmarkの略が正式名称化しており、日本語では「グローバル不動産サステナビリティ・ベンチマーク」とも呼ばれていた。"
             }
         ]
     }
