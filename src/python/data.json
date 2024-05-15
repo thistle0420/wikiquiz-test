@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年05月16日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2405338",
+                "title": "五十嵐匠",
+                "text": "〇〇は、日本の映画監督。"
+            },
+            {
                 "datetime": "2024年05月16日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3898259",
                 "title": "とびうお座アルファ星",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3992693",
                 "title": "髙木朋弥",
                 "text": "〇〇は、日本の元男性声優。群馬県出身。"
-            },
-            {
-                "datetime": "2024年05月14日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3688754",
-                "title": "ジェリー・ミナ",
-                "text": "〇〇は、コロンビア・カウカ県出身のサッカー選手。セリエA・カリアリ・カルチョ所属。コロンビア代表。ポジションはDF (CB)。"
             }
         ]
     }
