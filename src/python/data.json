@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年05月15日 19時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1128805",
+                "title": "伊瀬知悠",
+                "text": "〇〇は、日本の俳優である。愛媛県出身。元シーアンドティー（キャロット）所属。"
+            },
+            {
                 "datetime": "2024年05月15日 18時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1094995",
                 "title": "坂下昇",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=556539",
                 "title": "熊本市立池上小学校",
                 "text": "〇〇は、熊本県熊本市西区池上町にある公立小学校。"
-            },
-            {
-                "datetime": "2024年05月14日 01時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1056100",
-                "title": "ペディヴィリアーノ",
-                "text": "〇〇は、イタリア共和国カラブリア州コゼンツァ県にある、人口約800人の基礎自治体（コムーネ）。"
             }
         ]
     }
