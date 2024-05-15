@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年05月16日 02時の問題",
+                "url": "https://ja.wikipedia.org/?curid=336979",
+                "title": "レーニア山",
+                "text": "〇〇は、アメリカ西海岸の北部ワシントン州にあり、カスケード山脈の最高峰である成層火山である。高さは4,392m。"
+            },
+            {
                 "datetime": "2024年05月16日 01時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4067128",
                 "title": "FatSecret",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4284104",
                 "title": "DSPE",
                 "text": "〇〇は、2020年3月にレギュラーツアーでの活躍を目指す女子ゴルファー30名を支援するプロジェクトとしてスタート。"
-            },
-            {
-                "datetime": "2024年05月14日 08時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3364880",
-                "title": "ウィル・ブルックス",
-                "text": "〇〇は、アメリカ合衆国の男性総合格闘家。イリノイ州シカゴ出身。アメリカン・トップチーム所属。元Bellator世界ライト級王者。現Titan Fighting Championship世界ウェルター級王者。"
             }
         ]
     }
