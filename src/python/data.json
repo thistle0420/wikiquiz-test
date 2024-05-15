@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年05月15日 13時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3045914",
+                "title": "吉永薫",
+                "text": "〇〇は、日本の女優。獅子座。血液型はA型。フリー料理とアイリッシュウィスキーをこよなく愛す。一般に「薫姉さん」の愛称で呼ばれる。"
+            },
+            {
                 "datetime": "2024年05月15日 12時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3834349",
                 "title": "カシム・アダムス",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2627595",
                 "title": "大台町立大台中学校",
                 "text": "〇〇は、三重県多気郡大台町にある公立中学校。"
-            },
-            {
-                "datetime": "2024年05月13日 19時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1334883",
-                "title": "SQUALL (松田聖子のアルバム)",
-                "text": "〇〇は、松田聖子初のオリジナル・アルバム。1980年8月1日発売。発売元はCBS・ソニー。"
             }
         ]
     }
