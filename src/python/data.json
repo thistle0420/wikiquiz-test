@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年05月16日 01時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4067128",
+                "title": "FatSecret",
+                "text": "〇〇は、ユーザーが栄養、運動、体重を追跡できるようにするモバイルアプリケーション、ウェブサイト、およびAPIサービスである。"
+            },
+            {
                 "datetime": "2024年05月16日 00時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1283813",
                 "title": "マンフレート・キンダー",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3364880",
                 "title": "ウィル・ブルックス",
                 "text": "〇〇は、アメリカ合衆国の男性総合格闘家。イリノイ州シカゴ出身。アメリカン・トップチーム所属。元Bellator世界ライト級王者。現Titan Fighting Championship世界ウェルター級王者。"
-            },
-            {
-                "datetime": "2024年05月14日 07時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3078534",
-                "title": "若島幸右エ門",
-                "text": "〇〇は、京都府愛宕郡白川村（現・京都市左京区北白川）出身の大相撲力士。本名は西村 金次郎（一時中井姓）。身長175cm、体重114kg。主に大阪相撲で活躍し最高位は大関（大阪）前頭7枚目（東京）。"
             }
         ]
     }
