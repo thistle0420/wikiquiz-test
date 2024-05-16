@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年05月17日 02時の問題",
+                "url": "https://ja.wikipedia.org/?curid=507132",
+                "title": "犬伏駅 (徳島県)",
+                "text": "〇〇は、かつて徳島県板野郡板野町犬伏に存在した日本国有鉄道（国鉄）鍛冶屋原線の駅（廃駅）である。電報略号は、イヌ。"
+            },
+            {
                 "datetime": "2024年05月17日 01時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3774609",
                 "title": "中村こずえのSUNDAY HAPPY MAP",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4093716",
                 "title": "八田知紀",
                 "text": "〇〇は、幕末に活躍した国学者、歌人、薩摩藩士である。号は桃岡。通称は喜左衛門。幼名は彦太郎。"
-            },
-            {
-                "datetime": "2024年05月15日 08時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1530327",
-                "title": "桜岡",
-                "text": "〇〇は、桜丘を参照。"
             }
         ]
     }
