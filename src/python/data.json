@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年05月16日 10時の問題",
+                "url": "https://ja.wikipedia.org/?curid=165075",
+                "title": "リチャード・ドレイファス",
+                "text": "〇〇は、アメリカの俳優。身長165cm。"
+            },
+            {
                 "datetime": "2024年05月16日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2405338",
                 "title": "五十嵐匠",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1909477",
                 "title": "S002",
                 "text": "〇〇は、ソニー・エリクソン・モバイルコミュニケーションズ（現：ソニーモバイルコミュニケーションズ）が日本国内向けに開発した、auブランドを展開するKDDIおよび沖縄セルラー電話のCDMA 1X WIN対応携帯電話である。製造型番はSO002（えすおー ぜろぜろに）。"
-            },
-            {
-                "datetime": "2024年05月14日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3992693",
-                "title": "髙木朋弥",
-                "text": "〇〇は、日本の元男性声優。群馬県出身。"
             }
         ]
     }
