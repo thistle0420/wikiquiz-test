@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年05月17日 01時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3774609",
+                "title": "中村こずえのSUNDAY HAPPY MAP",
+                "text": "〇〇は、2018年4月8日から、2021年3月28日まで全国ラジオネットワーク（NRN）系列他の地方局で放送されていたラジオ番組。通称：はぴま。"
+            },
+            {
                 "datetime": "2024年05月17日 00時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4443044",
                 "title": "黒木真由美 パーフェクト・ベスト",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1530327",
                 "title": "桜岡",
                 "text": "〇〇は、桜丘を参照。"
-            },
-            {
-                "datetime": "2024年05月15日 07時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1322499",
-                "title": "うすき製薬",
-                "text": "〇〇は、大分県臼杵市に本社を置く製薬会社。"
             }
         ]
     }
