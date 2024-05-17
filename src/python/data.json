@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年05月18日 02時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2487419",
+                "title": "テラニシシリアゲアリ",
+                "text": "〇〇は、ハチ目・アリ科・シリアゲアリ属に属する、極普通に見られるシリアゲアリの一種である。"
+            },
+            {
                 "datetime": "2024年05月18日 01時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4515743",
                 "title": "白き鋼鉄のX THE OUT OF GUNVOLT",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=165075",
                 "title": "リチャード・ドレイファス",
                 "text": "〇〇は、アメリカの俳優。身長165cm。"
-            },
-            {
-                "datetime": "2024年05月16日 08時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2405338",
-                "title": "五十嵐匠",
-                "text": "〇〇は、日本の映画監督。"
             }
         ]
     }
