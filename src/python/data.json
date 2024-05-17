@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年05月18日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2604989",
+                "title": "芝生瑞和",
+                "text": "〇〇は、日本の国際ジャーナリスト。"
+            },
+            {
                 "datetime": "2024年05月18日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=285036",
                 "title": "Domain/OS",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4785778",
                 "title": "My name is (ウェブテレビ番組)",
                 "text": "〇〇は、2022年1月9日からインターネットテレビ局・ABEMAのHIPHOPチャンネルで配信されている日本のドキュメンタリー番組である。"
-            },
-            {
-                "datetime": "2024年05月16日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3261702",
-                "title": "下流老人",
-                "text": "〇〇は、社会運動家の藤田孝典による造語。および2015年の藤田の著書の題名。高齢者の逼迫した生活をめぐる問題を捉えた言葉。"
             }
         ]
     }
