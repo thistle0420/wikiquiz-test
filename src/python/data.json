@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年05月18日 01時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4515743",
+                "title": "白き鋼鉄のX THE OUT OF GUNVOLT",
+                "text": "〇〇は、インティ・クリエイツより2019年9月26日に発売されたアクションゲームである。キャッチコピーは「2DアクションのX(極限)を、見せてやる。」"
+            },
+            {
                 "datetime": "2024年05月18日 00時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2491547",
                 "title": "LOFT ロフト",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2405338",
                 "title": "五十嵐匠",
                 "text": "〇〇は、日本の映画監督。"
-            },
-            {
-                "datetime": "2024年05月16日 07時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3898259",
-                "title": "とびうお座アルファ星",
-                "text": "〇〇は、とびうお座の連星である。見かけの等級は4.00で、肉眼でみることができる。年周視差に基づく太陽からの距離は、約123光年である。"
             }
         ]
     }
