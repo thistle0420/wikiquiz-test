@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年05月18日 10時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4599790",
+                "title": "龍源院 (座間市)",
+                "text": "〇〇は、神奈川県座間市にある曹洞宗の寺院。"
+            },
+            {
                 "datetime": "2024年05月18日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2604989",
                 "title": "芝生瑞和",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2083720",
                 "title": "ピンク・バブルズ・ゴー・エイプ",
                 "text": "〇〇は、ドイツのヘヴィメタルバンド、ハロウィンが1991年に発表したアルバム。"
-            },
-            {
-                "datetime": "2024年05月16日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4785778",
-                "title": "My name is (ウェブテレビ番組)",
-                "text": "〇〇は、2022年1月9日からインターネットテレビ局・ABEMAのHIPHOPチャンネルで配信されている日本のドキュメンタリー番組である。"
             }
         ]
     }
