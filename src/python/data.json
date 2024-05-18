@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年05月19日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1114030",
+                "title": "カノコガ",
+                "text": "〇〇は、鱗翅目（チョウ目）ヒトリガ科〇〇亜科に属するガの一種。"
+            },
+            {
                 "datetime": "2024年05月19日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=559901",
                 "title": "三陸沖地震",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2049933",
                 "title": "シグマ・セブンe",
                 "text": "〇〇は、日本の声優・ナレーター事務所。株式会社シグマ・セブンの子会社。"
-            },
-            {
-                "datetime": "2024年05月17日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3545130",
-                "title": "手島章斗",
-                "text": "〇〇は、日本の歌手。広島県尾道市出身。エイベックス・マネジメント所属。身長176cm。血液型はA型。2020年8月より尾道観光大使。元SOLIDEMOのメンバー。2022年グループ解散後ソロとして活動。"
             }
         ]
     }
