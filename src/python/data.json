@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年05月20日 04時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3249295",
+                "title": "バーンマイ駅",
+                "text": "〇〇は、タイ王国北部ピッサヌローク県ムアンピッサヌローク郡にある、タイ国有鉄道北本線の駅である。"
+            },
+            {
                 "datetime": "2024年05月20日 03時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4218536",
                 "title": "宮藤さんに言ってもしょうがないんですけど",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3295507",
                 "title": "オスムンダ・バケリー",
                 "text": "〇〇は、ゼンマイ科のシダ植物。シロヤマゼンマイに似ている。"
-            },
-            {
-                "datetime": "2024年05月18日 11時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3129141",
-                "title": "マピミ (ドゥランゴ州)",
-                "text": "〇〇は、メキシコのドゥランゴ州にある自治体。メキシコ政府観光局(SECTUR)（スペイン語: Secretaría de Turismo (México)）によりプエブロ・マヒコとして選出された観光地。"
             }
         ]
     }
