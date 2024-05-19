@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年05月19日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=961673",
+                "title": "潮来花嫁さん",
+                "text": "〇〇は、1960年（昭和35年）4月1日に発売された花村菊江のシングル。"
+            },
+            {
                 "datetime": "2024年05月19日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1073028",
                 "title": "秋場まなと",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4463",
                 "title": "689年",
                 "text": "〇〇は、西暦（ユリウス暦）による、平年。"
-            },
-            {
-                "datetime": "2024年05月18日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2487419",
-                "title": "テラニシシリアゲアリ",
-                "text": "〇〇は、ハチ目・アリ科・シリアゲアリ属に属する、極普通に見られるシリアゲアリの一種である。"
             }
         ]
     }
