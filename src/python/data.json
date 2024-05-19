@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年05月19日 10時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1851887",
+                "title": "不動産経営管理士",
+                "text": "〇〇は、全米不動産管理協会（IREM）が認定する不動産経営管理の資格である。"
+            },
+            {
                 "datetime": "2024年05月19日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2246323",
                 "title": "興地隆史",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2125833",
                 "title": "アグド",
                 "text": "〇〇は、フランス、オクシタニー地域圏、エロー県のコミューン。〇〇は時に『地中海の黒真珠』（la perle noire de la Méditerranée）と呼ばれる。これはコミューン内の建物が長い間玄武岩でつくられてきたことに由来する。"
-            },
-            {
-                "datetime": "2024年05月17日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4180064",
-                "title": "蟾津江汽車村",
-                "text": "〇〇は、大韓民国全羅南道谷城郡梧谷面に位置する鉄道のテーマパークである。"
             }
         ]
     }
