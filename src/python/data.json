@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年05月19日 19時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1073028",
+                "title": "秋場まなと",
+                "text": "〇〇は、日本の元俳優である。ズームリパブリック所属。"
+            },
+            {
                 "datetime": "2024年05月19日 18時の問題",
                 "url": "https://ja.wikipedia.org/?curid=94075",
                 "title": "ブラックビスケッツ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2487419",
                 "title": "テラニシシリアゲアリ",
                 "text": "〇〇は、ハチ目・アリ科・シリアゲアリ属に属する、極普通に見られるシリアゲアリの一種である。"
-            },
-            {
-                "datetime": "2024年05月18日 01時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4515743",
-                "title": "白き鋼鉄のX THE OUT OF GUNVOLT",
-                "text": "〇〇は、インティ・クリエイツより2019年9月26日に発売されたアクションゲームである。キャッチコピーは「2DアクションのX(極限)を、見せてやる。」"
             }
         ]
     }
