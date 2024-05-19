@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年05月20日 02時の問題",
+                "url": "https://ja.wikipedia.org/?curid=82899",
+                "title": "みつわ台駅",
+                "text": "〇〇は、千葉県千葉市若葉区みつわ台三丁目にある、千葉都市モノレール2号線の駅である。駅番号はCM10。"
+            },
+            {
                 "datetime": "2024年05月20日 01時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3943427",
                 "title": "5×20 All the BEST!! 1999-2019",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4599790",
                 "title": "龍源院 (座間市)",
                 "text": "〇〇は、神奈川県座間市にある曹洞宗の寺院。"
-            },
-            {
-                "datetime": "2024年05月18日 08時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2604989",
-                "title": "芝生瑞和",
-                "text": "〇〇は、日本の国際ジャーナリスト。"
             }
         ]
     }
