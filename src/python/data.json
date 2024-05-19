@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年05月20日 03時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4218536",
+                "title": "宮藤さんに言ってもしょうがないんですけど",
+                "text": "〇〇は、TBSラジオで2020年10月2日から放送されているトーク番組である。"
+            },
+            {
                 "datetime": "2024年05月20日 02時の問題",
                 "url": "https://ja.wikipedia.org/?curid=82899",
                 "title": "みつわ台駅",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3129141",
                 "title": "マピミ (ドゥランゴ州)",
                 "text": "〇〇は、メキシコのドゥランゴ州にある自治体。メキシコ政府観光局(SECTUR)（スペイン語: Secretaría de Turismo (México)）によりプエブロ・マヒコとして選出された観光地。"
-            },
-            {
-                "datetime": "2024年05月18日 10時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4599790",
-                "title": "龍源院 (座間市)",
-                "text": "〇〇は、神奈川県座間市にある曹洞宗の寺院。"
             }
         ]
     }
