@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年05月20日 13時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1722295",
+                "title": "佐々木睦",
+                "text": "〇〇は、日本の男性俳優、声優。北海道出身。演劇集団 円所属。"
+            },
+            {
                 "datetime": "2024年05月20日 12時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3575813",
                 "title": "防空少女ラブキューレ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3488841",
                 "title": "長澤均",
                 "text": "〇〇は、日本のグラフィックデザイナー、ファッション史家、オンライン古書店mondo modern（モンド・モダーン）運営者。"
-            },
-            {
-                "datetime": "2024年05月18日 19時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3116667",
-                "title": "ホルヘ・アルファーロ",
-                "text": "〇〇は、コロンビアのスクレ県シンセレホ出身のプロ野球選手（捕手）。右投右打。MLBのシカゴ・カブス傘下所属。愛称はスペイン語で熊を意味するエル・オソ（El Oso）。"
             }
         ]
     }
