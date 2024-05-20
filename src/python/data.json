@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年05月21日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=140973",
+                "title": "東温市",
+                "text": "〇〇は、愛媛県の中予地方に位置する市。愛媛県の市では唯一、海に面していない。"
+            },
+            {
                 "datetime": "2024年05月21日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3683959",
                 "title": "バス・ブリュワリー",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=912077",
                 "title": "ラジオはAM翔んでけ電波",
                 "text": "〇〇は、1983年4月～1987年9月までの4年半にわたりTBCラジオ（東北放送）で放送された、夜の若者向けワイド番組である。「ラジ電」の愛称で親しまれた。"
-            },
-            {
-                "datetime": "2024年05月19日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4145526",
-                "title": "天活玉命",
-                "text": "〇〇は、日本神話に登場する神。"
             }
         ]
     }
