@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年05月21日 15時の問題",
+                "url": "https://ja.wikipedia.org/?curid=287286",
+                "title": "蓬萊昭彦",
+                "text": "〇〇は、熊本県熊本市出身（岡山県岡山市生まれ）の元プロ野球選手（外野手）・コーチ、解説者。"
+            },
+            {
                 "datetime": "2024年05月21日 14時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2958996",
                 "title": "オズレム・オズチェリック",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4922125",
                 "title": "石松愛朱加",
                 "text": "〇〇は、日本の陸上競技選手。専門は中距離走、長距離走。"
-            },
-            {
-                "datetime": "2024年05月19日 21時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2069560",
-                "title": "坂元村",
-                "text": "〇〇は、昭和30年（1955年）まで宮城県亘理郡の南部にあった村。現在の亘理郡山元町南部にあたる。"
             }
         ]
     }
