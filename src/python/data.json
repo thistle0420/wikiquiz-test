@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年05月21日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3679308",
+                "title": "五十嵐啓輔",
+                "text": "〇〇は、日本の俳優である。群馬県出身。"
+            },
+            {
                 "datetime": "2024年05月21日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=394666",
                 "title": "栗子国際スキー場",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4218536",
                 "title": "宮藤さんに言ってもしょうがないんですけど",
                 "text": "〇〇は、TBSラジオで2020年10月2日から放送されているトーク番組である。"
-            },
-            {
-                "datetime": "2024年05月20日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=82899",
-                "title": "みつわ台駅",
-                "text": "〇〇は、千葉県千葉市若葉区みつわ台三丁目にある、千葉都市モノレール2号線の駅である。駅番号はCM10。"
             }
         ]
     }
