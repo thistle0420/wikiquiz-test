@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年05月22日 05時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4067258",
+                "title": "館俊三",
+                "text": "〇〇は、日本の労働運動家、政治家。衆議院議員。"
+            },
+            {
                 "datetime": "2024年05月22日 04時の問題",
                 "url": "https://ja.wikipedia.org/?curid=285057",
                 "title": "土屋博映",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1722295",
                 "title": "佐々木睦",
                 "text": "〇〇は、日本の男性俳優、声優。北海道出身。演劇集団 円所属。"
-            },
-            {
-                "datetime": "2024年05月20日 12時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3575813",
-                "title": "防空少女ラブキューレ",
-                "text": "〇〇は、コナミアミューズメント（KPE・高砂販売株式会社）が2017年に発表・販売したパチスロ（5号機）機である。"
             }
         ]
     }
