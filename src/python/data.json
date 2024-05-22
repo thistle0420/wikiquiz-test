@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年05月22日 11時の問題",
+                "url": "https://ja.wikipedia.org/?curid=301699",
+                "title": "山内秀一",
+                "text": "〇〇は、日本の男性俳優、MC、ライターである。東京都出身。血液型O型。身長172cm、体重63kg、足のサイズ26.5cm｡"
+            },
+            {
                 "datetime": "2024年05月22日 10時の問題",
                 "url": "https://ja.wikipedia.org/?curid=295598",
                 "title": "須弥山",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3588942",
                 "title": "秦啓祐",
                 "text": "〇〇は、日本のラグビー選手。現在はカナダ在住。"
-            },
-            {
-                "datetime": "2024年05月20日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2259556",
-                "title": "Lucky Color's",
-                "text": "〇〇は、沖縄県出身のティーンズモデル2名からなるダンスボーカルユニット。沖縄活動時のキャッチコピーは、『沖縄限定アイドルユニット「RYUKYUダンシングドールズ」』。所属事務所はイトーカンパニーとColor's。"
             }
         ]
     }
