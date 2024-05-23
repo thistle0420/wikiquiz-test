@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年05月24日 01時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1199185",
+                "title": "秋山豊子",
+                "text": "〇〇は、日本の生物学者である。慶應義塾大学教授。専門は分子生物学、色素細胞学。"
+            },
+            {
                 "datetime": "2024年05月24日 00時の問題",
                 "url": "https://ja.wikipedia.org/?curid=16851",
                 "title": "民社党",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3204410",
                 "title": "大成村 (愛媛県)",
                 "text": "〇〇は、愛媛県喜多郡にあった村。現在の大洲市成能・森山にあたる。"
-            },
-            {
-                "datetime": "2024年05月22日 07時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1578049",
-                "title": "ジュゼッペ・ジビリスコ",
-                "text": "〇〇は、イタリアの陸上競技選手。2004年アテネオリンピックの銅メダリストである。シチリア島シラクサ出身。"
             }
         ]
     }
