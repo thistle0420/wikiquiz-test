@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年05月24日 17時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2429963",
+                "title": "李禹煥美術館",
+                "text": "〇〇は、香川県香川郡直島町字倉浦にある李禹煥と安藤忠雄のコラボレーションによる美術館。"
+            },
+            {
                 "datetime": "2024年05月24日 16時の問題",
                 "url": "https://ja.wikipedia.org/?curid=390601",
                 "title": "美少女教育II",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=18827",
                 "title": "防府市",
                 "text": "〇〇は、山口県の中南部にある市。瀬戸内海の周防灘に面している。"
-            },
-            {
-                "datetime": "2024年05月22日 23時の問題",
-                "url": "https://ja.wikipedia.org/?curid=602742",
-                "title": "山下明生",
-                "text": "〇〇は、日本の児童文学作家、翻訳家。"
             }
         ]
     }
