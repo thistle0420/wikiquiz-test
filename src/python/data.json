@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年05月24日 11時の問題",
+                "url": "https://ja.wikipedia.org/?curid=930040",
+                "title": "千葉県立小見川高等学校",
+                "text": "〇〇は、千葉県香取市小見川にある県立高等学校。"
+            },
+            {
                 "datetime": "2024年05月24日 10時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4085232",
                 "title": "大寺山洞穴遺跡",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=758590",
                 "title": "ドレミ團",
                 "text": "〇〇は、日本のヴィジュアル系バンド。2002年1月にボーカルのマコトを中心に結成。"
-            },
-            {
-                "datetime": "2024年05月22日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3971473",
-                "title": "香川熊太郎",
-                "text": "〇〇は、明治から昭和時代前期の政治家、実業家。愛媛県松山市長。"
             }
         ]
     }
