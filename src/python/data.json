@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年05月26日 01時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2886070",
+                "title": "こうくん",
+                "text": "〇〇は、BOSS Loop Stationを使ったループパフォーマンスを得意とする日本のボイスパフォーマーである。本名は非公表。"
+            },
+            {
                 "datetime": "2024年05月26日 00時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1313343",
                 "title": "ロクシタン",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2929053",
                 "title": "アニメビジョン",
                 "text": "〇〇は、日本ビクター株式会社から発売されていたビデオマガジン。当時ビクターが普及に力を入れていたVHDを媒体として供給された。"
-            },
-            {
-                "datetime": "2024年05月24日 07時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2099979",
-                "title": "鹿児島市立坂元小学校",
-                "text": "〇〇は、鹿児島県鹿児島市玉里団地三丁目にある市立小学校。校名は『坂元』であるが、坂元にはなく、玉里団地に所在する。"
             }
         ]
     }
