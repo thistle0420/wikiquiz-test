@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年05月27日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1315808",
+                "title": "富山日産モーター",
+                "text": "〇〇は、かつて富山県富山市に本社を置いていた、日産自動車のディーラー（ブルーステージ店）。"
+            },
+            {
                 "datetime": "2024年05月27日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4190212",
                 "title": "One more thing...",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3381963",
                 "title": "FKスロボダ・ウジツェ",
                 "text": "〇〇は、セルビアのウジツェをホームタウンとするサッカークラブである。"
-            },
-            {
-                "datetime": "2024年05月25日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1841115",
-                "title": "恋する瞳は美しい/やさしい気持ちで",
-                "text": "〇〇は、日本の女性歌手であるSuperflyの8作目のシングル。"
             }
         ]
     }
