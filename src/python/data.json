@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年05月27日 19時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2862636",
+                "title": "屋敷貴道",
+                "text": "〇〇は、株式会社イニス所属の作曲家・サウンドデザイナー・編曲家。"
+            },
+            {
                 "datetime": "2024年05月27日 18時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3368002",
                 "title": "板谷慶一",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2591047",
                 "title": "川崎城 (陸奥国)",
                 "text": "〇〇は、宮城県柴田郡川崎町にあった日本の城。伊達氏の要塞の一つであった。現在、城跡は遊具などが有り、切岸程度しか遺構は見当たらない。"
-            },
-            {
-                "datetime": "2024年05月26日 01時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2886070",
-                "title": "こうくん",
-                "text": "〇〇は、BOSS Loop Stationを使ったループパフォーマンスを得意とする日本のボイスパフォーマーである。本名は非公表。"
             }
         ]
     }
