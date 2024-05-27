@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年05月28日 04時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4906372",
+                "title": "上原忠明",
+                "text": "〇〇は、静岡県出身のプロゴルファー。"
+            },
+            {
                 "datetime": "2024年05月28日 03時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2914370",
                 "title": "石田博",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3756483",
                 "title": "福田淳一",
                 "text": "〇〇は、日本の財務官僚、弁護士。"
-            },
-            {
-                "datetime": "2024年05月26日 11時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1943314",
-                "title": "シンカイエソ科",
-                "text": "〇〇は、ヒメ目ボウエンギョ亜目に所属する魚類の分類群の一つ。シンカイエソ・ミナミシンカイエソの1属2種が知られ、いずれも底生性の深海魚である。"
             }
         ]
     }
