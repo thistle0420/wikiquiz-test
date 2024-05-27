@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年05月27日 23時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1329462",
+                "title": "井戸伸年",
+                "text": "〇〇は、大阪府豊中市出身の元プロ野球選手（外野手）。"
+            },
+            {
                 "datetime": "2024年05月27日 22時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4648535",
                 "title": "君なんか好きにならない",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4513249",
                 "title": "東貝塚 (川口市)",
                 "text": "〇〇は、埼玉県川口市の大字。郵便番号は334-0066。"
-            },
-            {
-                "datetime": "2024年05月26日 05時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3324754",
-                "title": "エウゼビオ・ディ・フランチェスコ",
-                "text": "〇〇は、イタリア出身の元サッカー選手、サッカー指導者。"
             }
         ]
     }
