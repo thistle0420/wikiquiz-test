@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年05月28日 17時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4191988",
+                "title": "春日井市立味美小学校",
+                "text": "〇〇は、愛知県春日井市味美町にある公立小学校。"
+            },
+            {
                 "datetime": "2024年05月28日 16時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2549529",
                 "title": "フレデリック・デモンフォコン",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3360021",
                 "title": "清雲院 (徳川家康側室)",
                 "text": "〇〇は、徳川家康の側室。名は奈津、又は夏。"
-            },
-            {
-                "datetime": "2024年05月26日 23時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3912765",
-                "title": "万場調整池",
-                "text": "〇〇は、愛知県豊橋市にある豊川用水の調整池。"
             }
         ]
     }
