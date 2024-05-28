@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年05月29日 01時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3825941",
+                "title": "THE COMES",
+                "text": "〇〇は、1982年に東京で結成された日本の ハードコア・パンク・バンド。"
+            },
+            {
                 "datetime": "2024年05月29日 00時の問題",
                 "url": "https://ja.wikipedia.org/?curid=348749",
                 "title": "船堀橋",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4619755",
                 "title": "矢内達也",
                 "text": "〇〇は、日本のテレビプロデューサー。朝日放送所属。"
-            },
-            {
-                "datetime": "2024年05月27日 07時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1315808",
-                "title": "富山日産モーター",
-                "text": "〇〇は、かつて富山県富山市に本社を置いていた、日産自動車のディーラー（ブルーステージ店）。"
             }
         ]
     }
