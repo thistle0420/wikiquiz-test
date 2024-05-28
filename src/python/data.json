@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年05月28日 12時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1735017",
+                "title": "マリオ・コルソ",
+                "text": "〇〇は、イタリア、ヴェローナ出身の元サッカー選手。現役時代のポジションはMF。"
+            },
+            {
                 "datetime": "2024年05月28日 11時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2913574",
                 "title": "UEFA EURO 2012予選・グループI",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3250437",
                 "title": "エリダヌス座53番星",
                 "text": "〇〇は、エリダヌス座にある恒星。1688年にドイツの天文学者ゴットフリート・キルヒが作った星座の1つ、Sceptrum Brandenburgicum (ブランデンブルクのおうしゃく座) の一部であった。今は使われなくなったこの星座で最も明るい星であったことから、王笏を意味する Sceptrum という名で呼ばれることもあった。2017年6月30日、国際天文学連合の恒星の命名に関するワーキンググループ (Working Group on Star Names, WGSN) は、〇〇Aの固有名として、Sceptrum を正式に承認した。"
-            },
-            {
-                "datetime": "2024年05月26日 18時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1962313",
-                "title": "ヨーゼフ・ビュルケル",
-                "text": "〇〇は、ドイツの政治家。国家社会主義ドイツ労働者党（ナチ党）のヴェストマルク大管区やウィーン大管区の大管区指導者。突撃隊（SA）と親衛隊（SS）と国家社会主義自動車軍団（NSKK）にも所属しており、いずれの組織においても最終階級は親衛隊大将（Obergruppenführer）。"
             }
         ]
     }
