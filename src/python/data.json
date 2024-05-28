@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年05月28日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=239234",
+                "title": "ヴィクトル・ホルツ",
+                "text": "〇〇は、ドイツの教育家並びに日独科学技術交流・文化交流の先駆者。"
+            },
+            {
                 "datetime": "2024年05月28日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=195336",
                 "title": "こんだ薬師温泉",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2206584",
                 "title": "イ・イニョン",
                 "text": "〇〇は、釜山生まれの韓国の声楽家。通名は金慶植。"
-            },
-            {
-                "datetime": "2024年05月26日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1526720",
-                "title": "ナンヨウショウビン",
-                "text": "〇〇は、ブッポウソウ目カワセミ科に分類される鳥類の一種である。"
             }
         ]
     }
