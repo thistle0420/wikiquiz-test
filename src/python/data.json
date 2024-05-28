@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年05月28日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2028711",
+                "title": "豊田行二",
+                "text": "〇〇は、日本の作家。日本文芸家クラブ初代理事長。本名は渡辺修造。"
+            },
+            {
                 "datetime": "2024年05月28日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4191988",
                 "title": "春日井市立味美小学校",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2160712",
                 "title": "根本順吉",
                 "text": "〇〇は、日本の気象研究家。雅号は迷亭翁。"
-            },
-            {
-                "datetime": "2024年05月27日 00時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3360021",
-                "title": "清雲院 (徳川家康側室)",
-                "text": "〇〇は、徳川家康の側室。名は奈津、又は夏。"
             }
         ]
     }
