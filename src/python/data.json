@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年05月30日 01時の問題",
+                "url": "https://ja.wikipedia.org/?curid=202330",
+                "title": "中国農業銀行",
+                "text": "〇〇は、中華人民共和国の銀行である。中国銀行、中国工商銀行、中国建設銀行と並び中国四大商業銀行とされる。世界最大規模の銀行の一つ。"
+            },
+            {
                 "datetime": "2024年05月30日 00時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4832804",
                 "title": "フリントストーン・キッズ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2152990",
                 "title": "富士映画",
                 "text": "〇〇は、かつて存在した日本の映画会社である。現在の大蔵映画の前身である。"
-            },
-            {
-                "datetime": "2024年05月28日 07時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2711604",
-                "title": "斉藤知三郎",
-                "text": "〇〇は、日本の実業家。"
             }
         ]
     }
