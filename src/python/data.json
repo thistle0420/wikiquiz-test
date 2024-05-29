@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年05月29日 15時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2817816",
+                "title": "竹田復",
+                "text": "〇〇は、日本の中国文学者・中国語学者。東京教育大学名誉教授。"
+            },
+            {
                 "datetime": "2024年05月29日 14時の問題",
                 "url": "https://ja.wikipedia.org/?curid=268716",
                 "title": "新潟県道11号柏崎小国線",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4648535",
                 "title": "君なんか好きにならない",
                 "text": "〇〇は、スピラ・スピカの楽曲。1作目のデジタル配信限定シングルとして、SACRA MUSICより2021年6月20日に各音楽配信サービスにてリリースされた。"
-            },
-            {
-                "datetime": "2024年05月27日 21時の問題",
-                "url": "https://ja.wikipedia.org/?curid=692211",
-                "title": "福岡県道75号若宮玄海線",
-                "text": "〇〇は、福岡県宮若市から宗像市に至る県道（主要地方道）である。"
             }
         ]
     }
