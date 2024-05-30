@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年05月30日 13時の問題",
+                "url": "https://ja.wikipedia.org/?curid=962299",
+                "title": "文京洙",
+                "text": "〇〇は、在日韓国・朝鮮人二世の政治学者。立命館大学国際関係学部教授。専門は、韓国政治史。"
+            },
+            {
                 "datetime": "2024年05月30日 12時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1009370",
                 "title": "名誉校長",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1973543",
                 "title": "プラネット B-BOY",
                 "text": "〇〇は、2007年のアメリカ映画。"
-            },
-            {
-                "datetime": "2024年05月28日 19時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4817860",
-                "title": "室井登喜男",
-                "text": "〇〇は、日本のフリークライマー。"
             }
         ]
     }
