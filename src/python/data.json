@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年05月30日 11時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2548200",
+                "title": "ジュリアン・シモン",
+                "text": "〇〇は、フランス、レンヌ出身の自転車競技（ロードレース）選手である。"
+            },
+            {
                 "datetime": "2024年05月30日 10時の問題",
                 "url": "https://ja.wikipedia.org/?curid=430133",
                 "title": "ブガッティ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2028711",
                 "title": "豊田行二",
                 "text": "〇〇は、日本の作家。日本文芸家クラブ初代理事長。本名は渡辺修造。"
-            },
-            {
-                "datetime": "2024年05月28日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4191988",
-                "title": "春日井市立味美小学校",
-                "text": "〇〇は、愛知県春日井市味美町にある公立小学校。"
             }
         ]
     }
