@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年05月30日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2470952",
+                "title": "チャールズ・モードント (第3代ピーターバラ伯)",
+                "text": "〇〇は、イギリスの貴族、政治家、軍人。"
+            },
+            {
                 "datetime": "2024年05月30日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2379542",
                 "title": "FIRE BEAT",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=272101",
                 "title": "岡山県道55号湯原美甘線",
                 "text": "〇〇は、岡山県真庭市を通る県道（主要地方道）である。"
-            },
-            {
-                "datetime": "2024年05月29日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2280200",
-                "title": "週末Not yet",
-                "text": "〇〇は、日本の女性アイドルグループAKB48の派生ユニット・Not yetの楽曲。作詞は秋元康、作曲は安部純が担当した。2011年3月16日にユニットのデビューシングルとして日本コロムビア（Futureレーベル）から発売された。"
             }
         ]
     }
