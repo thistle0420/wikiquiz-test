@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年05月31日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3614675",
+                "title": "みみずくは黄昏に飛びたつ",
+                "text": "〇〇は、川上未映子が村上春樹に対して行ったインタビューをまとめた書籍。"
+            },
+            {
                 "datetime": "2024年05月31日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=728237",
                 "title": "ミラージュ騎士団",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2817816",
                 "title": "竹田復",
                 "text": "〇〇は、日本の中国文学者・中国語学者。東京教育大学名誉教授。"
-            },
-            {
-                "datetime": "2024年05月29日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=268716",
-                "title": "新潟県道11号柏崎小国線",
-                "text": "〇〇は、新潟県柏崎市から長岡市に至る県道（主要地方道）である。"
             }
         ]
     }
