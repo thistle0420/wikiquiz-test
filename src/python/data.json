@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年06月01日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2221253",
+                "title": "夏みかん (AV女優)",
+                "text": "〇〇は、日本の元AV女優。東京都出身。"
+            },
+            {
                 "datetime": "2024年05月31日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4837852",
                 "title": "生けるパスカル (松本清張)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4453451",
                 "title": "熊井風音",
                 "text": "〇〇は、日本の元女子バレーボール選手。"
-            },
-            {
-                "datetime": "2024年05月30日 06時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3700936",
-                "title": "薬屋のひとりごと",
-                "text": "〇〇は、日向夏による日本のライトノベル。"
             }
         ]
     }
