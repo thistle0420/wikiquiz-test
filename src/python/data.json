@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年06月01日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1246306",
+                "title": "馬場正郎",
+                "text": "〇〇は、日本の陸軍軍人。最終階級は陸軍中将。熊本県出身。"
+            },
+            {
                 "datetime": "2024年06月01日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4022823",
                 "title": "南部興産",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=125111",
                 "title": "淡路町",
                 "text": "〇〇は、兵庫県の南部、瀬戸内海に浮かぶ淡路島北端にかつて存在した町。津名郡に属していた。"
-            },
-            {
-                "datetime": "2024年05月30日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=347646",
-                "title": "松原八幡神社",
-                "text": "〇〇は、兵庫県姫路市にある神社（八幡宮）。旧社格は県社。秋季例大祭は灘のけんか祭りの通称で知られる。"
             }
         ]
     }
