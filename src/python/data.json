@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年06月02日 04時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2046334",
+                "title": "ダイヤクリーニング",
+                "text": "〇〇は、岡山県倉敷市に本社を置く中四国最大手のクリーニング業を主な事業とする企業。"
+            },
+            {
                 "datetime": "2024年06月02日 03時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1983534",
                 "title": "チベット (1912-1950)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2088600",
                 "title": "堀江由衣をめぐる冒険 TOUR FINAL 〜Second Tour 2006〜",
                 "text": "〇〇は、声優・歌手の堀江由衣のライブ映像を収録した映像作品のタイトルである。2006年7月26日にスターチャイルドから発売された。"
-            },
-            {
-                "datetime": "2024年05月31日 11時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2153219",
-                "title": "山中中継局",
-                "text": "〇〇は、石川県加賀市に置かれている中継局である。"
             }
         ]
     }
