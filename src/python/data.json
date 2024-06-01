@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年06月02日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2921541",
+                "title": "横浜ピアノ調律学院",
+                "text": "〇〇は、神奈川県横浜市にあるピアノ調律師およびピアノ技術者の育成を目的とした養成所である。"
+            },
+            {
                 "datetime": "2024年06月01日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2338266",
                 "title": "ナイト・ウォッチマン",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3614675",
                 "title": "みみずくは黄昏に飛びたつ",
                 "text": "〇〇は、川上未映子が村上春樹に対して行ったインタビューをまとめた書籍。"
-            },
-            {
-                "datetime": "2024年05月31日 06時の問題",
-                "url": "https://ja.wikipedia.org/?curid=728237",
-                "title": "ミラージュ騎士団",
-                "text": "〇〇は、永野護の漫画『ファイブスター物語』に登場する架空の騎士団である。正式名称は旧設定では東方第一等幻像軍団（英字表記 First Easter Mirage Corps。略称はF.E.M.C.）新設定ではツァラトウストラ・クリーグ・カンプフリッター・ミラージュ(炎戦幻影騎士団。英字表記 Zarathustra Krieg Kamplitter Mirage。略称はZ.K.K.M.)。"
             }
         ]
     }
