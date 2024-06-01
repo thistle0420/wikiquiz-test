@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年06月02日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2782718",
+                "title": "藤森由香",
+                "text": "〇〇は、長野県長和町出身のスノーボードクロス選手。"
+            },
+            {
                 "datetime": "2024年06月02日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1044757",
                 "title": "パンニ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=850391",
                 "title": "井口一彦",
                 "text": "〇〇は、東京都練馬区出身の日本のロック歌手、音楽家、シンガーソングライター。"
-            },
-            {
-                "datetime": "2024年05月31日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=361550",
-                "title": "ダイハツ・リーザスパイダー",
-                "text": "〇〇は、ダイハツ工業がかつて生産・販売していた軽自動車である。"
             }
         ]
     }
