@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年06月02日 22時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2401094",
+                "title": "吉田与志雄",
+                "text": "〇〇は、作家。神奈川県生まれ。日本大学文科中退。戦前は労働者小説など、戦後は時代小説、児童向け伝記などを書いた。"
+            },
+            {
                 "datetime": "2024年06月02日 21時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2758441",
                 "title": "NACK5時ラジ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1889653",
                 "title": "一般ディリクレ級数",
                 "text": "〇〇は、複素数列                               {                      a                          n                                            }                          n              ≥              0                                            {\\displaystyle \\scriptstyle \\{a_{n}\\}_{n\\geq 0}}  、無限大に発散する狭義の単調増加列                               {                      λ                          n                                            }                          n              ≥              0                                            {\\displaystyle \\scriptstyle \\{\\lambda _{n}\\}_{n\\geq 0}}   および複素数 s に対して、で表される級数のことをいう。指数型のディリクレ級数または広義のディリクレ級数ともいう。特に、                              λ                      n                          =        log        ⁡        n              {\\displaystyle \\lambda _{n}=\\log n}   のとき、であり、(通常)ディリクレ級数となる。また、                              λ                      n                          =        n              {\\displaystyle \\lambda _{n}=n}  、                    z        =                  e                      −            s                                {\\displaystyle z=e^{-s}}   とすると、と、ベキ級数になる。s を変数とみなし、〇〇の収束性を問わないとき、形式的〇〇 (formal general Dirichlet series)という。"
-            },
-            {
-                "datetime": "2024年06月01日 04時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1599360",
-                "title": "ジャパニーズ ロック ファイター",
-                "text": "〇〇は、2008年9月17日に発売された日本のロックバンド、アンダーグラフの8枚目のシングル。"
             }
         ]
     }
