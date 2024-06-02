@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年06月02日 23時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3510199",
+                "title": "文室久賀麻呂",
+                "text": "〇〇は、奈良時代の貴族。大納言・文室大市の子とする系図がある。官位は正五位下・但馬介。"
+            },
+            {
                 "datetime": "2024年06月02日 22時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2401094",
                 "title": "吉田与志雄",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4022823",
                 "title": "南部興産",
                 "text": "〇〇は、埼玉県川口市の建設機械レンタル業。一般的な建設関連機械の他に、カスタムキャリアカー、特殊仕様のローリングタワーや大型の脚立、ドライミスト発生機、ドライアイス洗浄機などがある。"
-            },
-            {
-                "datetime": "2024年06月01日 05時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1889653",
-                "title": "一般ディリクレ級数",
-                "text": "〇〇は、複素数列                               {                      a                          n                                            }                          n              ≥              0                                            {\\displaystyle \\scriptstyle \\{a_{n}\\}_{n\\geq 0}}  、無限大に発散する狭義の単調増加列                               {                      λ                          n                                            }                          n              ≥              0                                            {\\displaystyle \\scriptstyle \\{\\lambda _{n}\\}_{n\\geq 0}}   および複素数 s に対して、で表される級数のことをいう。指数型のディリクレ級数または広義のディリクレ級数ともいう。特に、                              λ                      n                          =        log        ⁡        n              {\\displaystyle \\lambda _{n}=\\log n}   のとき、であり、(通常)ディリクレ級数となる。また、                              λ                      n                          =        n              {\\displaystyle \\lambda _{n}=n}  、                    z        =                  e                      −            s                                {\\displaystyle z=e^{-s}}   とすると、と、ベキ級数になる。s を変数とみなし、〇〇の収束性を問わないとき、形式的〇〇 (formal general Dirichlet series)という。"
             }
         ]
     }
