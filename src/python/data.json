@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年06月04日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3464307",
+                "title": "青木陸",
+                "text": "〇〇は、山形県天童市出身の元プロ野球選手（内野手）。右投右打。"
+            },
+            {
                 "datetime": "2024年06月03日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3283334",
                 "title": "草道島村",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2782718",
                 "title": "藤森由香",
                 "text": "〇〇は、長野県長和町出身のスノーボードクロス選手。"
-            },
-            {
-                "datetime": "2024年06月02日 06時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1044757",
-                "title": "パンニ",
-                "text": "〇〇は、イタリア共和国プッリャ州フォッジャ県にある、人口約700人の基礎自治体（コムーネ）。"
             }
         ]
     }
