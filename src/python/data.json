@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年06月05日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4754935",
+                "title": "根本優奈",
+                "text": "〇〇は、日本の女性声優。東京都出身。クレイジーボックス所属。"
+            },
+            {
                 "datetime": "2024年06月05日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=134374",
                 "title": "鎮西清高",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4720322",
                 "title": "MA55IVE THE RAMPAGE",
                 "text": "〇〇は、日本のヒップホップグループ。THE RAMPAGE from EXILE TRIBEの派生ユニット。"
-            },
-            {
-                "datetime": "2024年06月03日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3187640",
-                "title": "ピストイア動物園",
-                "text": "〇〇は、イタリア、トスカーナ州、ピストイアにある動物園、遊園地である。1970年にオープンし、75,000m2の面積を持つ。哺乳類、爬虫類、鳥類、両生類、無脊椎動物を含むおよそ400種類の動物を飼育しており、UIZA、EAZAに加盟している。"
             }
         ]
     }
