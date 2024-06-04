@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年06月04日 17時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4642558",
+                "title": "焦礼",
+                "text": "〇〇は、明代の軍人。字は尚節。モンゴルの出身。"
+            },
+            {
                 "datetime": "2024年06月04日 16時の問題",
                 "url": "https://ja.wikipedia.org/?curid=28126",
                 "title": "名鉄小牧線",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=906227",
                 "title": "ボージア",
                 "text": "〇〇は、イタリア共和国ピエモンテ州クーネオ県にある、人口約200人の基礎自治体（コムーネ）。"
-            },
-            {
-                "datetime": "2024年06月02日 23時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3510199",
-                "title": "文室久賀麻呂",
-                "text": "〇〇は、奈良時代の貴族。大納言・文室大市の子とする系図がある。官位は正五位下・但馬介。"
             }
         ]
     }
