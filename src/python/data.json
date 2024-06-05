@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年06月05日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1218852",
+                "title": "春風亭柳之助",
+                "text": "〇〇は、落語芸術協会所属の落語家。本名∶荒木 大作。鹿児島県大口市（現・伊佐市）出身。出囃子は「恋の痴話文」。"
+            },
+            {
                 "datetime": "2024年06月05日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4653105",
                 "title": "ポメロン",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3797907",
                 "title": "THE COOL CHIC CHILD",
                 "text": "〇〇は、日本のバンド。1994年結成、2000年解散。"
-            },
-            {
-                "datetime": "2024年06月03日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=613138",
-                "title": "セッケイカワゲラ",
-                "text": "〇〇は、襀翅目クロカワゲラ科の一種（Eocapnia nivalis Ueno）のことを、または〇〇属（Eocapnia属）すべてを指す。"
             }
         ]
     }
