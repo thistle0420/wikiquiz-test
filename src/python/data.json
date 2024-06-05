@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年06月05日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4597727",
+                "title": "四季 (ルネッサンスのアルバム)",
+                "text": "〇〇は、イギリスのプログレッシブ・ロック・バンド、ルネッサンスが1978年に発表した8作目のスタジオ・アルバム。アニー・ハズラム加入後としては6作目に当たる。"
+            },
+            {
                 "datetime": "2024年06月05日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1695814",
                 "title": "六輪駆動",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2479954",
                 "title": "BroadFiler",
                 "text": "〇〇は、株式会社ソフトリンクスにより開発されているMicrosoft Windows専用のファイルマネージャ（ファイラー）。"
-            },
-            {
-                "datetime": "2024年06月04日 03時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1439177",
-                "title": "東明寺 (和光市)",
-                "text": "〇〇は、埼玉県和光市白子にある臨済宗建長寺派の寺院である。山号は福田山で、東明禅寺とも呼ばれる。"
             }
         ]
     }
