@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年06月05日 22時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4519079",
+                "title": "法輪寺 (大田原市)",
+                "text": "〇〇は、栃木県大田原市にある天台宗の寺院。"
+            },
+            {
                 "datetime": "2024年06月05日 21時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4597727",
                 "title": "四季 (ルネッサンスのアルバム)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=27280",
                 "title": "ヒバリ",
                 "text": "〇〇は、スズメ目〇〇科〇〇属に分類される鳥類。春の鳥として世界各国で親しまれている。"
-            },
-            {
-                "datetime": "2024年06月04日 04時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2479954",
-                "title": "BroadFiler",
-                "text": "〇〇は、株式会社ソフトリンクスにより開発されているMicrosoft Windows専用のファイルマネージャ（ファイラー）。"
             }
         ]
     }
