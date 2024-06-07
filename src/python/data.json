@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年06月07日 16時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4189550",
+                "title": "メトキシエストロン",
+                "text": "〇〇は、以下の通りである。 2-〇〇3-〇〇4-〇〇"
+            },
+            {
                 "datetime": "2024年06月07日 15時の問題",
                 "url": "https://ja.wikipedia.org/?curid=890472",
                 "title": "八鹿高校事件",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1255464",
                 "title": "ウェルシュマフィン",
                 "text": "〇〇は、日本で繋養されていた繁殖牝馬である。姪にピースオブワールドがいる。"
-            },
-            {
-                "datetime": "2024年06月05日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4519079",
-                "title": "法輪寺 (大田原市)",
-                "text": "〇〇は、栃木県大田原市にある天台宗の寺院。"
             }
         ]
     }
