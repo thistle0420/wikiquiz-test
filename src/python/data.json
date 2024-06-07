@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年06月07日 11時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2969137",
+                "title": "ビオチンCoAリガーゼ",
+                "text": "〇〇は、以下の化学反応を触媒する酵素である。ATP + ビオチン + CoA                    ⇌              {\\displaystyle \\rightleftharpoons }  AMP + 二リン酸 + ビオチンCoA従って、この酵素の3つの基質はATPとビオチンとCoA、3つの生成物はAMPと二リン酸とビオチンCoAである。この酵素は、リガーゼ、特に酸-チオールリガーゼに分類される。系統名は、ビオチン:CoAリガーゼ(AMP生成)である。その他よく用いられる名前に、biotinyl-CoA synthetase、biotin CoA synthetase、biotinyl coenzyme A synthetase等がある。この酵素は、ビオチンの代謝に関与している。"
+            },
+            {
                 "datetime": "2024年06月07日 10時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3140698",
                 "title": "サンミュージックアカデミー",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=668407",
                 "title": "サン・ベニーニョ・カナヴェーゼ",
                 "text": "〇〇は、イタリア共和国ピエモンテ州トリノ県にある、人口約6,000人の基礎自治体（コムーネ）。"
-            },
-            {
-                "datetime": "2024年06月05日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=628953",
-                "title": "妖界ナビ・ルナ",
-                "text": "〇〇は、池田美代子作の児童文学。または、それを原作とした菊田みちよ作画の漫画作品。"
             }
         ]
     }
