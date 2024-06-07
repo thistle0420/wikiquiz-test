@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年06月08日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3722846",
+                "title": "原千晶 (アナウンサー)",
+                "text": "〇〇は、日本のフリーアナウンサー、テレビ山口（tys）元アナウンサー。セント・フォース所属。"
+            },
+            {
                 "datetime": "2024年06月08日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4782532",
                 "title": "藍住町議会",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3569304",
                 "title": "カシン公",
                 "text": "〇〇は、その首都だったカシンによる。"
-            },
-            {
-                "datetime": "2024年06月06日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3348761",
-                "title": "ローズメリーホテル空室有り",
-                "text": "〇〇は、西炯子による日本の漫画作品。『プチフラワー』（小学館）にて連載されていた。"
             }
         ]
     }
