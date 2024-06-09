@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年06月10日 06時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3784391",
+                "title": "オロヘナ山",
+                "text": "〇〇は、南太平洋のタヒチ島にある標高2,241 mの山。フランス領ポリネシアで最も高い山になる。死火山である。"
+            },
+            {
                 "datetime": "2024年06月10日 05時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1466763",
                 "title": "茨木町",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2299137",
                 "title": "軍浦警察署",
                 "text": "〇〇は、京畿地方警察庁所管の警察署である。"
-            },
-            {
-                "datetime": "2024年06月08日 13時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4550049",
-                "title": "ふるさと〜歌は我が命 第7集",
-                "text": "〇〇は、1973年5月25日にリリースされた美空ひばりのスタジオ・アルバム。"
             }
         ]
     }
