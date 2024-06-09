@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年06月10日 01時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3090621",
+                "title": "アントニー・ハミルトン (俳優)",
+                "text": "〇〇は、オーストラリアの俳優。イギリス出身。"
+            },
+            {
                 "datetime": "2024年06月10日 00時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3708029",
                 "title": "野口宜裕",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3722846",
                 "title": "原千晶 (アナウンサー)",
                 "text": "〇〇は、日本のフリーアナウンサー、テレビ山口（tys）元アナウンサー。セント・フォース所属。"
-            },
-            {
-                "datetime": "2024年06月08日 07時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4782532",
-                "title": "藍住町議会",
-                "text": "〇〇は、徳島県藍住町に設置されている地方議会である。"
             }
         ]
     }
