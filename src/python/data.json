@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年06月09日 10時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4861912",
+                "title": "百花繚乱 〜ベスト・オブ・ピンク・フロイド〜",
+                "text": "〇〇は、イングランドのロック・バンド、ピンク・フロイドのベスト・アルバムで、2011年から2012年にかけて行われたリマスター・キャンペーン「Why Pink Floyd...?」の一環としてリリースされた。その後、2018年9月26日にヴァイナル盤でリリースされている。"
+            },
+            {
                 "datetime": "2024年06月09日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2726078",
                 "title": "山口市立小郡南小学校",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1497703",
                 "title": "Discommunication e.p.",
                 "text": "〇〇は、9mm Parabellum Bulletの1枚目のEP。2007年10月10日発売。"
-            },
-            {
-                "datetime": "2024年06月07日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4189550",
-                "title": "メトキシエストロン",
-                "text": "〇〇は、以下の通りである。 2-〇〇3-〇〇4-〇〇"
             }
         ]
     }
