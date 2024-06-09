@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年06月09日 15時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2523974",
+                "title": "江本正志",
+                "text": "〇〇は、日本の医学者。元群馬大学教授。専門は検査技術科学。"
+            },
+            {
                 "datetime": "2024年06月09日 14時の問題",
                 "url": "https://ja.wikipedia.org/?curid=299472",
                 "title": "「彼の法」集団",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2556763",
                 "title": "ナンキョクコメススキ",
                 "text": "〇〇は、イネ科の植物。南極大陸に自生する種子植物は2種しかないが、その1種が〇〇である。"
-            },
-            {
-                "datetime": "2024年06月07日 21時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4015533",
-                "title": "工藤唯",
-                "text": "〇〇は、日本のグラビアアイドル。ケイエイチプロモーションと専属契約。"
             }
         ]
     }
