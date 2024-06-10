@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年06月11日 05時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1677864",
+                "title": "まりやまい",
+                "text": "〇〇は、日本の元AV女優。神奈川県出身。血液型:O型。身長:164cm。スリーサイズ:B82(B)・W60・H86。"
+            },
+            {
                 "datetime": "2024年06月11日 04時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4929473",
                 "title": "ジョシュア・ブアツィ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=990524",
                 "title": "北海道道366号石狩当別停車場線",
                 "text": "〇〇は、北海道当別町内を結ぶ一般道道である。"
-            },
-            {
-                "datetime": "2024年06月09日 12時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3546574",
-                "title": "旭川鉄道郵便局",
-                "text": "〇〇は、かつて北海道旭川市に本局を置いていた郵便局である。"
             }
         ]
     }
