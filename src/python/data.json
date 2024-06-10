@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年06月11日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2468698",
+                "title": "長崎市立山里小学校",
+                "text": "〇〇は、長崎県長崎市橋口町にある公立小学校。略称は「山小」（やましょう）"
+            },
+            {
                 "datetime": "2024年06月11日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4169391",
                 "title": "天球儀 (恒星)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3708038",
                 "title": "幼な子われらに生まれ",
                 "text": "〇〇は、重松清の小説およびそれを原作とした日本映画。"
-            },
-            {
-                "datetime": "2024年06月09日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2523974",
-                "title": "江本正志",
-                "text": "〇〇は、日本の医学者。元群馬大学教授。専門は検査技術科学。"
             }
         ]
     }
