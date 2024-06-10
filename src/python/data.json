@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年06月10日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4860596",
+                "title": "Carrier Corps",
+                "text": "〇〇は、第1次世界大戦期のイギリス軍の東アフリカ戦線を支えるために創設された、輸送部隊である。この地域に展開していたドイツ軍に対抗すべく、この輸送部隊は活動を行った。"
+            },
+            {
                 "datetime": "2024年06月10日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1298069",
                 "title": "平浩二 (歌手)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4347809",
                 "title": "三野輪有紀",
                 "text": "〇〇は、日本の元女優・声優。東京都出身。スターダストプロモーションに所属していた。"
-            },
-            {
-                "datetime": "2024年06月09日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=131054",
-                "title": "国道441号",
-                "text": "〇〇は、愛媛県大洲市から高知県四万十市に至る一般国道である。"
             }
         ]
     }
