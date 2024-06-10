@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年06月10日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2509364",
+                "title": "岡本久人",
+                "text": "〇〇は、日本の環境学者。次世代システム研究会会長。"
+            },
+            {
                 "datetime": "2024年06月10日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4860596",
                 "title": "Carrier Corps",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4497896",
                 "title": "伊藤瞳 (アナウンサー)",
                 "text": "〇〇は、仙台放送の女性アナウンサー。"
-            },
-            {
-                "datetime": "2024年06月09日 03時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4347809",
-                "title": "三野輪有紀",
-                "text": "〇〇は、日本の元女優・声優。東京都出身。スターダストプロモーションに所属していた。"
             }
         ]
     }
