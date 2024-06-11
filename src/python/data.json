@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年06月11日 12時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3528512",
+                "title": "栗林貞一",
+                "text": "〇〇は、日本の運輸官僚。第26代海上保安庁長官。"
+            },
+            {
                 "datetime": "2024年06月11日 11時の問題",
                 "url": "https://ja.wikipedia.org/?curid=207841",
                 "title": "クルト・レヴィン",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=875398",
                 "title": "郡市対抗源平駅伝",
                 "text": "〇〇は、香川県で開催されていた郡市対抗駅伝競走である。通称「源平駅伝」。"
-            },
-            {
-                "datetime": "2024年06月09日 18時の問題",
-                "url": "https://ja.wikipedia.org/?curid=348279",
-                "title": "友枝喜久夫",
-                "text": "〇〇は、昭和期に活躍した喜多流の能役者。特に三番目物を中心としてすぐれた境地を見せ、「最後の名人」の名をほしいままにした。"
             }
         ]
     }
