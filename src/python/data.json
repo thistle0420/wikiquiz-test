@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年06月12日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2344199",
+                "title": "カメレオン・ポップ",
+                "text": "〇〇は、高野寛の12枚目のアルバム。"
+            },
+            {
                 "datetime": "2024年06月12日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=297921",
                 "title": "猿女君",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2622335",
                 "title": "諏訪優",
                 "text": "〇〇は、日本の詩人、翻訳家。"
-            },
-            {
-                "datetime": "2024年06月10日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1079625",
-                "title": "金部",
-                "text": "〇〇は、漢字を部首により分類したグループの一つ。康熙字典214部首では167番目に置かれる（8画の最初、戌集の最初）。"
             }
         ]
     }
