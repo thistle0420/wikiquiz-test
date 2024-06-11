@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年06月11日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=791616",
+                "title": "欧州経済協力機構",
+                "text": "〇〇は、1948年にヨーロッパ16カ国により設立された機関。 マーシャル・プランに連動する形で、アメリカの要求による為替と貿易の自由化と、ヨーロッパ域内諸国間と欧米間の関税を引き下げることを、その目的としている。現在の欧州統合に先立つ概念をもった機関である。1961年に経済協力開発機構（Organization for Economic Cooperation and Development、OECD）となった。"
+            },
+            {
                 "datetime": "2024年06月11日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1778105",
                 "title": "第31回ブルーリボン賞 (鉄道)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3090621",
                 "title": "アントニー・ハミルトン (俳優)",
                 "text": "〇〇は、オーストラリアの俳優。イギリス出身。"
-            },
-            {
-                "datetime": "2024年06月10日 00時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3708029",
-                "title": "野口宜裕",
-                "text": "〇〇は、トップイーストリーグDiv.1セコムラガッツに所属するラグビー選手。"
             }
         ]
     }
