@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年06月12日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4795357",
+                "title": "金子真大",
+                "text": "〇〇は、日本の男子バドミントン選手。日本男子ダブルス史上初の世界ジュニア選手権王者。"
+            },
+            {
                 "datetime": "2024年06月12日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2721860",
                 "title": "アレクサンドラ・カミニッキー",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2272057",
                 "title": "レイモン・アンパニ",
                 "text": "〇〇は、ベルギーの自転車競技（ロードレース）選手。"
-            },
-            {
-                "datetime": "2024年06月11日 00時の問題",
-                "url": "https://ja.wikipedia.org/?curid=774169",
-                "title": "トモエ文化服装香里専門学校",
-                "text": "〇〇は、学校法人トモエ学園が運営する大阪府枚方市にある専修学校。"
             }
         ]
     }
