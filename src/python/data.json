@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年06月13日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=72278",
+                "title": "酒田短期大学",
+                "text": "〇〇は、山形県酒田市豊里下西割38に本部を置いていた日本の私立大学である。1966年に設置され、2004年に廃止された。大学の略称は酒短。"
+            },
+            {
                 "datetime": "2024年06月13日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4124018",
                 "title": "いっぱいキスしよう",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4661883",
                 "title": "デイテル (アメリカの企業)",
                 "text": "〇〇は、かつて存在したアメリカ合衆国の企業である。"
-            },
-            {
-                "datetime": "2024年06月12日 03時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1685546",
-                "title": "Phantom 〜Requiem for the Phantom〜",
-                "text": "〇〇は、ニトロプラスのアダルトゲーム『Phantom -PHANTOM OF INFERNO-』を原作としたテレビアニメで、同社の10周年記念プロジェクト作品でもある。2009年4月から9月までテレビ東京系で放送された。また、テレビアニメの放送に先がけて漫画版が『月刊コミックアライブ』で連載していた。全26話、原作でシナリオを担当した虚淵玄も本編の脚本に参加するなど、2004年発売のOVA版『Phantom -PHANTOM THE ANIMATION-』よりオリジナルを尊重した内容となっている。"
             }
         ]
     }
