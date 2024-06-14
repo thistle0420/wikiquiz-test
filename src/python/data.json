@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年06月15日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2417250",
+                "title": "ゴースト・ナース 背徳病棟",
+                "text": "〇〇は、2007年に製作されたタイのホラー映画。"
+            },
+            {
                 "datetime": "2024年06月15日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4525787",
                 "title": "戸田市立戸田東中学校",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=197366",
                 "title": "久留里駅",
                 "text": "〇〇は、千葉県君津市久留里市場にある、東日本旅客鉄道（JR東日本）久留里線の駅である。"
-            },
-            {
-                "datetime": "2024年06月13日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=541606",
-                "title": "ケープタウン国際空港",
-                "text": "〇〇は、南アフリカ共和国西ケープ州ケープタウン市都市圏にある国際空港。"
             }
         ]
     }
