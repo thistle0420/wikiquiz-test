@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年06月15日 11時の問題",
+                "url": "https://ja.wikipedia.org/?curid=100192",
+                "title": "小松飛行場",
+                "text": "〇〇は、石川県小松市にある飛行場（空港）である。防衛省が管理、航空自衛隊小松基地（英: JASDF Komatsu Airbase）と民間航空（民航）が滑走路を共用する飛行場（空港法附則第3条第1項で定める自衛隊共用空港）である。民間の施設は通称として小松空港（こまつくうこう、英: Komatsu Airport）と呼ばれている。航空管制は航空自衛隊に所属する管制員が担当している。"
+            },
+            {
                 "datetime": "2024年06月15日 10時の問題",
                 "url": "https://ja.wikipedia.org/?curid=151167",
                 "title": "クノッソス",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4857822",
                 "title": "食物学",
                 "text": "〇〇は、食物について科学的に研究する学問である。"
-            },
-            {
-                "datetime": "2024年06月13日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3850567",
-                "title": "エクアドルの鉄道",
-                "text": "〇〇は、〇〇について記す。"
             }
         ]
     }
