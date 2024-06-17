@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年06月17日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3658838",
+                "title": "UFC on FOX 25",
+                "text": "〇〇は、アメリカ合衆国の総合格闘技団体「UFC」の大会の一つ。2017年7月22日、ニューヨーク州ユニオンデールのナッソー・ベテランズ・メモリアル・コロシアムで開催された。"
+            },
+            {
                 "datetime": "2024年06月17日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2631341",
                 "title": "ピチット駅",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1932249",
                 "title": "大蘇ダム",
                 "text": "〇〇は、熊本県阿蘇郡産山村の大野川水系大蘇川に建設されたダムである。"
-            },
-            {
-                "datetime": "2024年06月16日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=471746",
-                "title": "ローベルト・フランツ",
-                "text": "〇〇は、ドイツの歌曲作曲家。本名はローベルト・クナウト（Robert Knauth）。"
             }
         ]
     }
