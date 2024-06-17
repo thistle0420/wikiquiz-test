@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年06月17日 13時の問題",
+                "url": "https://ja.wikipedia.org/?curid=757895",
+                "title": "御手洗肇",
+                "text": "〇〇は、元キヤノン社長。"
+            },
+            {
                 "datetime": "2024年06月17日 12時の問題",
                 "url": "https://ja.wikipedia.org/?curid=277458",
                 "title": "交響曲第3番 (ブラームス)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1033411",
                 "title": "トム・ローゼンバーグ",
                 "text": "〇〇は、アメリカ合衆国出身の映画プロデューサー。"
-            },
-            {
-                "datetime": "2024年06月15日 19時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1408610",
-                "title": "浜松市立元城小学校",
-                "text": "〇〇は、静岡県浜松市中区（現：中央区）元城町に位置していた公立小学校。開校は1873年（明治6年）で、浜松市内の小学校で最も長い歴史を持つ伝統校だった。"
             }
         ]
     }
