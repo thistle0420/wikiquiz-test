@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年06月17日 17時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1872354",
+                "title": "大石重成",
+                "text": "〇〇は、日本の鉄道技術者。"
+            },
+            {
                 "datetime": "2024年06月17日 16時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3204543",
                 "title": "千慶烏子",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2064941",
                 "title": "東京ドロンパ",
                 "text": "〇〇は、Jリーグ・FC東京のマスコットキャラクター。"
-            },
-            {
-                "datetime": "2024年06月15日 23時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4731462",
-                "title": "ZIL-130",
-                "text": "〇〇は、ロシアの自動車メーカー、ZILによって開発・生産されたソビエト連邦/ロシアの中型トラックである。ZiS-150の後継車種として1953年から開発された。プロジェクト名はZIS-125、ZIS-150Mであった。"
             }
         ]
     }
