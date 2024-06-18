@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年06月19日 03時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1866972",
+                "title": "鹿児島県道301号伊集院停車場線",
+                "text": "〇〇は、鹿児島県日置市を通る一般県道である。"
+            },
+            {
                 "datetime": "2024年06月19日 02時の問題",
                 "url": "https://ja.wikipedia.org/?curid=791290",
                 "title": "性的虐待",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3653815",
                 "title": "マリー・クラウゼ",
                 "text": "〇〇は、ドイツ・アーヘン出身のタレント。リミックス所属。身長172cm。日本を中心に活動している。本名、マリー・クリスティーン・クラウゼ（Marie Christine Krause）。"
-            },
-            {
-                "datetime": "2024年06月17日 10時の問題",
-                "url": "https://ja.wikipedia.org/?curid=35197",
-                "title": "メンマ",
-                "text": "〇〇は、タケノコを乳酸発酵させた加工食品。支那竹（シナチク）とも呼ばれる。"
             }
         ]
     }
