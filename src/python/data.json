@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年06月18日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=179590",
+                "title": "佐々弘雄",
+                "text": "〇〇は、日本の政治学者、ジャーナリスト、参議院議員。"
+            },
+            {
                 "datetime": "2024年06月18日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=930801",
                 "title": "維管束植物レッドデータブック (環境省)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1028613",
                 "title": "盛岡市警察",
                 "text": "〇〇は、かつて存在した岩手県盛岡市の自治体警察。"
-            },
-            {
-                "datetime": "2024年06月17日 00時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3266695",
-                "title": "昭懿貴妃 (宋仁宗)",
-                "text": "〇〇は、北宋の仁宗の貴妃（側室）。姓は張氏。温成皇后張氏（生前は貴妃）とは別人。"
             }
         ]
     }
