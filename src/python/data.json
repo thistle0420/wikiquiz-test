@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年06月22日 03時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2514013",
+                "title": "MISOGI EP",
+                "text": "〇〇は、GRAPEVINEの3枚目のミニアルバムである。2012年2月15日にポニーキャニオンより発売された。"
+            },
+            {
                 "datetime": "2024年06月22日 02時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1835287",
                 "title": "イゴル・ブルザノビッチ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4725283",
                 "title": "水間夢翔",
                 "text": "〇〇は、JAPAN RUGBY LEAGUE ONE日野レッドドルフィンズに所属するラグビー選手。"
-            },
-            {
-                "datetime": "2024年06月20日 10時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2547425",
-                "title": "渡部雄吉",
-                "text": "〇〇は、日本の写真家。"
             }
         ]
     }
