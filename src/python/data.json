@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年06月21日 11時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3005192",
+                "title": "スティーヴ・ジェームズ (俳優)",
+                "text": "〇〇は、アメリカ合衆国の俳優。"
+            },
+            {
                 "datetime": "2024年06月21日 10時の問題",
                 "url": "https://ja.wikipedia.org/?curid=217427",
                 "title": "中西一清",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2106579",
                 "title": "プリンスデモキン",
                 "text": "〇〇は、藤子不二雄Ⓐによる日本の児童漫画作品。同作者の代表作の一つ『怪物くん』からのスピンオフに当たる。"
-            },
-            {
-                "datetime": "2024年06月19日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2568372",
-                "title": "バティスト・レネ",
-                "text": "〇〇は、フランスのサッカー選手。イビサ所属。ポジションはGK。"
             }
         ]
     }
