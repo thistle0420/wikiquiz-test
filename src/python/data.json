@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年06月23日 02時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4454523",
+                "title": "黒川 (新潟県)",
+                "text": "〇〇は、新潟県の主に長岡市を流れる信濃川水系の一級河川。"
+            },
+            {
                 "datetime": "2024年06月23日 01時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3379113",
                 "title": "ハリー奪還",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=217427",
                 "title": "中西一清",
                 "text": "〇〇は、フリーアナウンサー、ラジオパーソナリティ。"
-            },
-            {
-                "datetime": "2024年06月21日 08時の問題",
-                "url": "https://ja.wikipedia.org/?curid=271920",
-                "title": "白木みのる",
-                "text": "〇〇は、日本の俳優、実業家。本名、柏木 彰（かしわぎ あきら）。愛称は「ベイビー」。小柄な体と甲高い声で、個性派として人気を集めた。"
             }
         ]
     }
