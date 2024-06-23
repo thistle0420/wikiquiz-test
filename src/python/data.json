@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年06月23日 17時の問題",
+                "url": "https://ja.wikipedia.org/?curid=629694",
+                "title": "岩手県立花巻南高等学校",
+                "text": "〇〇は、岩手県花巻市中北万丁目にある県立高等学校。"
+            },
+            {
                 "datetime": "2024年06月23日 16時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2658042",
                 "title": "武藤常介",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2635093",
                 "title": "細木原豪紀",
                 "text": "〇〇は、日本の現代音楽作曲家、編曲家。"
-            },
-            {
-                "datetime": "2024年06月21日 23時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1604540",
-                "title": "安藤一夫",
-                "text": "〇〇は、日本の俳優。東京都出身。身長173cm、体重69kg。血液型はA型。アニマ・エージェンシー所属。錦城高等学校卒業。以前は境事務所、演劇集団 円に所属していた。"
             }
         ]
     }
