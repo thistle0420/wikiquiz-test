@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年06月24日 06時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3609038",
+                "title": "NOISE FACTORY",
+                "text": "〇〇は、京都府出身のお笑いハードロックバンド。メジャーデビューの際に、メタドル（メタル+アイドルの略）と称していた。"
+            },
+            {
                 "datetime": "2024年06月24日 05時の問題",
                 "url": "https://ja.wikipedia.org/?curid=980451",
                 "title": "炎のボレロ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=96340",
                 "title": "長和",
                 "text": "〇〇は、日本の元号の一つ。寛弘の後、寛仁の前。1012年から1017年までの期間を指す。この時代の天皇は三条天皇、後一条天皇。"
-            },
-            {
-                "datetime": "2024年06月22日 13時の問題",
-                "url": "https://ja.wikipedia.org/?curid=485283",
-                "title": "トップ・カウ・プロダクション",
-                "text": "〇〇は、アメリカン・コミックスのアーティストマーク・シルベストリ(Marc Silvestri)により1992年に設立されたコミックプロダクションである。"
             }
         ]
     }
