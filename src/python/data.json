@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年06月25日 11時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2345655",
+                "title": "グラン・ガスコン・サントンジョワ",
+                "text": "〇〇は、フランス原産のセントハウンド犬種のひとつである。作出者名にちなんでVirelade Houndとも呼ばれる。"
+            },
+            {
                 "datetime": "2024年06月25日 10時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4754197",
                 "title": "ベンジャミン・ブキャナン",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=663077",
                 "title": "北海道東川高等学校",
                 "text": "〇〇は、北海道上川郡東川町にある公立（道立）の高等学校。全日制普通科。"
-            },
-            {
-                "datetime": "2024年06月23日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=629694",
-                "title": "岩手県立花巻南高等学校",
-                "text": "〇〇は、岩手県花巻市中北万丁目にある県立高等学校。"
             }
         ]
     }
