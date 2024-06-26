@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年06月26日 15時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2454183",
+                "title": "岡田機外",
+                "text": "〇〇は、日本の俳人。本名は鉄蔵。"
+            },
+            {
                 "datetime": "2024年06月26日 14時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3105628",
                 "title": "島根県の市町村歌一覧",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4701949",
                 "title": "TRES (分光器)",
                 "text": "〇〇は、2007年からホイップル天文台の1.5m望遠鏡（ティリングハスト反射望遠鏡）で使用されている天体観測用の分光器である。"
-            },
-            {
-                "datetime": "2024年06月24日 21時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1983834",
-                "title": "ひぐらしのなく頃に解 罪滅し編",
-                "text": "〇〇は、同人サークルである07th Expansionが製作した同人ゲーム『ひぐらしのなく頃に』の第6話目の表題。「解答編」としては第2話目。"
             }
         ]
     }
