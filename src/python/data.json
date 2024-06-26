@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年06月27日 06時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3460508",
+                "title": "ローヒルカンド",
+                "text": "〇〇は、インドのウッタル・プラデーシュ州北西部を指す歴史的地域。アフガン系ローヒラー族が居住したのでこの名称で呼ばれる。"
+            },
+            {
                 "datetime": "2024年06月27日 05時の問題",
                 "url": "https://ja.wikipedia.org/?curid=826463",
                 "title": "NHKテクノロジーズ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3223893",
                 "title": "茅原基治",
                 "text": "〇〇は、日本の航海士・船長。"
-            },
-            {
-                "datetime": "2024年06月25日 13時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3531118",
-                "title": "クリス・パターソン",
-                "text": "〇〇は、イギリス出身のコ・ドライバー。世界ラリー選手権（WRC）チャンピオンペター・ソルベルグの元コ・ドライバーである。"
             }
         ]
     }
