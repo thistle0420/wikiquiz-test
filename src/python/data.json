@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年06月27日 19時の問題",
+                "url": "https://ja.wikipedia.org/?curid=673481",
+                "title": "MARI (タレント)",
+                "text": "〇〇は、実業家。本名：内田 真理（うちだ まり、旧姓：田中 → 伊澤）、旧芸名・いざわまり。滋賀県甲賀市出身。血液型はB型、身長161cm。1998年から1999年までavexに所属しアイドルデュオ・YURIMARIのメンバーとして活動。2005年から2023年まで松竹芸能に所属していた元タレント。"
+            },
+            {
                 "datetime": "2024年06月27日 18時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2085376",
                 "title": "ラシーン (ウィスコンシン州)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2935812",
                 "title": "Jaspersoft BI",
                 "text": "〇〇は、Jaspersoftが提供するビジネスインテリジェンス製品群である。Jaspersoft が備える帳票、リポジトリ、OLAP、ETLコンポーネントにより、時系列及び企業を横断して各種サーバから収集したデータを分析し、視覚的に見やすい形式でWebページ及び帳票として表示することができる。例えばサプライチェーンの受発注システム、CRMシステム、開発システム、流通システムなどからデータを収集して、売上のボトルネックになっているのが営業活動、品質（クレーム／返品が多い）、開発遅延、流通なのかを表すグラフ及び帳票を一括して作成することができる。〇〇を構成するJaspersoft StudioとJasperReports Server（旧：JasperServer）は帳票作成にJasperReportsを使っている。ETLツールであるJasper ETLはTalend Enterprise Data IntegrationのOEMである。また、Jasper OLAPはPentahoのMondrianを使っている。JasperReports、Talend、Pentaho本体はオープンソースプロジェクトであるが、〇〇の機能は商用版のみでしか提供されていないものもある。"
-            },
-            {
-                "datetime": "2024年06月26日 01時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1163231",
-                "title": "上海ラヴソング",
-                "text": "〇〇は、2000年6月7日にマーキュリー・ミュージックエンタテイメントリリースされた松田聖子の51枚目のシングル。"
             }
         ]
     }
