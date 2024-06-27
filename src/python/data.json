@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年06月28日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3615998",
+                "title": "Prism (ClariSの曲)",
+                "text": "〇〇は、ClariSの楽曲。13枚目のシングルとして2015年11月25日にSME Recordsから発売された。"
+            },
+            {
                 "datetime": "2024年06月28日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=272696",
                 "title": "エポナ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2454183",
                 "title": "岡田機外",
                 "text": "〇〇は、日本の俳人。本名は鉄蔵。"
-            },
-            {
-                "datetime": "2024年06月26日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3105628",
-                "title": "島根県の市町村歌一覧",
-                "text": "〇〇は、日本の島根県に属する市町村で制定されている、もしくは過去に制定されていた市町村歌などの自治体歌やそれに準じた楽曲の一覧である。なお、一覧の順序は全国地方公共団体コード順による。"
             }
         ]
     }
