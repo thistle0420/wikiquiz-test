@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年07月01日 02時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3499773",
+                "title": "干川剛史",
+                "text": "〇〇は、日本の社会学者、大妻女子大学教授。"
+            },
+            {
                 "datetime": "2024年07月01日 01時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1014697",
                 "title": "中央交渉会",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=51050",
                 "title": "本町駅",
                 "text": "〇〇は、大阪府大阪市中央区船場中央四丁目にある、大阪市高速電気軌道 (Osaka Metro) の駅である。"
-            },
-            {
-                "datetime": "2024年06月29日 08時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4664655",
-                "title": "マット・マクドナルド",
-                "text": "〇〇は、アイルランドのラグビー選手。"
             }
         ]
     }
