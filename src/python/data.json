@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年07月01日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1409969",
+                "title": "アップランドサウス",
+                "text": "〇〇は、アメリカ合衆国南部において、ローワー・サウスあるいはディープ・サウス（深南部）に対照する地域の呼称である。"
+            },
+            {
                 "datetime": "2024年06月30日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=128122",
                 "title": "城北信用金庫",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2700360",
                 "title": "オランダ宇宙研究所",
                 "text": "〇〇は、宇宙研究のためのオランダの専門機関である。宇宙物理学、地球科学、惑星科学等の研究を行っている。1983年にオランダ科学研究機関の一部としてStichting Ruimteonderzoek Nederland / Space Research Organisation Netherlandsという名前で設立され、ユトレヒトとフローニンゲンに施設を置く。"
-            },
-            {
-                "datetime": "2024年06月29日 06時の問題",
-                "url": "https://ja.wikipedia.org/?curid=141138",
-                "title": "大貫隆",
-                "text": "〇〇は、日本の宗教学者・聖書学者。専攻は、新約聖書学・古代キリスト教文学の研究。東京大学名誉教授。日本宗教学会理事。日本新約学会理事。日本聖書学研究所所員。静岡県出身。"
             }
         ]
     }
