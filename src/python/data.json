@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年06月30日 23時の問題",
+                "url": "https://ja.wikipedia.org/?curid=128122",
+                "title": "城北信用金庫",
+                "text": "〇〇は、東京都北区に本部、荒川区に本店を置く大手信用金庫である。"
+            },
+            {
                 "datetime": "2024年06月30日 22時の問題",
                 "url": "https://ja.wikipedia.org/?curid=96896",
                 "title": "NHK宮崎放送局",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=141138",
                 "title": "大貫隆",
                 "text": "〇〇は、日本の宗教学者・聖書学者。専攻は、新約聖書学・古代キリスト教文学の研究。東京大学名誉教授。日本宗教学会理事。日本新約学会理事。日本聖書学研究所所員。静岡県出身。"
-            },
-            {
-                "datetime": "2024年06月29日 05時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2413392",
-                "title": "電波少年INTERNATIONAL",
-                "text": "〇〇は、日本テレビ『進め!電波少年』・『進ぬ!電波少年』の海外版スペシャルの名称。"
             }
         ]
     }
