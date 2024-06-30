@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年06月30日 16時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3057579",
+                "title": "セキツイハウス",
+                "text": "〇〇は、瀬野反人による日本の漫画。話数の単位は「第○○頸椎」。"
+            },
+            {
                 "datetime": "2024年06月30日 15時の問題",
                 "url": "https://ja.wikipedia.org/?curid=153049",
                 "title": "RABミュージックCube",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2617818",
                 "title": "Yuya Matsushita Live Tour 2011 〜SUPER DRIVE〜",
                 "text": "〇〇は、日本の歌手、松下優也の2枚目のライブDVD。発売元は、ERJ。"
-            },
-            {
-                "datetime": "2024年06月28日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=535034",
-                "title": "閲江楼",
-                "text": "〇〇は、エレベーターで上る事が出来る。"
             }
         ]
     }
