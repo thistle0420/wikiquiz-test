@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年06月30日 10時の問題",
+                "url": "https://ja.wikipedia.org/?curid=866351",
+                "title": "顕慶",
+                "text": "〇〇は、唐の高宗李治の治世に使用された元号。656年 - 661年。"
+            },
+            {
                 "datetime": "2024年06月30日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1861969",
                 "title": "サンドラ・バーンハード",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3563213",
                 "title": "ニシ浜",
                 "text": "〇〇は、沖縄県八重山郡竹富町の波照間島北部にある海岸である。"
-            },
-            {
-                "datetime": "2024年06月28日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3510504",
-                "title": "黒田 (深谷市)",
-                "text": "〇〇は、埼玉県深谷市の大字。郵便番号は369-1244。"
             }
         ]
     }
