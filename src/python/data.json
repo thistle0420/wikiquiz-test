@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年07月01日 16時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1773791",
+                "title": "フォーラムエンジニアリング",
+                "text": "〇〇は、労働者派遣事業を中心に、職業のあっせん、障害者福祉事業等の各種事業を展開する日本の企業。"
+            },
+            {
                 "datetime": "2024年07月01日 15時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2742432",
                 "title": "三本珈琲",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1853416",
                 "title": "クヌルフ",
                 "text": "〇〇は、カトヴィツェの近くのポーランド南部シロンスク県の町。220万人の人口を持つポーランド最大の大都市圏・上シレジア都市圏連合（en:Upper Silesian Metropolitan Union）の境界でもある。〇〇はシレジア高地に位置し、オーデル川の支流のBierawka川が流れる。"
-            },
-            {
-                "datetime": "2024年06月29日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1506778",
-                "title": "詐欺",
-                "text": "〇〇は、他人を騙して、金品などを奪ったり損害を与えたりする犯罪行為。経済犯罪の一つ。"
             }
         ]
     }
