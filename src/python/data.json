@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年07月02日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1905510",
+                "title": "田村ゆかり LIVE 2006-2007 *Pinkle Twinkle☆Milky Way*",
+                "text": "〇〇は、田村ゆかりの通算3作目となる全編がライブ映像である作品（通算5作目の映像作品）。2007年12月24日にキングレコードより発売された。"
+            },
+            {
                 "datetime": "2024年07月02日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2285450",
                 "title": "キングス郡 (カリフォルニア州)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4839889",
                 "title": "瑞浪市デマンド交通",
                 "text": "〇〇は、岐阜県瑞浪市で運行しているデマンド型交通の乗合タクシー。愛称はいこCar（読み方は「いこか～」）。平和コーポレーションが委託運行している。"
-            },
-            {
-                "datetime": "2024年07月01日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3499773",
-                "title": "干川剛史",
-                "text": "〇〇は、日本の社会学者、大妻女子大学教授。"
             }
         ]
     }
