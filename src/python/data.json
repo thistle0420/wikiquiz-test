@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年07月03日 22時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1251363",
+                "title": "カノークス",
+                "text": "〇〇は、名古屋市西区那古野に本社を置く鉄鋼専門商社である。"
+            },
+            {
                 "datetime": "2024年07月03日 21時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1414393",
                 "title": "村上情次",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2412567",
                 "title": "横浜F・マリノスの年度別成績一覧",
                 "text": "〇〇は、横浜F・マリノスの各年度ごとの成績を詳述する。"
-            },
-            {
-                "datetime": "2024年07月02日 04時の問題",
-                "url": "https://ja.wikipedia.org/?curid=352506",
-                "title": "桑山貞晴",
-                "text": "〇〇は、江戸時代前期の大名。大和国御所藩2代藩主。官位は従五位下・加賀守。同名のおじがいる。"
             }
         ]
     }
