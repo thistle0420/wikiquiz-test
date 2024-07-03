@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年07月03日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1414393",
+                "title": "村上情次",
+                "text": "〇〇は、日本の元男子バレーボール選手。広島県広島市出身。"
+            },
+            {
                 "datetime": "2024年07月03日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1020362",
                 "title": "北海道道512号札幌支笏湖線",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=352506",
                 "title": "桑山貞晴",
                 "text": "〇〇は、江戸時代前期の大名。大和国御所藩2代藩主。官位は従五位下・加賀守。同名のおじがいる。"
-            },
-            {
-                "datetime": "2024年07月02日 03時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3795312",
-                "title": "谷洗馬",
-                "text": "〇〇は、大正時代から昭和時代初期にかけての挿絵画家。"
             }
         ]
     }
