@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年07月03日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2554147",
+                "title": "八王子エルシィ",
+                "text": "〇〇は、東京都八王子市にある結婚式場および宴会場である。"
+            },
+            {
                 "datetime": "2024年07月03日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4804921",
                 "title": "能和銀行",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1555600",
                 "title": "ヒルゼン高原センター",
                 "text": "〇〇は、岡山県真庭市の蒜山上福田にあるレジャー施設、遊園地である。"
-            },
-            {
-                "datetime": "2024年07月01日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3819175",
-                "title": "タインオアイ県",
-                "text": "〇〇は、ベトナム社会主義共和国の首都ハノイ市に存在する行政区。"
             }
         ]
     }
