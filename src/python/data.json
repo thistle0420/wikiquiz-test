@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年07月05日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1677307",
+                "title": "オリンパス μ-15 DIGITAL",
+                "text": "〇〇は、オリンパス光学工業のデジタルスチルカメラ、μシリーズの一機種である。コンパクトサイズで防水設計になっている。対応メディアはxDピクチャーカード。"
+            },
+            {
                 "datetime": "2024年07月05日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3385996",
                 "title": "SEA BREEZE 2016",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=931496",
                 "title": "エドワード・ストロベル",
                 "text": "〇〇は、アメリカ合衆国の政治家、外交官。"
-            },
-            {
-                "datetime": "2024年07月03日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2554147",
-                "title": "八王子エルシィ",
-                "text": "〇〇は、東京都八王子市にある結婚式場および宴会場である。"
             }
         ]
     }
