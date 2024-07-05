@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年07月06日 06時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2390814",
+                "title": "幸美AMP",
+                "text": "〇〇は、シンガーソングライターのVo&Gtゆきみと、Dr&Cho直輝のメンバーに加え、サポートベーシストにを迎えた日本の3ピースrockバンド。"
+            },
+            {
                 "datetime": "2024年07月06日 05時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3505577",
                 "title": "ドロ・ペッシュ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4049571",
                 "title": "エドワード・ルイス (プロデューサー)",
                 "text": "〇〇は、アメリカ合衆国の映画プロデューサー、脚本家である。"
-            },
-            {
-                "datetime": "2024年07月04日 13時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4933996",
-                "title": "相馬信義",
-                "text": "〇〇は、日本の経営者。古河機械金属社長、会長を務めた。"
             }
         ]
     }
