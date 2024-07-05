@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年07月05日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4944922",
+                "title": "神山 (一宮市)",
+                "text": "〇〇は、愛知県一宮市の地名。"
+            },
+            {
                 "datetime": "2024年07月05日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2911033",
                 "title": "シカンブル",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=346299",
                 "title": "千鳥型水雷艇",
                 "text": "〇〇は、日本海軍の水雷艇。同型艦4隻。"
-            },
-            {
-                "datetime": "2024年07月04日 00時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1303220",
-                "title": "王子の乱",
-                "text": "〇〇は、李氏朝鮮の建国期に発生した2度の内紛のこと。建国者である李成桂の後継者の地位を巡って、王子たちが争った。詳細は下記を参照のこと。第一次〇〇（1398年）第二次〇〇（1400年）"
             }
         ]
     }
