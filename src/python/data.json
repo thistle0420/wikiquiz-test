@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年07月05日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3873222",
+                "title": "旅客施設使用料",
+                "text": "〇〇は、旅客施設の維持・整備を使途とした空港使用料である。旅客取扱施設利用料、旅客サービス施設使用料（英: Passenger Service Facility Charge、PSFC）とも呼ばれる。"
+            },
+            {
                 "datetime": "2024年07月05日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1741684",
                 "title": "風舞",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1414393",
                 "title": "村上情次",
                 "text": "〇〇は、日本の元男子バレーボール選手。広島県広島市出身。"
-            },
-            {
-                "datetime": "2024年07月03日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1020362",
-                "title": "北海道道512号札幌支笏湖線",
-                "text": "〇〇は、北海道石狩支庁管内の札幌市豊平区と千歳市を結んでいた主要道道（北海道道）である。支笏湖北側を走る。国道453号に格上げされ、廃止された。以下、路線廃止当時の名称・路線番号を用いる。"
             }
         ]
     }
