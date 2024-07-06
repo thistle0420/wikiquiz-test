@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年07月06日 23時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1444309",
+                "title": "世界はときどき美しい",
+                "text": "〇〇は、2007年に公開された日本映画。製作年度は2006年。国際映画祭における英題は、『Life can be so wonderful』。"
+            },
+            {
                 "datetime": "2024年07月06日 22時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3145810",
                 "title": "ロッシュ＝アン＝レニエ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3385996",
                 "title": "SEA BREEZE 2016",
                 "text": "〇〇は、2016年3月16日 (2016-03-16)に発売された角松敏生のデビュー・アルバム『SEA BREEZE』のリテイク・アルバム。"
-            },
-            {
-                "datetime": "2024年07月05日 05時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2807831",
-                "title": "ユシロ化学工業",
-                "text": "〇〇は、切削油や潤滑剤などの金属加工油剤、およびワックスや洗剤などのビルメンテナンス用品の製造を行う企業。本社を東京都大田区に置く。"
             }
         ]
     }
