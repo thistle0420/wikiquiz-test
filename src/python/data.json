@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年07月06日 17時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4107263",
+                "title": "イゴール・マトビッチ",
+                "text": "〇〇は、スロバキアの政治家。元首相。"
+            },
+            {
                 "datetime": "2024年07月06日 16時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3980907",
                 "title": "クーロスのコルヴィル子爵",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1034216",
                 "title": "熊谷郵便局",
                 "text": "〇〇は、埼玉県熊谷市にある郵便局。民営化前の分類は集配普通郵便局であった。局番号は03003。"
-            },
-            {
-                "datetime": "2024年07月04日 23時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4317773",
-                "title": "村山金平",
-                "text": "〇〇は、明治から大正期の実業家、政治家。衆議院議員、宇都宮市会議長。旧姓・高橋、旧名・直次郎。"
             }
         ]
     }
