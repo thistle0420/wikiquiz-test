@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年07月07日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3829334",
+                "title": "きんさいライナー",
+                "text": "〇〇は、広島県福山市と広島県三次市を結ぶ高速バスである。"
+            },
+            {
                 "datetime": "2024年07月07日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3912192",
                 "title": "ファンタスティック・ビーストと魔法使いの事件簿",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1440279",
                 "title": "呂産",
                 "text": "〇〇は、前漢の外戚。碭郡単父県の人。高祖劉邦の妻である呂后（呂雉）の一族で、呂氏が権力を握った時代に呂王・相国となった。"
-            },
-            {
-                "datetime": "2024年07月05日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3873222",
-                "title": "旅客施設使用料",
-                "text": "〇〇は、旅客施設の維持・整備を使途とした空港使用料である。旅客取扱施設利用料、旅客サービス施設使用料（英: Passenger Service Facility Charge、PSFC）とも呼ばれる。"
             }
         ]
     }
