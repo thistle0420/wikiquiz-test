@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年07月08日 19時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3829554",
+                "title": "フェンバレレート",
+                "text": "〇〇は、ピレスロイド系殺虫剤の一種。市販品は、4種の光学異性体の混合物である。"
+            },
+            {
                 "datetime": "2024年07月08日 18時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4087683",
                 "title": "C・S・R・アンジャネユル",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1189332",
                 "title": "中村潔",
                 "text": "〇〇は、日本の文化人類学者。新潟大学人文学部教授。専門は文化人類学、地域研究（バリ島）。"
-            },
-            {
-                "datetime": "2024年07月07日 01時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3389358",
-                "title": "アジアドリームタッグ王座",
-                "text": "〇〇は、プロレスリング我闘雲舞が管理、認定している王座。"
             }
         ]
     }
