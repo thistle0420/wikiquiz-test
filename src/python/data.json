@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年07月08日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=492941",
+                "title": "ブラックストーン (たばこ)",
+                "text": "〇〇は、アメリカのたばこメーカー、スウィッシャー (Swisher International Group) が生産しているドライシガー扱いのたばこ。パイプタバコのフレーバーをブレンドしている。チップ入りの葉巻タイプもある。"
+            },
+            {
                 "datetime": "2024年07月08日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2392461",
                 "title": "トーカン (製造)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2831526",
                 "title": "塩古墳群",
                 "text": "〇〇は、埼玉県熊谷市塩にある古墳群である。1960年（昭和35年）3月1日に第1支群（狸地域）の古墳が県の史跡に指定された。"
-            },
-            {
-                "datetime": "2024年07月06日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1092217",
-                "title": "谷中田トキオ",
-                "text": "〇〇は、日本の元子役。東京都出身。TARGETに所属。"
             }
         ]
     }
