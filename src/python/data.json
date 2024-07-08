@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年07月08日 23時の問題",
+                "url": "https://ja.wikipedia.org/?curid=705467",
+                "title": "ユリノハナ",
+                "text": "〇〇は、日本の音楽ユニット・day after tomorrowの11作目のシングル。"
+            },
+            {
                 "datetime": "2024年07月08日 22時の問題",
                 "url": "https://ja.wikipedia.org/?curid=143757",
                 "title": "うたラジ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3912192",
                 "title": "ファンタスティック・ビーストと魔法使いの事件簿",
                 "text": "〇〇は、ウィザーディング・ワールドの『ハリー・ポッターシリーズ』および『ファンタスティック・ビーストシリーズ』を原作とするiOS、Android機種をプラットフォームとしているゲームである。"
-            },
-            {
-                "datetime": "2024年07月07日 05時の問題",
-                "url": "https://ja.wikipedia.org/?curid=57117",
-                "title": "スペリオル湖",
-                "text": "〇〇は、北アメリカにある湖。"
             }
         ]
     }
