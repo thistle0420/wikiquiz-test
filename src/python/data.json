@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年07月10日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=758607",
+                "title": "よろこびの花が咲く〜True Kiss〜",
+                "text": "〇〇は、宇徳敬子の4枚目のオリジナル・アルバム。2006年11月22日にZAIN RECORDSから発売された。"
+            },
+            {
                 "datetime": "2024年07月10日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1272861",
                 "title": "野々内保太郎",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1301597",
                 "title": "昌慶宮",
                 "text": "〇〇は、ソウル市にある李氏朝鮮時代の宮殿。"
-            },
-            {
-                "datetime": "2024年07月08日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3113742",
-                "title": "清水村 (大阪府三島郡)",
-                "text": "〇〇は、大阪府三島郡にあった村。現在の高槻市の北西部、芥川の上流域にあたる。"
             }
         ]
     }
