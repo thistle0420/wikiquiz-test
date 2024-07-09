@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年07月09日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3106478",
+                "title": "県道122号 (台湾)",
+                "text": "〇〇は、新竹市北区南寮から新竹県五峰郷土場を結ぶ、全長50.362kmの台湾の県道である。一部県道117号との重複区間がある。"
+            },
+            {
                 "datetime": "2024年07月09日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4193178",
                 "title": "小出粲",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3046843",
                 "title": "犬童一男",
                 "text": "〇〇は、日本の政治学者（イギリス政治史）。神戸大学名誉教授（法学部）。"
-            },
-            {
-                "datetime": "2024年07月07日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3485015",
-                "title": "佐藤一進",
-                "text": "〇〇は、日本の政治学者、神戸学院大学准教授。"
             }
         ]
     }
