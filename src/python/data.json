@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年07月10日 12時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2633610",
+                "title": "牧瀬かおる",
+                "text": "〇〇は、日本の児童文学作家。"
+            },
+            {
                 "datetime": "2024年07月10日 11時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3384852",
                 "title": "都島橋",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3829554",
                 "title": "フェンバレレート",
                 "text": "〇〇は、ピレスロイド系殺虫剤の一種。市販品は、4種の光学異性体の混合物である。"
-            },
-            {
-                "datetime": "2024年07月08日 18時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4087683",
-                "title": "C・S・R・アンジャネユル",
-                "text": "〇〇は、インドの俳優。「CSR」の通称で知られるメソッド俳優であり、テルグ語映画やテルグ語演劇を中心に活動していた。"
             }
         ]
     }
