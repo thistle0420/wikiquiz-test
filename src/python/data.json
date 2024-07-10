@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年07月10日 15時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1002204",
+                "title": "船橋市立八木が谷北小学校",
+                "text": "〇〇は、千葉県船橋市八木が谷四丁目にある公立小学校。"
+            },
+            {
                 "datetime": "2024年07月10日 14時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1954612",
                 "title": "片桐はづき",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=143757",
                 "title": "うたラジ",
                 "text": "〇〇は、青森放送ラジオで毎週土曜日22:05～23:00に放送されていたラジオ番組である。"
-            },
-            {
-                "datetime": "2024年07月08日 21時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2915348",
-                "title": "西島剛志",
-                "text": "〇〇は、日本の実業家。横河電機代表取締役会長、日本電気計測器工業会 会長、電子情報技術産業協会 副会長。"
             }
         ]
     }
