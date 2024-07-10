@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年07月10日 16時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4715855",
+                "title": "火恐怖症",
+                "text": "〇〇は、特異的恐怖症の内、火に対して異常な恐怖を感じる症状。不安障害の一つ。"
+            },
+            {
                 "datetime": "2024年07月10日 15時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1002204",
                 "title": "船橋市立八木が谷北小学校",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=705467",
                 "title": "ユリノハナ",
                 "text": "〇〇は、日本の音楽ユニット・day after tomorrowの11作目のシングル。"
-            },
-            {
-                "datetime": "2024年07月08日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=143757",
-                "title": "うたラジ",
-                "text": "〇〇は、青森放送ラジオで毎週土曜日22:05～23:00に放送されていたラジオ番組である。"
             }
         ]
     }
