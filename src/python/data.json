@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年07月12日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1871981",
+                "title": "愛媛県議会",
+                "text": "〇〇は、愛媛県の県議会である。"
+            },
+            {
                 "datetime": "2024年07月12日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1628696",
                 "title": "北上史欧",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4715855",
                 "title": "火恐怖症",
                 "text": "〇〇は、特異的恐怖症の内、火に対して異常な恐怖を感じる症状。不安障害の一つ。"
-            },
-            {
-                "datetime": "2024年07月10日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1002204",
-                "title": "船橋市立八木が谷北小学校",
-                "text": "〇〇は、千葉県船橋市八木が谷四丁目にある公立小学校。"
             }
         ]
     }
