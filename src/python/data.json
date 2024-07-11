@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年07月12日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1628696",
+                "title": "北上史欧",
+                "text": "〇〇は、日本の俳優。"
+            },
+            {
                 "datetime": "2024年07月12日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=418521",
                 "title": "新潟県立久比岐高等学校",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1002204",
                 "title": "船橋市立八木が谷北小学校",
                 "text": "〇〇は、千葉県船橋市八木が谷四丁目にある公立小学校。"
-            },
-            {
-                "datetime": "2024年07月10日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1954612",
-                "title": "片桐はづき",
-                "text": "〇〇は、千葉県出身の女優。フォセット・コンシェルジュ所属。"
             }
         ]
     }
