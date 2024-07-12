@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年07月13日 02時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2056977",
+                "title": "蘆名詮盛",
+                "text": "〇〇は、室町時代前・中期の武将。蘆名氏の第8代当主。"
+            },
+            {
                 "datetime": "2024年07月13日 01時の問題",
                 "url": "https://ja.wikipedia.org/?curid=54828",
                 "title": "都留インターチェンジ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4569447",
                 "title": "呉市立宮原中学校",
                 "text": "〇〇は、広島県呉市船見町に存在する公立中学校である。"
-            },
-            {
-                "datetime": "2024年07月11日 08時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3348627",
-                "title": "グレゴリー・ブノワ",
-                "text": "〇〇は、ベルギー生まれの元騎手である。"
             }
         ]
     }
