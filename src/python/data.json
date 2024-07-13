@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年07月14日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4617814",
+                "title": "郭絢",
+                "text": "〇〇は、中国隋の人物。河東郡安邑県の人。"
+            },
+            {
                 "datetime": "2024年07月14日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1626348",
                 "title": "池萬元",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1878334",
                 "title": "しずくん",
                 "text": "〇〇は、静岡県のテレビ局・NHK静岡放送局のマスコットキャラクター。"
-            },
-            {
-                "datetime": "2024年07月12日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4832424",
-                "title": "小川町 (安城市)",
-                "text": "〇〇は、愛知県安城市の地名。"
             }
         ]
     }
