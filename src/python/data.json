@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年07月13日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3314599",
+                "title": "サシチョウバエ",
+                "text": "〇〇は、双翅目（ハエ目）〇〇亜科 (Phlebotominae) に属する昆虫の総称。一部の種はトリパノソーマ科の原虫リーシュマニアの媒介者で、人獣共通感染症であるリーシュマニア症の感染源として知られている。"
+            },
+            {
                 "datetime": "2024年07月13日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2868482",
                 "title": "橋口祐葵",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4838831",
                 "title": "UFC Fight Night: Dawson vs. Green",
                 "text": "〇〇は、アメリカ合衆国の総合格闘技団体「UFC」の大会の一つ。2023年10月7日、ネバダ州ラスベガスのUFC APEXで開催された。"
-            },
-            {
-                "datetime": "2024年07月11日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=815267",
-                "title": "華 (松本孝弘のアルバム)",
-                "text": "〇〇は、日本の音楽ユニットB'zのギタリスト松本孝弘がRooms RECORDSからリリースした5作目のオリジナルアルバムである。2002年2月27日に『西辺来龍 DRAGON FROM THE WEST』と同時発売された。"
             }
         ]
     }
