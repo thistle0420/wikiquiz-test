@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年07月15日 02時の問題",
+                "url": "https://ja.wikipedia.org/?curid=24961",
+                "title": "新京特別市",
+                "text": "〇〇は、満洲国の首都。現在の中華人民共和国吉林省長春市にあたる。"
+            },
+            {
                 "datetime": "2024年07月15日 01時の問題",
                 "url": "https://ja.wikipedia.org/?curid=353817",
                 "title": "瀞峡",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2382007",
                 "title": "人吉隊",
                 "text": "〇〇は、西南戦争において西郷軍側に呼応した不平士族の部隊。"
-            },
-            {
-                "datetime": "2024年07月13日 08時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4624194",
-                "title": "平石 (福島市)",
-                "text": "〇〇は、福島県福島市の大字である。郵便番号は960-1103。"
             }
         ]
     }
