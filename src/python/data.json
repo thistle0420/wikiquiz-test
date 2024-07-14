@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年07月14日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4360247",
+                "title": "横手市立十文字小学校",
+                "text": "〇〇は、秋田県横手市十文字町十五野新田にある公立小学校。"
+            },
+            {
                 "datetime": "2024年07月14日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1121538",
                 "title": "大久保忠由",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3211518",
                 "title": "真中あずさ",
                 "text": "〇〇は、日本のグラビアアイドル。千葉県出身。身長146cm。血液型はAB型。アクアス・エンターテインメントに所属していた。"
-            },
-            {
-                "datetime": "2024年07月13日 03時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3748989",
-                "title": "I (JUJUのアルバム)",
-                "text": "〇〇は、JUJUの7枚目のオリジナルアルバム。2018年2月21日にソニー・ミュージックアソシエイテッドレコーズから発売された。"
             }
         ]
     }
