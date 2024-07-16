@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年07月16日 10時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2030386",
+                "title": "How Many More Times",
+                "text": "〇〇は、Ken Yokoyamaの1枚目のシングル。"
+            },
+            {
                 "datetime": "2024年07月16日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2778382",
                 "title": "民主党公開大反省会",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4339931",
                 "title": "スィトジェフティ",
                 "text": "〇〇は、エジプト第17王朝後期の王女及び王妃。彼女はセナクトエンラーとテティシェリの娘だった。彼女は兄弟のセケンエンラーの妻であり、王女アハメスの母親だった。サトジェフウティとも呼ばれる。"
-            },
-            {
-                "datetime": "2024年07月14日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=378008",
-                "title": "異種試合",
-                "text": "〇〇は、ルールが異なる武道や武術が相互に異なる武器や素手などで行う試合である。異種格闘技戦もその1種である。"
             }
         ]
     }
