@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年07月16日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1382629",
+                "title": "ゴールデン・ゲート (旅客列車)",
+                "text": "〇〇は、アッチソン・トピカ・アンド・サンタフェ鉄道 (Atchison, Topeka and Santa Fe Railway)により運行された旅客列車のひとつ。"
+            },
+            {
                 "datetime": "2024年07月16日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2023908",
                 "title": "ディスコ・ビスケッツ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=353817",
                 "title": "瀞峡",
                 "text": "〇〇は、和歌山県・三重県・奈良県を流れる熊野川水系北山川上流にある峡谷。吉野熊野国立公園の一部。"
-            },
-            {
-                "datetime": "2024年07月15日 00時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2434462",
-                "title": "西海閘門線",
-                "text": "〇〇は、朝鮮民主主義人民共和国黄海南道殷栗郡にある鉄鉱駅から南浦特別市にある新寧里駅までを結ぶ鉄道路線である。大同江の河口をせき止めたダムである西海閘門の上を通る。"
             }
         ]
     }
