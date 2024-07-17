@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年07月17日 13時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4712659",
+                "title": "ジーンピクシブ",
+                "text": "〇〇は、『月刊コミックジーン』（KADOKAWA）と「pixivコミック」（ピクシブ）によるウェブコミック配信サイト。「pixivコミック」内で2014年10月27日より配信。当初は毎月15日・27日更新であったが、2016年5月より毎週金曜更新となった。「もう1つのコミックジーン」をテーマにしており、pixivで人気の作品と『月刊コミックジーン』連載作家の作品の両方がラインナップされている。"
+            },
+            {
                 "datetime": "2024年07月17日 12時の問題",
                 "url": "https://ja.wikipedia.org/?curid=219306",
                 "title": "歯原性腫瘍",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1836851",
                 "title": "フォークナー大学",
                 "text": "〇〇は、アメリカ合衆国アラバマ州モンゴメリーにあるキリスト連合教会系の私立大学。1942年に創立された。"
-            },
-            {
-                "datetime": "2024年07月15日 19時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2287849",
-                "title": "ジュグロン-3-モノオキシゲナーゼ",
-                "text": "〇〇は、次の化学反応を触媒する酸化還元酵素である。5-ヒドロキシ-1,4-ナフトキノン + 還元型受容体 + O2                     ⇌              {\\displaystyle \\rightleftharpoons }   3,5-ジヒドロキシ-1,4-ナフトキノン + 受容体 + H2Oこの酵素の基質は5-ヒドロキシ-1,4-ナフトキノン、還元型受容体とO2で、生成物は3,5-ジヒドロキシ-1,4-ナフトキノン、受容体とH2Oである。この酵素は酸化還元酵素に属し、基質に特異的に作用する。酸素は酸化剤として還元されると同時に基質に取り込まれる。組織名は\t5-hydroxy-1,4-naphthoquinone,hydrogen-donor:oxygen oxidoreductase (3-hydroxylating)で、別名にjuglone hydroxylase、naphthoquinone hydroxylase、naphthoquinone-hydroxylaseがある。"
             }
         ]
     }
