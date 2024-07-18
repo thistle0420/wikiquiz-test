@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年07月18日 10時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1615223",
+                "title": "九州地方環境事務所",
+                "text": "〇〇は、熊本市にある環境省の地方支分部局で、九州地方7県と沖縄県を管轄している。"
+            },
+            {
                 "datetime": "2024年07月18日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4211222",
                 "title": "延安府",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2023908",
                 "title": "ディスコ・ビスケッツ",
                 "text": "〇〇は、アメリカ合衆国のペンシルベニア州フィラデルフィア出身のジャム・バンドである。"
-            },
-            {
-                "datetime": "2024年07月16日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2074913",
-                "title": "羽鳥小学校",
-                "text": "〇〇は、日本の公立小学校。小美玉市立〇〇 - 茨城県藤沢市立〇〇 - 神奈川県"
             }
         ]
     }
