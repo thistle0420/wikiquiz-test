@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年07月18日 11時の問題",
+                "url": "https://ja.wikipedia.org/?curid=496780",
+                "title": "長崎県道45号東長崎長与線",
+                "text": "〇〇は、長崎県長崎市から西彼杵郡長与町に至る県道（主要地方道）である。"
+            },
+            {
                 "datetime": "2024年07月18日 10時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1615223",
                 "title": "九州地方環境事務所",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1382629",
                 "title": "ゴールデン・ゲート (旅客列車)",
                 "text": "〇〇は、アッチソン・トピカ・アンド・サンタフェ鉄道 (Atchison, Topeka and Santa Fe Railway)により運行された旅客列車のひとつ。"
-            },
-            {
-                "datetime": "2024年07月16日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2023908",
-                "title": "ディスコ・ビスケッツ",
-                "text": "〇〇は、アメリカ合衆国のペンシルベニア州フィラデルフィア出身のジャム・バンドである。"
             }
         ]
     }
