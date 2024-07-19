@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年07月20日 06時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4503559",
+                "title": "夏休み (坂上香織のアルバム)",
+                "text": "〇〇は、日本のアイドル歌手である坂上香織のカバー・アルバム。1989年8月9日に東芝EMI / EASTWORLDから発売された。"
+            },
+            {
                 "datetime": "2024年07月20日 05時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1790564",
                 "title": "テニス・ボルシア・ベルリン",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=67596",
                 "title": "196年",
                 "text": "〇〇は、西暦（ユリウス暦）による、閏年。"
-            },
-            {
-                "datetime": "2024年07月18日 11時の問題",
-                "url": "https://ja.wikipedia.org/?curid=496780",
-                "title": "長崎県道45号東長崎長与線",
-                "text": "〇〇は、長崎県長崎市から西彼杵郡長与町に至る県道（主要地方道）である。"
             }
         ]
     }
