@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年07月20日 05時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1790564",
+                "title": "テニス・ボルシア・ベルリン",
+                "text": "〇〇は、ドイツのベルリンを本拠地とするサッカークラブである。"
+            },
+            {
                 "datetime": "2024年07月20日 04時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4418980",
                 "title": "KiNG",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=496780",
                 "title": "長崎県道45号東長崎長与線",
                 "text": "〇〇は、長崎県長崎市から西彼杵郡長与町に至る県道（主要地方道）である。"
-            },
-            {
-                "datetime": "2024年07月18日 10時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1615223",
-                "title": "九州地方環境事務所",
-                "text": "〇〇は、熊本市にある環境省の地方支分部局で、九州地方7県と沖縄県を管轄している。"
             }
         ]
     }
