@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年07月20日 03時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4337014",
+                "title": "田村友一",
+                "text": "〇〇は、日本の実業家。日医工代表取締役社長を務めた。"
+            },
+            {
                 "datetime": "2024年07月20日 02時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1513600",
                 "title": "段末波",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4211222",
                 "title": "延安府",
                 "text": "〇〇は、中国にかつて存在した府。宋代から民国初年にかけて、現在の陝西省延安市一帯に設置された。"
-            },
-            {
-                "datetime": "2024年07月18日 07時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1008135",
-                "title": "加納氏",
-                "text": "〇〇は、日本の氏族の一つ。"
             }
         ]
     }
