@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年07月19日 13時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1115349",
+                "title": "オオシマウツギ",
+                "text": "〇〇は、アジサイ科ウツギ属の落葉低木。"
+            },
+            {
                 "datetime": "2024年07月19日 12時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4424182",
                 "title": "ミルファーム",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=783314",
                 "title": "製餅",
                 "text": "〇〇は、餅を製造・加工すること。日本では各地の和菓子店や米屋（主に年末）等の小売店で〇〇・直売される他、大規模に生産し流通経路を介して販売するメーカーもある。"
-            },
-            {
-                "datetime": "2024年07月17日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=169769",
-                "title": "演劇集団キャラメルボックス",
-                "text": "〇〇は、日本の劇団。2019年までは株式会社ネビュラプロジェクト（Nevula Project Corporation）が運営していた。現在の英名は「theater company caramelbox」だが結成当初は「playing team caramelbox」だった。\"人が人を想う気持ち\"をテーマとしている。"
             }
         ]
     }
