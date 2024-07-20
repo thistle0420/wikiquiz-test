@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年07月20日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4781867",
+                "title": "専修大学スポーツ研究所",
+                "text": "〇〇は、川崎市多摩区にある専修大学の研究施設。"
+            },
+            {
                 "datetime": "2024年07月20日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1838468",
                 "title": "狂っちゃいないぜ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=917526",
                 "title": "夏波夕日",
                 "text": "〇〇は、日本の女性実業家、タレントである。Sun Set グループC.E.O."
-            },
-            {
-                "datetime": "2024年07月19日 00時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1807046",
-                "title": "宮崎市立加納小学校",
-                "text": "〇〇は、宮崎県宮崎市清武町加納甲にある公立小学校。"
             }
         ]
     }
