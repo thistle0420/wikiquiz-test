@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年07月22日 01時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3022381",
+                "title": "阿蘇ヶ嶽寅吉",
+                "text": "〇〇は、熊本県熊本市出身で八角部屋、雷部屋、再度八角部屋に所属した力士。本名は田尻 虎吉。170cm、97kg。最高位は東小結。"
+            },
+            {
                 "datetime": "2024年07月22日 00時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2264241",
                 "title": "田口成良",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2726061",
                 "title": "門脇麦",
                 "text": "〇〇は、日本の女優。本名同じ。ユマニテ所属。"
-            },
-            {
-                "datetime": "2024年07月20日 07時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2411549",
-                "title": "愛の調べ",
-                "text": "〇〇は、1947年に製作・公開されたアメリカ合衆国の映画である。"
             }
         ]
     }
