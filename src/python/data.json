@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年07月22日 16時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2698592",
+                "title": "村井正",
+                "text": "〇〇は、日本の法学者。専門は租税法。関西大学名誉教授。"
+            },
+            {
                 "datetime": "2024年07月22日 15時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4938726",
                 "title": "三和町中三坂",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4746920",
                 "title": "奥野浩",
                 "text": "〇〇は、三重県伊勢市在住の日本のアマチュア天文家。"
-            },
-            {
-                "datetime": "2024年07月20日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3643829",
-                "title": "ベルリン地下鉄9号線",
-                "text": "〇〇は、ベルリン地下鉄の路線である。"
             }
         ]
     }
