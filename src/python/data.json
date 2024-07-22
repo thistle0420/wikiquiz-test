@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年07月22日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2073817",
+                "title": "諏訪尚太郎",
+                "text": "〇〇は、日本の実業家。"
+            },
+            {
                 "datetime": "2024年07月22日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4462555",
                 "title": "ルーク・ムベテ＝タブ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4687785",
                 "title": "名和重行",
                 "text": "〇〇は、戦国時代の武将。武田氏家臣。通称無理之助。諱は宗安とも 。"
-            },
-            {
-                "datetime": "2024年07月21日 03時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3711999",
-                "title": "C・J・ベサード",
-                "text": "〇〇は、アメリカ合衆国テネシー州出身のアメリカンフットボール選手である。ポジションはクォーターバック (QB) で、NFLのAFC南地区に所属するジャクソンビル・ジャガーズに所属している。"
             }
         ]
     }
