@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年07月24日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=503380",
+                "title": "愛知県立知立高等学校",
+                "text": "〇〇は、愛知県知立市にある公立の高等学校。"
+            },
+            {
                 "datetime": "2024年07月24日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4230633",
                 "title": "Naked Eyes",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4938726",
                 "title": "三和町中三坂",
                 "text": "〇〇は、福島県いわき市の大字である。郵便番号は970-1375。"
-            },
-            {
-                "datetime": "2024年07月22日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2924880",
-                "title": "VIVA! (アルバム)",
-                "text": "〇〇は、CASCADEのメジャーデビューアルバム。1995年11月22日にビクターエンタテインメントより発売された。"
             }
         ]
     }
