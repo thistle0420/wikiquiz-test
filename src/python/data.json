@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年07月24日 13時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2668080",
+                "title": "小出村 (秋田県)",
+                "text": "〇〇は、秋田県由利郡にあった村。"
+            },
+            {
                 "datetime": "2024年07月24日 12時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4811832",
                 "title": "FIELD OF VIEW 〜25th Anniversary Special Live〜 2020.10.15 at Shinjuku ReNY",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4462555",
                 "title": "ルーク・ムベテ＝タブ",
                 "text": "〇〇は、イングランドとコンゴ民主共和国のサッカー選手。FCデン・ボス所属。ポジションはDF。"
-            },
-            {
-                "datetime": "2024年07月22日 19時の問題",
-                "url": "https://ja.wikipedia.org/?curid=10493",
-                "title": "ブローダーバンド",
-                "text": "〇〇は、1980年2月にアメリカ合衆国で設立されたコンピューターゲームおよび教育ソフト、実用ソフトのメーカーである。「Broderbund」との表記もある。"
             }
         ]
     }
