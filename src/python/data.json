@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年07月25日 01時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4820656",
+                "title": "ジョン・アビザイド",
+                "text": "〇〇は、アメリカ合衆国の軍人、大使。元アメリカ陸軍大将で、アメリカ中央軍司令官。2019年から2021年まで駐サウジアラビア大使を務めた。"
+            },
+            {
                 "datetime": "2024年07月25日 00時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2405702",
                 "title": "ラビット・ホラー3D",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4192131",
                 "title": "三遊亭小圓歌 (初代)",
                 "text": "〇〇は、落語家。本名は渡辺 一博。"
-            },
-            {
-                "datetime": "2024年07月23日 07時の問題",
-                "url": "https://ja.wikipedia.org/?curid=401664",
-                "title": "慧聡",
-                "text": "〇〇は、飛鳥時代に百済から渡来した僧。"
             }
         ]
     }
