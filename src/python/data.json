@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年07月25日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=633765",
+                "title": "関宿水門",
+                "text": "〇〇は、茨城県猿島郡五霞町の、利根川と江戸川の分岐付近に設置された閘門を併設する水門である。"
+            },
+            {
                 "datetime": "2024年07月25日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2536763",
                 "title": "フィテルベルク",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1354122",
                 "title": "新普遍救済主義",
                 "text": "〇〇は、全人類がすでに救われており、救いに信仰と悔い改めが必要ないとするものである。"
-            },
-            {
-                "datetime": "2024年07月24日 03時の問題",
-                "url": "https://ja.wikipedia.org/?curid=794949",
-                "title": "ライセニア・ガラセ",
-                "text": "〇〇は、フィジーの政治家。同国首相、暫定首相を務めた。"
             }
         ]
     }
