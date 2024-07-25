@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年07月26日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=50214",
+                "title": "瀬戸口藤吉",
+                "text": "〇〇は、日本の音楽家、海軍軍楽師。軍艦行進曲や愛国行進曲などを作曲し、「日本行進曲の父」とされる。"
+            },
+            {
                 "datetime": "2024年07月25日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1760605",
                 "title": "ジロ・デ・イタリア 2000",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=503380",
                 "title": "愛知県立知立高等学校",
                 "text": "〇〇は、愛知県知立市にある公立の高等学校。"
-            },
-            {
-                "datetime": "2024年07月24日 06時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4230633",
-                "title": "Naked Eyes",
-                "text": "〇〇は、杏子の1枚目のオリジナル・アルバム。1992年11月1日にKi/oon Sony Recordsから発売された。"
             }
         ]
     }
