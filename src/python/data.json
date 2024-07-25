@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年07月26日 05時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4159720",
+                "title": "道生",
+                "text": "〇〇は、日本・中国の人名。以下の列挙は、五十音順"
+            },
+            {
                 "datetime": "2024年07月26日 04時の問題",
                 "url": "https://ja.wikipedia.org/?curid=276017",
                 "title": "金華糖",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2668080",
                 "title": "小出村 (秋田県)",
                 "text": "〇〇は、秋田県由利郡にあった村。"
-            },
-            {
-                "datetime": "2024年07月24日 12時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4811832",
-                "title": "FIELD OF VIEW 〜25th Anniversary Special Live〜 2020.10.15 at Shinjuku ReNY",
-                "text": "〇〇は、2021年5月15日に発売されたFIELD OF VIEWの映像作品。DVDで発売。"
             }
         ]
     }
