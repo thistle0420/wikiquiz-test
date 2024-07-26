@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年07月27日 03時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3366390",
+                "title": "アレッサンドロ・ファディーニ",
+                "text": "〇〇は、イタリア、ヴェローナのフィギュアスケート選手（男子シングル）。"
+            },
+            {
                 "datetime": "2024年07月27日 02時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3463233",
                 "title": "シュタインハーゲン (ヴェストファーレン)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=314113",
                 "title": "鳥取警察署",
                 "text": "〇〇は、鳥取県警察が管轄する警察署の一つである。筆頭警察署で、署長は警視正である。"
-            },
-            {
-                "datetime": "2024年07月25日 10時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3622434",
-                "title": "Mrs.Yuki",
-                "text": "〇〇は、2009年に結成されたアーティストユニット。"
             }
         ]
     }
