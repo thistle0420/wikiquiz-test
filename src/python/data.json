@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年07月27日 02時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3463233",
+                "title": "シュタインハーゲン (ヴェストファーレン)",
+                "text": "〇〇は、ドイツ連邦共和国ノルトライン＝ヴェストファーレン州デトモルト行政管区のギュータースロー郡に属す町村（以下、本項では便宜上「町」と記述する）である。"
+            },
+            {
                 "datetime": "2024年07月27日 01時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2884311",
                 "title": "早野薫",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3622434",
                 "title": "Mrs.Yuki",
                 "text": "〇〇は、2009年に結成されたアーティストユニット。"
-            },
-            {
-                "datetime": "2024年07月25日 08時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3149251",
-                "title": "宇都宮安重",
-                "text": "〇〇は、日本の作曲家、編曲家である。"
             }
         ]
     }
