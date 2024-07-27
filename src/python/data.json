@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年07月27日 15時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4930482",
+                "title": "貞頼親王",
+                "text": "〇〇は、平安時代前期から中期にかけての皇族。清和天皇の第十皇子。品位は四品。"
+            },
+            {
                 "datetime": "2024年07月27日 14時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4429178",
                 "title": "二世古酒造",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4951663",
                 "title": "新北市立文山国民中学",
                 "text": "〇〇は、台湾新北市にある国民中学。"
-            },
-            {
-                "datetime": "2024年07月25日 21時の問題",
-                "url": "https://ja.wikipedia.org/?curid=633765",
-                "title": "関宿水門",
-                "text": "〇〇は、茨城県猿島郡五霞町の、利根川と江戸川の分岐付近に設置された閘門を併設する水門である。"
             }
         ]
     }
