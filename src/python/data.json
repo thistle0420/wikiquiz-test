@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年07月28日 16時の問題",
+                "url": "https://ja.wikipedia.org/?curid=941286",
+                "title": "阿波市立土成小学校",
+                "text": "〇〇は、徳島県阿波市土成町成当にある公立小学校。"
+            },
+            {
                 "datetime": "2024年07月28日 15時の問題",
                 "url": "https://ja.wikipedia.org/?curid=95352",
                 "title": "朱治",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1242601",
                 "title": "徳島県道213号二條通新港線",
                 "text": "〇〇は、徳島県小松島市小松島町を通る一般県道である。"
-            },
-            {
-                "datetime": "2024年07月26日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=331690",
-                "title": "内子五十崎インターチェンジ",
-                "text": "〇〇は、愛媛県喜多郡内子町内子にある、松山自動車道のインターチェンジである。"
             }
         ]
     }
