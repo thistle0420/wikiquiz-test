@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年07月29日 10時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2009919",
+                "title": "タイガースとファイターズのキャンプ60分!!",
+                "text": "〇〇は、GAORAで2009年より毎年1月31日より2月一杯の1ヶ月限定で放送されているキャンプ情報番組である。"
+            },
+            {
                 "datetime": "2024年07月29日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=902297",
                 "title": "PARTNERSHIP",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=553122",
                 "title": "特殊舟艇部隊",
                 "text": "〇〇は、イギリス海兵隊の特殊部隊である。本部はドーセット州プール海軍基地。"
-            },
-            {
-                "datetime": "2024年07月27日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=778585",
-                "title": "浜野佐知",
-                "text": "〇〇は、日本の映画監督である。株式会社旦々舎代表取締役。日本映画監督協会常務理事、同広報委員会・国際委員会委員兼任。"
             }
         ]
     }
