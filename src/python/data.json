@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年07月30日 19時の問題",
+                "url": "https://ja.wikipedia.org/?curid=911535",
+                "title": "スパングリッシュ",
+                "text": "〇〇は、特にアメリカ合衆国においてスペイン語 (Spanish)と英語(English)を用いて生活するヒスパニック系の人々の話す言葉を意味する。他にも、エ〇〇 (Espanglish)、エスパニングリッシュ (Espanenglish)、エル・スパニッシュ・ブロークン (El Spanish broken)、イグラニョール (Inglañol)、エスパングレス (Espanglés)などとも呼ばれる。"
+            },
+            {
                 "datetime": "2024年07月30日 18時の問題",
                 "url": "https://ja.wikipedia.org/?curid=978049",
                 "title": "特許事務所",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2149398",
                 "title": "和歌山簡易裁判所",
                 "text": "〇〇は、和歌山県和歌山市にある日本の簡易裁判所の一つで、和歌山市などを管轄している。略称は、和歌山簡裁（わかやまかんさい）。"
-            },
-            {
-                "datetime": "2024年07月29日 01時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1192822",
-                "title": "日之影郵便局",
-                "text": "〇〇は、宮崎県西臼杵郡日之影町にある郵便局。民営化前の分類では集配特定郵便局であった。局番号は73047。"
             }
         ]
     }
