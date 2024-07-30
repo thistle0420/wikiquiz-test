@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年07月30日 10時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2299655",
+                "title": "大原綜合病院",
+                "text": "〇〇は、福島県福島市上町にある一般財団法人大原記念財団が運営する医療機関である。"
+            },
+            {
                 "datetime": "2024年07月30日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=762135",
                 "title": "市役所停留場",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4583885",
                 "title": "一汽・森雅M80",
                 "text": "〇〇は、トヨタ自動車とダイハツ工業が共同開発し、一汽吉林汽車が製造・販売していた7人乗り小型ミニバンである。"
-            },
-            {
-                "datetime": "2024年07月28日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=941286",
-                "title": "阿波市立土成小学校",
-                "text": "〇〇は、徳島県阿波市土成町成当にある公立小学校。"
             }
         ]
     }
