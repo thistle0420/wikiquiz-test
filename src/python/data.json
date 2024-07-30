@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年07月31日 06時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1886401",
+                "title": "草野歩",
+                "text": "〇〇は、東京都出身の元女子ビーチバレー選手である。"
+            },
+            {
                 "datetime": "2024年07月31日 05時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1960287",
                 "title": "羽毛田信吾",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=960417",
                 "title": "大阪府道132号高槻茨木線",
                 "text": "〇〇は、大阪府高槻市から茨木市までのびる一般府道である。"
-            },
-            {
-                "datetime": "2024年07月29日 13時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1194206",
-                "title": "道の駅みかわ (愛媛県)",
-                "text": "〇〇は、愛媛県上浮穴郡久万高原町にある国道33号の道の駅である。"
             }
         ]
     }
