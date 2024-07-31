@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年07月31日 12時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2689344",
+                "title": "国際連合カナダ政府常駐代表部",
+                "text": "〇〇は、国際連合本部におけるカナダ政府代表部である。"
+            },
+            {
                 "datetime": "2024年07月31日 11時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3380398",
                 "title": "やまぐち845",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1626470",
                 "title": "たつの市立揖保川中学校",
                 "text": "〇〇は、兵庫県たつの市に所在する公立中学校。校地の東側には揖保川が流れる。"
-            },
-            {
-                "datetime": "2024年07月29日 18時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1303877",
-                "title": "D-topia Entertainment",
-                "text": "〇〇は、日本のレコードレーベル。"
             }
         ]
     }
