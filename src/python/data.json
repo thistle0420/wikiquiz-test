@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年08月01日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2100206",
+                "title": "柴乃櫂人",
+                "text": "〇〇は、日本のイラストレーター。大阪府出身。"
+            },
+            {
                 "datetime": "2024年08月01日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=220856",
                 "title": "我が家ロシア",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2369480",
                 "title": "南葛労働協会",
                 "text": "〇〇は、1920年代の東京に存在した労働組合。南葛労働会、南葛労働組合とも呼ばれる。大正期の労働運動、社会主義運動をリードした。"
-            },
-            {
-                "datetime": "2024年07月30日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4105921",
-                "title": "9の音粋",
-                "text": "〇〇は、2020年4月1日からBAYFMで放送されているラジオ番組。bayfm本社第1スタジオから生放送の音楽番組である。"
             }
         ]
     }
