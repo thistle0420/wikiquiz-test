@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年07月31日 11時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3380398",
+                "title": "やまぐち845",
+                "text": "〇〇は、NHK山口放送局で放送されている『NHKニュース』のローカルニュース番組である。現在は『情報維新!〇〇』として放送されている。"
+            },
+            {
                 "datetime": "2024年07月31日 10時の問題",
                 "url": "https://ja.wikipedia.org/?curid=145171",
                 "title": "EPO",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1303877",
                 "title": "D-topia Entertainment",
                 "text": "〇〇は、日本のレコードレーベル。"
-            },
-            {
-                "datetime": "2024年07月29日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1940047",
-                "title": "葉方丹",
-                "text": "〇〇は、演出家、脚本家、作家、作詞家。日本アカデミー賞協会、日本音楽著作権協会、日本シナリオ作家協会、日本放送作家協会に所属する。東京都在住。別名、「はがたたん」。"
             }
         ]
     }
