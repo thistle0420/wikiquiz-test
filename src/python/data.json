@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年08月02日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2782877",
+                "title": "アレクサンドロフの定理",
+                "text": "〇〇は、Rnの開部分集合 U に対する凸関数 f : U → Rm には、ほとんど至る所で二階微分が存在する、ということを述べた定理である。したがって、ある点において二階微分が存在するということは、その点においてどのような二次関数よりも局所誤差の少ないような、二階のテイラー展開が存在することを意味する。この結果は、ラーデマッヘルの定理と密接に関連している。"
+            },
+            {
                 "datetime": "2024年08月02日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=311572",
                 "title": "自主検査者",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3387562",
                 "title": "ライヘンバッハ・ヒーロー",
                 "text": "〇〇は、BBCが2012年に制作したドラマ『SHERLOCK』のシーズン2・エピソード3である。原案は『最後の事件』\"The Final Problem\"（1893年）、『プライオリー・スクール』\"The Adventure of the Priory School\"（1904年）、『犯人は二人』\"The Adventure of Charles Augustus Milverton\"（1904年）である。"
-            },
-            {
-                "datetime": "2024年07月31日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2698296",
-                "title": "山田安邦",
-                "text": "〇〇は、日本の実業家。元ロート製薬社長。大阪府出身。"
             }
         ]
     }
