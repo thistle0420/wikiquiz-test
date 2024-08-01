@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年08月01日 23時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3580139",
+                "title": "郡山ビューホテルアネックス",
+                "text": "〇〇は、福島県郡山市にあるホテル。郡山ビューホテル株式会社が運営する。"
+            },
+            {
                 "datetime": "2024年08月01日 22時の問題",
                 "url": "https://ja.wikipedia.org/?curid=576675",
                 "title": "カンサスシティスタンダード",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1886401",
                 "title": "草野歩",
                 "text": "〇〇は、東京都出身の元女子ビーチバレー選手である。"
-            },
-            {
-                "datetime": "2024年07月31日 05時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1960287",
-                "title": "羽毛田信吾",
-                "text": "〇〇は、日本の官僚。厚生省の事務次官、宮内庁次長を経て、2005年から2012年まで宮内庁長官を務めた。"
             }
         ]
     }
