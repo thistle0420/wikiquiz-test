@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年08月02日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1996480",
+                "title": "世界選手権自転車競技大会シクロクロス2010",
+                "text": "〇〇は、2010年1月30日、31日の両日、チェコ、ターボルで開催された。"
+            },
+            {
                 "datetime": "2024年08月02日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2782877",
                 "title": "アレクサンドロフの定理",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=421623",
                 "title": "浄音",
                 "text": "〇〇は、鎌倉時代前期から中期にかけての浄土宗の僧。字は法興。浄土宗西谷流（西山浄土宗、浄土宗西山禅林寺派）の祖。"
-            },
-            {
-                "datetime": "2024年07月31日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3387562",
-                "title": "ライヘンバッハ・ヒーロー",
-                "text": "〇〇は、BBCが2012年に制作したドラマ『SHERLOCK』のシーズン2・エピソード3である。原案は『最後の事件』\"The Final Problem\"（1893年）、『プライオリー・スクール』\"The Adventure of the Priory School\"（1904年）、『犯人は二人』\"The Adventure of Charles Augustus Milverton\"（1904年）である。"
             }
         ]
     }
