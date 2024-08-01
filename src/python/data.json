@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年08月02日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1852145",
+                "title": "北海道道775号上武佐計根別停車場線",
+                "text": "〇〇は、北海道標津郡中標津町内を結ぶ一般道道である。"
+            },
+            {
                 "datetime": "2024年08月01日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3580139",
                 "title": "郡山ビューホテルアネックス",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2651827",
                 "title": "若狭 (所沢市)",
                 "text": "〇〇は、埼玉県所沢市の町名。現行行政地名は若狭一丁目から若狭四丁目。郵便番号は359-1151。"
-            },
-            {
-                "datetime": "2024年07月31日 06時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1886401",
-                "title": "草野歩",
-                "text": "〇〇は、東京都出身の元女子ビーチバレー選手である。"
             }
         ]
     }
