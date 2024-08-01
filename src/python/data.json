@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年08月01日 13時の問題",
+                "url": "https://ja.wikipedia.org/?curid=40319",
+                "title": "姨捨サービスエリア",
+                "text": "〇〇は、長野県千曲市の長野自動車道上にあるサービスエリアである。"
+            },
+            {
                 "datetime": "2024年08月01日 12時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3568002",
                 "title": "泣く",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4719468",
                 "title": "国際自由学園事件",
                 "text": "〇〇は、1998年の商標登録に関する事件。"
-            },
-            {
-                "datetime": "2024年07月30日 19時の問題",
-                "url": "https://ja.wikipedia.org/?curid=911535",
-                "title": "スパングリッシュ",
-                "text": "〇〇は、特にアメリカ合衆国においてスペイン語 (Spanish)と英語(English)を用いて生活するヒスパニック系の人々の話す言葉を意味する。他にも、エ〇〇 (Espanglish)、エスパニングリッシュ (Espanenglish)、エル・スパニッシュ・ブロークン (El Spanish broken)、イグラニョール (Inglañol)、エスパングレス (Espanglés)などとも呼ばれる。"
             }
         ]
     }
