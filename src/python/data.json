@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年08月02日 11時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4131639",
+                "title": "メーベル",
+                "text": "〇〇は、英語の女性名。メイベル、メイブル、マーベルとも。"
+            },
+            {
                 "datetime": "2024年08月02日 10時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1899027",
                 "title": "日本電波映画撮影所",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4155454",
                 "title": "ステファン・ヴェルコフ",
                 "text": "〇〇は、ブルガリア・ソフィア出身のサッカー選手。ヴェイレBK所属。ポジションはDF。"
-            },
-            {
-                "datetime": "2024年07月31日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4918634",
-                "title": "吉良町駮馬",
-                "text": "〇〇は、愛知県西尾市の地名。"
             }
         ]
     }
