@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年08月03日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2299560",
+                "title": "またね…のキセツ",
+                "text": "〇〇は、イナズマオールスターズのシングル。2011年2月16日にFRAMEから発売された。"
+            },
+            {
                 "datetime": "2024年08月03日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1755824",
                 "title": "センベーヌ・ウスマン",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4215349",
                 "title": "モヘンジョダロ空港",
                 "text": "〇〇は、パキスタン・イスラム共和国シンド州モヘンジョダロにある空港。"
-            },
-            {
-                "datetime": "2024年08月02日 00時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1852145",
-                "title": "北海道道775号上武佐計根別停車場線",
-                "text": "〇〇は、北海道標津郡中標津町内を結ぶ一般道道である。"
             }
         ]
     }
