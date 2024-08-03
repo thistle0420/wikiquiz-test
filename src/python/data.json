@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年08月03日 17時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1755824",
+                "title": "センベーヌ・ウスマン",
+                "text": "〇〇は、セネガルの映画監督、作家。「アフリカ映画の父」とも呼ばれた。"
+            },
+            {
                 "datetime": "2024年08月03日 16時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1718000",
                 "title": "宮崎市立赤江中学校",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1852145",
                 "title": "北海道道775号上武佐計根別停車場線",
                 "text": "〇〇は、北海道標津郡中標津町内を結ぶ一般道道である。"
-            },
-            {
-                "datetime": "2024年08月01日 23時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3580139",
-                "title": "郡山ビューホテルアネックス",
-                "text": "〇〇は、福島県郡山市にあるホテル。郡山ビューホテル株式会社が運営する。"
             }
         ]
     }
