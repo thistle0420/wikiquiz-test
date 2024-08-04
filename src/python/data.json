@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年08月04日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2113501",
+                "title": "大島 (長崎県佐世保市)",
+                "text": "〇〇は、長崎県の大村湾北部にある島（有人島）。全島が同県佐世保市に属する。別称、江上大島（えがみおおしま）。"
+            },
+            {
                 "datetime": "2024年08月04日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=262301",
                 "title": "大山町 (富山県)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3362731",
                 "title": "ENJOYJAPAN",
                 "text": "〇〇は、東京都・新宿区と中華人民共和国・上海市に本社を置く訪日外国人向けの広告代理店である。"
-            },
-            {
-                "datetime": "2024年08月03日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2182946",
-                "title": "サイムミン・ヤチモフ",
-                "text": "〇〇は、タジキスタンの官僚、外交官。タジキスタン国家保安委員会議長。"
             }
         ]
     }
