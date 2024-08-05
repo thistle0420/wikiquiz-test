@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年08月05日 13時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4111880",
+                "title": "清光寺 (東京都北区)",
+                "text": "〇〇は、東京都北区にある真言宗豊山派の寺院。"
+            },
+            {
                 "datetime": "2024年08月05日 12時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4722987",
                 "title": "大泉成子",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3933766",
                 "title": "北條康夫",
                 "text": "〇〇は、日本の自動車技術者、実業家。トヨタ自動車北海道株式会社代表取締役社長、北海道経済連合会副会長。"
-            },
-            {
-                "datetime": "2024年08月03日 19時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2411957",
-                "title": "亀山エコー",
-                "text": "〇〇は、三重県亀山市にあるショッピングセンターである。"
             }
         ]
     }
