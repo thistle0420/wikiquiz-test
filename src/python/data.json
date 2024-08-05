@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年08月05日 19時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2388070",
+                "title": "マネーグラム",
+                "text": "〇〇は、国際送金事業と、Financial Paper Products事業の二つに分かれている。そのうち、日本で事業を展開しているのは国際送金事業のみである。"
+            },
+            {
                 "datetime": "2024年08月05日 18時の問題",
                 "url": "https://ja.wikipedia.org/?curid=275519",
                 "title": "制度的革命党",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=24048",
                 "title": "本塁打",
                 "text": "〇〇は、野球・ソフトボールにおける打者の記録。スポーツ新聞紙上などでは、HRと略される場合が多い。"
-            },
-            {
-                "datetime": "2024年08月04日 01時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1796038",
-                "title": "宍粟ジャンクション",
-                "text": "〇〇は、兵庫県宍粟市にある中国自動車道と播磨自動車道のジャンクションである。山崎本線料金所が設置されていた場所に建設されている。"
             }
         ]
     }
