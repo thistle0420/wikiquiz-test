@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年08月05日 22時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3827498",
+                "title": "山内泉",
+                "text": "〇〇は、NHKのアナウンサー。"
+            },
+            {
                 "datetime": "2024年08月05日 21時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2854577",
                 "title": "エステート24",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3026685",
                 "title": "ヤン・ソスニオク",
                 "text": "〇〇は、ドイツの俳優。"
-            },
-            {
-                "datetime": "2024年08月04日 04時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3032265",
-                "title": "スティーヴン・ダンハム",
-                "text": "〇〇は、アメリカ合衆国の俳優。"
             }
         ]
     }
