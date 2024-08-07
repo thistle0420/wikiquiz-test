@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年08月07日 15時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3667027",
+                "title": "橋爪もも",
+                "text": "〇〇は、日本のシンガーソングライター。レインボーエンタテインメント所属。"
+            },
+            {
                 "datetime": "2024年08月07日 14時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4380788",
                 "title": "うえむらちかの鯉スル企画室",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3827498",
                 "title": "山内泉",
                 "text": "〇〇は、NHKのアナウンサー。"
-            },
-            {
-                "datetime": "2024年08月05日 21時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2854577",
-                "title": "エステート24",
-                "text": "〇〇は、オール電化と太陽光発電のシステム販売設置工事、不動産事業を主体とする住宅系販売会社である。"
             }
         ]
     }
