@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年08月09日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4907313",
+                "title": "八郷村 (鳥取県)",
+                "text": "〇〇は、鳥取県日野郡にあった村。現在の西伯郡伯耆町の一部にあたる。"
+            },
+            {
                 "datetime": "2024年08月09日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3253835",
                 "title": "曲利村",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3667027",
                 "title": "橋爪もも",
                 "text": "〇〇は、日本のシンガーソングライター。レインボーエンタテインメント所属。"
-            },
-            {
-                "datetime": "2024年08月07日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4380788",
-                "title": "うえむらちかの鯉スル企画室",
-                "text": "〇〇は、RCCラジオが2020年4月4日から毎週土曜日に放送中のラジオ番組。うえむらちかの冠番組で、愛称はコイラボ。"
             }
         ]
     }
