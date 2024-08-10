@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年08月10日 23時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3594800",
+                "title": "日本とスイスの関係",
+                "text": "〇〇は、〇〇/日瑞関係（ドイツ語: Japanisch-schweizerische Beziehungen、フランス語: Relations entre le Japon et la Suisse、イタリア語: Relazioni bilaterali tra il Giappone e la Svizzera、英語: Japan–Switzerland relations）について述べる。"
+            },
+            {
                 "datetime": "2024年08月10日 22時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2728802",
                 "title": "池原あかね",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3253835",
                 "title": "曲利村",
                 "text": "〇〇は、かつて岐阜県羽島郡にあった村である。現在の羽島市正木町曲利などに該当する。かつては中島郡であったが、郡の合併で羽島郡の村となっている。"
-            },
-            {
-                "datetime": "2024年08月09日 05時の問題",
-                "url": "https://ja.wikipedia.org/?curid=237511",
-                "title": "南部町 (青森県)",
-                "text": "〇〇は、青森県三戸郡内の中央部に位置する町。"
             }
         ]
     }
