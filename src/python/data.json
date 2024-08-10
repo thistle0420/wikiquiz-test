@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年08月11日 01時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4704033",
+                "title": "土屋重治",
+                "text": "〇〇は、戦国時代の三河国の武士。通称は惣兵衛、あるいは甚助。"
+            },
+            {
                 "datetime": "2024年08月11日 00時の問題",
                 "url": "https://ja.wikipedia.org/?curid=47643",
                 "title": "国道488号",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2542874",
                 "title": "岩舟町和泉",
                 "text": "〇〇は、栃木県栃木市の大字。郵便番号は329-4303。　"
-            },
-            {
-                "datetime": "2024年08月09日 07時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4907313",
-                "title": "八郷村 (鳥取県)",
-                "text": "〇〇は、鳥取県日野郡にあった村。現在の西伯郡伯耆町の一部にあたる。"
             }
         ]
     }
