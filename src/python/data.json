@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年08月12日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2739699",
+                "title": "アーネスト・ジョーンズ",
+                "text": "〇〇は、イギリスの医学者・精神科医・精神分析家。"
+            },
+            {
                 "datetime": "2024年08月12日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=5006",
                 "title": "ニコラス・ケイジ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1895818",
                 "title": "チームK 5th Stage「逆上がり」",
                 "text": "〇〇は、AKB48チームK劇場公演の5th Stageである。本項では、その後の別チームによる「おさがり」公演についても記述する。また、公演曲を収録したCD・DVDについても記述する。"
-            },
-            {
-                "datetime": "2024年08月10日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=999609",
-                "title": "ウィニペグ・ジェームス・アームストロング・リチャードソン国際空港",
-                "text": "〇〇は、カナダ・マニトバ州ウィニペグにある国際空港。単にウィニペグ国際空港（Winnipeg International Airport）と呼ばれることが多い。マニトバ州内で最も重要な空港である。24時間開港している。"
             }
         ]
     }
