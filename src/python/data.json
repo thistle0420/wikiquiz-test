@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年08月11日 12時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3836794",
+                "title": "善源寺町",
+                "text": "〇〇は、大阪府大阪市都島区にある町名。現行行政地名は〇〇一丁目および〇〇二丁目。"
+            },
+            {
                 "datetime": "2024年08月11日 11時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1273459",
                 "title": "小林愛雄",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1804722",
                 "title": "BRM・P57",
                 "text": "〇〇は、ブリティッシュ・レーシング・モータースが1962年から1965年までのF1世界選手権に投入したフォーミュラ1カー。トニー・ラッドによって設計された。"
-            },
-            {
-                "datetime": "2024年08月09日 18時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2492244",
-                "title": "高木逸磨",
-                "text": "〇〇は、日本の医師、細菌学者、社会事業家、医学博士。"
             }
         ]
     }
