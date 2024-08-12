@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年08月12日 10時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4919003",
+                "title": "一色町大塚",
+                "text": "〇〇は、愛知県西尾市の地名。"
+            },
+            {
                 "datetime": "2024年08月12日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4234",
                 "title": "ヴィシュヌ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4009527",
                 "title": "熊谷巌",
                 "text": "〇〇は、日本の内務官僚、政治家、弁護士。衆議院議員（4期）。"
-            },
-            {
-                "datetime": "2024年08月10日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2679675",
-                "title": "福井県立奥越明成高等学校",
-                "text": "〇〇は、福井県大野市友江にある公立の高等学校。"
             }
         ]
     }
