@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年08月12日 16時の問題",
+                "url": "https://ja.wikipedia.org/?curid=909461",
+                "title": "NISSHA",
+                "text": "〇〇は、日本の印刷会社。本社は京都府京都市中京区にある。かつての商号は日本写真印刷株式会社。"
+            },
+            {
                 "datetime": "2024年08月12日 15時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4943735",
                 "title": "森徳治 (海軍軍人)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3594800",
                 "title": "日本とスイスの関係",
                 "text": "〇〇は、〇〇/日瑞関係（ドイツ語: Japanisch-schweizerische Beziehungen、フランス語: Relations entre le Japon et la Suisse、イタリア語: Relazioni bilaterali tra il Giappone e la Svizzera、英語: Japan–Switzerland relations）について述べる。"
-            },
-            {
-                "datetime": "2024年08月10日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2728802",
-                "title": "池原あかね",
-                "text": "〇〇は、日本の会社役員。沖縄県にある琉球朝日放送の取締役を務める。本名:福地 あかね（ふくち あかね、旧姓:池原）。"
             }
         ]
     }
