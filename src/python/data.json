@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年08月12日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4606847",
+                "title": "多福寺 (埼玉県三芳町)",
+                "text": "〇〇は、埼玉県入間郡三芳町にある臨済宗妙心寺派の寺院。"
+            },
+            {
                 "datetime": "2024年08月12日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=47443",
                 "title": "町田久成",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4892425",
                 "title": "床弓",
                 "text": "〇〇は、大相撲の元床山。本名は行方嘉朗。福井県小浜市出身。最終所属は高砂部屋。最高位は一等床山。"
-            },
-            {
-                "datetime": "2024年08月10日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1318695",
-                "title": "熊本県道40号南小国波野線",
-                "text": "〇〇は、熊本県阿蘇郡南小国町から阿蘇市に至る県道（主要地方道）である。"
             }
         ]
     }
