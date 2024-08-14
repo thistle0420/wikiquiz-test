@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年08月14日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4463466",
+                "title": "武庫ノ台ゴルフコース",
+                "text": "〇〇は、 兵庫県神戸市北区にあるゴルフ場である。"
+            },
+            {
                 "datetime": "2024年08月14日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3547085",
                 "title": "斉藤展士",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1533516",
                 "title": "MicroStation",
                 "text": "〇〇は、ベントレー・システムズが開発する2次元・3次元CAD（図面作成）及びBIMソフトウェア。 建築、土木、地図・地形図（GIS・マッピング）、機械、プラントなどの分野で使用されている。フォーマットはDGNを採用している。"
-            },
-            {
-                "datetime": "2024年08月13日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1628941",
-                "title": "第5回明治神宮野球大会",
-                "text": "〇〇は、1974年11月2日から11月6日まで明治神宮野球場および明治神宮第二球場で行われた学生野球の大会である。"
             }
         ]
     }
