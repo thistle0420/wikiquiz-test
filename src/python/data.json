@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年08月16日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=590568",
+                "title": "プラセオジムイエロー",
+                "text": "〇〇は、セラミック顔料の1つで、ジルコン（ZrSiO4）に4価のプラセオジムイオンが固溶した黄色顔料。プラセオジム黄、プラセオ黄とも呼ばれる。緑がかった鮮やかな黄色を呈する。Colour Index Generic Name はPigment Yellow 159である。"
+            },
+            {
                 "datetime": "2024年08月15日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=317160",
                 "title": "ハリー・コニック・ジュニア",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=840154",
                 "title": "壊れていくこの世界で",
                 "text": "〇〇は、日本のバンドPIERROTの、メジャーで発売された10枚目のシングル。"
-            },
-            {
-                "datetime": "2024年08月14日 04時の問題",
-                "url": "https://ja.wikipedia.org/?curid=877748",
-                "title": "統合軍",
-                "text": "〇〇は、陸軍・海軍・空軍の各軍種を統合した軍隊の全部又は一部。"
             }
         ]
     }
