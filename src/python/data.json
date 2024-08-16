@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年08月16日 15時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2300315",
+                "title": "ラッセル・ダウニング",
+                "text": "〇〇は、イングランド、ロザラム出身の自転車競技（ロードレース）選手。"
+            },
+            {
                 "datetime": "2024年08月16日 14時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3855756",
                 "title": "平子 (名古屋市)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4463466",
                 "title": "武庫ノ台ゴルフコース",
                 "text": "〇〇は、 兵庫県神戸市北区にあるゴルフ場である。"
-            },
-            {
-                "datetime": "2024年08月14日 19時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3547085",
-                "title": "斉藤展士",
-                "text": "〇〇は、日本の元ラグビー選手。現在ジャパンラグビーリーグワンNTTコミュニケーションズ シャイニングアークス東京ベイ浦安のFWコーチを務めている。"
             }
         ]
     }
