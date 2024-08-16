@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年08月16日 12時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1787580",
+                "title": "太田金山中継局",
+                "text": "〇〇は、群馬県太田市に所在するNHK総合テレビジョン、群馬テレビの中継局。"
+            },
+            {
                 "datetime": "2024年08月16日 11時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1966307",
                 "title": "H-9 (潜水艦)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3318326",
                 "title": "WA-Side",
                 "text": "〇〇は、2015年に結成された女性アイドルグループである。株式会社オフィス・ドリームボール所属。"
-            },
-            {
-                "datetime": "2024年08月14日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4949968",
-                "title": "横浜市立深谷中学校",
-                "text": "〇〇は、神奈川県横浜市戸塚区深谷町にある公立中学校。略称は深中（ふかちゅう）。"
             }
         ]
     }
