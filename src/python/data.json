@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年08月16日 13時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2198328",
+                "title": "ツインズ・ミッション",
+                "text": "〇〇は、2007年に公開された、シャーリーン・チョイとジリアン・チョン主演の香港映画。"
+            },
+            {
                 "datetime": "2024年08月16日 12時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1787580",
                 "title": "太田金山中継局",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2720596",
                 "title": "大阪市電東野田沢上江町線",
                 "text": "〇〇は、東野田九丁目駅 - 都島車庫前駅を結んでいた大阪市電期外線の路線。"
-            },
-            {
-                "datetime": "2024年08月14日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3318326",
-                "title": "WA-Side",
-                "text": "〇〇は、2015年に結成された女性アイドルグループである。株式会社オフィス・ドリームボール所属。"
             }
         ]
     }
