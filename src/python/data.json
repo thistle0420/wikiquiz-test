@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年08月17日 05時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4292365",
+                "title": "ぶんけい",
+                "text": "〇〇は、日本のインフルエンサー、クリエイター。愛称は「ぶんちゃん」。"
+            },
+            {
                 "datetime": "2024年08月17日 04時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1112938",
                 "title": "道の駅みえ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4899553",
                 "title": "バハル・エル＝ガザル川",
                 "text": "〇〇は、南スーダンを流れる川で、ナイル川の支流である。世界最大の湿地帯であるスッド湿地を通りノ湖で白ナイル川と合流している。"
-            },
-            {
-                "datetime": "2024年08月15日 12時の問題",
-                "url": "https://ja.wikipedia.org/?curid=179548",
-                "title": "パンプキンパイ",
-                "text": "〇〇は、北アメリカの伝統的なデザートの一種である。"
             }
         ]
     }
