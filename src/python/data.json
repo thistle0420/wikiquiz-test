@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年08月19日 04時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3527338",
+                "title": "イオン散乱",
+                "text": "〇〇は、物質に入射したイオンが物質によって散乱される現象のこと。〇〇を用いた固体の構造解析手法は、入射イオンのエネルギーによって大きく二つに分けられる。低速〇〇分光 (low-energy ion scattering spectroscopy)keV領域の低エネルギーのイオンを照射する方法。単に〇〇分光(ISS, Ion Scattering Spectroscopy)と言ったときは、この低速〇〇分光のことを意味することが多い。ラザフォード後方散乱分光(RBS, Rutherford Backscattering spectroscopy)MeV領域の高エネルギーのイオンを照射する方法。"
+            },
+            {
                 "datetime": "2024年08月19日 03時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2644615",
                 "title": "第35回セザール賞",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3680123",
                 "title": "許桂源",
                 "text": "〇〇は、中華人民共和国広東省掲陽市普寧市出身の元プロ野球選手(外野手)。中国にあるMLBデベロップメントセンターから契約を結んだ、初のプロ野球選手である。"
-            },
-            {
-                "datetime": "2024年08月17日 11時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1488585",
-                "title": "広瀬絣",
-                "text": "〇〇は、島根県安来市広瀬町（旧能義郡広瀬町）で製造されている絣。倉吉絣、弓浜絣とともに山陰の三絵絣の一つとされる。大柄の絵絣が特徴。"
             }
         ]
     }
