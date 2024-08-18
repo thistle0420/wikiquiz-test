@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年08月18日 22時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3999931",
+                "title": "千葉光行",
+                "text": "〇〇は、日本の政治家、歯科医師。第22代千葉県市川市長（3期）を務めた。"
+            },
+            {
                 "datetime": "2024年08月18日 21時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4218813",
                 "title": "ロングテイルホップマウス",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4292365",
                 "title": "ぶんけい",
                 "text": "〇〇は、日本のインフルエンサー、クリエイター。愛称は「ぶんちゃん」。"
-            },
-            {
-                "datetime": "2024年08月17日 04時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1112938",
-                "title": "道の駅みえ",
-                "text": "〇〇は、大分県豊後大野市にある国道326号の道の駅である。"
             }
         ]
     }
