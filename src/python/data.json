@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年08月21日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1051476",
+                "title": "小杉俊二",
+                "text": "〇〇は、新日本プロレスに所属していた元プロレスラー。新潟県佐渡郡出身。"
+            },
+            {
                 "datetime": "2024年08月21日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1413101",
                 "title": "Phantasmagoria: The Visions of Lewis Carroll",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4821230",
                 "title": "ベルトゥ・ユルドゥルム",
                 "text": "〇〇は、トルコ・イスタンブールキャウトハーネ区出身のプロサッカー選手。スタッド・レンヌ所属。ポジションはFW。"
-            },
-            {
-                "datetime": "2024年08月19日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3314627",
-                "title": "LOVE PSYCHEDELICO THE BEST II",
-                "text": "〇〇は、LOVE PSYCHEDELICOのベストアルバム。『LOVE PSYCHEDELICO THE BEST I』と同時発売。"
             }
         ]
     }
