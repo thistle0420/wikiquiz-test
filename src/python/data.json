@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年08月23日 04時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3443023",
+                "title": "野上健",
+                "text": "〇〇は、日本の小説家。埼玉県出身。東京電機大学高等学校卒。"
+            },
+            {
                 "datetime": "2024年08月23日 03時の問題",
                 "url": "https://ja.wikipedia.org/?curid=140935",
                 "title": "ピッツバーグ・パイレーツ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2133065",
                 "title": "中村靖之介",
                 "text": "〇〇は、日本の俳優、声優。北海道出身。以前はプロ・フィットに所属していた。"
-            },
-            {
-                "datetime": "2024年08月21日 11時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4626186",
-                "title": "ドーヴィル大賞典",
-                "text": "〇〇は、毎年8月にフランス・ドーヴィルのドーヴィル競馬場の芝2500mで行われている重賞競走(G2)である｡"
             }
         ]
     }
