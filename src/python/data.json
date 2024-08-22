@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年08月23日 05時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2834908",
+                "title": "稲垣裕美",
+                "text": "〇〇は、日本の体育学者。 専攻はライフセービング。 流通経済大学スポーツ健康科学部准教授、同大学ライフセービング部コーチ。静岡県出身。"
+            },
+            {
                 "datetime": "2024年08月23日 04時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3443023",
                 "title": "野上健",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4904020",
                 "title": "にしざわひろ",
                 "text": "〇〇は、日本のラジオDJ、およびタレント。三重県出身。"
-            },
-            {
-                "datetime": "2024年08月21日 12時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2133065",
-                "title": "中村靖之介",
-                "text": "〇〇は、日本の俳優、声優。北海道出身。以前はプロ・フィットに所属していた。"
             }
         ]
     }
