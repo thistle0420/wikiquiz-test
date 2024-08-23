@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年08月23日 15時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2956655",
+                "title": "デトロイト市長",
+                "text": "〇〇は、アメリカ合衆国のミシガン州デトロイトの市長である。現在の市長はマイク・ダガンである。"
+            },
+            {
                 "datetime": "2024年08月23日 14時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3693574",
                 "title": "岸田一夫",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=898325",
                 "title": "宗義蕃",
                 "text": "〇〇は、対馬国府中藩9代藩主。通称、主水（もんど）。"
-            },
-            {
-                "datetime": "2024年08月21日 21時の問題",
-                "url": "https://ja.wikipedia.org/?curid=412855",
-                "title": "ルシマール・ダ・シウヴァ・フェレイラ",
-                "text": "〇〇は、ブラジル・ブラジリア出身の元サッカー選手。現役時代のポジションはディフェンダー。"
             }
         ]
     }
