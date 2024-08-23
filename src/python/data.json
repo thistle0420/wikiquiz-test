@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年08月23日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3693574",
+                "title": "岸田一夫",
+                "text": "〇〇は、日本の政治家。茨城県鉾田市長（2期）。元鉾田市議会議員（1期）。"
+            },
+            {
                 "datetime": "2024年08月23日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=192136",
                 "title": "粘菌同期法",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=412855",
                 "title": "ルシマール・ダ・シウヴァ・フェレイラ",
                 "text": "〇〇は、ブラジル・ブラジリア出身の元サッカー選手。現役時代のポジションはディフェンダー。"
-            },
-            {
-                "datetime": "2024年08月21日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=510894",
-                "title": "岸本組",
-                "text": "〇〇は、神戸市に本部を置く暴力団で、指定暴力団六代目山口組の二次団体。"
             }
         ]
     }
