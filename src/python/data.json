@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年08月23日 16時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2021923",
+                "title": "マール社",
+                "text": "〇〇は、日本の出版社の一つである。創業は1975年。社名にはドイツ語（Maar）と古スコットランド語（merl）による2つの意味を重ねている。主に美術・出版関係の書籍を出版している。"
+            },
+            {
                 "datetime": "2024年08月23日 15時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2956655",
                 "title": "デトロイト市長",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1898292",
                 "title": "Back to front",
                 "text": "〇〇は、Winkのベスト・アルバム。1995年2月25日にポリスターより発売された。"
-            },
-            {
-                "datetime": "2024年08月21日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=898325",
-                "title": "宗義蕃",
-                "text": "〇〇は、対馬国府中藩9代藩主。通称、主水（もんど）。"
             }
         ]
     }
