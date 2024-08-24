@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年08月24日 16時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1597263",
+                "title": "遥めい",
+                "text": "〇〇は、日本のAV女優。"
+            },
+            {
                 "datetime": "2024年08月24日 15時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4633354",
                 "title": "保良せき",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1138109",
                 "title": "最期の川",
                 "text": "〇〇は、CHEMISTRYの22枚目のシングルで、2007年10月24日発売。発売元はデフスターレコーズ。"
-            },
-            {
-                "datetime": "2024年08月22日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4907487",
-                "title": "テジャス客車",
-                "text": "〇〇は、インドの鉄道路線で使用されている客車の愛称。自動扉の採用や近代的な内装を採用した車両で、テジャス急行を始めとした急行列車で用いられている。"
             }
         ]
     }
