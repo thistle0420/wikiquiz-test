@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年08月24日 23時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4347769",
+                "title": "白河真梨奈",
+                "text": "〇〇は、日本のジャーナリストで NHK報道局社会部記者。"
+            },
+            {
                 "datetime": "2024年08月24日 22時の問題",
                 "url": "https://ja.wikipedia.org/?curid=176683",
                 "title": "ムサカ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3735469",
                 "title": "櫻井武雄 (男爵)",
                 "text": "〇〇は、日本の海軍軍人（機関科）、政治家、華族。最終階級は海軍大佐。貴族院男爵議員。"
-            },
-            {
-                "datetime": "2024年08月23日 05時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2834908",
-                "title": "稲垣裕美",
-                "text": "〇〇は、日本の体育学者。 専攻はライフセービング。 流通経済大学スポーツ健康科学部准教授、同大学ライフセービング部コーチ。静岡県出身。"
             }
         ]
     }
