@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年08月25日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2466843",
+                "title": "加藤康弘",
+                "text": "〇〇は、元プロサッカー選手。現役時代のポジションはFW、MF。"
+            },
+            {
                 "datetime": "2024年08月25日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2171110",
                 "title": "1930年の音楽",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2956655",
                 "title": "デトロイト市長",
                 "text": "〇〇は、アメリカ合衆国のミシガン州デトロイトの市長である。現在の市長はマイク・ダガンである。"
-            },
-            {
-                "datetime": "2024年08月23日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3693574",
-                "title": "岸田一夫",
-                "text": "〇〇は、日本の政治家。茨城県鉾田市長（2期）。元鉾田市議会議員（1期）。"
             }
         ]
     }
