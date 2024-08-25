@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年08月25日 13時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4293636",
+                "title": "山野貝塚",
+                "text": "〇〇は、千葉県袖ケ浦市飯富にある縄文時代後期の貝塚遺跡。南北約110メートル、東西約140メートルに及ぶ大型の貝塚であり、千葉県南部では最大級である。"
+            },
+            {
                 "datetime": "2024年08月25日 12時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1365799",
                 "title": "The brilliant green (アルバム)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3418066",
                 "title": "中西立太",
                 "text": "〇〇は、日本のイラストレーター。「歴史画」の第一人者といわれている。"
-            },
-            {
-                "datetime": "2024年08月23日 19時の問題",
-                "url": "https://ja.wikipedia.org/?curid=398468",
-                "title": "塚本くみ子",
-                "text": "〇〇は、北陸朝日放送 (HAB) の社員で、元同局のアナウンサー。"
             }
         ]
     }
