@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年08月25日 12時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1365799",
+                "title": "The brilliant green (アルバム)",
+                "text": "〇〇は、the brilliant greenの1stアルバム。1998年9月19日にソニー・ミュージックレコーズから発売された。"
+            },
+            {
                 "datetime": "2024年08月25日 11時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2906916",
                 "title": "鷲谷七菜子",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=398468",
                 "title": "塚本くみ子",
                 "text": "〇〇は、北陸朝日放送 (HAB) の社員で、元同局のアナウンサー。"
-            },
-            {
-                "datetime": "2024年08月23日 18時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4657451",
-                "title": "ロックブロス",
-                "text": "〇〇は、中国に本社を置く、自転車用バッグやヘルメットの製造、販売を手がける企業、またはそのブランド。"
             }
         ]
     }
