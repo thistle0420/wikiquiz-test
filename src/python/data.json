@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年08月25日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=905674",
+                "title": "ささゆりの里",
+                "text": "〇〇は、愛知県豊田市松嶺町にあるささゆりの自生地である。私有地であるが、見頃である6月上旬頃に2週間ほど一般公開している。"
+            },
+            {
                 "datetime": "2024年08月25日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4912320",
                 "title": "2024年パリオリンピックのサッカー競技・男子・グループC",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2698038",
                 "title": "秋篠全継",
                 "text": "〇〇は、平安時代初期の貴族。名は全嗣とも記される。"
-            },
-            {
-                "datetime": "2024年08月24日 03時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4621814",
-                "title": "奥山爾朗",
-                "text": "〇〇は、日本の外交官。"
             }
         ]
     }
