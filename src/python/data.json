@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年08月27日 04時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4129689",
+                "title": "ヤットコ",
+                "text": "〇〇は、岡山県倉敷市連島地区にある地名である。交差点の名前にもなっており、両備バスの停留所が設置されている。「新〇〇」というバス停が100mほど南に存在したこともある。かつては倉敷市営バスも走っていた。"
+            },
+            {
                 "datetime": "2024年08月27日 03時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3218692",
                 "title": "今井邦彦",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1365799",
                 "title": "The brilliant green (アルバム)",
                 "text": "〇〇は、the brilliant greenの1stアルバム。1998年9月19日にソニー・ミュージックレコーズから発売された。"
-            },
-            {
-                "datetime": "2024年08月25日 11時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2906916",
-                "title": "鷲谷七菜子",
-                "text": "〇〇は、日本の俳人。"
             }
         ]
     }
