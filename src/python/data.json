@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年08月27日 02時の問題",
+                "url": "https://ja.wikipedia.org/?curid=968555",
+                "title": "BUG (バンド)",
+                "text": "〇〇は、日本のロックバンド。2001年に結成、2012年活動休止。"
+            },
+            {
                 "datetime": "2024年08月27日 01時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4013341",
                 "title": "マイクロコッカス科",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3532402",
                 "title": "五木村立五木北小学校",
                 "text": "〇〇は、かつて熊本県球磨郡五木村にあった村立小学校。"
-            },
-            {
-                "datetime": "2024年08月25日 08時の問題",
-                "url": "https://ja.wikipedia.org/?curid=112553",
-                "title": "伊東義益",
-                "text": "〇〇は、戦国時代の武将、日向国の戦国大名。日向伊東氏12代（伊東氏17代）当主。都於郡城主。"
             }
         ]
     }
