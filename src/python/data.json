@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年08月27日 01時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4013341",
+                "title": "マイクロコッカス科",
+                "text": "〇〇は、真正細菌の科の一つ。空気中および生物の皮膚に生息するグラム陽性球菌が含まれる。"
+            },
+            {
                 "datetime": "2024年08月27日 00時の問題",
                 "url": "https://ja.wikipedia.org/?curid=371379",
                 "title": "大学合同考古学シンポジウム",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=112553",
                 "title": "伊東義益",
                 "text": "〇〇は、戦国時代の武将、日向国の戦国大名。日向伊東氏12代（伊東氏17代）当主。都於郡城主。"
-            },
-            {
-                "datetime": "2024年08月25日 07時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2466843",
-                "title": "加藤康弘",
-                "text": "〇〇は、元プロサッカー選手。現役時代のポジションはFW、MF。"
             }
         ]
     }
