@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年08月27日 03時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3218692",
+                "title": "今井邦彦",
+                "text": "〇〇は、日本の言語学者・英語学者、東京都立大学名誉教授。"
+            },
+            {
                 "datetime": "2024年08月27日 02時の問題",
                 "url": "https://ja.wikipedia.org/?curid=968555",
                 "title": "BUG (バンド)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2906916",
                 "title": "鷲谷七菜子",
                 "text": "〇〇は、日本の俳人。"
-            },
-            {
-                "datetime": "2024年08月25日 10時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3532402",
-                "title": "五木村立五木北小学校",
-                "text": "〇〇は、かつて熊本県球磨郡五木村にあった村立小学校。"
             }
         ]
     }
