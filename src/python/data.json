@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年08月27日 10時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1920323",
+                "title": "千葉県の歴史",
+                "text": "〇〇は、〇〇について記述する。"
+            },
+            {
                 "datetime": "2024年08月27日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1889171",
                 "title": "1997 SMAP LIVE ス",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4525758",
                 "title": "2022年北京オリンピックのアルメニア選手団",
                 "text": "〇〇は、2022年2月4日から2月20日まで中華人民共和国の北京で開催された〇〇の名簿。"
-            },
-            {
-                "datetime": "2024年08月25日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2199635",
-                "title": "The first chapter...",
-                "text": "〇〇は、LIVの1枚目のアルバム。"
             }
         ]
     }
