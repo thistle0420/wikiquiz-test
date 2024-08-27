@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年08月28日 02時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1861298",
+                "title": "大野城市立大野南小学校",
+                "text": "〇〇は、福岡県大野城市南ケ丘四丁目にある公立小学校。"
+            },
+            {
                 "datetime": "2024年08月28日 01時の問題",
                 "url": "https://ja.wikipedia.org/?curid=639272",
                 "title": "総合雑誌",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1512148",
                 "title": "劉駿",
                 "text": "〇〇は、中国史上の人物である。同名で複数いる。〇〇 (前漢) - 前漢の皇族。泗水王。南朝宋の孝武帝の実名。"
-            },
-            {
-                "datetime": "2024年08月26日 08時の問題",
-                "url": "https://ja.wikipedia.org/?curid=580284",
-                "title": "臼田亞浪",
-                "text": "〇〇は、日本の俳人。本名は臼田卯一郎（ういちろう）。"
             }
         ]
     }
