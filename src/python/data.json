@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年08月28日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3967552",
+                "title": "群りゅうせい",
+                "text": "〇〇は、日本の漫画家。"
+            },
+            {
                 "datetime": "2024年08月28日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1957059",
                 "title": "城砦 (1938年の映画)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2519359",
                 "title": "月刊MEN",
                 "text": "〇〇は、ポニーキャニオンから発売されている男性俳優、タレントらを扱った雑誌（ムック型写真集）である。"
-            },
-            {
-                "datetime": "2024年08月26日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4378355",
-                "title": "タッカー・デービッドソン",
-                "text": "〇〇は、アメリカ合衆国テキサス州アマリロ出身のプロ野球選手（投手）。左投左打。MLBのボルティモア・オリオールズ傘下に所属。"
             }
         ]
     }
