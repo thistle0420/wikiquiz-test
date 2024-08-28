@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年08月29日 02時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2130330",
+                "title": "沖村 (東京都)",
+                "text": "〇〇は、東京都小笠原支庁管内にかつて存在した村である。"
+            },
+            {
                 "datetime": "2024年08月29日 01時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2508016",
                 "title": "GO! GO! LGYankees!!!",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1920323",
                 "title": "千葉県の歴史",
                 "text": "〇〇は、〇〇について記述する。"
-            },
-            {
-                "datetime": "2024年08月27日 08時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1889171",
-                "title": "1997 SMAP LIVE ス",
-                "text": "〇〇は、1997年12月17日に発売されたSMAPのツアーDVD・VHS,LDである。"
             }
         ]
     }
