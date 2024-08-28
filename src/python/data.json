@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年08月28日 19時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1096533",
+                "title": "越智貢",
+                "text": "〇〇は、日本の哲学者。専攻は応用倫理学。広島大学教授。応用倫理学（情報倫理学・教育倫理学）の立場から、電子ネットワークおよび学校教育におけるモラルを研究している。"
+            },
+            {
                 "datetime": "2024年08月28日 18時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4805183",
                 "title": "10th Anniversary Best",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=968555",
                 "title": "BUG (バンド)",
                 "text": "〇〇は、日本のロックバンド。2001年に結成、2012年活動休止。"
-            },
-            {
-                "datetime": "2024年08月27日 01時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4013341",
-                "title": "マイクロコッカス科",
-                "text": "〇〇は、真正細菌の科の一つ。空気中および生物の皮膚に生息するグラム陽性球菌が含まれる。"
             }
         ]
     }
