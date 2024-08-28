@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年08月29日 06時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3649144",
+                "title": "人見勝人",
+                "text": "〇〇は、日本の工学者。京都大学名誉教授。"
+            },
+            {
                 "datetime": "2024年08月29日 05時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2374746",
                 "title": "暁鐘成",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1279924",
                 "title": "山岡景佐",
                 "text": "〇〇は、戦国時代から安土桃山時代にかけての武将。"
-            },
-            {
-                "datetime": "2024年08月27日 13時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3873335",
-                "title": "中加関係",
-                "text": "〇〇は、主に中華人民共和国とカナダの二国間関係について記述する。"
             }
         ]
     }
