@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年08月28日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4873034",
+                "title": "檮原町立国民健康保険梼原病院",
+                "text": "〇〇は、高知県高岡郡檮原町にある檮原町が運営する病院。"
+            },
+            {
                 "datetime": "2024年08月28日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1096533",
                 "title": "越智貢",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3218692",
                 "title": "今井邦彦",
                 "text": "〇〇は、日本の言語学者・英語学者、東京都立大学名誉教授。"
-            },
-            {
-                "datetime": "2024年08月27日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=968555",
-                "title": "BUG (バンド)",
-                "text": "〇〇は、日本のロックバンド。2001年に結成、2012年活動休止。"
             }
         ]
     }
