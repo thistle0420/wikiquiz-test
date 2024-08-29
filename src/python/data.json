@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年08月29日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2278248",
+                "title": "1990年ポーランド大統領選挙",
+                "text": "〇〇は、1990年11月25日および12月9日にポーランドで行われた大統領の選挙である。"
+            },
+            {
                 "datetime": "2024年08月29日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=508781",
                 "title": "テレビ等 (2ちゃんねるカテゴリ)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1979369",
                 "title": "宮田直樹 (サッカー選手)",
                 "text": "〇〇は、長野県松本市出身の元サッカー選手。ポジションは、MF。"
-            },
-            {
-                "datetime": "2024年08月28日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1861298",
-                "title": "大野城市立大野南小学校",
-                "text": "〇〇は、福岡県大野城市南ケ丘四丁目にある公立小学校。"
             }
         ]
     }
