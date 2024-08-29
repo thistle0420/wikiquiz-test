@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年08月29日 23時の問題",
+                "url": "https://ja.wikipedia.org/?curid=966138",
+                "title": "アッレ",
+                "text": "〇〇は、イタリア共和国ヴェネト州パドヴァ県にある、人口約2,100人の基礎自治体（コムーネ）。"
+            },
+            {
                 "datetime": "2024年08月29日 22時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1893241",
                 "title": "カヤキリ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1957059",
                 "title": "城砦 (1938年の映画)",
                 "text": "〇〇は、1938年に製作・公開されたイギリス・アメリカ映画。"
-            },
-            {
-                "datetime": "2024年08月28日 05時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2207959",
-                "title": "花鳥風月集",
-                "text": "〇〇は、ワーナーミュージック・ジャパンから発売されたオムニバス・アルバムである。2010年3月3日発売。初回には2010年10月30日に日本武道館公演で開催されるライブイベント「WARNER MUSIC JAPAN 40th. Anniversary ～100年MUSIC FESTIVAL～」への100組200名の応募券が封入。"
             }
         ]
     }
