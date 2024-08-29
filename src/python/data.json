@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年08月29日 16時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1029985",
+                "title": "バサ",
+                "text": "〇〇は、スペイン・アンダルシア州グラナダ県のムニシピオ（基礎自治体）。"
+            },
+            {
                 "datetime": "2024年08月29日 15時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4752225",
                 "title": "モーリッツ (ザクセン＝ツァイツ公)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3421240",
                 "title": "噂の金四郎",
                 "text": "〇〇は、1974年11月25日にビクターレコードより発売された橋幸夫のシングルである（SV-2450）。"
-            },
-            {
-                "datetime": "2024年08月27日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3274513",
-                "title": "范汪",
-                "text": "〇〇は、東晋の官僚・政治家。字は玄平。本貫は南陽郡順陽県。"
             }
         ]
     }
