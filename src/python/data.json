@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年08月30日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=627657",
+                "title": "壱河柳乃助",
+                "text": "〇〇は、日本の漫画家・イラストレーター。血液型はA型。"
+            },
+            {
                 "datetime": "2024年08月30日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2692917",
                 "title": "西湖線",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1280241",
                 "title": "山岡景宗",
                 "text": "〇〇は、戦国時代から安土桃山時代にかけての武将。"
-            },
-            {
-                "datetime": "2024年08月28日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=531737",
-                "title": "堀場雅夫",
-                "text": "〇〇は、日本の実業家。株式会社堀場製作所創業者および同社最高顧問。"
             }
         ]
     }
