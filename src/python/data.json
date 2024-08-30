@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年08月30日 12時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2071741",
+                "title": "HX006ZT",
+                "text": "〇〇は、中興通訊 (ZTE) によって開発された、ウィルコムによるMVNO・WILLCOM CORE 3G (HSDPA/HSUPA) 対応のUSB接続型データ通信端末。"
+            },
+            {
                 "datetime": "2024年08月30日 11時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1369101",
                 "title": "夢の憂橋",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1096533",
                 "title": "越智貢",
                 "text": "〇〇は、日本の哲学者。専攻は応用倫理学。広島大学教授。応用倫理学（情報倫理学・教育倫理学）の立場から、電子ネットワークおよび学校教育におけるモラルを研究している。"
-            },
-            {
-                "datetime": "2024年08月28日 18時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4805183",
-                "title": "10th Anniversary Best",
-                "text": "〇〇は、家入レオの2枚目のベスト・アルバム。2022年2月16日にビクターエンタテインメントより発売された。これまでにリリースされた曲に加え、新曲「Borderless」、「花束」が収録されている。販売形態は、通常盤、初回限定盤A、初回限定盤B、10th Anniversary盤の4形態である。初回限定盤AにはセルフカバーCDが付属し、初回限定盤Bにはミュージックビデオが収録されたDVDが付属し、10th Anniversary盤にはベストライブ映像を収録したBlu-ray Discなどが付属した。"
             }
         ]
     }
