@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年08月31日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1783336",
+                "title": "あいち造形デザイン専門学校",
+                "text": "〇〇は、愛知県名古屋市千種区今池四丁目にある私立専修学校。学校法人電波学園が設置する。1983年に開校。"
+            },
+            {
                 "datetime": "2024年08月30日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=683285",
                 "title": "JALドリームエクスプレス",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3031573",
                 "title": "薛珝",
                 "text": "〇〇は、中国三国時代の呉の武将。豫州沛郡竹邑県（現在の安徽省宿州市埇橋区）の人。父は薛綜。弟は薛瑩。甥は薛兼。"
-            },
-            {
-                "datetime": "2024年08月29日 06時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3649144",
-                "title": "人見勝人",
-                "text": "〇〇は、日本の工学者。京都大学名誉教授。"
             }
         ]
     }
