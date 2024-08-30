@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年08月31日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=990458",
+                "title": "インドサウルス",
+                "text": "〇〇は、10メートルほどある。あまり化石の見つかっていない恐竜である。"
+            },
+            {
                 "datetime": "2024年08月31日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=47976",
                 "title": "血漿",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4752225",
                 "title": "モーリッツ (ザクセン＝ツァイツ公)",
                 "text": "〇〇は、ザクセン＝ツァイツ公（在位：1656年 - 1681年）。"
-            },
-            {
-                "datetime": "2024年08月29日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2986648",
-                "title": "小林春世",
-                "text": "〇〇は、日本の舞台俳優。演劇集団キャラメルボックスの劇団員。所属事務所はナッポスユナイテッド。"
             }
         ]
     }
