@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年08月31日 15時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2938469",
+                "title": "ズライ・エナオ",
+                "text": "〇〇は、アメリカ合衆国出身の女優である。コロンビア出身。"
+            },
+            {
                 "datetime": "2024年08月31日 14時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3111482",
                 "title": "アダム・リベラトーレ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1893241",
                 "title": "カヤキリ",
                 "text": "〇〇は、バッタ目キリギリス科〇〇属の昆虫。和名は「カヤ（ススキの別名）に棲むキリギリス」の意味。"
-            },
-            {
-                "datetime": "2024年08月29日 21時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4623120",
-                "title": "山本悟司",
-                "text": "〇〇は、国土交通省技官。埼玉県副知事を経て、国土地理院長。長野県出身。"
             }
         ]
     }
