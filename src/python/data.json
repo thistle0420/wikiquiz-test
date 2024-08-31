@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年08月31日 16時の問題",
+                "url": "https://ja.wikipedia.org/?curid=532876",
+                "title": "四国中央警察署",
+                "text": "〇〇は、愛媛県警察が管轄する警察署の一つである。"
+            },
+            {
                 "datetime": "2024年08月31日 15時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2938469",
                 "title": "ズライ・エナオ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=966138",
                 "title": "アッレ",
                 "text": "〇〇は、イタリア共和国ヴェネト州パドヴァ県にある、人口約2,100人の基礎自治体（コムーネ）。"
-            },
-            {
-                "datetime": "2024年08月29日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1893241",
-                "title": "カヤキリ",
-                "text": "〇〇は、バッタ目キリギリス科〇〇属の昆虫。和名は「カヤ（ススキの別名）に棲むキリギリス」の意味。"
             }
         ]
     }
