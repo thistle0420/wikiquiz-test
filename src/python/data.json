@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年08月31日 12時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2748617",
+                "title": "フロイド-スタインバーグ・ディザリング",
+                "text": "〇〇は、画像を左から右、上から下にスキャンし、ピクセルの値を1つずつ量子化していく。毎回の量子化誤差は隣接するピクセル群に分配されるが、既に量子化が済んだピクセルの値は変更しない。これにより、あるピクセルの値が量子化によって切り下げられたら、次のピクセルにその誤差が反映されて切り上げられることになり、全体として量子化誤差がゼロに近づくことになる。実装によっては、水平のスキャン方向を毎回逆にすることもある（蛇行式または牛耕式）。以下に擬似コードを示す。for each y from top to bottom   for each x from left to right      oldpixel := pixel[x][y]      newpixel := find_closest_palette_color(oldpixel)      pixel[x][y] := newpixel      quant_error := oldpixel - newpixel      pixel[x+1][y] := pixel[x+1][y] + 7/16 * quant_error      pixel[x-1][y+1] := pixel[x-1][y+1] + 3/16 * quant_error      pixel[x][y+1] := pixel[x][y+1] + 5/16 * quant_error      pixel[x+1][y+1] := pixel[x+1][y+1] + 1/16 * quant_error元のピクセル値が発色可能な色と色のちょうど中間だった場合、誤差拡散係数は市松模様のようなパターンを生成するように設定されている。例えば50%の灰色は白と黒の市松模様となる。最適なディザリングにするには、丸め誤差が結果に影響することを防止するため、量子化誤差を十分な精度で求める必要がある。例えばグレースケールにおいて色深度を16ビットから8ビットにする場合、find_closest_palette_color() は次のように単純な丸めをすればよい。find_closest_palette_color(oldpixel) = oldpixel / 256 * 256"
+            },
+            {
                 "datetime": "2024年08月31日 11時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1950034",
                 "title": "INFINITY 〜INFIX Special Self Selection〜",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=508781",
                 "title": "テレビ等 (2ちゃんねるカテゴリ)",
                 "text": "〇〇は、匿名掲示板2ちゃんねるの中のカテゴリの中の1つ。各種テレビ・ラジオに関する話題を話す板をまとめている。当カテゴリ内にあるほとんどの板のローカルルールでは実況禁止厳守となっており、実況板あるいは実況ch内に属する各板を利用する。"
-            },
-            {
-                "datetime": "2024年08月29日 18時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2231178",
-                "title": "Kbkg wz. 1960",
-                "text": "〇〇は、ポーランドが自国製のAK-47アサルトライフルにライフルグレネードの発射能力を付与したものである。PMK-DGN-60とも表記される。"
             }
         ]
     }
