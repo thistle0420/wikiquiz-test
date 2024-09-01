@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年09月02日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=12844",
+                "title": "1535年",
+                "text": "〇〇は、西暦（ユリウス暦）による、平年。"
+            },
+            {
                 "datetime": "2024年09月02日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=226198",
                 "title": "ウェストミンスター大学 (ユタ州)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=532876",
                 "title": "四国中央警察署",
                 "text": "〇〇は、愛媛県警察が管轄する警察署の一つである。"
-            },
-            {
-                "datetime": "2024年08月31日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2938469",
-                "title": "ズライ・エナオ",
-                "text": "〇〇は、アメリカ合衆国出身の女優である。コロンビア出身。"
             }
         ]
     }
