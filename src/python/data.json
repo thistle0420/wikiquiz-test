@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年09月02日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3556593",
+                "title": "佐藤史織",
+                "text": "〇〇は、大阪府出身の、日本人の女子柔道選手である。階級は63kg級。身長161cm。血液型はA型。組み手は右組。得意技は背負投。"
+            },
+            {
                 "datetime": "2024年09月02日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=830228",
                 "title": "レオニダス・カヴァコス",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4275190",
                 "title": "佐々木尽",
                 "text": "〇〇は、日本のプロボクサー。東京都八王子市出身。第2代日本スーパーライト級ユース王者。WBO世界ウェルター級2位。現WBOアジアパシフィックウェルター級王者、現OPBF東洋太平洋ウェルター級王者。八王子中屋ボクシングジム所属。入場曲はONE OK ROCKの『The Beginning』。"
-            },
-            {
-                "datetime": "2024年09月01日 03時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3792823",
-                "title": "産業貿易センタービル",
-                "text": "〇〇は、神奈川県横浜市中区山下町にある建築物である。"
             }
         ]
     }
