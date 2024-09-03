@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年09月03日 11時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3836662",
+                "title": "作東郵便局",
+                "text": "〇〇は、岡山県美作市にある郵便局。民営化前の分類では集配特定郵便局であった。"
+            },
+            {
                 "datetime": "2024年09月03日 10時の問題",
                 "url": "https://ja.wikipedia.org/?curid=564409",
                 "title": "フリードリヒ・クリスティアン (ザクセン選帝侯)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3462949",
                 "title": "岩崎悠人",
                 "text": "〇〇は、滋賀県彦根市出身のプロサッカー選手。Jリーグ・アビスパ福岡所属。ポジションはフォワード（FW）。日本代表。"
-            },
-            {
-                "datetime": "2024年09月01日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4863966",
-                "title": "藤田温",
-                "text": "〇〇は、日本の経営者。倉敷紡績社長、会長を務めた。"
             }
         ]
     }
