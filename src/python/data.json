@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年09月04日 23時の問題",
+                "url": "https://ja.wikipedia.org/?curid=134046",
+                "title": "日本の夏季オリンピック金メダル",
+                "text": "〇〇は、夏季オリンピックにおける日本代表が獲得した金メダルの受賞者を一覧で概説する。"
+            },
+            {
                 "datetime": "2024年09月04日 22時の問題",
                 "url": "https://ja.wikipedia.org/?curid=655997",
                 "title": "青木祐子",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=821842",
                 "title": "どら平太",
                 "text": "〇〇は、2000年に公開された日本映画。監督は、市川崑。毎日放送50周年記念作品。"
-            },
-            {
-                "datetime": "2024年09月03日 05時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3479736",
-                "title": "さよならコンサート",
-                "text": "〇〇は、クラフトのサード・シングル曲。"
             }
         ]
     }
