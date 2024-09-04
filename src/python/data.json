@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年09月04日 22時の問題",
+                "url": "https://ja.wikipedia.org/?curid=655997",
+                "title": "青木祐子",
+                "text": "〇〇は、日本のジュブナイル小説家。長野県出身。血液型はA型。"
+            },
+            {
                 "datetime": "2024年09月04日 21時の問題",
                 "url": "https://ja.wikipedia.org/?curid=447918",
                 "title": "ロスタイム",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3479736",
                 "title": "さよならコンサート",
                 "text": "〇〇は、クラフトのサード・シングル曲。"
-            },
-            {
-                "datetime": "2024年09月03日 04時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4955338",
-                "title": "松澤さん",
-                "text": "〇〇は、日本のプロレスマネージャー、女子プロレスラー。血液型AB型。"
             }
         ]
     }
