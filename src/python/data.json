@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年09月05日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2328795",
+                "title": "バブリーナ",
+                "text": "〇〇は、日本の女装家、ドラァグクイーン、タレント。"
+            },
+            {
                 "datetime": "2024年09月05日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1073041",
                 "title": "NTTドコモの端末一覧",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3797779",
                 "title": "バドル・バヌン",
                 "text": "〇〇は、モロッコ・カサブランカ出身のプロサッカー選手。カタール・スターズリーグ・カタールSC所属。サッカーモロッコ代表。ポジションはDF(CB)。"
-            },
-            {
-                "datetime": "2024年09月03日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=930085",
-                "title": "岡野憲治",
-                "text": "〇〇は、日本の会計学者。松山大学名誉教授。専門は原価計算論、管理会計、特に製品ライフサイクル・コスティング。"
             }
         ]
     }
