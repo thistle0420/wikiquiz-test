@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年09月05日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3268281",
+                "title": "Rollig Life",
+                "text": "〇〇は、JOKERの2枚目のシングルである。"
+            },
+            {
                 "datetime": "2024年09月05日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4215370",
                 "title": "家田正之",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=576151",
                 "title": "石井康晴",
                 "text": "〇〇は、TBSテレビ（旧TBSエンタテインメント）制作1部所属のテレビドラマ演出家、映画監督。早稲田大学卒業。"
-            },
-            {
-                "datetime": "2024年09月04日 00時の問題",
-                "url": "https://ja.wikipedia.org/?curid=83407",
-                "title": "下落合焼とりムービー",
-                "text": "〇〇は、1979年（昭和54年）6月23日公開の日本映画である。漫画家の赤塚不二夫が企画・脚本（いずれも共同）を手掛け、山本晋也が監督を務めた。チーフ助監督を滝田洋二郎が務めている。"
             }
         ]
     }
