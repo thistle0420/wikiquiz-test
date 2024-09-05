@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年09月05日 22時の問題",
+                "url": "https://ja.wikipedia.org/?curid=87130",
+                "title": "MIHO MUSEUM",
+                "text": "〇〇は、滋賀県甲賀市信楽町田代にある滋賀県の登録博物館。アプローチは、土木学会デザイン賞 2001 優秀賞 受賞。"
+            },
+            {
                 "datetime": "2024年09月05日 21時の問題",
                 "url": "https://ja.wikipedia.org/?curid=914974",
                 "title": "茂木和行",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1042693",
                 "title": "八木健",
                 "text": "〇〇は、俳人で、元NHKアナウンサー。"
-            },
-            {
-                "datetime": "2024年09月04日 04時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3396642",
-                "title": "マチコナイト",
-                "text": "〇〇は、2013年10月から2014年3月までかつ2014年10月から2015年3月まで、RKB毎日放送（RKBラジオ）で放送されていた夜の情報番組である。"
             }
         ]
     }
