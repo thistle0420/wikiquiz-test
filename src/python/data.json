@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年09月06日 11時の問題",
+                "url": "https://ja.wikipedia.org/?curid=806605",
+                "title": "小野田郵便局 (山口県)",
+                "text": "〇〇は、山口県山陽小野田市にある郵便局。民営化前の分類では集配普通郵便局であった。"
+            },
+            {
                 "datetime": "2024年09月06日 10時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2491993",
                 "title": "中村香澄",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2850763",
                 "title": "おかあさんといっしょのコンサート一覧",
                 "text": "〇〇は、NHKの子供番組「おかあさんといっしょ」のコンサートに関する内容を本稿で記載する。"
-            },
-            {
-                "datetime": "2024年09月04日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3513226",
-                "title": "マスター (敬称)",
-                "text": "〇〇は、英語の敬称のひとつで、少年ないし青年男性に用いられる。"
             }
         ]
     }
