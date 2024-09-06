@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年09月06日 10時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2491993",
+                "title": "中村香澄",
+                "text": "〇〇は、日本の元女子プロ野球選手。京都府宇治市出身。"
+            },
+            {
                 "datetime": "2024年09月06日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3190905",
                 "title": "シェルボーンFC",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3513226",
                 "title": "マスター (敬称)",
                 "text": "〇〇は、英語の敬称のひとつで、少年ないし青年男性に用いられる。"
-            },
-            {
-                "datetime": "2024年09月04日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4657014",
-                "title": "吾紳",
-                "text": "〇〇は、明代の官僚。字は叔縉。本貫は衢州開化県。"
             }
         ]
     }
