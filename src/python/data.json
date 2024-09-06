@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年09月07日 06時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4228333",
+                "title": "サム・レイク",
+                "text": "〇〇は、フィンランドのライター・俳優。レイクはレメディー・エンターテインメントのクリエイティブ・ディレクターであり、人気ゲームシリーズ『Max Payne』と『Alan Wake』での彼の執筆（と容姿）で知られている。"
+            },
+            {
                 "datetime": "2024年09月07日 05時の問題",
                 "url": "https://ja.wikipedia.org/?curid=317442",
                 "title": "後藤俊彦",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2328795",
                 "title": "バブリーナ",
                 "text": "〇〇は、日本の女装家、ドラァグクイーン、タレント。"
-            },
-            {
-                "datetime": "2024年09月05日 13時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1073041",
-                "title": "NTTドコモの端末一覧",
-                "text": "〇〇は、NTTドコモ（各地域分社時代を含む）の携帯電話端末について詳細に説明する。"
             }
         ]
     }
