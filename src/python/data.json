@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年09月07日 10時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3975086",
+                "title": "ヴァロンゴ埠頭の考古遺跡",
+                "text": "〇〇は、リオ・デ・ジャネイロの中心地に位置するバラン・デ・テフェー通り（Avenida Barão de Tefé）沿いの公園内にある19世紀の港湾の遺跡からなるブラジルの世界遺産である。"
+            },
+            {
                 "datetime": "2024年09月07日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3739609",
                 "title": "大辻駅",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4215370",
                 "title": "家田正之",
                 "text": "〇〇は、名古屋大学名誉教授。電気学会会長。"
-            },
-            {
-                "datetime": "2024年09月05日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=65580",
-                "title": "岡倉天心",
-                "text": "〇〇は、日本の思想家、文人。本名は岡倉 覚三（おかくら かくぞう）。幼名は岡倉 角蔵（読み同じ）。"
             }
         ]
     }
