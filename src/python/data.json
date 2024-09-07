@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年09月08日 02時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3695760",
+                "title": "薄葉ヶ原の戦い",
+                "text": "〇〇は、天正13年（1585年）に下野国で行われた合戦である。"
+            },
+            {
                 "datetime": "2024年09月08日 01時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1014426",
                 "title": "福井県道114号吉野福井線",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2491993",
                 "title": "中村香澄",
                 "text": "〇〇は、日本の元女子プロ野球選手。京都府宇治市出身。"
-            },
-            {
-                "datetime": "2024年09月06日 08時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3190905",
-                "title": "シェルボーンFC",
-                "text": "〇〇は、アイルランドのダブリンをホームタウンとするサッカークラブである。"
             }
         ]
     }
