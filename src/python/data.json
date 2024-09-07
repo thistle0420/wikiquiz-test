@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年09月07日 11時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3706774",
+                "title": "ミオドラグ・ライコビッチ",
+                "text": "〇〇は、セルビア共和国のプロバスケットボール指導者。ユーゴスラビアベオグラード出身。役職はヘッドコーチ。"
+            },
+            {
                 "datetime": "2024年09月07日 10時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3975086",
                 "title": "ヴァロンゴ埠頭の考古遺跡",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3268281",
                 "title": "Rollig Life",
                 "text": "〇〇は、JOKERの2枚目のシングルである。"
-            },
-            {
-                "datetime": "2024年09月05日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4215370",
-                "title": "家田正之",
-                "text": "〇〇は、名古屋大学名誉教授。電気学会会長。"
             }
         ]
     }
