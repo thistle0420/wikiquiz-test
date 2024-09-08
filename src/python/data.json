@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年09月09日 05時の問題",
+                "url": "https://ja.wikipedia.org/?curid=752149",
+                "title": "ホラント級駆逐艦",
+                "text": "〇〇は、オランダ海軍の駆逐艦の艦級。計画名は47A型。"
+            },
+            {
                 "datetime": "2024年09月09日 04時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2451269",
                 "title": "長野三菱自動車販売",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2703286",
                 "title": "デイヴ・ホランド",
                 "text": "〇〇は、イングランド出身のジャズ・ベーシスト。"
-            },
-            {
-                "datetime": "2024年09月07日 12時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4713403",
-                "title": "レッド・ロビンス",
-                "text": "〇〇は、アメリカ合衆国の元プロバスケットボール選手。身長203cm、体重86kg。ポジションはセンター及びパワーフォワード。ABAでオールスターに4度選出された。"
             }
         ]
     }
