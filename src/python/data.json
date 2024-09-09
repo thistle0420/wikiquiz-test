@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年09月09日 15時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3425075",
+                "title": "シャフラム・マフムーディ",
+                "text": "〇〇は、イランの元男子バレーボール選手。キャラジ出身。ポジションはオポジット。元イラン代表。"
+            },
+            {
                 "datetime": "2024年09月09日 14時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1624280",
                 "title": "生物資源科学研究科",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3889388",
                 "title": "劉荊",
                 "text": "〇〇は、後漢の皇族。広陵思王。"
-            },
-            {
-                "datetime": "2024年09月07日 21時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4778928",
-                "title": "朴鎮洪",
-                "text": "〇〇は、朝鮮の女性の独立運動家、労働運動家。"
             }
         ]
     }
