@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年09月09日 16時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1029502",
+                "title": "ヤエヤマラセイタソウ",
+                "text": "〇〇は、イラクサ科カラムシ属の多年草。"
+            },
+            {
                 "datetime": "2024年09月09日 15時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3425075",
                 "title": "シャフラム・マフムーディ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3565645",
                 "title": "オーロラの救世主 (曲)",
                 "text": "〇〇は、エレクトリック・ライト・オーケストラが1976年に発表した楽曲。アルバム「オーロラの救世主」に収録されている。"
-            },
-            {
-                "datetime": "2024年09月07日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3889388",
-                "title": "劉荊",
-                "text": "〇〇は、後漢の皇族。広陵思王。"
             }
         ]
     }
