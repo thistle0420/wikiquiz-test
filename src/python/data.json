@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年09月10日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4241941",
+                "title": "アントニオ・カサール",
+                "text": "〇〇は、イタリアの俳優、映画監督である。アントニオ・カサーレやニーノ・カサーレ（Nino Casale）とクレジットされることもある。変名にはアンソニー・ヴァーノン（Anthony Vernon）、ジョン・アンダースン（John Anderson）がある。"
+            },
+            {
                 "datetime": "2024年09月10日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1309602",
                 "title": "小林幸子 (フィギュアスケート選手)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1762065",
                 "title": "渋川尹繁",
                 "text": "〇〇は、室町時代後期から戦国時代にかけての武将・九州探題。"
-            },
-            {
-                "datetime": "2024年09月08日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3651153",
-                "title": "棚橋訓",
-                "text": "〇〇は、日本の文化人類学者。お茶の水女子大学教授。"
             }
         ]
     }
