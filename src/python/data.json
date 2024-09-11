@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年09月11日 13時の問題",
+                "url": "https://ja.wikipedia.org/?curid=833282",
+                "title": "広深港高速鉄道",
+                "text": "〇〇は、中国広東省の広州市から深圳市を経由して香港の西九龍駅に至る高速鉄道。"
+            },
+            {
                 "datetime": "2024年09月11日 12時の問題",
                 "url": "https://ja.wikipedia.org/?curid=850310",
                 "title": "モエシア",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1700040",
                 "title": "北海道三十六不動尊霊場",
                 "text": "〇〇は、北海道にある36か所の不動尊霊場のこと。"
-            },
-            {
-                "datetime": "2024年09月09日 19時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1902976",
-                "title": "高杉航大",
-                "text": "〇〇は、神奈川県出身の日本の俳優・タレント。身長175cm、血液型はA型。サンミュージック所属。かつてはプロダクション人力舎に所属していた。"
             }
         ]
     }
