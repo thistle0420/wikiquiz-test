@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年09月13日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1795856",
+                "title": "ヴィルヘルム・レディース",
+                "text": "〇〇は、ナチス・ドイツの親衛隊（SS）の将軍。親衛隊における最終階級は親衛隊大将（SS-Obergruppenführer）。"
+            },
+            {
                 "datetime": "2024年09月13日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=875266",
                 "title": "パルツァーニカ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2952886",
                 "title": "ジャン・フランコ・カスペル",
                 "text": "〇〇は、スイスのスポーツマネージャー。第4代国際スキー連盟会長（現職）。"
-            },
-            {
-                "datetime": "2024年09月11日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3443489",
-                "title": "メディナ・ヨーオ＝フラ県",
-                "text": "〇〇は、セネガルコルダ州の県。県都はメディナ・ヨーオ＝フラ。2013年の人口は約13.8万人。"
             }
         ]
     }
