@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年09月12日 12時の問題",
+                "url": "https://ja.wikipedia.org/?curid=710330",
+                "title": "ホシダ",
+                "text": "〇〇は、ごく身近に生えるシダ植物の一つ。"
+            },
+            {
                 "datetime": "2024年09月12日 11時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4518484",
                 "title": "覚淵",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1222846",
                 "title": "山梨県庁",
                 "text": "〇〇は、地方公共団体である山梨県の行政機関（役所）である。1870年発足。"
-            },
-            {
-                "datetime": "2024年09月10日 18時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4135028",
-                "title": "High! MORNING!",
-                "text": "〇〇は、ZIP-FMで2018年4月2日から2022年3月31日まで放送されていた朝のワイドプログラムである。通称は「ハイモニ」。"
             }
         ]
     }
