@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年09月12日 10時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1247869",
+                "title": "ELECTROMANCER",
+                "text": "〇〇は、1995年7月12日にリリースされた浅倉大介の3rdアルバム。発売元はファンハウス。"
+            },
+            {
                 "datetime": "2024年09月12日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2049833",
                 "title": "Dancing at Budokan!!",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1974299",
                 "title": "岡村和哉",
                 "text": "〇〇は、岡山県井原市出身のサッカー選手。ポジションはミッドフィールダー、ディフェンダー。"
-            },
-            {
-                "datetime": "2024年09月10日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=214354",
-                "title": "ボッラーテ",
-                "text": "〇〇は、イタリア共和国ロンバルディア州ミラノ県にある、人口約36,000人の基礎自治体（コムーネ）。"
             }
         ]
     }
