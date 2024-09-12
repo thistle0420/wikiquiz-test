@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年09月13日 03時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2959300",
+                "title": "J:COM 越谷・春日部",
+                "text": "〇〇は、株式会社ジェイコム埼玉・東日本が運営するケーブルテレビ局のひとつ。"
+            },
+            {
                 "datetime": "2024年09月13日 02時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4030866",
                 "title": "JR貨物U50A形コンテナ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3081725",
                 "title": "項羽と劉邦/White Vengeance",
                 "text": "〇〇は、2011年の中国映画。邦題をサブタイトルなしの『項羽と劉邦』としているサイトもある。"
-            },
-            {
-                "datetime": "2024年09月11日 10時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2696398",
-                "title": "ファールプレーにくらり/サクラメイキュウ",
-                "text": "〇〇は、分島花音の3枚目のシングル。2012年11月7日にワーナー・ホーム・ビデオから発売された。"
             }
         ]
     }
