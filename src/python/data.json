@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年09月14日 04時の問題",
+                "url": "https://ja.wikipedia.org/?curid=908173",
+                "title": "鐙口",
+                "text": "〇〇は、鳥山石燕の妖怪画集『百器徒然袋』にある日本の妖怪。"
+            },
+            {
                 "datetime": "2024年09月14日 03時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4853797",
                 "title": "ルカ・コレオショ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=710330",
                 "title": "ホシダ",
                 "text": "〇〇は、ごく身近に生えるシダ植物の一つ。"
-            },
-            {
-                "datetime": "2024年09月12日 11時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4518484",
-                "title": "覚淵",
-                "text": "〇〇は、平安時代末期から鎌倉時代の真言宗僧。伊豆山権現社別当寺密厳院開基。房号は聞養房（もんようぼう）。卿の律師とも称される。"
             }
         ]
     }
