@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年09月13日 13時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1442904",
+                "title": "高槻市立中央図書館",
+                "text": "〇〇は、大阪府高槻市桃園町2番1号にある図書館。"
+            },
+            {
                 "datetime": "2024年09月13日 12時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1993413",
                 "title": "AGAIN FBI超心理捜査官",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=42645",
                 "title": "福井謙二",
                 "text": "〇〇は、日本のフリーアナウンサー。元フジテレビアナウンサー。フジ・メディア・テクノロジー（旧東京フイルム・メート）所属。"
-            },
-            {
-                "datetime": "2024年09月11日 19時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4155560",
-                "title": "ピーリー",
-                "text": "〇〇は、人物の名前。"
             }
         ]
     }
