@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年09月13日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3973823",
+                "title": "トマス・ライアン＝ボーズ (第11代ストラスモア＝キングホーン伯爵)",
+                "text": "〇〇は、スコットランド貴族。"
+            },
+            {
                 "datetime": "2024年09月13日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2533825",
                 "title": "二回投票制",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=793826",
                 "title": "橘峴駅",
                 "text": "〇〇は、大韓民国仁川広域市桂陽区にある仁川交通公社1号線の駅である。駅番号はI111。"
-            },
-            {
-                "datetime": "2024年09月12日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2845095",
-                "title": "桑ノ木の滝",
-                "text": "〇〇は、和歌山県新宮市にある滝。桑ノ木渓谷にある落差21mの滝で日本の滝百選に選ばれている。"
             }
         ]
     }
