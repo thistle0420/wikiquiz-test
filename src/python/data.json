@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年09月14日 02時の問題",
+                "url": "https://ja.wikipedia.org/?curid=128215",
+                "title": "アストロガンガー",
+                "text": "〇〇は、1972年（昭和47年）10月4日から1973年（昭和48年）3月28日まで日本テレビ系で毎週水曜日19時00分 - 19時30分に全26話が放送された、ナック・宣弘社製作のロボットアニメ。"
+            },
+            {
                 "datetime": "2024年09月14日 01時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2714240",
                 "title": "Free! (漫画)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1247869",
                 "title": "ELECTROMANCER",
                 "text": "〇〇は、1995年7月12日にリリースされた浅倉大介の3rdアルバム。発売元はファンハウス。"
-            },
-            {
-                "datetime": "2024年09月12日 08時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2049833",
-                "title": "Dancing at Budokan!!",
-                "text": "〇〇は、日本の歌手、Superflyの2作目の映像作品。"
             }
         ]
     }
