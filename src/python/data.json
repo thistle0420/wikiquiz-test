@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年09月15日 01時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2377411",
+                "title": "Aquala",
+                "text": "〇〇は、2-methacryloyloxyethyl phosphorylcholine（MPC）を人工関節の摺動面にグラフト重合させる技術についての京セラの商標である。アクアラ技術を応用した人工関節では摺動面での摩擦抵抗が減少し、摺動に伴う摩耗粉の発生を抑制する。"
+            },
+            {
                 "datetime": "2024年09月15日 00時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2208993",
                 "title": "ニューアクション",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1795856",
                 "title": "ヴィルヘルム・レディース",
                 "text": "〇〇は、ナチス・ドイツの親衛隊（SS）の将軍。親衛隊における最終階級は親衛隊大将（SS-Obergruppenführer）。"
-            },
-            {
-                "datetime": "2024年09月13日 07時の問題",
-                "url": "https://ja.wikipedia.org/?curid=875266",
-                "title": "パルツァーニカ",
-                "text": "〇〇は、イタリア共和国ロンバルディア州ベルガモ県にある、人口約400人の基礎自治体（コムーネ）。"
             }
         ]
     }
