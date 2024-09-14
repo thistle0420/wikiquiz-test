@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年09月14日 12時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3684992",
+                "title": "Good Vibration",
+                "text": "〇〇は、Cyber Nation Networkのシングル。1998年2月21日発売。"
+            },
+            {
                 "datetime": "2024年09月14日 11時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4324779",
                 "title": "川島透 (サッカー選手)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2711057",
                 "title": "夏山八幡宮",
                 "text": "〇〇は、愛知県岡崎市夏山町にある神社。10月に行われる火祭りで知られる。"
-            },
-            {
-                "datetime": "2024年09月12日 18時の問題",
-                "url": "https://ja.wikipedia.org/?curid=897921",
-                "title": "米島酒造所",
-                "text": "〇〇は、沖縄県島尻郡久米島町で泡盛を製造・販売している酒造所である。"
             }
         ]
     }
