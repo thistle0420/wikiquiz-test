@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年09月16日 03時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4616074",
+                "title": "シノドス (会社)",
+                "text": "〇〇は、日本のマスメディア会社。電子マガジン「αシノドス」を発行している。"
+            },
+            {
                 "datetime": "2024年09月16日 02時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2015247",
                 "title": "オーストラリアフィギュアスケート選手権",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4324779",
                 "title": "川島透 (サッカー選手)",
                 "text": "〇〇は、大阪府出身の元サッカー選手。"
-            },
-            {
-                "datetime": "2024年09月14日 10時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1742762",
-                "title": "UFC Fight Night: Condit vs. Kampmann",
-                "text": "〇〇は、アメリカ合衆国の総合格闘技団体「UFC」の大会の一つ。2009年4月1日、テネシー州ナッシュビルのソメット・センターで開催された。UFC初のテネシー州大会であり、メインイベントではカーロス・コンディットとマルティン・カンプマンによるウェルター級マッチが行われた。"
             }
         ]
     }
