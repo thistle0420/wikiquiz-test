@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年09月15日 11時の問題",
+                "url": "https://ja.wikipedia.org/?curid=253974",
+                "title": "仙台市立七北田中学校",
+                "text": "〇〇は、宮城県仙台市泉区七北田字東裏にある公立中学校。通称は「七中」（ななちゅう）。"
+            },
+            {
                 "datetime": "2024年09月15日 10時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1660305",
                 "title": "護烏桓校尉",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=29717",
                 "title": "若桜藩",
                 "text": "〇〇は、因幡国八東郡（現在の鳥取県八頭郡若桜町）周辺を領した藩。"
-            },
-            {
-                "datetime": "2024年09月13日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3694386",
-                "title": "キンボシ (お笑いコンビ)",
-                "text": "〇〇は、吉本興業東京本社に所属する日本のお笑いコンビ。東京NSC16期生。"
             }
         ]
     }
