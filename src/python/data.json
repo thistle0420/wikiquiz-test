@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年09月16日 04時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3112212",
+                "title": "警察大学校サイバーセキュリティ研究・研修センターの内部組織に関する規則",
+                "text": "〇〇は、警察法施行規則第83条第9項に基づき、警察大学校サイバーセキュリティ研究・研修センターの内部組織に関して、所掌事務等や研究室長について定めたものである。"
+            },
+            {
                 "datetime": "2024年09月16日 03時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4616074",
                 "title": "シノドス (会社)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3684992",
                 "title": "Good Vibration",
                 "text": "〇〇は、Cyber Nation Networkのシングル。1998年2月21日発売。"
-            },
-            {
-                "datetime": "2024年09月14日 11時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4324779",
-                "title": "川島透 (サッカー選手)",
-                "text": "〇〇は、大阪府出身の元サッカー選手。"
             }
         ]
     }
