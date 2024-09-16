@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年09月17日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1596253",
+                "title": "赤澤洋平",
+                "text": "〇〇は、日本の実業家。株式会社システクアカザワ代表取締役社長。"
+            },
+            {
                 "datetime": "2024年09月16日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1265490",
                 "title": "日本国初代大統領 桜木健一郎",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4913256",
                 "title": "和会町",
                 "text": "〇〇は、愛知県豊田市の地名。"
-            },
-            {
-                "datetime": "2024年09月15日 06時の問題",
-                "url": "https://ja.wikipedia.org/?curid=630603",
-                "title": "ハチ高原スキー場",
-                "text": "〇〇は、兵庫県養父市にあるスキー場である。ハチの愛称で親しまれており、隣接するハチ北スキー場と合わせてハチ・ハチ北と呼ばれる。"
             }
         ]
     }
