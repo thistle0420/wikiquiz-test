@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年09月16日 19時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3997938",
+                "title": "法伝橋",
+                "text": "〇〇は、岐阜県郡上市の長良川にかかる国道256号の橋。現在の橋は2代目であり、初代は南側に隣接して橋台の遺構として現存している。"
+            },
+            {
                 "datetime": "2024年09月16日 18時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1362516",
                 "title": "Don't repeat yourself",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=124082",
                 "title": "奥平信昌",
                 "text": "〇〇は、戦国時代から江戸時代初期にかけての武将、大名。上野小幡藩初代藩主、後に美濃加納藩初代藩主。初名は貞昌（さだまさ）。徳川家康の長女・亀姫を正室とし、家康に娘婿として重用された。亀姫との間に家昌など4男1女を儲けた。"
-            },
-            {
-                "datetime": "2024年09月15日 01時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2377411",
-                "title": "Aquala",
-                "text": "〇〇は、2-methacryloyloxyethyl phosphorylcholine（MPC）を人工関節の摺動面にグラフト重合させる技術についての京セラの商標である。アクアラ技術を応用した人工関節では摺動面での摩擦抵抗が減少し、摺動に伴う摩耗粉の発生を抑制する。"
             }
         ]
     }
