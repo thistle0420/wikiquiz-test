@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年09月17日 16時の問題",
+                "url": "https://ja.wikipedia.org/?curid=39045",
+                "title": "1290年",
+                "text": "〇〇は、西暦（ユリウス暦）による、平年。"
+            },
+            {
                 "datetime": "2024年09月17日 15時の問題",
                 "url": "https://ja.wikipedia.org/?curid=675012",
                 "title": "オリンピックの水球競技",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2573105",
                 "title": "コガクウツギ",
                 "text": "〇〇は、アジサイ科、アジサイ属の落葉性の低木。名の由来はガクウツギよりも花が小さいことによる。"
-            },
-            {
-                "datetime": "2024年09月15日 21時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3049975",
-                "title": "MAI KURAKI BEST 151A -LOVE & HOPE-",
-                "text": "〇〇は、2014年11月12日にNORTHERN MUSICから発売された倉木麻衣の3枚目のベストアルバム。"
             }
         ]
     }
