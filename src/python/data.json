@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年09月20日 02時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2848732",
+                "title": "ステファンの方程式",
+                "text": "〇〇は、結氷板の厚さの温度履歴に対する依存性を表す方程式である。特に、予期される着氷は、氷点下での度日の二乗根に比例する、ということを意味する方程式である。スロベニア人の物理学者であるヨーゼフ・ステファンの名にちなむ。"
+            },
+            {
                 "datetime": "2024年09月20日 01時の問題",
                 "url": "https://ja.wikipedia.org/?curid=894566",
                 "title": "灰重石",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2932792",
                 "title": "PRADO (フレームワーク)",
                 "text": "〇〇は、オープンソース で作成されたオブジェクト指向のイベント駆動型かつコンポーネントベースなPHPで書かれたWebアプリケーションフレームワークである。PRADOの名称は「PHP Rapid Application Development Object-oriented （PHPによる迅速なオブジェクト指向的アプリケーション開発）」の頭文字より名付けられた。"
-            },
-            {
-                "datetime": "2024年09月18日 08時の問題",
-                "url": "https://ja.wikipedia.org/?curid=196060",
-                "title": "美ヶ原温泉",
-                "text": "〇〇は、長野県松本市（旧国信濃国）にある温泉。"
             }
         ]
     }
