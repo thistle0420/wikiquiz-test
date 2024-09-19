@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年09月20日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=443381",
+                "title": "埼玉県立坂戸西高等学校",
+                "text": "〇〇は、埼玉県坂戸市に所在する公立の高等学校。通称「坂西」（さかにし）。"
+            },
+            {
                 "datetime": "2024年09月19日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1011836",
                 "title": "フローレンス・クック",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=494854",
                 "title": "門井亜矢",
                 "text": "〇〇は、日本の漫画家、原画家、同人作家。東京都出身。女性。既婚者。"
-            },
-            {
-                "datetime": "2024年09月18日 06時の問題",
-                "url": "https://ja.wikipedia.org/?curid=650817",
-                "title": "岐阜県立岐阜農林高等学校",
-                "text": "〇〇は、岐阜県本巣郡北方町北方にある公立農業高等学校。"
             }
         ]
     }
