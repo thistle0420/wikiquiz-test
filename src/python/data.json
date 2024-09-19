@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年09月19日 10時の問題",
+                "url": "https://ja.wikipedia.org/?curid=498227",
+                "title": "比留川游",
+                "text": "〇〇は、日本の女性ファッションモデル。神奈川県横浜市出身。スターダストプロモーション芸能1部所属。"
+            },
+            {
                 "datetime": "2024年09月19日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4955758",
                 "title": "陽気なテディベア",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1602105",
                 "title": "大久保作次郎",
                 "text": "〇〇は、洋画家、日本芸術院会員。"
-            },
-            {
-                "datetime": "2024年09月17日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=39045",
-                "title": "1290年",
-                "text": "〇〇は、西暦（ユリウス暦）による、平年。"
             }
         ]
     }
