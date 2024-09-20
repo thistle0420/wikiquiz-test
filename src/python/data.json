@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年09月20日 19時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2132687",
+                "title": "臼杵市コミュニティバス",
+                "text": "〇〇は、大分県臼杵市にて運行しているコミュニティバスである。"
+            },
+            {
                 "datetime": "2024年09月20日 18時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3860037",
                 "title": "箱根登山鉄道ケ2形客車",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3928645",
                 "title": "第93回関東大学サッカーリーグ戦",
                 "text": "〇〇は、関東大学サッカーリーグ戦の2019年度の大会である。"
-            },
-            {
-                "datetime": "2024年09月19日 01時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4971208",
-                "title": "田村町糠塚",
-                "text": "〇〇は、福島県郡山市の大字である。郵便番号は963-1242。"
             }
         ]
     }
