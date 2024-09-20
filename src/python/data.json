@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年09月20日 15時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1298702",
+                "title": "夢のために",
+                "text": "〇〇は、PUFFYの10枚目のシングル。1999年6月9日発売。発売元はエピックレコードジャパン。"
+            },
+            {
                 "datetime": "2024年09月20日 14時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3139374",
                 "title": "ロナルド大森",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1328404",
                 "title": "ひょうたん書店",
                 "text": "〇〇は、有限会社ひょうたんが鹿児島県鹿児島市西田二丁目にて営業していたコミック専門店・アニメショップである。"
-            },
-            {
-                "datetime": "2024年09月18日 21時の問題",
-                "url": "https://ja.wikipedia.org/?curid=334114",
-                "title": "徳島県立城北高等学校",
-                "text": "〇〇は、徳島県徳島市北田宮にある県立高等学校。"
             }
         ]
     }
