@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年09月22日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=199147",
+                "title": "クリーニング師",
+                "text": "〇〇は、クリーニング業法に基づいて行われる〇〇試験に合格し、免許を受けた者である。"
+            },
+            {
                 "datetime": "2024年09月22日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2570189",
                 "title": "平川町 (横浜市)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1298702",
                 "title": "夢のために",
                 "text": "〇〇は、PUFFYの10枚目のシングル。1999年6月9日発売。発売元はエピックレコードジャパン。"
-            },
-            {
-                "datetime": "2024年09月20日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3139374",
-                "title": "ロナルド大森",
-                "text": "〇〇は、アメリカ合衆国ワシントン州出身の元プロ野球選手（内野手）。右投左打。日系三世。"
             }
         ]
     }
