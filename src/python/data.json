@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年09月24日 01時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1433738",
+                "title": "ブランカ",
+                "text": "〇〇は、ヨーロッパ系の女性名。フランス語名のブランシュ、イタリア語名のビアンカに対応する。"
+            },
+            {
                 "datetime": "2024年09月24日 00時の問題",
                 "url": "https://ja.wikipedia.org/?curid=152574",
                 "title": "斗山ベアーズ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=418210",
                 "title": "奥只見丸山スキー場",
                 "text": "〇〇は、新潟県魚沼市湯之谷芋川にあるスキー場。春スキーのメッカといわれる。"
-            },
-            {
-                "datetime": "2024年09月22日 07時の問題",
-                "url": "https://ja.wikipedia.org/?curid=199147",
-                "title": "クリーニング師",
-                "text": "〇〇は、クリーニング業法に基づいて行われる〇〇試験に合格し、免許を受けた者である。"
             }
         ]
     }
