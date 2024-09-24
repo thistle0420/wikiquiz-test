@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年09月24日 15時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2997484",
+                "title": "ジョシュア・ピース",
+                "text": "〇〇は、カナダの俳優。"
+            },
+            {
                 "datetime": "2024年09月24日 14時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1548",
                 "title": "1999年",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2523364",
                 "title": "鳥取市立浜村小学校",
                 "text": "〇〇は、鳥取県鳥取市気高町八幡にある公立小学校。"
-            },
-            {
-                "datetime": "2024年09月22日 21時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4879584",
-                "title": "大岩正仲",
-                "text": "〇〇は、日本の言語学者・国語学者。千葉大学元教授。専門は方言学、文法学。"
             }
         ]
     }
