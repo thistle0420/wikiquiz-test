@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年09月24日 11時の問題",
+                "url": "https://ja.wikipedia.org/?curid=799073",
+                "title": "ダイナマイト打線",
+                "text": "〇〇は、阪神タイガースの強力打線の愛称である。"
+            },
+            {
                 "datetime": "2024年09月24日 10時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2745395",
                 "title": "下院 (ウズベキスタン)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=958738",
                 "title": "暗黒小説",
                 "text": "〇〇は、小説におけるひとつの形式のこと。"
-            },
-            {
-                "datetime": "2024年09月22日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4808265",
-                "title": "高柳大輔",
-                "text": "〇〇は、日本中央競馬会（JRA）・栗東トレーニングセンターの調教師。北海道日高町出身。美浦トレーニングセンターに所属する調教師の高柳瑞樹は実兄。"
             }
         ]
     }
