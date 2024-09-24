@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年09月24日 12時の問題",
+                "url": "https://ja.wikipedia.org/?curid=765634",
+                "title": "アメンドラーラ",
+                "text": "〇〇は、イタリア共和国カラブリア州コゼンツァ県にある、人口約2,900人の基礎自治体（コムーネ）。"
+            },
+            {
                 "datetime": "2024年09月24日 11時の問題",
                 "url": "https://ja.wikipedia.org/?curid=799073",
                 "title": "ダイナマイト打線",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=286680",
                 "title": "山口県道・広島県道1号岩国大竹線",
                 "text": "〇〇は、山口県岩国市と広島県大竹市を結ぶ主要地方道（山口県道・広島県道）である。"
-            },
-            {
-                "datetime": "2024年09月22日 18時の問題",
-                "url": "https://ja.wikipedia.org/?curid=958738",
-                "title": "暗黒小説",
-                "text": "〇〇は、小説におけるひとつの形式のこと。"
             }
         ]
     }
