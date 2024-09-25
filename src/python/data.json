@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年09月25日 13時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1063611",
+                "title": "XACT",
+                "text": "〇〇は、オーサリングおよび再生用の高レベルオーディオライブラリであり、Xbox上ではXAudio、Windows XPではDirectSound、Windows Vistaでは新しいオーディオスタックを使って書かれている。XAudioはデジタル信号処理を最適に行うために設計された、Xbox専用のAPIである。〇〇はまたX3DAudioを含んでおり、WindowsとXbox両方のプラットフォームで使用可能な空間音響ヘルパーライブラリである。〇〇は元々Xboxの開発のために作られたが、後にWindowsでも動作するように修正が加えられた。〇〇のサポートはDirectXからXNAにそのまま引き継がれている。〇〇 Audio Authoring ToolはXNA Game Studioでも利用が可能である。〇〇 Audio Authoring Toolはwave banks (複数のWAVファイルが入った単一のアーカイブファイル) やsound banks (wave banksの中にあるWAVファイルを演奏する命令が入った単一のファイル) を作るためのオーディオデータを構成するために使われるアプリケーションである。wave banksとsound banksはアプリケーション内にあって、〇〇からその後呼び出されることになる。Windows上で〇〇を利用する場合、実行環境にはDirectXエンドユーザーランタイムのインストールが必要となる。なお、Windows 8用のソフトウェア開発キットであるWindows SDK 8.0以降ではWindows SDKとDirectX SDKが統合されたが、その際に〇〇は廃止されている。DirectX Tool Kitには、廃止された〇〇の代替として、XNA Game Studioのオーディオコンポーネントに似た補助ライブラリが実装されている。"
+            },
+            {
                 "datetime": "2024年09月25日 12時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2013036",
                 "title": "UMBRA",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3526144",
                 "title": "任航",
                 "text": "〇〇は、中華人民共和国・遼寧省瀋陽市出身のサッカー選手。中国サッカー・スーパーリーグ・武漢三鎮足球倶楽部所属。中国代表。ポジションはディフェンダー（CB）、左サイドバック(LB)。"
-            },
-            {
-                "datetime": "2024年09月23日 19時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1773404",
-                "title": "ベラクルス包囲戦",
-                "text": "〇〇は、米墨戦争でメキシコの重要な海港都市ベラクルスを包囲した戦闘である。1847年3月9日にアメリカ軍の大規模海陸協働作戦で始まり、3月29日のベラクルス市の降伏と占領で終わった。アメリカ軍はその後内陸のメキシコシティに向かって進軍した。"
             }
         ]
     }
