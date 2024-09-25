@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年09月25日 10時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4170728",
+                "title": "シンリンオオカミ",
+                "text": "〇〇は、五大湖地域とカナダ南東部に生息するオオカミの一種。"
+            },
+            {
                 "datetime": "2024年09月25日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1124601",
                 "title": "福島県道159号草野停車場線",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=648427",
                 "title": "兵庫県立尼崎工業高等学校",
                 "text": "〇〇は、兵庫県尼崎市長洲中通一丁目に所在する県立の工業高等学校。"
-            },
-            {
-                "datetime": "2024年09月23日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2988226",
-                "title": "The Ultimate Fighter 18 Finale",
-                "text": "〇〇は、アメリカ合衆国の総合格闘技団体「UFC」の大会の一つ。本大会はリアリティ番組「The Ultimate Fighter」シーズン18のフィナーレとして、2013年11月30日、ネバダ州ラスベガスのマンダレイ・ベイ・イベント・センターで開催された。"
             }
         ]
     }
