@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年09月25日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2094546",
+                "title": "新潟市立光晴中学校",
+                "text": "〇〇は、新潟県新潟市北区上土地亀に所在する市立中学校。"
+            },
+            {
                 "datetime": "2024年09月25日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3027997",
                 "title": "シュウ刊ゆず 〜FUTATABI〜",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4408616",
                 "title": "アーユーレディー (緑黄色社会の曲)",
                 "text": "〇〇は、日本のポップ・ロック・バンドである緑黄色社会の楽曲。2021年7月3日にSony Music Labelsの社内レーベルEpic Records Japanより配信限定シングルとして発売された。作詞は小林壱誓、作曲は小林と穴見真吾の共作で、編曲は横山裕章と緑黄色社会による共作。本作は、映画『都会のトム&ソーヤ』のために書き下ろされた。曲中では、DeepMind 12というアナログシンセサイザーが使用されている。本作は、Billboard Japan Download Songsで最高位94位を記録した。"
-            },
-            {
-                "datetime": "2024年09月24日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=292229",
-                "title": "ハンブルク空港",
-                "text": "〇〇は、ドイツ・ハンブルクにある国際空港である。"
             }
         ]
     }
