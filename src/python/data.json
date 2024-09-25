@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年09月25日 15時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2453101",
+                "title": "市原敬子",
+                "text": "〇〇は、日本の漫画家。東京都出身。女性。"
+            },
+            {
                 "datetime": "2024年09月25日 14時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3583558",
                 "title": "蓮生寺 (横浜市)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3623014",
                 "title": "秦村 (高知県)",
                 "text": "〇〇は、高知県土佐郡にあった村。現在の高知市中心部の北方一帯にあたる。"
-            },
-            {
-                "datetime": "2024年09月23日 21時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3996901",
-                "title": "下新北町",
-                "text": "〇〇は、富山県富山市の公称町名である。郵便番号は930-0802。奥田北地区センターが所在している。"
             }
         ]
     }
