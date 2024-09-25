@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年09月25日 11時の問題",
+                "url": "https://ja.wikipedia.org/?curid=516970",
+                "title": "浅井井伴",
+                "text": "〇〇は、戦国時代の武将。浅井氏の家臣。別名に井量。"
+            },
+            {
                 "datetime": "2024年09月25日 10時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4170728",
                 "title": "シンリンオオカミ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3436491",
                 "title": "維田修二",
                 "text": "〇〇は、日本の舞台俳優。愛知県名古屋市出身。劇団四季所属。"
-            },
-            {
-                "datetime": "2024年09月23日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=648427",
-                "title": "兵庫県立尼崎工業高等学校",
-                "text": "〇〇は、兵庫県尼崎市長洲中通一丁目に所在する県立の工業高等学校。"
             }
         ]
     }
