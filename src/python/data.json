@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年09月25日 19時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3027997",
+                "title": "シュウ刊ゆず 〜FUTATABI〜",
+                "text": "〇〇は、ゆずの配信限定シングルシリーズ。2010年7月21日から2010年8月18日にセーニャ・アンド・カンパニーから配信された。"
+            },
+            {
                 "datetime": "2024年09月25日 18時の問題",
                 "url": "https://ja.wikipedia.org/?curid=6593",
                 "title": "山本正美 (作曲家)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=292229",
                 "title": "ハンブルク空港",
                 "text": "〇〇は、ドイツ・ハンブルクにある国際空港である。"
-            },
-            {
-                "datetime": "2024年09月24日 01時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1433738",
-                "title": "ブランカ",
-                "text": "〇〇は、ヨーロッパ系の女性名。フランス語名のブランシュ、イタリア語名のビアンカに対応する。"
             }
         ]
     }
