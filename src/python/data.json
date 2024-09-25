@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年09月26日 02時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1460174",
+                "title": "蒲郡市民会館",
+                "text": "〇〇は、愛知県蒲郡市にある文化普及支援施設である。"
+            },
+            {
                 "datetime": "2024年09月26日 01時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3845390",
                 "title": "ルギン管",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2745395",
                 "title": "下院 (ウズベキスタン)",
                 "text": "〇〇は、ウズベキスタン国民議会の議院（下院）である。"
-            },
-            {
-                "datetime": "2024年09月24日 08時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3465613",
-                "title": "ラウタハト郡",
-                "text": "〇〇は、ネパール南東部のマデシ州の郡。郡都はガウル。2021年国勢調査の人口は82万5623人。面積は1126km2。"
             }
         ]
     }
