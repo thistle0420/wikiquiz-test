@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年09月26日 05時の問題",
+                "url": "https://ja.wikipedia.org/?curid=639603",
+                "title": "山内豊昌",
+                "text": "〇〇は、土佐国高知藩（土佐藩）の第4代藩主。"
+            },
+            {
                 "datetime": "2024年09月26日 04時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2011315",
                 "title": "松本怜",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=903925",
                 "title": "アカシジミ",
                 "text": "〇〇は、チョウ目（鱗翅目）シジミチョウ科ミドリシジミ亜科に属するチョウの一種。"
-            },
-            {
-                "datetime": "2024年09月24日 12時の問題",
-                "url": "https://ja.wikipedia.org/?curid=765634",
-                "title": "アメンドラーラ",
-                "text": "〇〇は、イタリア共和国カラブリア州コゼンツァ県にある、人口約2,900人の基礎自治体（コムーネ）。"
             }
         ]
     }
