@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年09月27日 06時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2303326",
+                "title": "みんなで科学ラボラジオ",
+                "text": "〇〇は、NHKラジオ第1放送とNHKワールド・ラジオ日本（衛星ラジオのみ）で、2011年4月30日から毎月1回放送される、小・中学生を主とした電話相談番組である。"
+            },
+            {
                 "datetime": "2024年09月27日 05時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3734543",
                 "title": "真空チャネルトランジスタ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3583558",
                 "title": "蓮生寺 (横浜市)",
                 "text": "〇〇は、神奈川県横浜市緑区青砥町にある日蓮宗の寺院。山号は法性山。旧本山は身延山久遠寺、池上・神楽坂法縁。青砥大明神を祀る。"
-            },
-            {
-                "datetime": "2024年09月25日 13時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1063611",
-                "title": "XACT",
-                "text": "〇〇は、オーサリングおよび再生用の高レベルオーディオライブラリであり、Xbox上ではXAudio、Windows XPではDirectSound、Windows Vistaでは新しいオーディオスタックを使って書かれている。XAudioはデジタル信号処理を最適に行うために設計された、Xbox専用のAPIである。〇〇はまたX3DAudioを含んでおり、WindowsとXbox両方のプラットフォームで使用可能な空間音響ヘルパーライブラリである。〇〇は元々Xboxの開発のために作られたが、後にWindowsでも動作するように修正が加えられた。〇〇のサポートはDirectXからXNAにそのまま引き継がれている。〇〇 Audio Authoring ToolはXNA Game Studioでも利用が可能である。〇〇 Audio Authoring Toolはwave banks (複数のWAVファイルが入った単一のアーカイブファイル) やsound banks (wave banksの中にあるWAVファイルを演奏する命令が入った単一のファイル) を作るためのオーディオデータを構成するために使われるアプリケーションである。wave banksとsound banksはアプリケーション内にあって、〇〇からその後呼び出されることになる。Windows上で〇〇を利用する場合、実行環境にはDirectXエンドユーザーランタイムのインストールが必要となる。なお、Windows 8用のソフトウェア開発キットであるWindows SDK 8.0以降ではWindows SDKとDirectX SDKが統合されたが、その際に〇〇は廃止されている。DirectX Tool Kitには、廃止された〇〇の代替として、XNA Game Studioのオーディオコンポーネントに似た補助ライブラリが実装されている。"
             }
         ]
     }
