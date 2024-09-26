@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年09月26日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1614183",
+                "title": "Do you remember?",
+                "text": "〇〇は、moumoonのメジャー1枚目のシングル。"
+            },
+            {
                 "datetime": "2024年09月26日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4599684",
                 "title": "シュネシオス",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=368895",
                 "title": "酒井忠匡",
                 "text": "〇〇は、江戸末期の大名、明治期の日本の華族（子爵）。左衛門尉酒井家分家8代目当主で、出羽松山藩第8代（最後）藩主、松嶺藩初代（最後）知藩事。"
-            },
-            {
-                "datetime": "2024年09月24日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2692464",
-                "title": "ジョージ・ショー (アメリカンフットボール)",
-                "text": "〇〇は、アメリカ合衆国オレゴン州ポートランド出身のアメリカンフットボール選手。ポジションはクォーターバック。"
             }
         ]
     }
