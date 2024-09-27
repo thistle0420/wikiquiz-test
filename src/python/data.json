@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年09月27日 13時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2629256",
+                "title": "板倉勝高",
+                "text": "〇〇は、日本の経済地理学者。東北大学名誉教授。"
+            },
+            {
                 "datetime": "2024年09月27日 12時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4973466",
                 "title": "上矢田町 (西尾市)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2094546",
                 "title": "新潟市立光晴中学校",
                 "text": "〇〇は、新潟県新潟市北区上土地亀に所在する市立中学校。"
-            },
-            {
-                "datetime": "2024年09月25日 19時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3027997",
-                "title": "シュウ刊ゆず 〜FUTATABI〜",
-                "text": "〇〇は、ゆずの配信限定シングルシリーズ。2010年7月21日から2010年8月18日にセーニャ・アンド・カンパニーから配信された。"
             }
         ]
     }
