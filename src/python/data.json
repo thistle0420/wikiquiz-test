@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年09月28日 06時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4535754",
+                "title": "ラスト・ハインツ",
+                "text": "〇〇は、アメリカ合衆国の自動車・船舶のデザイナーである。1938年に、先進的なデザインの試作車「ファントム・コルセア」をデザインしたことで知られている。"
+            },
+            {
                 "datetime": "2024年09月28日 05時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1946539",
                 "title": "堺市立三原台中学校",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1614183",
                 "title": "Do you remember?",
                 "text": "〇〇は、moumoonのメジャー1枚目のシングル。"
-            },
-            {
-                "datetime": "2024年09月26日 13時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4599684",
-                "title": "シュネシオス",
-                "text": "〇〇は、東ローマ帝国初期・古代末期の新プラトン主義哲学者、第二次ソフィスト、キリスト教司教、ヒュパティアの教え子。複数の著作、書簡、讃歌が現存する。"
             }
         ]
     }
