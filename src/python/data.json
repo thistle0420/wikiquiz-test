@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年09月29日 05時の問題",
+                "url": "https://ja.wikipedia.org/?curid=215193",
+                "title": "池田駅 (熊本県)",
+                "text": "〇〇は、熊本県熊本市西区池田二丁目にある熊本電気鉄道菊池線の駅。駅番号はKD03。"
+            },
+            {
                 "datetime": "2024年09月29日 04時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3284238",
                 "title": "カール・ケッツ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2629256",
                 "title": "板倉勝高",
                 "text": "〇〇は、日本の経済地理学者。東北大学名誉教授。"
-            },
-            {
-                "datetime": "2024年09月27日 12時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4973466",
-                "title": "上矢田町 (西尾市)",
-                "text": "〇〇は、愛知県西尾市の地名。"
             }
         ]
     }
