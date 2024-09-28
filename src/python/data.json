@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年09月28日 16時の問題",
+                "url": "https://ja.wikipedia.org/?curid=906739",
+                "title": "原渕由布奈",
+                "text": "〇〇は、福井テレビ（ftb）のアナウンサー、元タレント。"
+            },
+            {
                 "datetime": "2024年09月28日 15時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1335790",
                 "title": "パターンダイヤ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=524339",
                 "title": "幻の湖",
                 "text": "〇〇は、1982年に公開された日本映画。"
-            },
-            {
-                "datetime": "2024年09月26日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3154480",
-                "title": "GAME OVER?",
-                "text": "〇〇は、AAAの46枚目のシングル。2015年4月29日にavex traxから発売された。"
             }
         ]
     }
