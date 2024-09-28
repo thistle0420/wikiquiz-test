@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年09月29日 04時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3284238",
+                "title": "カール・ケッツ",
+                "text": "〇〇は、ドイツの軍人。最終階級は陸軍少将。"
+            },
+            {
                 "datetime": "2024年09月29日 03時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3943954",
                 "title": "東山ダム",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4973466",
                 "title": "上矢田町 (西尾市)",
                 "text": "〇〇は、愛知県西尾市の地名。"
-            },
-            {
-                "datetime": "2024年09月27日 11時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2294301",
-                "title": "スカパー!アワード",
-                "text": "〇〇は、2008年から2014年までスカパーJSATが実施していたテレビの賞。"
             }
         ]
     }
