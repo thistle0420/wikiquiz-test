@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年09月28日 15時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1335790",
+                "title": "パターンダイヤ",
+                "text": "〇〇は、列車やバス（乗合バス）などの公共交通機関が、一定間隔で周期的に運行されるダイヤグラムのことをいう。〇〇の周期がn分であるとき、時間の間隔を取ってn分サイクル、n分パターン、n分ヘッドのように呼ぶ。"
+            },
+            {
                 "datetime": "2024年09月28日 14時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3923529",
                 "title": "君に会うために僕は生まれてきたんだ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3154480",
                 "title": "GAME OVER?",
                 "text": "〇〇は、AAAの46枚目のシングル。2015年4月29日にavex traxから発売された。"
-            },
-            {
-                "datetime": "2024年09月26日 21時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2781608",
-                "title": "LOVE STORY BEST 〜緋色の欠片〜",
-                "text": "〇〇は、シンガーソングライター、藤田麻衣子の2枚目のベスト・アルバム。2013年2月13日にMW RECORDSよりリリースされた。"
             }
         ]
     }
