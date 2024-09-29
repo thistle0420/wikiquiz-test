@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年09月29日 13時の問題",
+                "url": "https://ja.wikipedia.org/?curid=58930",
+                "title": "金木駅",
+                "text": "〇〇は、青森県五所川原市金木町芦野にある、津軽鉄道津軽鉄道線の駅である。"
+            },
+            {
                 "datetime": "2024年09月29日 12時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4615507",
                 "title": "路井恵美子",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4076230",
                 "title": "ピンク・フライデー",
                 "text": "〇〇は、米国の女性ラッパー、ニッキー・ミナージュによるデビューオリジナル・アルバム。2010年11月22日に、Young Money、Cash Money、およびUniversal Motownによってリリースされた。"
-            },
-            {
-                "datetime": "2024年09月27日 19時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2504725",
-                "title": "フロートコート",
-                "text": "〇〇は、2005年3月から2012年6月まで西日本旅客鉄道（JR西日本）大阪駅の構内にあった仮設の商業施設である。"
             }
         ]
     }
