@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年09月30日 03時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2110671",
+                "title": "亀岡簡易裁判所",
+                "text": "〇〇は、京都府亀岡市にある日本の簡易裁判所の一つで、亀岡市などを管轄している。略称は、亀岡簡裁（かめおかかんさい）。"
+            },
+            {
                 "datetime": "2024年09月30日 02時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1931229",
                 "title": "エンテカビル",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3692199",
                 "title": "クラウスペーター・ザイベル",
                 "text": "〇〇は、ドイツの指揮者。"
-            },
-            {
-                "datetime": "2024年09月28日 10時の問題",
-                "url": "https://ja.wikipedia.org/?curid=712793",
-                "title": "村上隆二",
-                "text": "〇〇は、南日本放送の社員で同局元アナウンサー。現在は報道部記者。"
             }
         ]
     }
