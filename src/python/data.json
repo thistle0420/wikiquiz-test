@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年09月30日 06時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4887836",
+                "title": "大井村 (岡山県小田郡)",
+                "text": "〇〇は、岡山県小田郡にあった村。現在の笠岡市の一部にあたる。"
+            },
+            {
                 "datetime": "2024年09月30日 05時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2622257",
                 "title": "天の川 (北海道)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3923529",
                 "title": "君に会うために僕は生まれてきたんだ",
                 "text": "〇〇は、EXILE SHOKICHI2枚目の配信シングル。2019年3月14日にrhythm zoneから発売された。"
-            },
-            {
-                "datetime": "2024年09月28日 13時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4385562",
-                "title": "In motion 2001 - 植民地の夜は更けて",
-                "text": "〇〇は、佐野元春 with Akira Inoue Foundationのライブ・アルバムおよびライブ・ビデオ。ライブ・アルバムは、2002年1月16日にGO4 Recordsから、ライブ・ビデオは2002年1月23日にEpic Records / M's Factoryから発売された。"
             }
         ]
     }
