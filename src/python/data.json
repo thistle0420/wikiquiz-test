@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年10月01日 05時の問題",
+                "url": "https://ja.wikipedia.org/?curid=477326",
+                "title": "起爆薬",
+                "text": "〇〇は、熱や衝撃など少しの刺激を受けただけで爆発する爆薬、点爆薬などのこと。雷管や信管等に使用される。"
+            },
+            {
                 "datetime": "2024年10月01日 04時の問題",
                 "url": "https://ja.wikipedia.org/?curid=62306",
                 "title": "横浜町田インターチェンジ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=58930",
                 "title": "金木駅",
                 "text": "〇〇は、青森県五所川原市金木町芦野にある、津軽鉄道津軽鉄道線の駅である。"
-            },
-            {
-                "datetime": "2024年09月29日 12時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4615507",
-                "title": "路井恵美子",
-                "text": "〇〇は、福岡県北九州市出身の日本の女優。身長143 cm。体重51 kg。血液型はA型。関西芸術座所属。"
             }
         ]
     }
