@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年10月01日 13時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2711054",
+                "title": "ピーター・ロビンスン",
+                "text": "〇〇は、イギリス人の推理作家。イングランドのリーズ生まれ。リーズ大学、ヨーク大学で学んだ。1974年にカナダへ移住した。"
+            },
+            {
                 "datetime": "2024年10月01日 12時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4582298",
                 "title": "今度生まれたら",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3903999",
                 "title": "PAGES (アルバム)",
                 "text": "〇〇は、2019年3月13日にポニーキャニオンから発売されたSexy Zone6作目のオリジナルアルバム。"
-            },
-            {
-                "datetime": "2024年09月29日 19時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2569614",
-                "title": "ブレンダ・カスティージョ",
-                "text": "〇〇は、ドミニカ共和国の女子バレーボール選手である。ドミニカ共和国代表。"
             }
         ]
     }
