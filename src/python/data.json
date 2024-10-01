@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年10月01日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3728682",
+                "title": "商君書",
+                "text": "〇〇は、商鞅の著作と伝えられる書物。著者は不明。『商子』（しょうし）とも呼ぶ。24篇が現存する。"
+            },
+            {
                 "datetime": "2024年10月01日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2711054",
                 "title": "ピーター・ロビンスン",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3008138",
                 "title": "大分市立明治小学校",
                 "text": "〇〇は、大分県大分市大字猪野にある公立小学校。2008年（平成20年）に開校100周年を迎えた。"
-            },
-            {
-                "datetime": "2024年09月29日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3903999",
-                "title": "PAGES (アルバム)",
-                "text": "〇〇は、2019年3月13日にポニーキャニオンから発売されたSexy Zone6作目のオリジナルアルバム。"
             }
         ]
     }
