@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年10月02日 02時の問題",
+                "url": "https://ja.wikipedia.org/?curid=691609",
+                "title": "薩摩白川駅",
+                "text": "〇〇は、かつて鹿児島県日置郡金峰町白川（現・南さつま市金峰町白川）にあった鹿児島交通知覧線の駅（廃駅）である。"
+            },
+            {
                 "datetime": "2024年10月02日 01時の問題",
                 "url": "https://ja.wikipedia.org/?curid=560998",
                 "title": "Time Sharing Option",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1990560",
                 "title": "1989年夏季ユニバーシアード",
                 "text": "〇〇は、1989年8月22日から30日まで、西ドイツ・デュースブルクで開催された第15回夏季ユニバーシアードである。"
-            },
-            {
-                "datetime": "2024年09月30日 08時の問題",
-                "url": "https://ja.wikipedia.org/?curid=799676",
-                "title": "齊藤直史",
-                "text": "〇〇は、元福岡放送のアナウンサー。北海道新聞社運動部記者。"
             }
         ]
     }
