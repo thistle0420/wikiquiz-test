@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年10月02日 03時の問題",
+                "url": "https://ja.wikipedia.org/?curid=40603",
+                "title": "東淀川区",
+                "text": "〇〇は、大阪市を構成する24行政区のうちの一つ。"
+            },
+            {
                 "datetime": "2024年10月02日 02時の問題",
                 "url": "https://ja.wikipedia.org/?curid=691609",
                 "title": "薩摩白川駅",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3418633",
                 "title": "1.22.03.ACOUSTIC",
                 "text": "〇〇は、アメリカ合衆国のロック・バンド、マルーン5が2004年に発表したEP。"
-            },
-            {
-                "datetime": "2024年09月30日 10時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1990560",
-                "title": "1989年夏季ユニバーシアード",
-                "text": "〇〇は、1989年8月22日から30日まで、西ドイツ・デュースブルクで開催された第15回夏季ユニバーシアードである。"
             }
         ]
     }
