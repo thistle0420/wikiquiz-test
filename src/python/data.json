@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年10月01日 16時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1619357",
+                "title": "ビリングス",
+                "text": "〇〇は、英語圏の姓、また地名。"
+            },
+            {
                 "datetime": "2024年10月01日 15時の問題",
                 "url": "https://ja.wikipedia.org/?curid=17776",
                 "title": "重戦車",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1170728",
                 "title": "山吉景長",
                 "text": "〇〇は、安土桃山時代から江戸時代初期にかけての武将。上杉氏の家臣。"
-            },
-            {
-                "datetime": "2024年09月29日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1414393",
-                "title": "村上情次",
-                "text": "〇〇は、日本の元男子バレーボール選手。広島県広島市出身。"
             }
         ]
     }
