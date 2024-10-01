@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年10月02日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4944989",
+                "title": "高志鵬",
+                "text": "〇〇は、中華民国（台湾）の弁護士、政治家。元立法委員。"
+            },
+            {
                 "datetime": "2024年10月02日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4722189",
                 "title": "金昌槿",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2949885",
                 "title": "明神村 (和歌山県)",
                 "text": "〇〇は、和歌山県東牟婁郡にあった村。現在の古座川町の南部、古座川の下流域にあたる。"
-            },
-            {
-                "datetime": "2024年09月30日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=721330",
-                "title": "齊藤美如",
-                "text": "〇〇は、茨城県筑西市出身の脚本家。（2011年4月から『さいとう美如』で活動）"
             }
         ]
     }
