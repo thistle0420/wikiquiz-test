@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年10月03日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4370953",
+                "title": "青島地下鉄4号線",
+                "text": "〇〇は、中華人民共和国山東省青島市市南区の人民会堂駅から嶗山区の大河東駅までを結ぶ予定の青島地鉄集団が運営する鉄道路線。"
+            },
+            {
                 "datetime": "2024年10月03日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=372588",
                 "title": "欧州安全保障協力機構",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=560998",
                 "title": "Time Sharing Option",
                 "text": "〇〇は、MVS や OS/390 や z/OS のような IBM メインフレームコンピュータのオペレーティングシステムで使われる相互対話式のコマンドラインインタープリタである。UNIX の Bash や Windows の cmd と同じ役割をする。TSO は、システム管理者やプログラマに使用される。1960年代にタイムシェアリングシステムが登場したときは、それはオプションの機能と目されていたので、TSO は OS/360 のオプションとして生まれた。TSO は単独で使われることは稀で、通常は ISPF を通して用いられる。ISPF は、ユーザーがメニューをカスタマイズでき、メニュードリブンインタラクションなコマンドラインインタプリタ環境を提供する。TSO と ISPF を併せて TSO/ISPF と称する。"
-            },
-            {
-                "datetime": "2024年10月02日 00時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1669488",
-                "title": "飛田武幸",
-                "text": "〇〇は、日本の数学者。専門は、確率論、関数解析学。名古屋大学名誉教授。名城大学名誉教授。ホワイトノイズ解析の基礎を確立。確率過程論国際学会会長、国際研究発表ジャーナル「Infinite dimensional Analysis, Quantum Probability and Related Topics」の編集長等を務めた。"
             }
         ]
     }
