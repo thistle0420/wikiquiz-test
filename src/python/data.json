@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年10月03日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2879800",
+                "title": "根本健一",
+                "text": "〇〇は、日本のミュージシャン。東京都大田区出身。『KEN』名義で活動。愛称は『ネモケン』。SAのベースを担当。メインで使用しているベースは、LAUGHIN' NOSEのPONから譲り受けた、リッケンバッカーの1976 Rickenbacker 4001。"
+            },
+            {
                 "datetime": "2024年10月03日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2700842",
                 "title": "お助け屋☆陣八",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=40603",
                 "title": "東淀川区",
                 "text": "〇〇は、大阪市を構成する24行政区のうちの一つ。"
-            },
-            {
-                "datetime": "2024年10月02日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=691609",
-                "title": "薩摩白川駅",
-                "text": "〇〇は、かつて鹿児島県日置郡金峰町白川（現・南さつま市金峰町白川）にあった鹿児島交通知覧線の駅（廃駅）である。"
             }
         ]
     }
