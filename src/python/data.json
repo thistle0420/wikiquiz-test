@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年10月05日 22時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4434182",
+                "title": "アマリア・フォン・ノイエンアール",
+                "text": "〇〇は、グンプレヒト2世・フォン・ノイエンアール＝アルペンとコルデュラ・フォン・ホルシュタイン＝シャウエンブルクの娘。プファルツ選帝侯フリードリヒ3世の2番目の妃となった。オランダ語でアマリア・ファン・ニーウェナール＝アルペン（Amalia van Nieuwenaar-Alpen）。"
+            },
+            {
                 "datetime": "2024年10月05日 21時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1280296",
                 "title": "トマス・ブロック",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2313352",
                 "title": "胆汁酸-7α-デヒドロキシラーゼ",
                 "text": "〇〇は、二次胆汁酸生合成酵素の一つで、次の化学反応を触媒する酸化還元酵素である。(1) デオキシコール酸 + FAD + H2O                     ⇌              {\\displaystyle \\rightleftharpoons }   コール酸 + FADH2(2) リトコール酸 + FAD + H2O                     ⇌              {\\displaystyle \\rightleftharpoons }   ケノデオキシコール酸 + FADH2この酵素は酸化還元酵素に属し、その他の化合物を受容体としてCH基またはCH2基に特異的に作用する。組織名はdeoxycholate:FAD oxidoreductase (7α-dehydroxylating)で、別名にcholate 7α-dehydroxylase、7α-dehydroxylase、bile acid 7-dehydroxylase、deoxycholate:NAD+ oxidoreductaseがある。この酵素は腸内細菌等に認められ、腸内細菌の総菌数の1〜10パーセント程度の多くの菌株が低い本酵素生産能を有することが確認されている。結腸内において腸内細菌の活動により一次胆汁酸であるケノデオキシコール酸から二次胆汁酸としてリトコール酸が生合成される。リトコール酸は、人や実験動物に発癌をもたらすとされている。"
-            },
-            {
-                "datetime": "2024年10月04日 04時の問題",
-                "url": "https://ja.wikipedia.org/?curid=874141",
-                "title": "シントロノン",
-                "text": "〇〇は、教会堂のアプスに設けられる聖職者のための席。アプスの周壁に沿って半円形に設けられるか、内陣両脇に直線状に作られる。初期キリスト教建築において形成されたもので、アプスか内陣（ベーマ）に設けられる。アプス周壁に設けられる場合は、階段状になることが多い。"
             }
         ]
     }
