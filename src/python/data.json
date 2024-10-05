@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年10月06日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1654165",
+                "title": "柄本奈美",
+                "text": "〇〇は、日本のバレリーナ。静岡県生まれ。"
+            },
+            {
                 "datetime": "2024年10月06日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2520030",
                 "title": "ウィリアム・クルーン",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4928498",
                 "title": "RYO NISHIKIDO LIVE TOUR 2024 \"NOMADOFNOWHERE\"",
                 "text": "〇〇は、2024年2月17日から同年4月13日にかけて開催された錦戸亮のライブツアー。"
-            },
-            {
-                "datetime": "2024年10月04日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4913557",
-                "title": "陳文博",
-                "text": "〇〇は、香港の実業家、政治家。不動産開発会社・恒隆集団と同社子会社の恒隆地産の董事長。父は恒隆集団および恒隆地産の前董事長・陳啓宗。"
             }
         ]
     }
