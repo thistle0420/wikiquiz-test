@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年10月05日 23時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2363451",
+                "title": "上妻精",
+                "text": "〇〇は、日本の哲学研究者、東北大学名誉教授。ヘーゲルを専門とした。"
+            },
+            {
                 "datetime": "2024年10月05日 22時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4434182",
                 "title": "アマリア・フォン・ノイエンアール",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4978908",
                 "title": "三宅充",
                 "text": "〇〇は、スポーツライター。雑誌『相撲』編集長。『大相撲』編集長。ペンネームは「斎藤太郎」。"
-            },
-            {
-                "datetime": "2024年10月04日 05時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2313352",
-                "title": "胆汁酸-7α-デヒドロキシラーゼ",
-                "text": "〇〇は、二次胆汁酸生合成酵素の一つで、次の化学反応を触媒する酸化還元酵素である。(1) デオキシコール酸 + FAD + H2O                     ⇌              {\\displaystyle \\rightleftharpoons }   コール酸 + FADH2(2) リトコール酸 + FAD + H2O                     ⇌              {\\displaystyle \\rightleftharpoons }   ケノデオキシコール酸 + FADH2この酵素は酸化還元酵素に属し、その他の化合物を受容体としてCH基またはCH2基に特異的に作用する。組織名はdeoxycholate:FAD oxidoreductase (7α-dehydroxylating)で、別名にcholate 7α-dehydroxylase、7α-dehydroxylase、bile acid 7-dehydroxylase、deoxycholate:NAD+ oxidoreductaseがある。この酵素は腸内細菌等に認められ、腸内細菌の総菌数の1〜10パーセント程度の多くの菌株が低い本酵素生産能を有することが確認されている。結腸内において腸内細菌の活動により一次胆汁酸であるケノデオキシコール酸から二次胆汁酸としてリトコール酸が生合成される。リトコール酸は、人や実験動物に発癌をもたらすとされている。"
             }
         ]
     }
