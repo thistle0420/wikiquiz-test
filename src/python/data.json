@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年10月06日 05時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4319303",
+                "title": "北九州市立鴨生田小学校",
+                "text": "〇〇は、福岡県北九州市若松区鴨生田4丁目にある市立小学校。"
+            },
+            {
                 "datetime": "2024年10月06日 04時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2794702",
                 "title": "BBCフィルムズ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4783729",
                 "title": "Juvenilizm-青春主義-",
                 "text": "〇〇は、日本のダンスボーカルユニット・M!LKの通算3枚目となるアルバム。2020年3月11日にSDRから発売された。"
-            },
-            {
-                "datetime": "2024年10月04日 12時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4013252",
-                "title": "海王町",
-                "text": "〇〇は、富山県射水市の町名である。大型練習帆船の海王丸のある海王丸パークや新湊きっときと市場などの観光地がある。"
             }
         ]
     }
