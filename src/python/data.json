@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年10月06日 15時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3383995",
+                "title": "ポメラニア公の一覧",
+                "text": "〇〇は、ポメラニアを支配したポメラニア公国の公の一覧である。"
+            },
+            {
                 "datetime": "2024年10月06日 14時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1640219",
                 "title": "くろしお (潜水艦・3代)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2325495",
                 "title": "トキソフラビン",
                 "text": "〇〇は、Burkholderia gladioliを含むバクテリア種によって合成される毒素である。抗菌性も有する 。〇〇には酸塩基指示薬としての性質もあり、pH 10.5で黄色または透明色に変色する。"
-            },
-            {
-                "datetime": "2024年10月04日 21時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3851858",
-                "title": "青木孝太郎",
-                "text": "〇〇は、日本の男性司会者・ラジオDJ・リングアナウンサー。"
             }
         ]
     }
