@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年10月09日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2314461",
+                "title": "花本ロミオ",
+                "text": "〇〇は、日本の小説家。血液型はAB型。"
+            },
+            {
                 "datetime": "2024年10月08日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2541638",
                 "title": "プロムナイト",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3478271",
                 "title": "ミュージックサイレン",
                 "text": "〇〇は、日本楽器製造（現ヤマハ）が開発・製造した音階が異なるサイレンを複数搭載し、演奏を可能にした自動演奏楽器。"
-            },
-            {
-                "datetime": "2024年10月07日 06時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2645553",
-                "title": "夏目あおい",
-                "text": "〇〇は、日本の女優、モデル、アイドルであり、女性アイドルグループGo!Go!ぱわふる学園のメンバー。アデッソ所属。"
             }
         ]
     }
