@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年10月08日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=51520",
+                "title": "日野バイパス",
+                "text": "〇〇は、東京都国立市から日野市を経由して八王子市に至る国道20号のバイパスである。"
+            },
+            {
                 "datetime": "2024年10月08日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1515080",
                 "title": "エルザ・ラ・コンティ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=699088",
                 "title": "グランツーリスモHDコンセプト",
                 "text": "〇〇は、2006年12月24日から2007年9月30日まで提供されたグランツーリスモシリーズ初のPlayStation 3向け作品である。PLAYSTATION Storeで無料配信された。"
-            },
-            {
-                "datetime": "2024年10月06日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3263285",
-                "title": "早稲田大学ア式蹴球部FC",
-                "text": "〇〇は、東京都西東京市にあるサッカーチーム。"
             }
         ]
     }
