@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年10月09日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4714414",
+                "title": "NGC 234",
+                "text": "〇〇は、うお座の方角に位置する渦巻銀河である。1784年10月14日にウィリアム・ハーシェルによって初めて発見された。"
+            },
+            {
                 "datetime": "2024年10月09日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=561805",
                 "title": "大橋理枝",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4751033",
                 "title": "Adoのオールナイトニッポン",
                 "text": "〇〇は、ニッポン放送で2023年4月4日（3日深夜）から2024年3月26日まで放送されたラジオ番組。"
-            },
-            {
-                "datetime": "2024年10月07日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4305888",
-                "title": "西蔵院 (台東区)",
-                "text": "〇〇は、東京都台東区にある真言宗智山派の寺院。"
             }
         ]
     }
