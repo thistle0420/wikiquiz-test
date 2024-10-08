@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年10月08日 12時の問題",
+                "url": "https://ja.wikipedia.org/?curid=292487",
+                "title": "ハノーファー空港",
+                "text": "〇〇は、ドイツ・ニーダーザクセン州の州都ハノーファーにある国際空港である。"
+            },
+            {
                 "datetime": "2024年10月08日 11時の問題",
                 "url": "https://ja.wikipedia.org/?curid=381314",
                 "title": "野伏翔",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4757335",
                 "title": "平尾拳士朗",
                 "text": "〇〇は、愛知県出身のプロサッカー選手。Jリーグ・藤枝MYFC所属。ポジションはフォワード、ミッドフィールダー。"
-            },
-            {
-                "datetime": "2024年10月06日 18時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3013569",
-                "title": "里見まさとのおおきに!サタデー",
-                "text": "〇〇は、ラジオ大阪で放送されていたラジオの生ワイド番組。"
             }
         ]
     }
