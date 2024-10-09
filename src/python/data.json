@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年10月09日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4815269",
+                "title": "岡林頌弥",
+                "text": "〇〇は、日本の映画監督、実業家。SKY PRODUCTION株式会社代表取締役。高知県高知市出身。"
+            },
+            {
                 "datetime": "2024年10月09日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3813677",
                 "title": "横浜市教育会館",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3533095",
                 "title": "目立て",
                 "text": "〇〇は、鋸の刃をやすりにより研磨すること。 → 鋸#〇〇を参照のこと。砥石の研削くずや砥粒くずを取り除き、新しい砥粒を表に出す作業 (dressing) のこと。 → 研削加工を参照のこと。"
-            },
-            {
-                "datetime": "2024年10月08日 03時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2029304",
-                "title": "プリュトン (軽巡洋艦)",
-                "text": "〇〇は、フランス海軍が建造した軽巡洋艦で、フランス海軍では敷設巡洋艦に分類していた。"
             }
         ]
     }
