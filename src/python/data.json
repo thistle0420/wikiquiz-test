@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年10月09日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3813677",
+                "title": "横浜市教育会館",
+                "text": "〇〇は、神奈川県横浜市西区にある多目的ホール。管理および運営は一般財団法人 〇〇。"
+            },
+            {
                 "datetime": "2024年10月09日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3532394",
                 "title": "2017年の中華人民共和国",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2029304",
                 "title": "プリュトン (軽巡洋艦)",
                 "text": "〇〇は、フランス海軍が建造した軽巡洋艦で、フランス海軍では敷設巡洋艦に分類していた。"
-            },
-            {
-                "datetime": "2024年10月08日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2411682",
-                "title": "旭村 (神奈川県中郡)",
-                "text": "〇〇は、神奈川県中郡に存在した村。"
             }
         ]
     }
