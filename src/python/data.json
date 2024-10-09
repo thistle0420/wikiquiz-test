@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年10月10日 02時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3399939",
+                "title": "四日市市立博物館",
+                "text": "〇〇は、三重県四日市市にある公立博物館。四日市市の歴史に関する展示を行っており、プラネタリウムを併設している。"
+            },
+            {
                 "datetime": "2024年10月10日 01時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3625302",
                 "title": "Lazy Sunday",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=220794",
                 "title": "いのつき駅",
                 "text": "〇〇は、長崎県佐世保市江迎町猪調にある松浦鉄道西九州線の駅である。"
-            },
-            {
-                "datetime": "2024年10月08日 08時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3358662",
-                "title": "日野道夫",
-                "text": "〇〇は、日本の俳優。本名同じ。北海道函館市出身。北海道庁立函館中学校（現在の北海道函館中部高等学校）卒業。いむらプロに所属していた。"
             }
         ]
     }
