@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年10月10日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2610754",
+                "title": "めぐり逢う大地",
+                "text": "〇〇は、イギリス、フランス、カナダ、アメリカの映画作品。"
+            },
+            {
                 "datetime": "2024年10月10日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2685728",
                 "title": "チューリッヒ・ゼーバッハ駅",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=269474",
                 "title": "滋賀県道556号長浜近江線",
                 "text": "〇〇は、滋賀県長浜市北新町交点を起点に米原市岩脇に至る6.6kmの一般県道である。"
-            },
-            {
-                "datetime": "2024年10月09日 00時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2314461",
-                "title": "花本ロミオ",
-                "text": "〇〇は、日本の小説家。血液型はAB型。"
             }
         ]
     }
