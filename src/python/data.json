@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年10月10日 12時の問題",
+                "url": "https://ja.wikipedia.org/?curid=349692",
+                "title": "福井県立若狭高等学校",
+                "text": "〇〇は、福井県小浜市千種にある公立の高等学校。通称は「若高（じゃっこう）」。"
+            },
+            {
                 "datetime": "2024年10月10日 11時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1051619",
                 "title": "ラテン・カップ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4592038",
                 "title": "優台",
                 "text": "〇〇は、夫余の部族王である解扶婁の孫。百済の建国者温祚の父。"
-            },
-            {
-                "datetime": "2024年10月08日 18時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2539511",
-                "title": "ハード・アライブ",
-                "text": "〇〇は、アメリカ合衆国の映画作品。"
             }
         ]
     }
