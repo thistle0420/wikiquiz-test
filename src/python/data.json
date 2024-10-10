@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年10月11日 01時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4104035",
+                "title": "クリストファー・ペテルソン",
+                "text": "〇〇は、スウェーデン・ヨーテボリ出身のサッカー選手。ハポエル・ベエルシェバFC所属。ポジションはフォワード。"
+            },
+            {
                 "datetime": "2024年10月11日 00時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2181659",
                 "title": "ANIMAL INDEX",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4714414",
                 "title": "NGC 234",
                 "text": "〇〇は、うお座の方角に位置する渦巻銀河である。1784年10月14日にウィリアム・ハーシェルによって初めて発見された。"
-            },
-            {
-                "datetime": "2024年10月09日 07時の問題",
-                "url": "https://ja.wikipedia.org/?curid=561805",
-                "title": "大橋理枝",
-                "text": "〇〇は、Ph.D. (Communication)（ミシガン州立大学・2000年）。国際行動学会所属。国際交流基金「日本語能力試験改善に関する検討会」委員。"
             }
         ]
     }
