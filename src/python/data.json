@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年10月11日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4639716",
+                "title": "土方力三郎",
+                "text": "〇〇は、日本の画家。"
+            },
+            {
                 "datetime": "2024年10月11日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=209563",
                 "title": "新しい波8",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=141969",
                 "title": "サスキア・サッセン",
                 "text": "〇〇は、アルゼンチンの社会学者。コロンビア大学社会学部教授（LSE客員教授）を務めている。都市社会学、グローバル都市論、移民研究が専門。"
-            },
-            {
-                "datetime": "2024年10月10日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3399939",
-                "title": "四日市市立博物館",
-                "text": "〇〇は、三重県四日市市にある公立博物館。四日市市の歴史に関する展示を行っており、プラネタリウムを併設している。"
             }
         ]
     }
