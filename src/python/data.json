@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年10月11日 16時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4919859",
+                "title": "荒子町 (碧南市)",
+                "text": "〇〇は、愛知県碧南市の地名。"
+            },
+            {
                 "datetime": "2024年10月11日 15時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2947050",
                 "title": "アサ・アキラ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=533847",
                 "title": "Op.ローズダスト",
                 "text": "〇〇は、福井晴敏による日本の小説。時系列的には『亡国のイージス』の続編にあたる。"
-            },
-            {
-                "datetime": "2024年10月09日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=416763",
-                "title": "静岡県立藤枝特別支援学校",
-                "text": "〇〇は、静岡県藤枝市前島に本校を置く県立知的障害・肢体不自由特別支援学校である。"
             }
         ]
     }
