@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年10月11日 19時の問題",
+                "url": "https://ja.wikipedia.org/?curid=209563",
+                "title": "新しい波8",
+                "text": "〇〇は、2000年4月から2001年3月までフジテレビで放送されていた深夜バラエティ番組である。ネタ見せ番組でもある。通称「なみはち」。"
+            },
+            {
                 "datetime": "2024年10月11日 18時の問題",
                 "url": "https://ja.wikipedia.org/?curid=465160",
                 "title": "熱・電気エネルギー技術財団",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3399939",
                 "title": "四日市市立博物館",
                 "text": "〇〇は、三重県四日市市にある公立博物館。四日市市の歴史に関する展示を行っており、プラネタリウムを併設している。"
-            },
-            {
-                "datetime": "2024年10月10日 01時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3625302",
-                "title": "Lazy Sunday",
-                "text": "〇〇は、2007年7月からInterFM897で放送されているラジオ番組。"
             }
         ]
     }
