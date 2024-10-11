@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年10月11日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=465160",
+                "title": "熱・電気エネルギー技術財団",
+                "text": "〇〇は、資源エネルギー庁所管の財団法人から移行した内閣府所管の一般財団法人。地球の将来をうれい、未来の新エネルギー開発を生涯の夢とした、アイシン精機（現:アイシン）名誉相談役・豐田稔の遺志を体したもの。"
+            },
+            {
                 "datetime": "2024年10月11日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2119465",
                 "title": "自由主義的専制",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3625302",
                 "title": "Lazy Sunday",
                 "text": "〇〇は、2007年7月からInterFM897で放送されているラジオ番組。"
-            },
-            {
-                "datetime": "2024年10月10日 00時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2985301",
-                "title": "ファイティングエンターテインメント WRESTLE-1",
-                "text": "〇〇は、GAORA製作のWRESTLE-1中継の題名である。"
             }
         ]
     }
