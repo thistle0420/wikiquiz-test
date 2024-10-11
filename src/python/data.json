@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年10月12日 03時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4755028",
+                "title": "マクシミリアン・フォン・ヘッセン＝カッセル",
+                "text": "〇〇は、ヘッセン＝カッセル家出身の元帥。"
+            },
+            {
                 "datetime": "2024年10月12日 02時の問題",
                 "url": "https://ja.wikipedia.org/?curid=762472",
                 "title": "ドレスデン県",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1051619",
                 "title": "ラテン・カップ",
                 "text": "〇〇は、かつて行われていたクラブチームによるサッカーの国際大会（公式戦）である。"
-            },
-            {
-                "datetime": "2024年10月10日 10時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2068066",
-                "title": "塩飽本島マイペースマラソン大会",
-                "text": "〇〇は、香川県丸亀市の本島で行われているマラソン大会である。"
             }
         ]
     }
