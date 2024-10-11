@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年10月12日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3560307",
+                "title": "The First Mini Album (Orange Caramelのアルバム)",
+                "text": "〇〇は、韓国の音楽ユニットのオレンジキャラメルの最初のミニ・アルバムである。"
+            },
+            {
                 "datetime": "2024年10月11日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=448192",
                 "title": "日本センチュリー交響楽団",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4441881",
                 "title": "ナガレコウホネ",
                 "text": "〇〇は、スイレン科コウホネ属に属する植物。コウホネとシモツケコウホネの雑種である。"
-            },
-            {
-                "datetime": "2024年10月10日 06時の問題",
-                "url": "https://ja.wikipedia.org/?curid=49206",
-                "title": "アッリアノス",
-                "text": "〇〇は、2世紀のローマのギリシア人の政治家、歴史家である。アリアノスまたはアリアヌスとも表記する。アレクサンドロス3世（大王）の東征研究の一級の史料『アレクサンドロス東征記』（古希: Ἀλεξάνδρου ἀνάβασις/Alexandrou anabasis、直訳すれば『アレクサンドロスのアナバシス』）の著者として有名である。"
             }
         ]
     }
