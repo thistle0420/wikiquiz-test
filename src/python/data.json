@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年10月11日 17時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2119465",
+                "title": "自由主義的専制",
+                "text": "〇〇は、「自由民主制」(liberal democracy）からの造語で、自由主義の原則に従って統治されるが民主制ではない政治体制である。"
+            },
+            {
                 "datetime": "2024年10月11日 16時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4919859",
                 "title": "荒子町 (碧南市)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2985301",
                 "title": "ファイティングエンターテインメント WRESTLE-1",
                 "text": "〇〇は、GAORA製作のWRESTLE-1中継の題名である。"
-            },
-            {
-                "datetime": "2024年10月09日 23時の問題",
-                "url": "https://ja.wikipedia.org/?curid=533847",
-                "title": "Op.ローズダスト",
-                "text": "〇〇は、福井晴敏による日本の小説。時系列的には『亡国のイージス』の続編にあたる。"
             }
         ]
     }
