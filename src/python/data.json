@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年10月11日 11時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2709919",
+                "title": "岩手県下水道公社",
+                "text": "〇〇は、岩手県の公益財団法人。1987年（昭和62年）4月1日設立。"
+            },
+            {
                 "datetime": "2024年10月11日 10時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1119499",
                 "title": "耆英",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2693078",
                 "title": "カンムリカイツブリ属",
                 "text": "〇〇は、カイツブリ目カイツブリ科に分類される鳥類の1属である。"
-            },
-            {
-                "datetime": "2024年10月09日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3849230",
-                "title": "Toontown: Corporate Clash",
-                "text": "〇〇は、2013年まで公開されていた、ディズニーのトゥーンタウン・オンライン(以下「TTO」と表記)をもとにして開発されたファンメイドのMMORPG。基本的にはTTOのゲームシステムを継承するものの、多くの改良や変更を加えたものとなっている。一般公開前は、「Project Altis」としてβテストを行っていたが、2018年7月に「〇〇」として、βリリースされた。"
             }
         ]
     }
