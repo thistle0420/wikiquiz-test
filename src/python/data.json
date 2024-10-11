@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年10月11日 22時の問題",
+                "url": "https://ja.wikipedia.org/?curid=931823",
+                "title": "ラジオ朝市",
+                "text": "〇〇は、CBCラジオで1972年4月10日から1993年10月1日まで放送されていたラジオ番組。"
+            },
+            {
                 "datetime": "2024年10月11日 21時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3324458",
                 "title": "防衛大学校ラグビー部",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3508550",
                 "title": "社会安全研究所",
                 "text": "〇〇は、日本の都市計画コンサルタント、防災対策専門のシンクタンク。"
-            },
-            {
-                "datetime": "2024年10月10日 04時の問題",
-                "url": "https://ja.wikipedia.org/?curid=618766",
-                "title": "低音一家",
-                "text": "〇〇は、ORANGE RANGEのメンバーRYOとYOHで構成されている名称。"
             }
         ]
     }
