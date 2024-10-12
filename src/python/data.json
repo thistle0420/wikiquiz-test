@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年10月12日 17時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3676355",
+                "title": "横井大三",
+                "text": "〇〇は、日本の検察官。最高裁判所判事。本籍は神奈川県だが、生まれたのは朝鮮平安北道。"
+            },
+            {
                 "datetime": "2024年10月12日 16時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1475820",
                 "title": "クルトガ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2181659",
                 "title": "ANIMAL INDEX",
                 "text": "〇〇は、ムーンライダーズの10枚目のオリジナル・アルバム。1985年10月21日発売。"
-            },
-            {
-                "datetime": "2024年10月10日 23時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3458951",
-                "title": "1972年ミュンヘンオリンピックのレスリング競技",
-                "text": "〇〇は、1972年に西ドイツで開催されたミュンヘンオリンピックにおける、レスリング競技の詳細である。"
             }
         ]
     }
