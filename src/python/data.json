@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年10月13日 10時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1841074",
+                "title": "誰かが",
+                "text": "〇〇は、PUFFYの28枚目のシングル。2009年7月29日にキューンレコードから発売された。"
+            },
+            {
                 "datetime": "2024年10月13日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=765760",
                 "title": "NME",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2119465",
                 "title": "自由主義的専制",
                 "text": "〇〇は、「自由民主制」(liberal democracy）からの造語で、自由主義の原則に従って統治されるが民主制ではない政治体制である。"
-            },
-            {
-                "datetime": "2024年10月11日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4919859",
-                "title": "荒子町 (碧南市)",
-                "text": "〇〇は、愛知県碧南市の地名。"
             }
         ]
     }
