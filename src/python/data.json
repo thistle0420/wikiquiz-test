@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年10月14日 17時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2224614",
+                "title": "たまごのえほん",
+                "text": "〇〇は、2009年12月に絵本作家のいしかわこうじが出版した、しかけ絵本。"
+            },
+            {
                 "datetime": "2024年10月14日 16時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1306758",
                 "title": "ジュール・ランカン",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1463581",
                 "title": "耶律雅里",
                 "text": "〇〇は、北遼の第3代皇帝。"
-            },
-            {
-                "datetime": "2024年10月12日 23時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1218101",
-                "title": "怡土城",
-                "text": "〇〇は、筑前国怡土郡の高祖山（現在の福岡県糸島市高来寺・大門・高祖）にあった日本の古代山城（分類は中国式山城）。城跡は国の史跡に指定されている。"
             }
         ]
     }
