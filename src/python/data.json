@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年10月15日 04時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3914275",
+                "title": "清田のぞみ",
+                "text": "〇〇は、三重エフエム放送（FM三重）のアナウンサー。"
+            },
+            {
                 "datetime": "2024年10月15日 03時の問題",
                 "url": "https://ja.wikipedia.org/?curid=886338",
                 "title": "エディ・チーバー",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3205114",
                 "title": "保淑帝姫",
                 "text": "〇〇は、北宋の徽宗の第12皇女。"
-            },
-            {
-                "datetime": "2024年10月13日 11時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4022430",
-                "title": "ブランドン・ディクソン (内野手)",
-                "text": "〇〇は、アメリカ合衆国カリフォルニア州サンディエゴ市ラホヤ出身の元プロ野球選手（ユーティリティープレイヤー）。右投右打。"
             }
         ]
     }
