@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年10月14日 13時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2380805",
+                "title": "ブータンのスポーツ",
+                "text": "〇〇は、ブータン王国におけるスポーツについて記述する。"
+            },
+            {
                 "datetime": "2024年10月14日 12時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3888863",
                 "title": "HP 35s",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4147537",
                 "title": "IMOCD!",
                 "text": "〇〇は、日本のロックバンド。"
-            },
-            {
-                "datetime": "2024年10月12日 19時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2970671",
-                "title": "佐野秀光",
-                "text": "〇〇は、日本の実業家、政治活動家。株式会社情報通信ネットワーク（JTN）グループ代表、政治団体「支持政党なし」及び「安楽死制度を考える会」代表。"
             }
         ]
     }
