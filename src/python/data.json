@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年10月15日 23時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4125227",
+                "title": "旭東電気",
+                "text": "〇〇は、日本の電気器具メーカー。加賀電子の100%子会社。"
+            },
+            {
                 "datetime": "2024年10月15日 22時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2540777",
                 "title": "末永由楽",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=627482",
                 "title": "青森県道9号夏泊公園線",
                 "text": "〇〇は、青森県東津軽郡平内町の夏泊半島を一周している県道（主要地方道）である。通称夏泊ほたてライン。"
-            },
-            {
-                "datetime": "2024年10月14日 05時の問題",
-                "url": "https://ja.wikipedia.org/?curid=245734",
-                "title": "徳島インディゴソックス",
-                "text": "〇〇は、プロ野球独立リーグ・四国アイランドリーグplusに所属する徳島県の野球チーム。2005年加盟。略称「徳島IS」。"
             }
         ]
     }
