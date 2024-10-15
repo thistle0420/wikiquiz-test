@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年10月15日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4986536",
+                "title": "絆（Kizuna）",
+                "text": "〇〇は、クイーンのベスト・アルバム。2024年1月31日にユニバーサルミュージックより発売された。"
+            },
+            {
                 "datetime": "2024年10月15日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1610295",
                 "title": "道中諸法度",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3246235",
                 "title": "ナタリー・ホーステ",
                 "text": "〇〇は、ベルギー、ヘント出身のフィギュアスケート選手（女子シングル）。"
-            },
-            {
-                "datetime": "2024年10月14日 00時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4000596",
-                "title": "山田麗華",
-                "text": "〇〇は、日本の女性ファッションモデル、タレントである。神奈川県出身。SGMedia（ソーシャルガールズメディア）を経てLovers所属。「れいたぴ」の愛称で知られる。"
             }
         ]
     }
