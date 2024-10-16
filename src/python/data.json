@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年10月16日 22時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4589779",
+                "title": "今宮神社 (熱海市)",
+                "text": "〇〇は、静岡県熱海市桜町にある神社。第二小学校に隣接した、熱海市街地西部（南部）の中心的な神社である。"
+            },
+            {
                 "datetime": "2024年10月16日 21時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3589900",
                 "title": "ダフィー (護衛駆逐艦)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2023775",
                 "title": "印紙犯罪処罰法",
                 "text": "〇〇は、日本政府の発行する印紙を偽造・変造する行為等を処罰する日本の法律。"
-            },
-            {
-                "datetime": "2024年10月15日 04時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3914275",
-                "title": "清田のぞみ",
-                "text": "〇〇は、三重エフエム放送（FM三重）のアナウンサー。"
             }
         ]
     }
