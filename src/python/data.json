@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年10月17日 02時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4145658",
+                "title": "ブライアン・マクウィニー",
+                "text": "〇〇は、カーネギーメロン大学の心理学と現代言語学の教授。第一・第二言語獲得、心理言語学、言語の神経学的基盤を専門とし、これらのテーマに関する数冊の本や100以上の査読付き論文、書籍の章を執筆・編集している。マクウィニーは、言語獲得の競合モデル、CHILDES（Child Language Data Exchange System）とTalkBankコーパスの作成で最もよく知られている。また、Macintosh用の実験制御システムPsyScope、Microsoft Windowsプラットフォーム用の実験制御システムE-Prime、心理学的・言語学的研究を促進・改善するためのスクリプトのデータベースSystem for Teaching Experimental Psychology (STEP)など、心理学的実験を作成・実行するための先駆的なソフトウェアプログラムの開発にも貢献した。"
+            },
+            {
                 "datetime": "2024年10月17日 01時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2609219",
                 "title": "コンスタンティン・ヒールル",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=959957",
                 "title": "徳島市田宮公園プール",
                 "text": "〇〇は、徳島県徳島市の田宮運動公園内にある市民プール。別名ワークスタッフ田宮プール。"
-            },
-            {
-                "datetime": "2024年10月15日 08時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1671430",
-                "title": "ボーダンクロオウム",
-                "text": "〇〇は、鳥綱インコ目オウム科クロオウム属に分類される鳥類。別名オジロクロオウム。"
             }
         ]
     }
