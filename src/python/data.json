@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年10月18日 05時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3250512",
+                "title": "福岡県道269号合馬長行線",
+                "text": "〇〇は、福岡県北九州市小倉南区を通る一般県道である。"
+            },
+            {
                 "datetime": "2024年10月18日 04時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4004870",
                 "title": "ゲアリー・タウブス",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4609347",
                 "title": "アクティブディフェンス",
                 "text": "〇〇は、防衛・防御のための攻撃や攻勢を指す軍事的な用語。"
-            },
-            {
-                "datetime": "2024年10月16日 12時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2724166",
-                "title": "南九州スバル",
-                "text": "〇〇は、鹿児島県鹿児島市に本社を置くSUBARUのディーラーである。"
             }
         ]
     }
