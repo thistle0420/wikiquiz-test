@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年10月17日 17時の問題",
+                "url": "https://ja.wikipedia.org/?curid=127778",
+                "title": "テレビ朝日アスク",
+                "text": "〇〇は、アナウンサー、リポーター、声優等の育成および教育事業などを行う企業。テレビ朝日の完全子会社。"
+            },
+            {
                 "datetime": "2024年10月17日 16時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2157244",
                 "title": "ブルー・イン・ザ・フェイス",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4222939",
                 "title": "有馬直和",
                 "text": "〇〇は、昭和から平成時代の政治家。実業家。福岡県直方市長。"
-            },
-            {
-                "datetime": "2024年10月15日 23時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4125227",
-                "title": "旭東電気",
-                "text": "〇〇は、日本の電気器具メーカー。加賀電子の100%子会社。"
             }
         ]
     }
