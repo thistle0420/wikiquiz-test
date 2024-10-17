@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年10月17日 12時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2292210",
+                "title": "野平一郎",
+                "text": "〇〇は、日本の作曲家、ピアニスト。"
+            },
+            {
                 "datetime": "2024年10月17日 11時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1508644",
                 "title": "宮坂里美",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=199810",
                 "title": "メルシアのチャド",
                 "text": "〇〇は、ノーサンブリアの出身のキリスト教伝道者。カトリック教会・聖公会・正教会で聖人。同じく聖職者のケッド（Cedd）、キニビル（Cynibil）、ケリン（Caelin）の弟。リンディスファーン（Lindisfarne）第一代司教のアイダン（Aidan）の門弟。"
-            },
-            {
-                "datetime": "2024年10月15日 18時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4986536",
-                "title": "絆（Kizuna）",
-                "text": "〇〇は、クイーンのベスト・アルバム。2024年1月31日にユニバーサルミュージックより発売された。"
             }
         ]
     }
