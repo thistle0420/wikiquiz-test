@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年10月18日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1775954",
+                "title": "白鳩 (企業)",
+                "text": "〇〇は、愛知県名古屋市南区にある縫製メーカーである。"
+            },
+            {
                 "datetime": "2024年10月18日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1436083",
                 "title": "宇野常寛",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4145658",
                 "title": "ブライアン・マクウィニー",
                 "text": "〇〇は、カーネギーメロン大学の心理学と現代言語学の教授。第一・第二言語獲得、心理言語学、言語の神経学的基盤を専門とし、これらのテーマに関する数冊の本や100以上の査読付き論文、書籍の章を執筆・編集している。マクウィニーは、言語獲得の競合モデル、CHILDES（Child Language Data Exchange System）とTalkBankコーパスの作成で最もよく知られている。また、Macintosh用の実験制御システムPsyScope、Microsoft Windowsプラットフォーム用の実験制御システムE-Prime、心理学的・言語学的研究を促進・改善するためのスクリプトのデータベースSystem for Teaching Experimental Psychology (STEP)など、心理学的実験を作成・実行するための先駆的なソフトウェアプログラムの開発にも貢献した。"
-            },
-            {
-                "datetime": "2024年10月17日 01時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2609219",
-                "title": "コンスタンティン・ヒールル",
-                "text": "〇〇は、ドイツの軍人、政治家。国家社会主義ドイツ労働者党（ナチス）の勤労組織、国家労働奉仕団（RAD）総裁を務めた。またかつての軍人時代の部下は後にドイツ国防軍の幹部となるアルフレート・ヨードルであった。陸軍の最終階級は名誉少将。"
             }
         ]
     }
