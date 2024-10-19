@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年10月19日 15時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1941414",
+                "title": "野々村聡子",
+                "text": "〇〇は、日本の元女子プロ野球選手、野球指導者。"
+            },
+            {
                 "datetime": "2024年10月19日 14時の問題",
                 "url": "https://ja.wikipedia.org/?curid=74914",
                 "title": "キングコング",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3698022",
                 "title": "緑川貴士",
                 "text": "〇〇は、日本の政治家、元アナウンサー。立憲民主党所属の衆議院議員（2期）。立憲民主党秋田県連代表。"
-            },
-            {
-                "datetime": "2024年10月17日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4238947",
-                "title": "蔵琢也",
-                "text": "〇〇は、日本の生物学者、動物評論家。京都大学動物学教室教務補佐、京都学園大学非常勤講師、同志社大学ITEC研究員などを務めた。蔵研也は弟。"
             }
         ]
     }
