@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年10月21日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2766538",
+                "title": "末廣健一郎",
+                "text": "〇〇は、日本の作曲家、編曲家。埼玉県さいたま市出身。ワンミュージック所属。"
+            },
+            {
                 "datetime": "2024年10月20日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4003029",
                 "title": "1975年のビルボード・ホット100による1位のシングル一覧",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1630",
                 "title": "アメリカ (曖昧さ回避)",
                 "text": "〇〇は、イタリア人の航海者アメリゴ・ヴェスプッチ(Amerigo Vespucci)の名に由来する地名、およびこの地名にちなんだ名称。亜米利加、または米（べい）。"
-            },
-            {
-                "datetime": "2024年10月19日 06時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4343867",
-                "title": "高橋ダン",
-                "text": "〇〇は、日本の投資家、起業家。PostPrime株式会社創業者、CEO。東京都豊島区生まれ。YouTubeと自身が運営するPostPrimeにて投資についての解説をする番組を配信している。"
             }
         ]
     }
