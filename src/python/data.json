@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年10月21日 01時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3272762",
+                "title": "札幌ハイテクヒル真栄",
+                "text": "〇〇は、札幌市清田区にある産業団地。"
+            },
+            {
                 "datetime": "2024年10月21日 00時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2766538",
                 "title": "末廣健一郎",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2439399",
                 "title": "聞慶線",
                 "text": "〇〇は、大韓民国慶尚北道聞慶市の店村駅から聞慶駅までを結ぶ韓国鉄道公社の鉄道路線である。2018年以降は全線で営業が休止されている。"
-            },
-            {
-                "datetime": "2024年10月19日 07時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1630",
-                "title": "アメリカ (曖昧さ回避)",
-                "text": "〇〇は、イタリア人の航海者アメリゴ・ヴェスプッチ(Amerigo Vespucci)の名に由来する地名、およびこの地名にちなんだ名称。亜米利加、または米（べい）。"
             }
         ]
     }
