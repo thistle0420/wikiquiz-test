@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年10月21日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1647082",
+                "title": "キラー・ヴァージンロード",
+                "text": "〇〇は、2009年の日本映画。監督は岸谷五朗、主演は上野樹里。"
+            },
+            {
                 "datetime": "2024年10月21日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2391313",
                 "title": "京都マラソン",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4586063",
                 "title": "Nintendo Switchのゲームタイトル一覧 (2018年)",
                 "text": "〇〇は、Nintendo Switch用ソフトのうち、2018年にパッケージタイトルとして販売、またはニンテンドーeショップを通じてダウンロード販売された以下618タイトルを発売順に列記する。"
-            },
-            {
-                "datetime": "2024年10月19日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1941414",
-                "title": "野々村聡子",
-                "text": "〇〇は、日本の元女子プロ野球選手、野球指導者。"
             }
         ]
     }
