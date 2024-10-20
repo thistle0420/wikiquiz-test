@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年10月20日 15時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4850786",
+                "title": "魚住樂處",
+                "text": "〇〇は、江戸時代後期の儒学者（朱子学派）。明治時代の教育者、政治家。名は明識（「名誠」との記載もあり）。字（あざな）は明晶。通称は三郎八。樂處はその号。福岡藩藩儒。"
+            },
+            {
                 "datetime": "2024年10月20日 14時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4951251",
                 "title": "エイモス・ギャレット",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3781707",
                 "title": "森研",
                 "text": "〇〇は、日本の実業家、メディアプロデューサー。株式会社M-ENTERTAINMENT代表取締役、株式会社INFASパブリケーションズ常務取締役、「WWD JAPAN.com」元編集長。東京都港区出身。"
-            },
-            {
-                "datetime": "2024年10月18日 21時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2747259",
-                "title": "風美まい",
-                "text": "〇〇は、日本の歌手、タレント。旧芸名：日の出 舞子、武田 舞"
             }
         ]
     }
