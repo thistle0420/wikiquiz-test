@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年10月20日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3084296",
+                "title": "高田六郎",
+                "text": "〇〇は、日本の海軍軍人、医師。最終階級は海軍軍医中将。"
+            },
+            {
                 "datetime": "2024年10月20日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2947061",
                 "title": "ヤンキー塾へ行く",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1346625",
                 "title": "三月のライオン",
                 "text": "〇〇は、1992年6月10日に公開された日本映画である。"
-            },
-            {
-                "datetime": "2024年10月19日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=288353",
-                "title": "堀金村",
-                "text": "〇〇は、長野県にかつて存在していた村である。"
             }
         ]
     }
