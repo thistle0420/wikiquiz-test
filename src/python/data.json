@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年10月21日 15時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1805391",
+                "title": "Mローマ・バレー",
+                "text": "〇〇は、イタリア・ローマを本拠地とする男子バレーボールクラブチーム。通称はローマ。"
+            },
+            {
                 "datetime": "2024年10月21日 14時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2836692",
                 "title": "全米陸上競技選手権大会",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=562550",
                 "title": "J-MOSS",
                 "text": "〇〇は、JIS C 0950の通称であり、正式名称を「電気・電子機器の特定の化学物質の含有表示方法」という。日本版RoHS指令とも目されている。"
-            },
-            {
-                "datetime": "2024年10月19日 21時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3322745",
-                "title": "愛すみれ",
-                "text": "〇〇は、宝塚歌劇団雪組に所属する娘役。大阪府豊能郡、梅花中学校出身。身長166cm。愛称は「あり」、「あいみ」。"
             }
         ]
     }
