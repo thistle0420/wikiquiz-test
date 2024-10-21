@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年10月21日 16時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1648799",
+                "title": "Al 101 (航空機)",
+                "text": "〇〇は、1930年代のドイツの練習機である。パラソル翼の標準的な形状の単葉機で、操縦手と教官は開放式の座席に別々に乗り込んだ。"
+            },
+            {
                 "datetime": "2024年10月21日 15時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1805391",
                 "title": "Mローマ・バレー",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4872872",
                 "title": "シュレーディンガー (曲)",
                 "text": "〇〇は、KinKi Kidsの47枚目のシングル。2023年12月27日発売。発売元はジャニーズ・エンタテイメント・レコード。"
-            },
-            {
-                "datetime": "2024年10月19日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=562550",
-                "title": "J-MOSS",
-                "text": "〇〇は、JIS C 0950の通称であり、正式名称を「電気・電子機器の特定の化学物質の含有表示方法」という。日本版RoHS指令とも目されている。"
             }
         ]
     }
