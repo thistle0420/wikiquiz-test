@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年10月22日 03時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4311768",
+                "title": "山ちゃんボンバー",
+                "text": "〇〇は、日本のお笑い芸人、パチンコライター。ライターとしての所属は「パチマガスロマガ」。"
+            },
+            {
                 "datetime": "2024年10月22日 02時の問題",
                 "url": "https://ja.wikipedia.org/?curid=197379",
                 "title": "両石駅",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1678379",
                 "title": "ナミビアの国道",
                 "text": "〇〇は、都市部では時速60km、それ以外の場所では120kmが最高制限速度となっている。"
-            },
-            {
-                "datetime": "2024年10月20日 10時の問題",
-                "url": "https://ja.wikipedia.org/?curid=471384",
-                "title": "I shall be released",
-                "text": "〇〇は、PAMELAHの4枚目のシングル。1996年2月21日に発売。"
             }
         ]
     }
