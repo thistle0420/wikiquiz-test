@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年10月21日 22時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2561389",
+                "title": "XX emotion",
+                "text": "〇〇は、FLiPの2枚目のアルバムである。"
+            },
+            {
                 "datetime": "2024年10月21日 21時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1319307",
                 "title": ".cm",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2372951",
                 "title": "羅援",
                 "text": "〇〇は、中華人民共和国・人民解放軍の元軍人、軍事評論家。最終階級は中国解放軍少将。"
-            },
-            {
-                "datetime": "2024年10月20日 04時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3258128",
-                "title": "王シン超",
-                "text": "〇〇は、中華人民共和国・上海市出身のサッカー選手。中国サッカー・スーパーリーグ・上海上港所属。ポジションはディフェンダー。"
             }
         ]
     }
