@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年10月21日 17時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1532305",
+                "title": "Baby a Go Go",
+                "text": "〇〇は、1990年9月27日 (1990-09-27)に発売されたRCサクセション19枚目のスタジオ・アルバム。"
+            },
+            {
                 "datetime": "2024年10月21日 16時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1648799",
                 "title": "Al 101 (航空機)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1251286",
                 "title": "藤井茂太",
                 "text": "〇〇は、日本の陸軍軍人。最終階級は陸軍中将。"
-            },
-            {
-                "datetime": "2024年10月19日 23時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4872872",
-                "title": "シュレーディンガー (曲)",
-                "text": "〇〇は、KinKi Kidsの47枚目のシングル。2023年12月27日発売。発売元はジャニーズ・エンタテイメント・レコード。"
             }
         ]
     }
