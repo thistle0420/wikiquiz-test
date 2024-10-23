@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年10月24日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1846701",
+                "title": "図画取調掛",
+                "text": "〇〇は、1885年（明治18年）文部省内に設置された部局で、東京美術学校の直接の前身である。"
+            },
+            {
                 "datetime": "2024年10月24日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1288301",
                 "title": "ゴールドリング (潜水艦)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4902458",
                 "title": "冨善寺",
                 "text": "〇〇は、埼玉県朝霞市にある真言宗智山派の寺院。"
-            },
-            {
-                "datetime": "2024年10月22日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=327401",
-                "title": "ターボル (スロベニア)",
-                "text": "〇〇は、スロベニアの市である。"
             }
         ]
     }
