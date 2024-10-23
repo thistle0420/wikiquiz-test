@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年10月23日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3410356",
+                "title": "前沢光徳",
+                "text": "〇〇は、東京都杉並区出身の元サッカー選手。"
+            },
+            {
                 "datetime": "2024年10月23日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3308491",
                 "title": "ヴァンダービルト・コモドアズ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4311768",
                 "title": "山ちゃんボンバー",
                 "text": "〇〇は、日本のお笑い芸人、パチンコライター。ライターとしての所属は「パチマガスロマガ」。"
-            },
-            {
-                "datetime": "2024年10月22日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=197379",
-                "title": "両石駅",
-                "text": "〇〇は、岩手県釜石市両石町にある、三陸鉄道リアス線の駅である。駅愛称は「恋の峠 愛の浜」。"
             }
         ]
     }
