@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年10月24日 05時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2184247",
+                "title": "前坂 (弘前市)",
+                "text": "〇〇は、青森県弘前市の地名。郵便番号は036-8303。"
+            },
+            {
                 "datetime": "2024年10月24日 04時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4892766",
                 "title": "タンジェ・ヴィル駅",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4097695",
                 "title": "唐一軍",
                 "text": "〇〇は、中華人民共和国の官僚、政治家。"
-            },
-            {
-                "datetime": "2024年10月22日 12時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3338599",
-                "title": "ヴァーニョ・セリオ・ド・ナシメント・シウヴァ",
-                "text": "〇〇は、ブラジル出身の元同国代表サッカー選手、サッカー指導者。ポジションはDF。"
             }
         ]
     }
