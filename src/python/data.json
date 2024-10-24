@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年10月25日 01時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2749470",
+                "title": "七ヶ宿町立関小学校",
+                "text": "〇〇は、宮城県刈田郡七ヶ宿町にあった公立小学校である。"
+            },
+            {
                 "datetime": "2024年10月25日 00時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3228357",
                 "title": "アダプティブユース",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3110251",
                 "title": "佐久間妙子",
                 "text": "〇〇は、日本の女優。本名、西島 静子。映画監督の勝見正義は義兄（姉の夫）。夫は俳優の竹内良一。"
-            },
-            {
-                "datetime": "2024年10月23日 07時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3781152",
-                "title": "縣豪紀",
-                "text": "〇〇は、日本の俳優。静岡県出身。ATGファクトリー所属。"
             }
         ]
     }
