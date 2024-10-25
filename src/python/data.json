@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年10月25日 19時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3601971",
+                "title": "The Last One",
+                "text": "〇〇は、BACK-ONの配信限定シングル。2016年8月21日にcutting edgeから配信された。"
+            },
+            {
                 "datetime": "2024年10月25日 18時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4336044",
                 "title": "夜州",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1700418",
                 "title": "藤本AYAY",
                 "text": "〇〇は、日本のAV女優、POPSTARグループ所属、グラビアアイドル。"
-            },
-            {
-                "datetime": "2024年10月24日 01時の問題",
-                "url": "https://ja.wikipedia.org/?curid=417456",
-                "title": "砂川警察署",
-                "text": "〇〇は、かつて存在した北海道警察本部が管轄する札幌方面の警察署の一つである。"
             }
         ]
     }
