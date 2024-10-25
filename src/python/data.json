@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年10月25日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=305733",
+                "title": "南有馬町",
+                "text": "〇〇は、長崎県の島原半島にあった町。南高来郡に属した。2006年3月31日、周辺7町と対等合併し、南島原市となり消滅した。"
+            },
+            {
                 "datetime": "2024年10月25日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=316243",
                 "title": "チョン・キョンファ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1275522",
                 "title": "Gたかし",
                 "text": "〇〇は、日本のお笑い、ものまね芸人。茨城県筑西市出身。サンミュージックプロダクション所属。"
-            },
-            {
-                "datetime": "2024年10月23日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3410356",
-                "title": "前沢光徳",
-                "text": "〇〇は、東京都杉並区出身の元サッカー選手。"
             }
         ]
     }
