@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年10月25日 22時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1300968",
+                "title": "天童市消防本部",
+                "text": "〇〇は、山形県天童市の消防部局（消防本部）。管轄区域は天童市全域。"
+            },
+            {
                 "datetime": "2024年10月25日 21時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2623556",
                 "title": "ジョン・リチャードソン (博物学者)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2184247",
                 "title": "前坂 (弘前市)",
                 "text": "〇〇は、青森県弘前市の地名。郵便番号は036-8303。"
-            },
-            {
-                "datetime": "2024年10月24日 04時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4892766",
-                "title": "タンジェ・ヴィル駅",
-                "text": "〇〇は、ONCFが運営するモロッコのタンジェにある鉄道駅。2018年に開通したタンジェ＝カサブランカ高速鉄道の終点駅。"
             }
         ]
     }
