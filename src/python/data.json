@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年10月27日 06時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1882959",
+                "title": "Chapter One 〜Complete Collection〜",
+                "text": "〇〇は、安良城紅のベストアルバムである。"
+            },
+            {
                 "datetime": "2024年10月27日 05時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4112444",
                 "title": "医学教育モデル・コア・カリキュラム",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=305733",
                 "title": "南有馬町",
                 "text": "〇〇は、長崎県の島原半島にあった町。南高来郡に属した。2006年3月31日、周辺7町と対等合併し、南島原市となり消滅した。"
-            },
-            {
-                "datetime": "2024年10月25日 13時の問題",
-                "url": "https://ja.wikipedia.org/?curid=316243",
-                "title": "チョン・キョンファ",
-                "text": "〇〇は、チョン・ギョンファでも可。"
             }
         ]
     }
