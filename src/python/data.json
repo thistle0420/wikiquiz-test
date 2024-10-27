@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年10月27日 16時の問題",
+                "url": "https://ja.wikipedia.org/?curid=146674",
+                "title": "黒湯温泉",
+                "text": "〇〇は、秋田県仙北市の乳頭温泉郷にある温泉。温泉郷の最奥部先達川上流に位置する。乳頭温泉郷で一番高い標高800m地点にある。"
+            },
+            {
                 "datetime": "2024年10月27日 15時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3351072",
                 "title": "謝六逸",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2107463",
                 "title": "ラストソング",
                 "text": "〇〇は、以下の用法で使われる。"
-            },
-            {
-                "datetime": "2024年10月25日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1300968",
-                "title": "天童市消防本部",
-                "text": "〇〇は、山形県天童市の消防部局（消防本部）。管轄区域は天童市全域。"
             }
         ]
     }
