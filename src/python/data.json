@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年10月27日 12時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2891321",
+                "title": "栗原美能留",
+                "text": "〇〇は、日本の内務官僚。官選高知県知事。"
+            },
+            {
                 "datetime": "2024年10月27日 11時の問題",
                 "url": "https://ja.wikipedia.org/?curid=99601",
                 "title": "ボーイ (アルバム)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3601971",
                 "title": "The Last One",
                 "text": "〇〇は、BACK-ONの配信限定シングル。2016年8月21日にcutting edgeから配信された。"
-            },
-            {
-                "datetime": "2024年10月25日 18時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4336044",
-                "title": "夜州",
-                "text": "〇〇は、日本のライトノベル作家である。"
             }
         ]
     }
