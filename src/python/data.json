@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年10月27日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=863376",
+                "title": "吉井憲治",
+                "text": "〇〇は、香川県出身の元社会人野球選手（投手）・コーチ。"
+            },
+            {
                 "datetime": "2024年10月27日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2422494",
                 "title": "遠藤真由",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2400442",
                 "title": "ロレンゼン・ライト",
                 "text": "〇〇は、アメリカ合衆国・テネシー州メンフィス出身の元バスケットボール選手。"
-            },
-            {
-                "datetime": "2024年10月26日 00時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4281089",
-                "title": "Forward to the Sky",
-                "text": "〇〇は、台湾のインディーゲームスタジオAnimu Gameが開発した3Dアクションアドベンチャーゲーム。2015年1月30日にPC版がAnimu GameおよびPLAYISMで、2021年2月25日にNintendo Switch版が賈船よりそれぞれ発売された。"
             }
         ]
     }
