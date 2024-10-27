@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年10月27日 13時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1577321",
+                "title": "和井内道路",
+                "text": "〇〇は、岩手県宮古市を通る国道340号のバイパス道路である。"
+            },
+            {
                 "datetime": "2024年10月27日 12時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2891321",
                 "title": "栗原美能留",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3301475",
                 "title": "寺送",
                 "text": "〇〇は、長野県佐久地方などの葬儀の儀礼。"
-            },
-            {
-                "datetime": "2024年10月25日 19時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3601971",
-                "title": "The Last One",
-                "text": "〇〇は、BACK-ONの配信限定シングル。2016年8月21日にcutting edgeから配信された。"
             }
         ]
     }
