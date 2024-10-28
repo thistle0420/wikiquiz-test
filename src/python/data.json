@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年10月29日 04時の問題",
+                "url": "https://ja.wikipedia.org/?curid=978548",
+                "title": "Personal Agent World",
+                "text": "〇〇は、ソネットエンタテインメント株式会社がかつて運営していたコンテンツである。「PAW」と略される（以下PAWで表記）。アバターを導入し、同社独自のVRML専用ブラウザ（名称：）とVRMLデータを使った、3Dチャットコミュニケーションスペースのはしりである。2004年9月30日サービス終了。"
+            },
+            {
                 "datetime": "2024年10月29日 03時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2014538",
                 "title": "トマス・クランマー",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2891321",
                 "title": "栗原美能留",
                 "text": "〇〇は、日本の内務官僚。官選高知県知事。"
-            },
-            {
-                "datetime": "2024年10月27日 11時の問題",
-                "url": "https://ja.wikipedia.org/?curid=99601",
-                "title": "ボーイ (アルバム)",
-                "text": "〇〇は、アイルランドのロックバンド、U2のデビュー・アルバムである。"
             }
         ]
     }
