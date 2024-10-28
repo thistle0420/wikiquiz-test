@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年10月28日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1863669",
+                "title": "日本プロボディボード連盟",
+                "text": "〇〇は、日本におけるプロボディボード競技を統括する国内競技連盟。略称はJPBA。"
+            },
+            {
                 "datetime": "2024年10月28日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4606795",
                 "title": "竹内義彰",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1531366",
                 "title": "AKI 黒板",
                 "text": "〇〇は、秋山博紀(あきやまひろき、AKI)によって開発されている、ソフトウェアである。フリーウェアとして配布されている。"
-            },
-            {
-                "datetime": "2024年10月27日 03時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2710499",
-                "title": "シモーネ・ヴェルガッソーラ",
-                "text": "〇〇は、イタリア・リグーリア州ラ・スペツィア出身の元サッカー選手。現役時代のポジションはMF。"
             }
         ]
     }
