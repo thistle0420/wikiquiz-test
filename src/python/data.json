@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年10月28日 23時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2281328",
+                "title": "キングストン・アポン・テムズ区",
+                "text": "〇〇は、イギリスのロンドン南西部にある自治区。1963年ロンドン政府法により設置された  。イングランドに現存する4つの王室特別区の中で最も古い。"
+            },
+            {
                 "datetime": "2024年10月28日 22時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1126801",
                 "title": "Ichiro",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1882959",
                 "title": "Chapter One 〜Complete Collection〜",
                 "text": "〇〇は、安良城紅のベストアルバムである。"
-            },
-            {
-                "datetime": "2024年10月27日 05時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4112444",
-                "title": "医学教育モデル・コア・カリキュラム",
-                "text": "〇〇は、各大学が策定する「カリキュラム」のうち、全大学で共通 して取り組むべき「コア」の部分を抽出し、「モデル」として体系的に整理したものである。〇〇は、「多様なニーズに対応できる医師の養成」をキャッチフレーズとして2016年（平成28年）に改訂された。共用試験の試験内容はモデル・コア・カリキュラムに基づく。共用試験は知識を問うCBT（Computer Based Testing）と診察技能および態度を問うOSCE（Objective Structured Clinical Examination）とで構成され、病院実習（診療参加型臨床実習）の前提とされることが多い。"
             }
         ]
     }
