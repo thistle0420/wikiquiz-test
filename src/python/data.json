@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年10月28日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1440786",
+                "title": "永易克典",
+                "text": "〇〇は、日本の銀行家。従三位。三菱東京UFJ銀行頭取、全国銀行協会会長などを歴任した。"
+            },
+            {
                 "datetime": "2024年10月28日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1139781",
                 "title": "レースオオトカゲ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1745964",
                 "title": "李徹",
                 "text": "〇〇は、中国の北周から隋にかけての軍人。字は広達。本貫は朔方郡巖緑県。"
-            },
-            {
-                "datetime": "2024年10月26日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1522137",
-                "title": "ロータスグループ",
-                "text": "〇〇は、かつて存在していた日本のAV事務所である。"
             }
         ]
     }
