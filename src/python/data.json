@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年10月29日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3570003",
+                "title": "アスコ・シェーンベルク・アンサンブル",
+                "text": "〇〇は、オランダの室内楽・現代音楽演奏団体。"
+            },
+            {
                 "datetime": "2024年10月28日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2281328",
                 "title": "キングストン・アポン・テムズ区",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=353050",
                 "title": "岡田和也 (実業家)",
                 "text": "〇〇は、日本の実業家。株式会社ランディックスの代表取締役社長。連結子会社である株式会社グランデの取締役でもある。"
-            },
-            {
-                "datetime": "2024年10月27日 06時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1882959",
-                "title": "Chapter One 〜Complete Collection〜",
-                "text": "〇〇は、安良城紅のベストアルバムである。"
             }
         ]
     }
