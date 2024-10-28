@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年10月29日 03時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2014538",
+                "title": "トマス・クランマー",
+                "text": "〇〇は、イングランドの聖職者。カンタベリー大司教（在位：1533年 - 1555年）。イングランドの宗教改革の指導者であり殉教者。"
+            },
+            {
                 "datetime": "2024年10月29日 02時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2732527",
                 "title": "美月優芽",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=99601",
                 "title": "ボーイ (アルバム)",
                 "text": "〇〇は、アイルランドのロックバンド、U2のデビュー・アルバムである。"
-            },
-            {
-                "datetime": "2024年10月27日 10時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3191822",
-                "title": "松本市立旭町中学校",
-                "text": "〇〇は、長野県松本市旭にある公立の中学校。"
             }
         ]
     }
