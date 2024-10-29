@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年10月29日 13時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4671458",
+                "title": "板倉重定",
+                "text": "〇〇は、戦国時代の武将。今川氏家臣。通称弾正。"
+            },
+            {
                 "datetime": "2024年10月29日 12時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4221034",
                 "title": "高井としを",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=456106",
                 "title": "籟・来・也",
                 "text": "〇〇は、GARNET CROWの20枚目のシングル。2006年3月1日に発売された。"
-            },
-            {
-                "datetime": "2024年10月27日 19時の問題",
-                "url": "https://ja.wikipedia.org/?curid=812146",
-                "title": "サン・サルバドル島",
-                "text": "〇〇は、西インド諸島、バハマにある島。クリストファー・コロンブスが新大陸発見の後、最初に上陸した島だと言われている。英名でワトリング島（Watling's Island）とも言う。"
             }
         ]
     }
