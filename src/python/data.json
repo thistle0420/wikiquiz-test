@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年10月30日 19時の問題",
+                "url": "https://ja.wikipedia.org/?curid=224455",
+                "title": "真徳秀",
+                "text": "〇〇は、中国南宋中期の政治家・儒学者。字は希元、号は西山先生。諡は文忠。建州浦城県の出身。『心経』の著者として知られる。"
+            },
+            {
                 "datetime": "2024年10月30日 18時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3508058",
                 "title": "アンジェラ・リエン",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2732527",
                 "title": "美月優芽",
                 "text": "〇〇は、日本のAV女優。株式会社ディクレア（Declare Promotion）所属。"
-            },
-            {
-                "datetime": "2024年10月29日 01時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1200838",
-                "title": "新・熱中時代宣言",
-                "text": "〇〇は、1986年4月5日から8月16日まで、日本テレビ系列の「土曜グランド劇場」枠で放送されたテレビドラマである。放送時間は、毎週土曜21:00 - 21:54 (JST) 。全20話。"
             }
         ]
     }
