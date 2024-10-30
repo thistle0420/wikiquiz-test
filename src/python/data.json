@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年10月30日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4240409",
+                "title": "ペーター・ザドロ",
+                "text": "〇〇は、ドイツの打楽器奏者。ヨーロッパにおける傑出したソロパーカッショニスト、打楽器指導者の一人であった。"
+            },
+            {
                 "datetime": "2024年10月30日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1844790",
                 "title": "懽子内親王",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1863669",
                 "title": "日本プロボディボード連盟",
                 "text": "〇〇は、日本におけるプロボディボード競技を統括する国内競技連盟。略称はJPBA。"
-            },
-            {
-                "datetime": "2024年10月28日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4606795",
-                "title": "竹内義彰",
-                "text": "〇〇は、日本の教育学者。"
             }
         ]
     }
