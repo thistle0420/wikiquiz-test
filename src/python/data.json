@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年10月30日 11時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3022258",
+                "title": "三吉正一",
+                "text": "〇〇は、明治中期の日本の技術者。日本初の電気機器製造会社である三吉電機工場を経営し、電気機器の国産化を図った。"
+            },
+            {
                 "datetime": "2024年10月30日 10時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4558609",
                 "title": "吉岡幹博",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4648210",
                 "title": "ALONE (D-SHADEの曲)",
                 "text": "〇〇は、日本のヴィジュアル系ロックバンド、D-SHADEのインディーズ1枚目、メジャー6枚目のシングル。2021年、ドラムのYUJIが自身のYouTubeチャンネルでセルフカバーを配信。"
-            },
-            {
-                "datetime": "2024年10月28日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=417481",
-                "title": "名古屋市立緑高等学校",
-                "text": "〇〇は、愛知県名古屋市緑区旭出にある市立の高等学校である。"
             }
         ]
     }
