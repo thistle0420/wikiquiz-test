@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年11月02日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1395776",
+                "title": "児島善三郎",
+                "text": "〇〇は、日本の洋画家である。なお、同時代の洋画家である小島善太郎とは縁戚関係はない。"
+            },
+            {
                 "datetime": "2024年11月02日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=463907",
                 "title": "エンポリ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=902897",
                 "title": "不幸な神",
                 "text": "〇〇は、2006年4月28日にBLACKRAINBOWから発売された“幼馴染寝取られ”アドベンチャーゲーム。"
-            },
-            {
-                "datetime": "2024年10月31日 13時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4300009",
-                "title": "潜塚古墳",
-                "text": "〇〇は、福岡県大牟田市黄金町にある古墳（円墳）。1977年（昭和52年）2月17日に国の史跡に指定された。"
             }
         ]
     }
