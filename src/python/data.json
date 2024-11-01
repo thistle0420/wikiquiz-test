@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年11月01日 17時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2395521",
+                "title": "徳岡昌克",
+                "text": "〇〇は、日本の建築家、〇〇建築設計事務所主宰。"
+            },
+            {
                 "datetime": "2024年11月01日 16時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4407317",
                 "title": "アウロラ記念国立公園",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2223565",
                 "title": "Momokoのももころじー",
                 "text": "〇〇は、momo（放送開始時はmomoko、現唯月ふうか）がラジオパーソナリティを務めたエフエム北海道（AIR-G'）の冠ラジオ番組。放送時間は日曜日 6:55 - 7:00（JST）。前身番組『momokoのモモ☆\"ブロ』についても記述する。"
-            },
-            {
-                "datetime": "2024年10月30日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=202028",
-                "title": "北条時房",
-                "text": "〇〇は、鎌倉時代初期の武将。北条時政の子。北条政子・北条義時の弟。鎌倉幕府初代連署。"
             }
         ]
     }
