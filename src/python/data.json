@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年11月02日 15時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3085911",
+                "title": "アンデルソン・ソウザ・コンセイソン",
+                "text": "〇〇は、ブラジル・フェイラ・デ・サンタナ出身のサッカー選手。サウジ・プロフェッショナルリーグ・アル・ナスルFC所属。ポジションはMF/FW。"
+            },
+            {
                 "datetime": "2024年11月02日 14時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1543810",
                 "title": "T-4 (航空機)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1448822",
                 "title": "こうちゃんの幸せ!簡単!お料理レシピ",
                 "text": "〇〇は、fonfunより発売されたニンテンドーDS用ソフトである。"
-            },
-            {
-                "datetime": "2024年10月31日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3608606",
-                "title": "愛場大介",
-                "text": "〇〇は、主にデジタル商品を動画と共に紹介している。2013年より、UUUMの顧問を務める。2016年4月時点でYouTubeの総再生回数は1億6000万回を超える。"
             }
         ]
     }
