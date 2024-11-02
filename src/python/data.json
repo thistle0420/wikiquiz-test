@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年11月02日 13時の問題",
+                "url": "https://ja.wikipedia.org/?curid=394148",
+                "title": "高林謙三",
+                "text": "〇〇は、「高林式製茶機械」の開発で知られる発明家、実業家、医師。"
+            },
+            {
                 "datetime": "2024年11月02日 12時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3024191",
                 "title": "北部ガルベード州",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2851057",
                 "title": "赤尾藤吉郎",
                 "text": "〇〇は、日本の政治家、弁護士。衆議院議員（立憲政友会）。"
-            },
-            {
-                "datetime": "2024年10月31日 18時の問題",
-                "url": "https://ja.wikipedia.org/?curid=500648",
-                "title": "茶臼山 (愛知県・長野県)",
-                "text": "〇〇は、愛知県北設楽郡豊根村と長野県下伊那郡根羽村にまたがる標高1,416 mの山である。"
             }
         ]
     }
