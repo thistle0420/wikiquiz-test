@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年11月03日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3688421",
+                "title": "道の駅伊達の郷りょうぜん",
+                "text": "〇〇は、福島県伊達市にある国道115号の道の駅である。"
+            },
+            {
                 "datetime": "2024年11月03日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4248809",
                 "title": "ジェリー・アームストロング",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3777711",
                 "title": "ロームシャ",
                 "text": "〇〇は、国外の泰緬鉄道建設の他、インドネシア諸島の日本軍軍事施設建設などに従事させられた。ロウムシャとも。"
-            },
-            {
-                "datetime": "2024年11月02日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2485568",
-                "title": "先生のたまご",
-                "text": "〇〇は、みなづき忍による日本の4コマ漫画作品。"
             }
         ]
     }
