@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年11月04日 01時の問題",
+                "url": "https://ja.wikipedia.org/?curid=825133",
+                "title": "与北村",
+                "text": "〇〇は、かつて香川県仲多度郡に存在した村である。現在の善通寺市与北町。"
+            },
+            {
                 "datetime": "2024年11月04日 00時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2132392",
                 "title": "ゴルド",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3099390",
                 "title": "国際音楽の日",
                 "text": "〇〇は、記念日。10月1日。"
-            },
-            {
-                "datetime": "2024年11月02日 07時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1395776",
-                "title": "児島善三郎",
-                "text": "〇〇は、日本の洋画家である。なお、同時代の洋画家である小島善太郎とは縁戚関係はない。"
             }
         ]
     }
