@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年11月03日 15時の問題",
+                "url": "https://ja.wikipedia.org/?curid=290266",
+                "title": "岡山県道47号倉敷長浜笠岡線",
+                "text": "〇〇は、岡山県倉敷市から笠岡市に至る県道（主要地方道）である。"
+            },
+            {
                 "datetime": "2024年11月03日 14時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2651878",
                 "title": "小林距離",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1673257",
                 "title": "米中関係",
                 "text": "〇〇は、アメリカ合衆国と中華人民共和国の両国関係である。"
-            },
-            {
-                "datetime": "2024年11月01日 21時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1978363",
-                "title": "CROSS -Original Ballade Collection-",
-                "text": "〇〇は、1999年3月25日に発売された久松史奈の4枚目のベスト・アルバム。"
             }
         ]
     }
