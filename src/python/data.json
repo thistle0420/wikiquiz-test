@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年11月04日 03時の問題",
+                "url": "https://ja.wikipedia.org/?curid=217893",
+                "title": "舟入 (広島市)",
+                "text": "〇〇は、広島市中区に位置する地区である。この項目では「河原町」についても記述する。"
+            },
+            {
                 "datetime": "2024年11月04日 02時の問題",
                 "url": "https://ja.wikipedia.org/?curid=414903",
                 "title": "紀州街道",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3559320",
                 "title": "慶舎",
                 "text": "〇〇は、中国戦国時代の趙の武将。孝成王・悼襄王に仕えた。"
-            },
-            {
-                "datetime": "2024年11月02日 10時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3469413",
-                "title": "ホセ・ウレーニャ",
-                "text": "〇〇は、ドミニカ共和国サントドミンゴ出身のプロ野球選手（投手）。右投右打。MLBのテキサス・レンジャーズ所属。愛称はエル・ヌエべ（El Nueve）。"
             }
         ]
     }
