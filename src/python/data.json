@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年11月04日 02時の問題",
+                "url": "https://ja.wikipedia.org/?curid=414903",
+                "title": "紀州街道",
+                "text": "〇〇は、大坂と和歌山を結ぶ街道。"
+            },
+            {
                 "datetime": "2024年11月04日 01時の問題",
                 "url": "https://ja.wikipedia.org/?curid=825133",
                 "title": "与北村",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3469413",
                 "title": "ホセ・ウレーニャ",
                 "text": "〇〇は、ドミニカ共和国サントドミンゴ出身のプロ野球選手（投手）。右投右打。MLBのテキサス・レンジャーズ所属。愛称はエル・ヌエべ（El Nueve）。"
-            },
-            {
-                "datetime": "2024年11月02日 08時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3099390",
-                "title": "国際音楽の日",
-                "text": "〇〇は、記念日。10月1日。"
             }
         ]
     }
