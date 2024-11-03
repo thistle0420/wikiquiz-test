@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年11月04日 05時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4017666",
+                "title": "2019年奈良県議会議員選挙",
+                "text": "〇〇は、2019年（平成31年）4月7日に投票が行われた奈良県議会の議員を改選するための一般選挙である。"
+            },
+            {
                 "datetime": "2024年11月04日 04時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3632985",
                 "title": "1952年の東急フライヤーズ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=394148",
                 "title": "高林謙三",
                 "text": "〇〇は、「高林式製茶機械」の開発で知られる発明家、実業家、医師。"
-            },
-            {
-                "datetime": "2024年11月02日 12時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3024191",
-                "title": "北部ガルベード州",
-                "text": "〇〇は、ソマリランドの首都でもある。"
             }
         ]
     }
