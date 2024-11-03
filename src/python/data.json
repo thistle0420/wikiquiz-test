@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年11月03日 16時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2055162",
+                "title": "M 〜もうひとつのラブストーリー〜",
+                "text": "〇〇は、RSPの4枚目のシングル。"
+            },
+            {
                 "datetime": "2024年11月03日 15時の問題",
                 "url": "https://ja.wikipedia.org/?curid=290266",
                 "title": "岡山県道47号倉敷長浜笠岡線",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3199365",
                 "title": "新庄市立新庄中学校",
                 "text": "〇〇は、山形県新庄市にある公立中学校。"
-            },
-            {
-                "datetime": "2024年11月01日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1673257",
-                "title": "米中関係",
-                "text": "〇〇は、アメリカ合衆国と中華人民共和国の両国関係である。"
             }
         ]
     }
