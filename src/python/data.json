@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年11月05日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1162917",
+                "title": "疋田聰",
+                "text": "〇〇は、日本のマーケティング学者。専門は広告で、特にコトラーの研究で知られている。東洋大学経営学部名誉教授。東京都出身。"
+            },
+            {
                 "datetime": "2024年11月05日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=866360",
                 "title": "乾封",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2055162",
                 "title": "M 〜もうひとつのラブストーリー〜",
                 "text": "〇〇は、RSPの4枚目のシングル。"
-            },
-            {
-                "datetime": "2024年11月03日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=290266",
-                "title": "岡山県道47号倉敷長浜笠岡線",
-                "text": "〇〇は、岡山県倉敷市から笠岡市に至る県道（主要地方道）である。"
             }
         ]
     }
