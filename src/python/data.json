@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年11月05日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4817251",
+                "title": "栗原町",
+                "text": "〇〇は、広島県御調郡にあった町。現在の尾道市の一部にあたる。"
+            },
+            {
                 "datetime": "2024年11月05日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4412548",
                 "title": "休暇村瀬戸内東予",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=217893",
                 "title": "舟入 (広島市)",
                 "text": "〇〇は、広島市中区に位置する地区である。この項目では「河原町」についても記述する。"
-            },
-            {
-                "datetime": "2024年11月04日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=414903",
-                "title": "紀州街道",
-                "text": "〇〇は、大坂と和歌山を結ぶ街道。"
             }
         ]
     }
