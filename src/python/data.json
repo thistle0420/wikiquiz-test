@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年11月05日 13時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3939899",
+                "title": "桶谷菜穂",
+                "text": "〇〇は、日本の女性声優。石川県出身。ピアレスガーベラに所属していた。"
+            },
+            {
                 "datetime": "2024年11月05日 12時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4490269",
                 "title": "最上町立向町小学校",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3688421",
                 "title": "道の駅伊達の郷りょうぜん",
                 "text": "〇〇は、福島県伊達市にある国道115号の道の駅である。"
-            },
-            {
-                "datetime": "2024年11月03日 19時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4248809",
-                "title": "ジェリー・アームストロング",
-                "text": "〇〇は、北アイルランド・ベルファスト出身の元サッカー選手。元サッカー北アイルランド代表。ポジションはFW。"
             }
         ]
     }
