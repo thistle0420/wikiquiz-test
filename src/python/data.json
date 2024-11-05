@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年11月05日 10時の問題",
+                "url": "https://ja.wikipedia.org/?curid=141439",
+                "title": "石塚理恵",
+                "text": "〇〇は、日本の女優、声優、ナレーター。静岡県出身。演劇集団 円所属。"
+            },
+            {
                 "datetime": "2024年11月05日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1162917",
                 "title": "疋田聰",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4833392",
                 "title": "張孝忠 (元)",
                 "text": "〇〇は、モンゴル帝国に仕えた将軍の一人。四川方面の戦線で活躍した張万家奴の息子であり、張孝忠もまた四川方面で活躍した。"
-            },
-            {
-                "datetime": "2024年11月03日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2055162",
-                "title": "M 〜もうひとつのラブストーリー〜",
-                "text": "〇〇は、RSPの4枚目のシングル。"
             }
         ]
     }
