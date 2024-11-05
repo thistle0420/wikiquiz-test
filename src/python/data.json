@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年11月05日 16時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1434084",
+                "title": "小野卓志",
+                "text": "〇〇は、茨城県結城郡石下町（現・常総市）出身の柔道家。身長181cm。組み手は右組み。段位は六段。得意技は小外刈、内股。"
+            },
+            {
                 "datetime": "2024年11月05日 15時の問題",
                 "url": "https://ja.wikipedia.org/?curid=202046",
                 "title": "Be (企業)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2952762",
                 "title": "長尾憲長",
                 "text": "〇〇は、戦国時代の武将。山内上杉家家宰。"
-            },
-            {
-                "datetime": "2024年11月03日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1544914",
-                "title": "日本ブラジリアン柔術連盟",
-                "text": "〇〇は、日本のブラジリアン柔術の業界団体、国内競技連盟である。国際ブラジリアン柔術連盟（IBJJF）公認。"
             }
         ]
     }
