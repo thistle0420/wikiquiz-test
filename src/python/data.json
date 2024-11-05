@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年11月05日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1785567",
+                "title": "山路哲生 (プロ野球審判)",
+                "text": "〇〇は、日本のプロ野球審判員。"
+            },
+            {
                 "datetime": "2024年11月05日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3939899",
                 "title": "桶谷菜穂",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=701627",
                 "title": "北方領土の日",
                 "text": "〇〇は、北方領土問題に対する国民の関心と理解を更に深め、全国的な北方領土返還運動の一層の推進を図るために制定された記念日。2月7日。"
-            },
-            {
-                "datetime": "2024年11月03日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3688421",
-                "title": "道の駅伊達の郷りょうぜん",
-                "text": "〇〇は、福島県伊達市にある国道115号の道の駅である。"
             }
         ]
     }
