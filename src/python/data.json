@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年11月06日 17時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2736171",
+                "title": "アレクサンダー・ノイマイスター",
+                "text": "〇〇は、ドイツのインダストリアルデザイナー。"
+            },
+            {
                 "datetime": "2024年11月06日 16時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1098646",
                 "title": "ユニス・マフムード",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=676915",
                 "title": "行方警察署",
                 "text": "〇〇は、茨城県警察が管轄する警察署の一つである。署長は警視。"
-            },
-            {
-                "datetime": "2024年11月04日 23時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1514556",
-                "title": "マルタン・ジェトゥ",
-                "text": "〇〇は、コートジボワール・アビジャン出身の元フランス代表のサッカー選手。ポジションはDF。"
             }
         ]
     }
