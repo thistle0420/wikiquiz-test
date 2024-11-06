@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年11月07日 05時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2657080",
+                "title": "GP01 (イー・アクセス)",
+                "text": "〇〇は、華為技術日本が開発した、イー・アクセス向けW-CDMA/HSPA+対応のデータ通信端末。"
+            },
+            {
                 "datetime": "2024年11月07日 04時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1173810",
                 "title": "アングルシー島",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3939899",
                 "title": "桶谷菜穂",
                 "text": "〇〇は、日本の女性声優。石川県出身。ピアレスガーベラに所属していた。"
-            },
-            {
-                "datetime": "2024年11月05日 12時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4490269",
-                "title": "最上町立向町小学校",
-                "text": "〇〇は、山形県最上郡最上町に所在する最上町立の小学校。"
             }
         ]
     }
