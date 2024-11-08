@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年11月08日 12時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3340770",
+                "title": "ムハンマド・アズワン・アリ・ラーマン",
+                "text": "〇〇は、ブルネイのサッカー選手。ブルネイ代表。現在、ブルネイDPMM FCに所属している。ポジションはMF。"
+            },
+            {
                 "datetime": "2024年11月08日 11時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1949839",
                 "title": "内藤真実",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2328300",
                 "title": "池畑潤二",
                 "text": "〇〇は、日本のドラマー。福岡県大牟田市生まれ、福岡県北九州市若松区出身。"
-            },
-            {
-                "datetime": "2024年11月06日 18時の問題",
-                "url": "https://ja.wikipedia.org/?curid=226256",
-                "title": "池田定得",
-                "text": "〇〇は、江戸時代中期の大名。因幡国鳥取西館新田藩（若桜藩）4代藩主。官位は従五位下大隅守。"
             }
         ]
     }
