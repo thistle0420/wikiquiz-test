@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年11月10日 02時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2280683",
+                "title": "REBELS",
+                "text": "〇〇は、かつて開催されていたキックボクシングとムエタイを主としたファイティングスポーツプロモーション。〇〇は「反乱軍」を意味する。"
+            },
+            {
                 "datetime": "2024年11月10日 01時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3807161",
                 "title": "プリンセス ユニキャット",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3689672",
                 "title": "石川 (市原市)",
                 "text": "〇〇は、千葉県市原市の南総地区にある大字である。郵便番号は290-0511。"
-            },
-            {
-                "datetime": "2024年11月08日 08時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4319574",
-                "title": "長谷川美月",
-                "text": "〇〇は、日本のファッションモデル、ダンスアンドボーカルユニット「MAGICOUR」のメンバー。石川県出身。VINEYARD所属。"
             }
         ]
     }
