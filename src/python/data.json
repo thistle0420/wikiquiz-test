@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年11月09日 17時の問題",
+                "url": "https://ja.wikipedia.org/?curid=541212",
+                "title": "主寝坂峠",
+                "text": "〇〇は、山形県最上郡金山町と真室川町の間にある峠である。標高410m。"
+            },
+            {
                 "datetime": "2024年11月09日 16時の問題",
                 "url": "https://ja.wikipedia.org/?curid=68661",
                 "title": "常葉大学",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2528813",
                 "title": "湊町 (新潟県)",
                 "text": "〇〇は、かつて新潟県佐渡郡にあった町。"
-            },
-            {
-                "datetime": "2024年11月07日 23時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1449814",
-                "title": "崎谷はるひ",
-                "text": "〇〇は、日本の小説家。BLを主題とした作品を発表している。デビュー作は「楽園の雫」。2013年の「トオチカ」で初めての一般向け恋愛小説に挑戦。"
             }
         ]
     }
