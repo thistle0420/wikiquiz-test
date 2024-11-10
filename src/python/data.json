@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年11月10日 12時の問題",
+                "url": "https://ja.wikipedia.org/?curid=989193",
+                "title": "ノイゼッツ",
+                "text": "〇〇は、イングランド・ロンドン出身のロック・バンドである。2006年1月、デビュー。"
+            },
+            {
                 "datetime": "2024年11月10日 11時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2454232",
                 "title": "ブロード・ラン・空港駅",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1194599",
                 "title": "Another Days",
                 "text": "〇〇は、w-inds.の5枚目のマキシシングルである。2002年5月22日、FLIGHT MASTERよりリリース。"
-            },
-            {
-                "datetime": "2024年11月08日 18時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3475529",
-                "title": "鈴木雄一郎",
-                "text": "〇〇は、埼玉県出身の俳優。LUCKY RIVER所属。身長175cm。特技はギター、料理、車いすバスケットボール。"
             }
         ]
     }
