@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年11月10日 17時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2634588",
+                "title": "WHY (4minuteの曲)",
+                "text": "〇〇は、韓国の女性5人組の歌手グループ4minuteの日本での4枚目シングル。"
+            },
+            {
                 "datetime": "2024年11月10日 16時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4898333",
                 "title": "Sora (人工知能モデル)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2448014",
                 "title": "Still Goes On....",
                 "text": "〇〇は、KGの2枚目のオリジナル・アルバム。"
-            },
-            {
-                "datetime": "2024年11月08日 23時の問題",
-                "url": "https://ja.wikipedia.org/?curid=158889",
-                "title": "友川カズキ",
-                "text": "〇〇は、日本の歌手、競輪評論家、画家である。本名：及位 典司（のぞき てんじ）。2004年に「友川かずき」から現在の表記へと改めている。"
             }
         ]
     }
