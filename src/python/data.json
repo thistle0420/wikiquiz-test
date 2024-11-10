@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年11月10日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=740153",
+                "title": "几部",
+                "text": "〇〇は、漢字を部首により分類したグループの一つ。康熙字典214部首では16番目に置かれる（2画の10番目）。"
+            },
+            {
                 "datetime": "2024年11月10日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1191399",
                 "title": "ケルト十字",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=832514",
                 "title": "キャディ (UMA)",
                 "text": "〇〇は、UMAの一種。現在も北太平洋に棲息していると言われている。"
-            },
-            {
-                "datetime": "2024年11月08日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3368830",
-                "title": "ナイトヒーロー NAOTO",
-                "text": "〇〇は、2016年4月16日（4月15日深夜）0:12から7月2日（7月1日深夜）までテレビ東京系の「ドラマ24」枠で放送された日本のテレビドラマ。EXILE/三代目J Soul BrothersのNAOTOが主演。NAOTOにとって連続ドラマにおいて単独初主演の作品。実在のNAOTOに架空の設定を加えたストーリーが展開される。また、エンディング企画としてドラマのために撮り下ろしたダンスシーンをEXILE TRIBEメンバーが披露。"
             }
         ]
     }
