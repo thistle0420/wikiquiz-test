@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年11月12日 02時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2955227",
+                "title": "Higher Love 〜君と僕が望んだもの〜",
+                "text": "〇〇は、KATSUMIの16枚目のシングル。"
+            },
+            {
                 "datetime": "2024年11月12日 01時の問題",
                 "url": "https://ja.wikipedia.org/?curid=536377",
                 "title": "熊本フェイス学院高等学校",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1908044",
                 "title": "チ-5号事件",
                 "text": "〇〇は、1951年に発生した偽札事件である。"
-            },
-            {
-                "datetime": "2024年11月10日 08時の問題",
-                "url": "https://ja.wikipedia.org/?curid=768230",
-                "title": "高槻自動車教習所",
-                "text": "〇〇は、大阪府高槻市にある大阪府公安委員会指定の自動車教習所を運営する企業。"
             }
         ]
     }
