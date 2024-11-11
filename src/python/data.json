@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年11月12日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4591551",
+                "title": "中村誠司",
+                "text": "〇〇は、日本の実業家。中央電力（現：レジル）・Team Energy創業者。"
+            },
+            {
                 "datetime": "2024年11月12日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3933778",
                 "title": "后蒼",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4796416",
                 "title": "2024年パリオリンピックのアルメニア選手団",
                 "text": "〇〇は、2024年7月26日から8月11日までフランスのパリで開催された〇〇の名簿。"
-            },
-            {
-                "datetime": "2024年11月10日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=740153",
-                "title": "几部",
-                "text": "〇〇は、漢字を部首により分類したグループの一つ。康熙字典214部首では16番目に置かれる（2画の10番目）。"
             }
         ]
     }
