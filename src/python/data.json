@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年11月12日 11時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2258261",
+                "title": "ポリトラックマイルチャンピオンシップ",
+                "text": "〇〇は、シンガポールのクランジ競馬場のポリトラック1600メートルで行われていた競馬の競走である。2011年に新設された競走である。"
+            },
+            {
                 "datetime": "2024年11月12日 10時の問題",
                 "url": "https://ja.wikipedia.org/?curid=919159",
                 "title": "星月夜",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2639110",
                 "title": "二子村 (岩手県)",
                 "text": "〇〇は、1954年（昭和29年）まで岩手県和賀郡にあった村。現在の北上市二子町、小鳥崎などにあたる。"
-            },
-            {
-                "datetime": "2024年11月10日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2634588",
-                "title": "WHY (4minuteの曲)",
-                "text": "〇〇は、韓国の女性5人組の歌手グループ4minuteの日本での4枚目シングル。"
             }
         ]
     }
