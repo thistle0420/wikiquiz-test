@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年11月12日 12時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2062565",
+                "title": "吉本和彦",
+                "text": "〇〇は、日本の情報技術者。サステナビリティ・プラザ理事長。"
+            },
+            {
                 "datetime": "2024年11月12日 11時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2258261",
                 "title": "ポリトラックマイルチャンピオンシップ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2598102",
                 "title": "名古屋市立旭出小学校",
                 "text": "〇〇は、愛知県名古屋市緑区旭出にある公立小学校である。"
-            },
-            {
-                "datetime": "2024年11月10日 18時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2639110",
-                "title": "二子村 (岩手県)",
-                "text": "〇〇は、1954年（昭和29年）まで岩手県和賀郡にあった村。現在の北上市二子町、小鳥崎などにあたる。"
             }
         ]
     }
