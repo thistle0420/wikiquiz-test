@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年11月12日 23時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1999936",
+                "title": "High Productivity Computing Systems",
+                "text": "〇〇は、アメリカ国防総省の国防高等研究計画局 (DARPA) によるプロジェクトである。日本語では「高生産性コンピューティングシステム」などとも訳されている。"
+            },
+            {
                 "datetime": "2024年11月12日 22時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3645374",
                 "title": "シワバネクワガタ属",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2717259",
                 "title": "森の妖精ノーム",
                 "text": "〇〇は、スペインのテレビアニメ作品。"
-            },
-            {
-                "datetime": "2024年11月11日 05時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2449271",
-                "title": "クリスチャン・ボルタンスキー",
-                "text": "〇〇は、フランスの彫刻家、写真家、画家、映画監督、現代アーティスト。制作活動の初期から、生と死、個人の記憶や忘却、存在と不在を作品の主なテーマとした。兄は社会学者のリュック・ボルタンスキー（fr:Luc Boltanski）、パートナーは同じく現代アーティストのアネット・メサジェである。"
             }
         ]
     }
