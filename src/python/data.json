@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年11月14日 05時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4539308",
+                "title": "レオポルト・アウエルバッハ",
+                "text": "〇〇は、ドイツの解剖学者・神経病理学者である。"
+            },
+            {
                 "datetime": "2024年11月14日 04時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1690658",
                 "title": "Socket 8",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=604823",
                 "title": "山田久美",
                 "text": "〇〇は、将棋の女流棋士。群馬県太田市出身。西村一義九段門下。女流棋士番号は6（2011年3月31日までは18）。日本将棋連盟女流棋士会会長（2017年6月 - ）。"
-            },
-            {
-                "datetime": "2024年11月12日 12時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2062565",
-                "title": "吉本和彦",
-                "text": "〇〇は、日本の情報技術者。サステナビリティ・プラザ理事長。"
             }
         ]
     }
