@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年11月13日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4714649",
+                "title": "2023年Billboard Japan Hot 100シングル1位の一覧",
+                "text": "〇〇は、2023年のBillboard Japan Hot 100チャートシングル1位の一覧である。"
+            },
+            {
                 "datetime": "2024年11月13日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3423627",
                 "title": "GACKT YELLOW FRIED CHICKENz 煌☆雄兎狐塾 〜男女混欲美濡戯祭〜",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1549765",
                 "title": "近藤謙三郎",
                 "text": "〇〇は、日本の都市計画家。道路技術者。高知県生まれ。"
-            },
-            {
-                "datetime": "2024年11月12日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2955227",
-                "title": "Higher Love 〜君と僕が望んだもの〜",
-                "text": "〇〇は、KATSUMIの16枚目のシングル。"
             }
         ]
     }
