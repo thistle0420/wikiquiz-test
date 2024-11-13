@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年11月14日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4860769",
+                "title": "木村三千夫",
+                "text": "〇〇は、日本の実業家。日本デコラックス会長。"
+            },
+            {
                 "datetime": "2024年11月14日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=344155",
                 "title": "人造人間 (ドラゴンボール)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4063544",
                 "title": "I'm Here (三浦大知の曲)",
                 "text": "〇〇は、日本の歌手、三浦大知の26枚目のシングル。2020年1月15日にSONIC GROOVEから発売された。"
-            },
-            {
-                "datetime": "2024年11月12日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4065060",
-                "title": "アンデルソン・コントレラス",
-                "text": "〇〇は、ベネズエラ・バリナス州ソコポ出身のプロサッカー選手。リーガFUTVEのカラカスFCに所属している。ポジションはMF。"
             }
         ]
     }
