@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年11月14日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=344155",
+                "title": "人造人間 (ドラゴンボール)",
+                "text": "〇〇は、鳥山明の漫画『ドラゴンボール』、およびそれを原作としたテレビアニメシリーズに登場する架空のキャラクターたちである。"
+            },
+            {
                 "datetime": "2024年11月14日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4677732",
                 "title": "朴庸坤",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4065060",
                 "title": "アンデルソン・コントレラス",
                 "text": "〇〇は、ベネズエラ・バリナス州ソコポ出身のプロサッカー選手。リーガFUTVEのカラカスFCに所属している。ポジションはMF。"
-            },
-            {
-                "datetime": "2024年11月12日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1585081",
-                "title": "ULU",
-                "text": "〇〇は、日本のDJ、キーボーディスト、執筆家。東京都新宿区出身。"
             }
         ]
     }
