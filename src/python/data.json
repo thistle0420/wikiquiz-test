@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年11月14日 15時の問題",
+                "url": "https://ja.wikipedia.org/?curid=287314",
+                "title": "日誠",
+                "text": "〇〇は、大石寺第50世法主。町田姓。"
+            },
+            {
                 "datetime": "2024年11月14日 14時の問題",
                 "url": "https://ja.wikipedia.org/?curid=518907",
                 "title": "かいぎんカード",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3645374",
                 "title": "シワバネクワガタ属",
                 "text": "〇〇は、昆虫綱甲虫目クワガタムシ科に属する分類群。南アメリカに生息し、アンデス山脈の北アンデスから中央アンデスまで狭く分布するクワガタムシである。"
-            },
-            {
-                "datetime": "2024年11月12日 21時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2885846",
-                "title": "アリスティド・カヴァイエ＝コル",
-                "text": "〇〇は、フランスのオルガン製作者。"
             }
         ]
     }
