@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年11月14日 19時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3876943",
+                "title": "見上瑠那",
+                "text": "〇〇は、日本のグラビアアイドル。"
+            },
+            {
                 "datetime": "2024年11月14日 18時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1782276",
                 "title": "仁科盛康",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1426763",
                 "title": "爆笑スタイルチェンジ",
                 "text": "〇〇は、日本テレビ系列で放送されたバラエティ特別番組である。"
-            },
-            {
-                "datetime": "2024年11月13日 01時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1491653",
-                "title": "ARTISAN OF PLEASURE",
-                "text": "〇〇は、Janne Da Arcのキーボーディスト、kiyoの結成10周年を記念して開始されたソロ活動の、彼自らがプロデュースした同タイトルの携帯電話用ゲームのサウンドトラック。2008年6月25日発売。ゲームの音源をそのまま収録しているのではなく、アレンジされて収録されている。"
             }
         ]
     }
