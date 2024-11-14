@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年11月15日 05時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4031394",
+                "title": "エドマンド・バトラー (初代キルケニー伯爵)",
+                "text": "〇〇は、アイルランド貴族。"
+            },
+            {
                 "datetime": "2024年11月15日 04時の問題",
                 "url": "https://ja.wikipedia.org/?curid=365727",
                 "title": "2000年シドニーオリンピックの柔道競技",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1472993",
                 "title": "島田秀夫",
                 "text": "〇〇は、岡山県出身の会社役員、サッカー選手、第7代日本サッカー協会会長。"
-            },
-            {
-                "datetime": "2024年11月13日 12時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2393522",
-                "title": "ELLIS",
-                "text": "〇〇は、日本の音楽ユニット。"
             }
         ]
     }
