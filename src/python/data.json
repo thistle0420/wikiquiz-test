@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年11月14日 17時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4820354",
+                "title": "土橋城",
+                "text": "〇〇は、千葉県香取郡多古町御所台にあった日本の城。御所台城とも言う。"
+            },
+            {
                 "datetime": "2024年11月14日 16時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4908288",
                 "title": "マウント・サンドフォード男爵",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1035398",
                 "title": "キウザーノ・ディ・サン・ドメーニコ",
                 "text": "〇〇は、イタリア共和国カンパニア州アヴェッリーノ県にある、人口約2,200人の基礎自治体（コムーネ）。"
-            },
-            {
-                "datetime": "2024年11月12日 23時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1999936",
-                "title": "High Productivity Computing Systems",
-                "text": "〇〇は、アメリカ国防総省の国防高等研究計画局 (DARPA) によるプロジェクトである。日本語では「高生産性コンピューティングシステム」などとも訳されている。"
             }
         ]
     }
