@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年11月15日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=52755",
+                "title": "668年",
+                "text": "〇〇は、西暦（ユリウス暦）による、閏年。"
+            },
+            {
                 "datetime": "2024年11月15日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4982901",
                 "title": "ヴォークラン (大型駆逐艦)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4660776",
                 "title": "白水の滝 (諏訪之瀬島)",
                 "text": "〇〇は、鹿児島県鹿児島郡十島村の諏訪之瀬島にある滝。総落差は283ｍ。"
-            },
-            {
-                "datetime": "2024年11月14日 00時の問題",
-                "url": "https://ja.wikipedia.org/?curid=917267",
-                "title": "サン・ミケーレ・モンドヴィ",
-                "text": "〇〇は、イタリア共和国ピエモンテ州クーネオ県にある、人口約1,900人の基礎自治体（コムーネ）。"
             }
         ]
     }
