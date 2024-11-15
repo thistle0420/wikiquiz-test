@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年11月16日 01時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3085831",
+                "title": "Molecular Query Language",
+                "text": "〇〇は、ケモインフォマティクスにおける検索の方法である。広く用いられているSMARTSと比べ、MQLでは原子やその結合の空間的、物理化学的な性質も記述することができる。さらに、”reduced feature”グラフとして知られる、原子を用いない記法に拡張できる。問い合わせ言語はJavaCCを用いたEBNFに基づいている。"
+            },
+            {
                 "datetime": "2024年11月16日 00時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1240603",
                 "title": "ダールグレン (ミサイル駆逐艦)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4860769",
                 "title": "木村三千夫",
                 "text": "〇〇は、日本の実業家。日本デコラックス会長。"
-            },
-            {
-                "datetime": "2024年11月14日 07時の問題",
-                "url": "https://ja.wikipedia.org/?curid=344155",
-                "title": "人造人間 (ドラゴンボール)",
-                "text": "〇〇は、鳥山明の漫画『ドラゴンボール』、およびそれを原作としたテレビアニメシリーズに登場する架空のキャラクターたちである。"
             }
         ]
     }
