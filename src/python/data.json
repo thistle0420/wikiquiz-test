@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年11月16日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2326972",
+                "title": "安齋敦子",
+                "text": "〇〇は、元テレビユー福島のアナウンサー。"
+            },
+            {
                 "datetime": "2024年11月16日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2363237",
                 "title": "過酸化クロム(VI)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=287314",
                 "title": "日誠",
                 "text": "〇〇は、大石寺第50世法主。町田姓。"
-            },
-            {
-                "datetime": "2024年11月14日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=518907",
-                "title": "かいぎんカード",
-                "text": "〇〇は、沖縄県那覇市に本社を置く日本のクレジットカード会社。沖縄海邦銀行の系列会社。同行の顧客基盤を基に主に沖縄県内でカードの発行と加盟店の獲得をしている。"
             }
         ]
     }
