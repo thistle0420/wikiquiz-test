@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年11月15日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3270127",
+                "title": "カール・ハーゲン",
+                "text": "〇〇は、ノルウェーの政治家。1978年から2006年にかけて進歩党の党首を務めた。"
+            },
+            {
                 "datetime": "2024年11月15日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=379444",
                 "title": "鳥取県道308号桑原坂本線",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1690658",
                 "title": "Socket 8",
                 "text": "〇〇は、インテルPentium ProとPentium II Overdriveプロセッサで使われたCPUソケットである。インテルはPentium II導入時にSlot 1を採用し、〇〇の使用を中止した。〇〇は387ピンのユニークな矩形のソケットである。〇〇は60～66MHzのFSB速度と、3.1～3.5Vの電圧であり、Pentium ProとPentium II OverDriveプロセッサをサポートした。〇〇はピンの配列もユニークである。ソケットの一部はPGAグリッドを使用しているが、別の部分はSPGAグリッドを使用している。"
-            },
-            {
-                "datetime": "2024年11月14日 03時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2319417",
-                "title": "AN/FPS-117",
-                "text": "〇〇は、アメリカ合衆国のロッキード・マーティン社が開発した3次元レーダー。原型である〇〇は固定式であるが、可搬式のAN/TPS-117、可搬式改良型のAN/TPS-77が派生している。"
             }
         ]
     }
