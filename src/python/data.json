@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年11月16日 23時の問題",
+                "url": "https://ja.wikipedia.org/?curid=389013",
+                "title": "@BBS",
+                "text": "〇〇は、RBCiラジオで2002年4月から2007年3月までの毎週月曜～金曜日の11:20～14:20に放送されていた生放送のラジオ番組。"
+            },
+            {
                 "datetime": "2024年11月16日 22時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4011282",
                 "title": "さかた海鮮市場",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=218209",
                 "title": "鬼熊",
                 "text": "〇〇は、木曽谷（長野県）に伝わる妖怪。江戸時代の奇談集『絵本百物語』に記述がある。"
-            },
-            {
-                "datetime": "2024年11月15日 05時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4031394",
-                "title": "エドマンド・バトラー (初代キルケニー伯爵)",
-                "text": "〇〇は、アイルランド貴族。"
             }
         ]
     }
