@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年11月19日 06時の問題",
+                "url": "https://ja.wikipedia.org/?curid=179000",
+                "title": "ドライフルーツ",
+                "text": "〇〇は、果実を天日や砂糖漬けなどで乾燥させ、保存性をもたせた食品である。"
+            },
+            {
                 "datetime": "2024年11月19日 05時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2892462",
                 "title": "アイム・ウィズ・ユー (レッド・ホット・チリ・ペッパーズのアルバム)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4757086",
                 "title": "藤里町立義務教育学校藤里学園",
                 "text": "〇〇は、秋田県山本郡藤里町にある公立義務教育学校。"
-            },
-            {
-                "datetime": "2024年11月17日 12時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1882618",
-                "title": "夏雨",
-                "text": "〇〇は、中国山東省青島市出身の俳優。"
             }
         ]
     }
