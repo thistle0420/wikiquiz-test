@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年11月18日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1009805",
+                "title": "大崎博之",
+                "text": "〇〇は、日本の計算機科学者。博士（工学）。大阪大学大学院情報科学研究科准教授を経て、同教授。2021年同大学工学部教授。1997年 大阪大学 博士（工学）　論文の題名は「Studies on Congestion Control Schemes for Best-Effort Traffic in ATM Networks(ATM網におけるベストエフォ-ト型トラヒックの輻輳制御方式に関する研究) 」。専門は情報ネットワーク学。"
+            },
+            {
                 "datetime": "2024年11月18日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=467308",
                 "title": "池井戸潤",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4933561",
                 "title": "二見 (伊方町)",
                 "text": "〇〇は、愛媛県西宇和郡伊方町にある大字。藩政期から二見浦と呼ばれており、1889年（明治22年）の町見村 当時からの大字名。町見村は昭和の大合併により伊方町となり、現在に至る。「二見」は現在も続く字名。佐田岬半島の中東部、宇和海側の農漁村。"
-            },
-            {
-                "datetime": "2024年11月17日 01時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4201190",
-                "title": "ティム・スウィーニー",
-                "text": "〇〇は、アメリカのコンピュータゲームプログラマー、実業家、 自然保護主義者。Epic Gamesの創設者兼CEOであり、ゲーム開発プラットフォーム「Unreal Engine」の開発者として知られている。"
             }
         ]
     }
