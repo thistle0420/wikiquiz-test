@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年11月19日 05時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2892462",
+                "title": "アイム・ウィズ・ユー (レッド・ホット・チリ・ペッパーズのアルバム)",
+                "text": "〇〇は、レッド・ホット・チリ・ペッパーズの10枚目のスタジオ・アルバム。"
+            },
+            {
                 "datetime": "2024年11月19日 04時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4852291",
                 "title": "足高将司",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1882618",
                 "title": "夏雨",
                 "text": "〇〇は、中国山東省青島市出身の俳優。"
-            },
-            {
-                "datetime": "2024年11月17日 10時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3912780",
-                "title": "CENTER OF THE EARTH",
-                "text": "〇〇は、a flood of circleの9枚目のアルバム。"
             }
         ]
     }
