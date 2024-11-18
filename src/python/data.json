@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年11月18日 23時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2031572",
+                "title": "ウド・クエルマルツ",
+                "text": "〇〇は、ドイツの柔道選手。現役時代は65kg級の選手。身長175cm。"
+            },
+            {
                 "datetime": "2024年11月18日 22時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2554796",
                 "title": "スマイル!",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1727544",
                 "title": "内藤敏子",
                 "text": "〇〇は、ツィター演奏家。アジアで唯一のチター・アカデミーである内藤チターアカデミー主宰。"
-            },
-            {
-                "datetime": "2024年11月17日 03時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4523678",
-                "title": "ネライショ・カサンウィルジョー",
-                "text": "〇〇は、オランダ・アムステルダム出身のサッカー選手。エールディヴィジ・フェイエノールト所属。ポジションはDF。"
             }
         ]
     }
