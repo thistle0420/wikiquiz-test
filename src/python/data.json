@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年11月19日 17時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3729240",
+                "title": "豊見城市立伊良波中学校",
+                "text": "〇〇は、沖縄県豊見城市にある市立中学校である。"
+            },
+            {
                 "datetime": "2024年11月19日 16時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2244505",
                 "title": "新井今日子",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3921033",
                 "title": "大石昌良の弾き語りラボ",
                 "text": "〇〇は、2015年12月2日に発売された大石昌良のカバーアルバム。"
-            },
-            {
-                "datetime": "2024年11月17日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=981659",
-                "title": "建昌 (柔然)",
-                "text": "〇〇は、柔然の君主である豆羅伏跋豆伐可汗郁久閭醜奴の治世で使用された元号。508年 - 520年。"
             }
         ]
     }
