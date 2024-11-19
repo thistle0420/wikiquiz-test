@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年11月20日 03時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4282827",
+                "title": "Flamers",
+                "text": "〇〇は、東京都目黒区東山に本社を置く、学生のための長期インターン口コミサイト「Voil」と恋愛メタバース「Memotia」を運営する日本の企業。"
+            },
+            {
                 "datetime": "2024年11月20日 02時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2836351",
                 "title": "山内正則",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1981150",
                 "title": "恋 (1970年の映画)",
                 "text": "〇〇は、1971年に製作・公開されたイギリスの映画である。"
-            },
-            {
-                "datetime": "2024年11月18日 08時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1973395",
-                "title": "館林市立美園小学校",
-                "text": "〇〇は、群馬県館林市にある公立小学校。"
             }
         ]
     }
