@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年11月20日 02時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2836351",
+                "title": "山内正則",
+                "text": "〇〇は、日本の物理学者。素粒子物理学実験を専門とする。理学博士。高エネルギー加速器研究機構機構長。趣味は水泳。"
+            },
+            {
                 "datetime": "2024年11月20日 01時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4633218",
                 "title": "ベアトリス・ド・ブルゴーニュ (ブルボン女領主)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1973395",
                 "title": "館林市立美園小学校",
                 "text": "〇〇は、群馬県館林市にある公立小学校。"
-            },
-            {
-                "datetime": "2024年11月18日 07時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4675455",
-                "title": "Wii U GamePad",
-                "text": "〇〇は、任天堂が開発・販売した据え置き型家庭用ゲーム機 Wii U の標準ゲームコントローラーである。Wii U 本体と一緒に 〇〇 が同梱されている。またバリエーションはホワイト(shiro)とブラック(kuro)が存在する。型名は「WUP-010」。"
             }
         ]
     }
