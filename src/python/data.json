@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年11月20日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2545695",
+                "title": "山口研一郎",
+                "text": "〇〇は、日本の脳神経外科医。"
+            },
+            {
                 "datetime": "2024年11月20日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=716794",
                 "title": "赤い機関車ジェームズ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2797905",
                 "title": "Trainz",
                 "text": "〇〇は、オーストラリアのN3V Games（旧称：Auran）が開発する3D鉄道シミュレーションゲームのシリーズである。2001年に第1作が発売されて以来、ローカライズ版も含めて多数のバージョンがリリースされている。Windows版の最新作は2018年12月発売の〇〇 Railroad Simulator 2019。"
-            },
-            {
-                "datetime": "2024年11月19日 00時の問題",
-                "url": "https://ja.wikipedia.org/?curid=151092",
-                "title": "島田彰",
-                "text": "〇〇は、日本の男性俳優、声優。兵庫県出身。"
             }
         ]
     }
