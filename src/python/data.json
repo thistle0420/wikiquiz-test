@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年11月20日 17時の問題",
+                "url": "https://ja.wikipedia.org/?curid=716794",
+                "title": "赤い機関車ジェームズ",
+                "text": "〇〇は、低学年の児童向け絵本シリーズ「汽車のえほん」の第3巻である。"
+            },
+            {
                 "datetime": "2024年11月20日 16時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2789461",
                 "title": "ダニ (曖昧さ回避)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=151092",
                 "title": "島田彰",
                 "text": "〇〇は、日本の男性俳優、声優。兵庫県出身。"
-            },
-            {
-                "datetime": "2024年11月18日 23時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2031572",
-                "title": "ウド・クエルマルツ",
-                "text": "〇〇は、ドイツの柔道選手。現役時代は65kg級の選手。身長175cm。"
             }
         ]
     }
