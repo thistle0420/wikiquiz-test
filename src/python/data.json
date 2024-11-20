@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年11月20日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2781249",
+                "title": "トバイアス・マッセイ",
+                "text": "〇〇は、イングランドのピアニスト、教育者、作曲家。"
+            },
+            {
                 "datetime": "2024年11月20日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4236722",
                 "title": "東京NEWS21時",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1009805",
                 "title": "大崎博之",
                 "text": "〇〇は、日本の計算機科学者。博士（工学）。大阪大学大学院情報科学研究科准教授を経て、同教授。2021年同大学工学部教授。1997年 大阪大学 博士（工学）　論文の題名は「Studies on Congestion Control Schemes for Best-Effort Traffic in ATM Networks(ATM網におけるベストエフォ-ト型トラヒックの輻輳制御方式に関する研究) 」。専門は情報ネットワーク学。"
-            },
-            {
-                "datetime": "2024年11月18日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=467308",
-                "title": "池井戸潤",
-                "text": "〇〇は、日本の小説家。岐阜県出身。『果つる底なき』（1998年）以降、元銀行員の経験を生かして、金融界など企業小説に手腕を発揮。働く人々の姿を真摯に描く。2011年、『下町ロケット』で第145回直木三十五賞受賞。"
             }
         ]
     }
