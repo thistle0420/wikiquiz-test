@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年11月21日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4954040",
+                "title": "第24回主要国首脳会議",
+                "text": "〇〇は、1998年5月15日から17日までイギリスのバーミンガムで開催された主要国首脳会議。通称バーミンガム・サミット。"
+            },
+            {
                 "datetime": "2024年11月21日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3580068",
                 "title": "昌福寺 (山梨県富士川町)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2244505",
                 "title": "新井今日子",
                 "text": "〇〇は、東京都日野市出身の女優。"
-            },
-            {
-                "datetime": "2024年11月19日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3082791",
-                "title": "今岡均",
-                "text": "〇〇は、岐阜県出身の元プロ野球選手（投手）。右投右打。"
             }
         ]
     }
