@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年11月22日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2565291",
+                "title": "柳宣宏",
+                "text": "〇〇は、日本の歌人、高等学校教員（国語科）。"
+            },
+            {
                 "datetime": "2024年11月22日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4090700",
                 "title": "帯広市立西陵中学校",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2789461",
                 "title": "ダニ (曖昧さ回避)",
                 "text": "〇〇は、ダニー参照。〇〇(漫画) - さだやす圭  作の漫画作品。モーニングに連載されていた。"
-            },
-            {
-                "datetime": "2024年11月20日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3899940",
-                "title": "古今調",
-                "text": "〇〇は、主に古今和歌集にみられる特徴的な歌風。"
             }
         ]
     }
