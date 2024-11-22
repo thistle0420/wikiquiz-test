@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年11月22日 12時の問題",
+                "url": "https://ja.wikipedia.org/?curid=158235",
+                "title": "グレイビーソース",
+                "text": "〇〇は、調理された食肉から出る肉汁（jus de viande）を元に作られるソースである。gravyとは第一義的には肉汁そのもののことである。gravy sauceという表現は英語圏でも見られるが、gravy自体に「肉汁（gravy）から作るソース」という意味もある。"
+            },
+            {
                 "datetime": "2024年11月22日 11時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3048332",
                 "title": "ヤマハギ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=832065",
                 "title": "藤原園人",
                 "text": "〇〇は、奈良時代末期から平安時代初期にかけての公卿。藤原北家、参議・藤原楓麻呂の長男。官位は従二位・右大臣、贈正一位・左大臣。前山科大臣（さきのやましなのおとど）とも称された。"
-            },
-            {
-                "datetime": "2024年11月20日 18時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2545695",
-                "title": "山口研一郎",
-                "text": "〇〇は、日本の脳神経外科医。"
             }
         ]
     }
