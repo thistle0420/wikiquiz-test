@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年11月22日 15時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4927253",
+                "title": "対角化定理",
+                "text": "〇〇は、〇〇 (対角線補題(diagonal lemma)、対角化補題(diagonalization lemma)、自己言及補題(self-reference lemma)または不動点定理(fixed point theorem)としても知られる)は、自然数の特定の形式理論、特にすべての計算可能関数を表すのに十分な強力な理論における、自己言及的文の存在を示す定理である。〇〇によって存在が保証される文は、ゲーデルの不完全性定理やタルスキの定義不可能性定理などの基本的な限界を証明するために使用できる。"
+            },
+            {
                 "datetime": "2024年11月22日 14時の問題",
                 "url": "https://ja.wikipedia.org/?curid=291620",
                 "title": "城南町",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2679067",
                 "title": "ながいかみのむすめ チャンファメイ",
                 "text": "〇〇は、君島久子の再話、後藤仁の絵によって、福音館書店の月刊絵本「こどものとも」から出版された絵本である。2013年2月1日発行（2012年度3月号）。英語名は、「THE LONG HAIR DAUGHTER -CHANGFAMEI - An Old Chinese Tale」"
-            },
-            {
-                "datetime": "2024年11月20日 21時の問題",
-                "url": "https://ja.wikipedia.org/?curid=571964",
-                "title": "サッカージブチ代表",
-                "text": "〇〇は、ジブチサッカー連盟 (FDF) によって編成されるジブチのサッカーのナショナルチームである。ホームスタジアムは首都、ジブチシティにあるスタッド・ナショナル・エル・ハジ・ハッサン・グレド。"
             }
         ]
     }
