@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年11月23日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4929913",
+                "title": "コードギアス 奪還のロゼ",
+                "text": "〇〇は、サンライズ（バンダイナムコフィルムワークス）制作の日本のSFロボットアニメ。"
+            },
+            {
                 "datetime": "2024年11月23日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4399058",
                 "title": "曾禰武",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=223190",
                 "title": "上戸駅 (石川県)",
                 "text": "〇〇は、石川県珠洲市上戸町寺社にあったのと鉄道能登線の駅である。2005年（平成17年）、能登線の廃止により廃駅となった。"
-            },
-            {
-                "datetime": "2024年11月21日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3389385",
-                "title": "勝木来幸",
-                "text": "〇〇は、日本のラグビー選手。"
             }
         ]
     }
