@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年11月24日 02時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1246460",
+                "title": "ロールス・ロイス ケストレル",
+                "text": "〇〇は、ロールス・ロイスが初めて鋳造でエンジンブロックを開発した 700馬力の航空機エンジンであり、同社の後の方向性を決めた。"
+            },
+            {
                 "datetime": "2024年11月24日 01時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1766173",
                 "title": "福見真紀",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1053670",
                 "title": "松平光雄",
                 "text": "〇〇は、信濃松本藩の第2代藩主。戸田松平家7代。"
-            },
-            {
-                "datetime": "2024年11月22日 08時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2565291",
-                "title": "柳宣宏",
-                "text": "〇〇は、日本の歌人、高等学校教員（国語科）。"
             }
         ]
     }
