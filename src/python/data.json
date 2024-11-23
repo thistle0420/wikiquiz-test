@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年11月24日 01時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1766173",
+                "title": "福見真紀",
+                "text": "〇〇は、日本の元タレント。大阪府出身。"
+            },
+            {
                 "datetime": "2024年11月24日 00時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4664361",
                 "title": "松平信吉 (松平郷松平家)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2565291",
                 "title": "柳宣宏",
                 "text": "〇〇は、日本の歌人、高等学校教員（国語科）。"
-            },
-            {
-                "datetime": "2024年11月22日 07時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4090700",
-                "title": "帯広市立西陵中学校",
-                "text": "〇〇は、北海道帯広市に所在する公立（市立）の中学校。"
             }
         ]
     }
