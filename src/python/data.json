@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年11月23日 12時の問題",
+                "url": "https://ja.wikipedia.org/?curid=158802",
+                "title": "湯の川温泉 (北海道)",
+                "text": "〇〇は、北海道函館市にある温泉。「名湯百選」選定。"
+            },
+            {
                 "datetime": "2024年11月23日 11時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3224527",
                 "title": "メディバン",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1569883",
                 "title": "3月26日",
                 "text": "〇〇は、グレゴリオ暦で年始から85日目（閏年では86日目）にあたり、年末まであと280日ある。"
-            },
-            {
-                "datetime": "2024年11月21日 18時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4458443",
-                "title": "三城公園",
-                "text": "〇〇は、岐阜県大垣市にある都市公園である。"
             }
         ]
     }
