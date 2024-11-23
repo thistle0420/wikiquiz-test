@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年11月23日 11時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3224527",
+                "title": "メディバン",
+                "text": "〇〇は、東京都渋谷区に本社を置くベンチャー企業である。無料のイラスト・マンガ制作ソフト「MediBang Paint（旧クラウドアルパカ）」・無料ネームアプリ「マンガネーム」を提供するとともに、マンガ・イラストプラットフォーム「Art street」を運営している。"
+            },
+            {
                 "datetime": "2024年11月23日 10時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1893193",
                 "title": "ザ・ワールド (旅客船)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4458443",
                 "title": "三城公園",
                 "text": "〇〇は、岐阜県大垣市にある都市公園である。"
-            },
-            {
-                "datetime": "2024年11月21日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1933583",
-                "title": "アジア競技大会卓球競技",
-                "text": "〇〇は、1958年大会より男女ともシングルス・ダブルス・団体で行われている。"
             }
         ]
     }
