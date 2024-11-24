@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年11月24日 12時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4391540",
+                "title": "HALLCA",
+                "text": "〇〇は、日本の女性シンガーソングライターである。本名は冨永 悠香（とみなが はるか）。兵庫県宝塚市出身。血液型はAB型。"
+            },
+            {
                 "datetime": "2024年11月24日 10時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3958002",
                 "title": "シャビエル・アレアガ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=271174",
                 "title": "館山昌平",
                 "text": "〇〇は、神奈川県厚木市出身の元プロ野球選手（投手）、野球指導者、野球解説者、YouTuber。ベンヌ所属。"
-            },
-            {
-                "datetime": "2024年11月22日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4153551",
-                "title": "三遊亭仁馬",
-                "text": "〇〇は、落語芸術協会に所属する落語家。五代目三遊亭圓馬門下の二ツ目。本名は酒寄 拓。"
             }
         ]
     }
