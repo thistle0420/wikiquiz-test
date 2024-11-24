@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年11月24日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2135671",
+                "title": "フリクション玩具",
+                "text": "〇〇は、玩具の一種。車輪の摩擦を原動力として作動させる玩具である。"
+            },
+            {
                 "datetime": "2024年11月24日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4935195",
                 "title": "ミュラー管遺残症候群",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4540668",
                 "title": "四宮繭",
                 "text": "〇〇は、日本のAV女優、エッセイスト。AV女優としての活動においてはエベレストモデル所属。その他活動は個人事務所であるsnowcocoon所属。イチャラブ推進委員会代表。"
-            },
-            {
-                "datetime": "2024年11月23日 01時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1742992",
-                "title": "サザン・ヒッツ",
-                "text": "〇〇は、青森放送のラジオ番組である。放送時間は毎週土曜12:10 - 12:30。"
             }
         ]
     }
