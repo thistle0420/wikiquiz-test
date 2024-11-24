@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年11月25日 05時の問題",
+                "url": "https://ja.wikipedia.org/?curid=354878",
+                "title": "阿部勉 (映画監督)",
+                "text": "〇〇は、日本の映画監督。"
+            },
+            {
                 "datetime": "2024年11月25日 04時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1345217",
                 "title": "漢魏叢書",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=158802",
                 "title": "湯の川温泉 (北海道)",
                 "text": "〇〇は、北海道函館市にある温泉。「名湯百選」選定。"
-            },
-            {
-                "datetime": "2024年11月23日 11時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3224527",
-                "title": "メディバン",
-                "text": "〇〇は、東京都渋谷区に本社を置くベンチャー企業である。無料のイラスト・マンガ制作ソフト「MediBang Paint（旧クラウドアルパカ）」・無料ネームアプリ「マンガネーム」を提供するとともに、マンガ・イラストプラットフォーム「Art street」を運営している。"
             }
         ]
     }
