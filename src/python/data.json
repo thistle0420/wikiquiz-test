@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年11月25日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2232441",
+                "title": "P.S. I Love You",
+                "text": "〇〇は、“追伸。愛してます”の意。またこの意味を題名に込めた以下の楽曲など。"
+            },
+            {
                 "datetime": "2024年11月25日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4217485",
                 "title": "丹波の大溝",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1246460",
                 "title": "ロールス・ロイス ケストレル",
                 "text": "〇〇は、ロールス・ロイスが初めて鋳造でエンジンブロックを開発した 700馬力の航空機エンジンであり、同社の後の方向性を決めた。"
-            },
-            {
-                "datetime": "2024年11月24日 01時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1766173",
-                "title": "福見真紀",
-                "text": "〇〇は、日本の元タレント。大阪府出身。"
             }
         ]
     }
