@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年11月26日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2511431",
+                "title": "東太田村",
+                "text": "〇〇は、かつて新潟県西蒲原郡にあった村。"
+            },
+            {
                 "datetime": "2024年11月26日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1554362",
                 "title": "愛宕神社 (松島町)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4916863",
                 "title": "藤井一彦 (実業家)",
                 "text": "〇〇は、日本の実業家、株式会社カネカ代表取締役社長。"
-            },
-            {
-                "datetime": "2024年11月24日 13時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4713695",
-                "title": "CXCL1",
-                "text": "〇〇は、CXCケモカインファミリーに属する低分子量タンパク質である。いくつかの免疫系細胞（特に好中球）やその他の非造血系細胞を損傷部位や感染部位へ誘引する化学誘引物質として作用し、免疫応答や炎症応答の調節に重要な役割を果たす。以前はGRO1 oncogene、GROα、NAP-3（neutrophil-activating protein 3）、MGSA-α（melanoma growth stimulating activity, alpha）といった名称で呼ばれていた。〇〇は、BALB/c-3T3マウス胎児線維芽細胞に対するPDGF刺激によって誘導される遺伝子のcDNAライブラリから初めてクローニングされ、ニトロセルロースコロニーハイブリダイゼーションアッセイ時の位置から\"KC\"と命名された。この記号は\"keratinocytes-derived chemokine\"の頭文字をとったものと誤解されていることがある。ラットの〇〇は、NRK-52E細胞へのIL-1β、LPS刺激によって産生される、好中球を誘引するサイトカイン（cytokine-induced neutrophil chemoattractant, CINC）の特性解析よって報告された。ヒトでは、このタンパク質は〇〇遺伝子にコードされており、この遺伝子は他のCXCケモカインの遺伝子と共に4番染色体に位置している。"
             }
         ]
     }
