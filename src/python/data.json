@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年11月27日 03時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2361053",
+                "title": "内向き志向",
+                "text": "〇〇は、国家や個人が対外的な行動を避けるような行動を指向すること。"
+            },
+            {
                 "datetime": "2024年11月27日 02時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3363769",
                 "title": "小谷田勝五郎",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3805369",
                 "title": "金子三勇士",
                 "text": "〇〇は、日本のクラシック音楽のピアニスト。"
-            },
-            {
-                "datetime": "2024年11月25日 08時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4714360",
-                "title": "宮ノ内村",
-                "text": "〇〇は、福岡県山門郡にあった村。現在の柳川市の一部。"
             }
         ]
     }
