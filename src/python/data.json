@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年11月26日 23時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1511291",
+                "title": "ヒルブロウ",
+                "text": "〇〇は、南アフリカ共和国ハウテン州ヨハネスブルグ市都市圏F区インナーシティにある地区。"
+            },
+            {
                 "datetime": "2024年11月26日 22時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3119963",
                 "title": "新論",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=354878",
                 "title": "阿部勉 (映画監督)",
                 "text": "〇〇は、日本の映画監督。"
-            },
-            {
-                "datetime": "2024年11月25日 04時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1345217",
-                "title": "漢魏叢書",
-                "text": "〇〇は、中国で明代に編纂された漢籍叢書である。前漢・後漢代および魏晋南北朝時代の著作を収める。"
             }
         ]
     }
