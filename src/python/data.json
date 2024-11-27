@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年11月28日 02時の問題",
+                "url": "https://ja.wikipedia.org/?curid=740120",
+                "title": "トーマス・マーズ",
+                "text": "〇〇は、フランス、ヴェルサイユ出身の4人組バンドフェニックスのボーカリスト。"
+            },
+            {
                 "datetime": "2024年11月28日 01時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2912516",
                 "title": "アンダーズ東京",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3019530",
                 "title": "ウェイン・ヘンドリクソン",
                 "text": "〇〇は、ほとんどのタンパク質分子に含まれているシステインやメチオニンの硫黄原子を利用した単波長異常分散法（Native SAD法またはS-SAD法と呼ばれる）に関する研究でも知られている。"
-            },
-            {
-                "datetime": "2024年11月26日 07時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2511431",
-                "title": "東太田村",
-                "text": "〇〇は、かつて新潟県西蒲原郡にあった村。"
             }
         ]
     }
