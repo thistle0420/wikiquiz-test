@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年11月28日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=875393",
+                "title": "ポンティーダ",
+                "text": "〇〇は、イタリア共和国ロンバルディア州ベルガモ県にある、人口約3,300人の基礎自治体（コムーネ）。1167年、当地の修道院 (it:Abbazia di Pontida) で〇〇の誓約 (it:Giuramento di Pontida) が結ばれ、ロンバルディア同盟が結成された。"
+            },
+            {
                 "datetime": "2024年11月28日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3949892",
                 "title": "ホプステン",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4147193",
                 "title": "清雄寺",
                 "text": "〇〇は、東京都墨田区にある本門佛立宗の寺院。"
-            },
-            {
-                "datetime": "2024年11月26日 18時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1911513",
-                "title": "アラン・ビーン",
-                "text": "〇〇は、アメリカ航空宇宙局の宇宙飛行士、技術者で、1969年11月、37歳の時に人類で4番目に月面を歩いた。"
             }
         ]
     }
