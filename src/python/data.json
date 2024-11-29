@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年11月29日 13時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1614705",
+                "title": "TOHOシネマズなんば 別館",
+                "text": "〇〇は、大阪市中央区千日前にある東宝系作品を中心に上映する TOHOシネマズ直営の映画館である。"
+            },
+            {
                 "datetime": "2024年11月29日 12時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1353349",
                 "title": "へんば餅",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3348314",
                 "title": "バーレスク・フェスティバルの一覧",
                 "text": "〇〇は、世界各地で開催されているバーレスクに特化した舞台芸術祭を地域毎に一覧にしたものである。"
-            },
-            {
-                "datetime": "2024年11月27日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=302138",
-                "title": "エステルハージ・モーリツ",
-                "text": "〇〇は、ハンガリーの貴族、政治家。"
             }
         ]
     }
