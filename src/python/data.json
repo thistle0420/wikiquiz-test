@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年11月30日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3542810",
+                "title": "菊野理沙",
+                "text": "〇〇は、日本のフリーアナウンサー。TBSスパークルキャスター室（旧：キャスト・プラス）所属。"
+            },
+            {
                 "datetime": "2024年11月30日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=481853",
                 "title": "チヴィテッラ・サン・パオロ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=42880",
                 "title": "泉谷しげる",
                 "text": "〇〇は、日本のシンガーソングライター（フォークソング、ロック）、俳優。血液型O型。青森県出身。"
-            },
-            {
-                "datetime": "2024年11月28日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=875393",
-                "title": "ポンティーダ",
-                "text": "〇〇は、イタリア共和国ロンバルディア州ベルガモ県にある、人口約3,300人の基礎自治体（コムーネ）。1167年、当地の修道院 (it:Abbazia di Pontida) で〇〇の誓約 (it:Giuramento di Pontida) が結ばれ、ロンバルディア同盟が結成された。"
             }
         ]
     }
