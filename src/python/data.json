@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年11月30日 12時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2039759",
+                "title": "ポルシェ・パナメリカーナ",
+                "text": "〇〇は、ポルシェが1989年第53回フランクフルト・ショーに出品したオープンボディのコンセプトカーである。"
+            },
+            {
                 "datetime": "2024年11月30日 11時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3361080",
                 "title": "高平公友",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=693129",
                 "title": "Breakthrough (アーティスト)",
                 "text": "〇〇は、日本のサウンドアーティストグループ、プロジェクト、サウンドプロデューサーグループ。2000年2月に結成。"
-            },
-            {
-                "datetime": "2024年11月28日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1629783",
-                "title": "ミゲル・カント",
-                "text": "〇〇は、メキシコの男性プロボクサー。元WBC世界フライ級王者。マエストロ（Maestro：指揮者）の異名をもつ。"
             }
         ]
     }
