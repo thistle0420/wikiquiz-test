@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年11月30日 11時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3361080",
+                "title": "高平公友",
+                "text": "〇〇は、日本の政治家。参議院議員（2期、自由民主党）。"
+            },
+            {
                 "datetime": "2024年11月30日 10時の問題",
                 "url": "https://ja.wikipedia.org/?curid=264658",
                 "title": "道の駅神鍋高原",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1629783",
                 "title": "ミゲル・カント",
                 "text": "〇〇は、メキシコの男性プロボクサー。元WBC世界フライ級王者。マエストロ（Maestro：指揮者）の異名をもつ。"
-            },
-            {
-                "datetime": "2024年11月28日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4576422",
-                "title": "糸切餅",
-                "text": "〇〇は、滋賀県犬上郡多賀町多賀で製造・販売されている和菓子（生菓子）である。「糸切り餅」などとも表記される。多賀大社参詣の土産菓子として有名。"
             }
         ]
     }
