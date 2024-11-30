@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年12月01日 05時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2352500",
+                "title": "松本新八郎",
+                "text": "〇〇は、日本の歴史学者、専修大学教授。"
+            },
+            {
                 "datetime": "2024年12月01日 04時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4845294",
                 "title": "フランシスコ・ロドリゲス・ガルシア",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1614705",
                 "title": "TOHOシネマズなんば 別館",
                 "text": "〇〇は、大阪市中央区千日前にある東宝系作品を中心に上映する TOHOシネマズ直営の映画館である。"
-            },
-            {
-                "datetime": "2024年11月29日 12時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1353349",
-                "title": "へんば餅",
-                "text": "〇〇は、三重県伊勢市の有限会社へんばや商店が製造販売する商品である。"
             }
         ]
     }
