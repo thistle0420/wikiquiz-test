@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年11月30日 16時の問題",
+                "url": "https://ja.wikipedia.org/?curid=747630",
+                "title": "ENEOSグループ",
+                "text": "〇〇は、ENEOSホールディングスが中核となって形成している企業グループである。"
+            },
+            {
                 "datetime": "2024年11月30日 15時の問題",
                 "url": "https://ja.wikipedia.org/?curid=418459",
                 "title": "法宣寺",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2610739",
                 "title": "SCRAP STORIES (大沢誉志幸のアルバム)",
                 "text": "〇〇は、大沢誉志幸の6作目のスタジオ・アルバム。"
-            },
-            {
-                "datetime": "2024年11月28日 21時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1180369",
-                "title": "ぶっちぎり",
-                "text": "〇〇は、中原裕による日本の高校野球漫画兼暴走族漫画。"
             }
         ]
     }
