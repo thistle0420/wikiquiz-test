@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年11月30日 17時の問題",
+                "url": "https://ja.wikipedia.org/?curid=573400",
+                "title": "星のカービィ",
+                "text": "〇〇は、1992年4月27日に任天堂より発売されたゲームボーイ用の横スクロールアクションゲーム。開発元はハル研究所（表記は「HAL研究所」）。"
+            },
+            {
                 "datetime": "2024年11月30日 16時の問題",
                 "url": "https://ja.wikipedia.org/?curid=747630",
                 "title": "ENEOSグループ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4053069",
                 "title": "山之内 (大阪市)",
                 "text": "〇〇は、大阪府大阪市住吉区にある町名。現行行政地名は山之内一丁目から山之内五丁目。"
-            },
-            {
-                "datetime": "2024年11月28日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2610739",
-                "title": "SCRAP STORIES (大沢誉志幸のアルバム)",
-                "text": "〇〇は、大沢誉志幸の6作目のスタジオ・アルバム。"
             }
         ]
     }
