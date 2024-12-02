@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年12月02日 12時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2536736",
+                "title": "神崎裕也",
+                "text": "〇〇は、日本の漫画家。男性。熊本県出身。"
+            },
+            {
                 "datetime": "2024年12月02日 10時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3117730",
                 "title": "文章完成法",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=573400",
                 "title": "星のカービィ",
                 "text": "〇〇は、1992年4月27日に任天堂より発売されたゲームボーイ用の横スクロールアクションゲーム。開発元はハル研究所（表記は「HAL研究所」）。"
-            },
-            {
-                "datetime": "2024年11月30日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=747630",
-                "title": "ENEOSグループ",
-                "text": "〇〇は、ENEOSホールディングスが中核となって形成している企業グループである。"
             }
         ]
     }
