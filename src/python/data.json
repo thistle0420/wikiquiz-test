@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年12月02日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=474352",
+                "title": "長野県道4号真田東部線",
+                "text": "〇〇は、長野県上田市真田横沢から東御市滋野に至る県道（主要地方道）である。総延長約16.7キロ (km)。"
+            },
+            {
                 "datetime": "2024年12月02日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2391607",
                 "title": "ファンガレイ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1178293",
                 "title": "COMファイル",
                 "text": "〇〇は、実行可能ファイル形式の一つ。語源はcommand（命令）。拡張子は「.COM」（本来は大文字）だが、トップレベルドメインの.com (commercial) とは無関係。実行時のメモリイメージがそのままファイルとなっている、最も単純な実行可能ファイル形式である。MS-DOSの〇〇はコンピュータウイルスCascadeに感染する。"
-            },
-            {
-                "datetime": "2024年11月30日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=637437",
-                "title": "アピア (札幌市)",
-                "text": "〇〇は、北海道札幌市中央区にある地下街。JRタワーを構成する施設になっている。"
             }
         ]
     }
