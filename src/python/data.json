@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年12月02日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4688123",
+                "title": "One Eye Closed",
+                "text": "〇〇は、日本のロックバンド。"
+            },
+            {
                 "datetime": "2024年12月02日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2945018",
                 "title": "松本忠雄 (政治家)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4752759",
                 "title": "藤本コウジ",
                 "text": "〇〇は、日本の音楽プロデューサー・作詞家・作曲家。制作会社Sus4 Inc.（Sus4株式会社）代表取締役。"
-            },
-            {
-                "datetime": "2024年12月01日 00時の問題",
-                "url": "https://ja.wikipedia.org/?curid=117606",
-                "title": "伊予市",
-                "text": "〇〇は、愛媛県の中予地方に位置する市。中予地方の最西に位置する。複数の削り節工場が立地し、国内に出荷される6割のシェアを占めている。また、五色浜をはじめとした海水浴場、予讃線や夕やけこやけラインから見える伊予灘を観光資源としている。"
             }
         ]
     }
