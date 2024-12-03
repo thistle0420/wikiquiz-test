@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年12月03日 15時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2021520",
+                "title": "スジユムシ",
+                "text": "〇〇は、ユムシ動物に属する動物の一つ。緑の吻と赤っぽい胴を持つ。"
+            },
+            {
                 "datetime": "2024年12月03日 14時の問題",
                 "url": "https://ja.wikipedia.org/?curid=965056",
                 "title": "井伊恭子",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=746650",
                 "title": "曽坪郡",
                 "text": "〇〇は、大韓民国忠清北道の中部にある郡である。"
-            },
-            {
-                "datetime": "2024年12月01日 19時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4751721",
-                "title": "エミュー (競走馬)",
-                "text": "〇〇は、日本の競走馬。2023年のフラワーカップの勝ち馬である。馬名の意味は、フランス語で「感動した」。"
             }
         ]
     }
