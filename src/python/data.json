@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年12月03日 13時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4208090",
+                "title": "神奈川公園",
+                "text": "〇〇は、神奈川県横浜市神奈川区栄町にある都市公園（近隣公園）。"
+            },
+            {
                 "datetime": "2024年12月03日 12時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4830406",
                 "title": "辻章男",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4052629",
                 "title": "光正寺古墳",
                 "text": "〇〇は、福岡県糟屋郡宇美町光正寺2丁目にある古墳時代前期（3世紀中頃から後半）の前方後円墳。"
-            },
-            {
-                "datetime": "2024年12月01日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1464041",
-                "title": "マイ ガーデナー",
-                "text": "〇〇は、紡木たくによる日本の漫画作品。"
             }
         ]
     }
