@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年12月03日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1113856",
+                "title": "加東希望",
+                "text": "〇〇は、日本のモデル、女優。京都府宇治市出身。スカイコーポレーションに所属していた。"
+            },
+            {
                 "datetime": "2024年12月03日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2061161",
                 "title": "西遊記の登場人物",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=875086",
                 "title": "メドラーゴ",
                 "text": "〇〇は、イタリア共和国ロンバルディア州ベルガモ県にある、人口約2,300人の基礎自治体（コムーネ）。"
-            },
-            {
-                "datetime": "2024年12月01日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3701355",
-                "title": "東大阪市立玉川小学校",
-                "text": "〇〇は、大阪府東大阪市稲葉にある公立小学校。"
             }
         ]
     }
