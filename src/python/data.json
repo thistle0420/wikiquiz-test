@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年12月03日 12時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4830406",
+                "title": "辻章男",
+                "text": "〇〇は、日本の運輸官僚。海上保安庁長官を務めた。兵庫県出身。"
+            },
+            {
                 "datetime": "2024年12月03日 10時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3857403",
                 "title": "ヘルマン・オストホフ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1464041",
                 "title": "マイ ガーデナー",
                 "text": "〇〇は、紡木たくによる日本の漫画作品。"
-            },
-            {
-                "datetime": "2024年12月01日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4657938",
-                "title": "ダンプ大橋",
-                "text": "〇〇は、神奈川県生まれの競技麻雀のプロ雀士。日本プロ麻雀連盟所属。団体内の段位は八段。"
             }
         ]
     }
