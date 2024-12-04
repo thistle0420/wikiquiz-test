@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年12月04日 22時の問題",
+                "url": "https://ja.wikipedia.org/?curid=859172",
+                "title": "長野公園",
+                "text": "〇〇は、大阪府河内長野市にある大阪府営の都市公園（広域公園）である。"
+            },
+            {
                 "datetime": "2024年12月04日 21時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3706061",
                 "title": "西広 (市原市)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2373820",
                 "title": "Gimmick (田中美奈子のアルバム)",
                 "text": "〇〇は、田中美奈子の2枚目のアルバム。"
-            },
-            {
-                "datetime": "2024年12月03日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1482144",
-                "title": "身体障害者手帳集団不正取得事件",
-                "text": "〇〇は、2007年から2008年にかけて北海道一円で発覚した身体障害者手帳の集団不正取得事件。"
             }
         ]
     }
