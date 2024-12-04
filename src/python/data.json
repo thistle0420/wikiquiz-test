@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年12月05日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4149159",
+                "title": "シドニー・ブロムリー",
+                "text": "〇〇は、イギリス生まれの俳優。本名はシドニー・チャールズ・ブロムリー（Sidney Charles Bromley）。"
+            },
+            {
                 "datetime": "2024年12月05日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3920228",
                 "title": "鶴保征城",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2021520",
                 "title": "スジユムシ",
                 "text": "〇〇は、ユムシ動物に属する動物の一つ。緑の吻と赤っぽい胴を持つ。"
-            },
-            {
-                "datetime": "2024年12月03日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=965056",
-                "title": "井伊恭子",
-                "text": "〇〇は、東京都出身のフリーアナウンサー。ラジオななおの元アナウンサー。タイムリーオフィス所属。"
             }
         ]
     }
