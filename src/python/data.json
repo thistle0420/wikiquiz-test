@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年12月05日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1944472",
+                "title": "鷹氏隆之",
+                "text": "〇〇は、日本の漫画家。岐阜県出身。代表作はデビュー作でもある「風使い」（1991年-1998年）。"
+            },
+            {
                 "datetime": "2024年12月04日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=113847",
                 "title": "NSTスーパー競馬",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=756244",
                 "title": "ローズ・バーン",
                 "text": "〇〇は、オーストラリア、シドニー出身の女優。"
-            },
-            {
-                "datetime": "2024年12月03日 04時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2789871",
-                "title": "岸元良輔",
-                "text": "〇〇は、日本の哺乳類研究者。NPO法人信州ツキノワグマ研究会代表。"
             }
         ]
     }
