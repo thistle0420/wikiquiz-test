@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年12月04日 23時の問題",
+                "url": "https://ja.wikipedia.org/?curid=113847",
+                "title": "NSTスーパー競馬",
+                "text": "〇〇は、新潟総合テレビ（NST）が制作・放送していた競馬中継番組。"
+            },
+            {
                 "datetime": "2024年12月04日 22時の問題",
                 "url": "https://ja.wikipedia.org/?curid=859172",
                 "title": "長野公園",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2789871",
                 "title": "岸元良輔",
                 "text": "〇〇は、日本の哺乳類研究者。NPO法人信州ツキノワグマ研究会代表。"
-            },
-            {
-                "datetime": "2024年12月03日 03時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2373820",
-                "title": "Gimmick (田中美奈子のアルバム)",
-                "text": "〇〇は、田中美奈子の2枚目のアルバム。"
             }
         ]
     }
