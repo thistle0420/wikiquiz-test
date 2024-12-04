@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年12月04日 15時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2675795",
+                "title": "曾我廼家十吾",
+                "text": "〇〇は、上方の喜劇役者、喜劇作家、演出家。本名は西海文吾。ペンネームは「茂林寺文福」。橘小学校中退。“そがのや とうご”の読み方をさせたこともある。"
+            },
+            {
                 "datetime": "2024年12月04日 14時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4100188",
                 "title": "鈴樹忠信",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4688123",
                 "title": "One Eye Closed",
                 "text": "〇〇は、日本のロックバンド。"
-            },
-            {
-                "datetime": "2024年12月02日 19時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2945018",
-                "title": "松本忠雄 (政治家)",
-                "text": "〇〇は、日本の衆議院議員（憲政会→立憲民政党）、ジャーナリスト。"
             }
         ]
     }
