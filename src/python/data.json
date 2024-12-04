@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年12月04日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4100188",
+                "title": "鈴樹忠信",
+                "text": "〇〇は、昭和時代の台湾総督府官僚。弁護士。台東庁長。"
+            },
+            {
                 "datetime": "2024年12月04日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=134417",
                 "title": "ブラザー・コーン",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2945018",
                 "title": "松本忠雄 (政治家)",
                 "text": "〇〇は、日本の衆議院議員（憲政会→立憲民政党）、ジャーナリスト。"
-            },
-            {
-                "datetime": "2024年12月02日 18時の問題",
-                "url": "https://ja.wikipedia.org/?curid=474352",
-                "title": "長野県道4号真田東部線",
-                "text": "〇〇は、長野県上田市真田横沢から東御市滋野に至る県道（主要地方道）である。総延長約16.7キロ (km)。"
             }
         ]
     }
