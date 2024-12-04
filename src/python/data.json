@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年12月05日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3920228",
+                "title": "鶴保征城",
+                "text": "〇〇は、日本の計算機科学者、実業家。"
+            },
+            {
                 "datetime": "2024年12月05日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3992187",
                 "title": "くっきー中古車ハンターあらし",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=965056",
                 "title": "井伊恭子",
                 "text": "〇〇は、東京都出身のフリーアナウンサー。ラジオななおの元アナウンサー。タイムリーオフィス所属。"
-            },
-            {
-                "datetime": "2024年12月03日 13時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4208090",
-                "title": "神奈川公園",
-                "text": "〇〇は、神奈川県横浜市神奈川区栄町にある都市公園（近隣公園）。"
             }
         ]
     }
