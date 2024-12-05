@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年12月05日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=196715",
+                "title": "ターザン後藤",
+                "text": "〇〇は、日本のプロレスラー、元大相撲力士。静岡県島田市出身。入場曲は「汚れた英雄」。"
+            },
+            {
                 "datetime": "2024年12月05日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1362024",
                 "title": "大榑川",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=806874",
                 "title": "鳥越製粉",
                 "text": "〇〇は、福岡県福岡市博多区（登記上の本店はうきは市）にある製粉会社。"
-            },
-            {
-                "datetime": "2024年12月04日 00時の問題",
-                "url": "https://ja.wikipedia.org/?curid=966532",
-                "title": "湘南学園中学校・高等学校",
-                "text": "〇〇は、神奈川県藤沢市にある私立の中学校・高等学校（中高一貫校）。設置者は学校法人湘南学園。"
             }
         ]
     }
