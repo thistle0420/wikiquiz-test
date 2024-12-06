@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年12月06日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4530900",
+                "title": "メアリー・アバークロンビー (初代アバークロンビー女男爵)",
+                "text": "〇〇は、イギリスの貴族。"
+            },
+            {
                 "datetime": "2024年12月06日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4652859",
                 "title": "スペースコンボイ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=113847",
                 "title": "NSTスーパー競馬",
                 "text": "〇〇は、新潟総合テレビ（NST）が制作・放送していた競馬中継番組。"
-            },
-            {
-                "datetime": "2024年12月04日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=859172",
-                "title": "長野公園",
-                "text": "〇〇は、大阪府河内長野市にある大阪府営の都市公園（広域公園）である。"
             }
         ]
     }
