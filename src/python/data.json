@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年12月06日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=792870",
+                "title": "福井市明道中学校",
+                "text": "〇〇は、福井県福井市文京2丁目にある公立中学校。"
+            },
+            {
                 "datetime": "2024年12月06日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=92490",
                 "title": "茨目駅",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=278030",
                 "title": "内多勝康",
                 "text": "〇〇は、元NHKシニアアナウンサー。"
-            },
-            {
-                "datetime": "2024年12月05日 01時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4924603",
-                "title": "桐山 (幸田町)",
-                "text": "〇〇は、愛知県額田郡幸田町の地名。"
             }
         ]
     }
