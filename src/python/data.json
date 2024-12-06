@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年12月06日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=92490",
+                "title": "茨目駅",
+                "text": "〇〇は、新潟県柏崎市茨目二丁目にある、東日本旅客鉄道（JR東日本）信越本線の駅である。"
+            },
+            {
                 "datetime": "2024年12月06日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4972208",
                 "title": "東桜木町",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4924603",
                 "title": "桐山 (幸田町)",
                 "text": "〇〇は、愛知県額田郡幸田町の地名。"
-            },
-            {
-                "datetime": "2024年12月05日 00時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1944472",
-                "title": "鷹氏隆之",
-                "text": "〇〇は、日本の漫画家。岐阜県出身。代表作はデビュー作でもある「風使い」（1991年-1998年）。"
             }
         ]
     }
