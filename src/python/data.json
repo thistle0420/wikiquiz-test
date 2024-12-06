@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年12月07日 03時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2821154",
+                "title": "アラン・ロペス・ピニェイロ",
+                "text": "〇〇は、ブラジル・バイーア州ブルマド出身のプロサッカー選手。ポジションは、フォワード。"
+            },
+            {
                 "datetime": "2024年12月07日 02時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2084388",
                 "title": "山科檀林",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4149159",
                 "title": "シドニー・ブロムリー",
                 "text": "〇〇は、イギリス生まれの俳優。本名はシドニー・チャールズ・ブロムリー（Sidney Charles Bromley）。"
-            },
-            {
-                "datetime": "2024年12月05日 07時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3920228",
-                "title": "鶴保征城",
-                "text": "〇〇は、日本の計算機科学者、実業家。"
             }
         ]
     }
