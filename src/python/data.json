@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年12月07日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2723894",
+                "title": "大膳川 (愛知県)",
+                "text": "〇〇は、愛知県西部の愛西市と海部郡蟹江町を流れる日光川水系の普通河川。"
+            },
+            {
                 "datetime": "2024年12月07日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1384564",
                 "title": "ローカルルール",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1362024",
                 "title": "大榑川",
                 "text": "〇〇は、木曽川水系の一級河川。岐阜県安八郡輪之内町・海津市・養老郡養老町を流れる。揖斐川を経て伊勢湾に至る木曽川の2次支川。"
-            },
-            {
-                "datetime": "2024年12月05日 18時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2478541",
-                "title": "EKW C-35",
-                "text": "〇〇は、1930年代にスイス、トゥーンの連邦製造工廠（Eidgenössische Konstruktions Werkstätte： K+W）で設計された偵察機/ 地上攻撃機用の複座の複葉機である。"
             }
         ]
     }
