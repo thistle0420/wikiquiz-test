@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年12月08日 04時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2448322",
+                "title": "しあわせにできる",
+                "text": "〇〇は、谷崎泉原作のBL小説である。イラストは陸裕千景子。"
+            },
+            {
                 "datetime": "2024年12月08日 03時の問題",
                 "url": "https://ja.wikipedia.org/?curid=271205",
                 "title": "じゃじゃ馬ならし (テレビドラマ)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2265633",
                 "title": "EXILE GENERATION SEASON 2",
                 "text": "〇〇は、EXILEの冠番組EXILE GENERATIONを映像作品化した映像作品である。2009年12月16日発売。発売元はrhythm zone。"
-            },
-            {
-                "datetime": "2024年12月06日 08時の問題",
-                "url": "https://ja.wikipedia.org/?curid=268019",
-                "title": "先生は一年生",
-                "text": "〇〇は、1981年10月14日から1982年3月24日まで日本テレビ系列の『水曜劇場』で放送されていた日本テレビ製作のテレビドラマである。小学校を舞台にした学園ドラマで、新米の女性教員が一人前の教師に成長する姿を描く。全23話。主演は榊原郁恵。原作担当は、1981年までテレビ朝日の『サンキュー先生』を手がけていた池田一朗（のちの隆慶一郎）。"
             }
         ]
     }
