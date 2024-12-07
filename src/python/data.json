@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年12月08日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3100720",
+                "title": "KIRA☆GIRL",
+                "text": "〇〇は、福島県喜多方市を拠点に活動していた日本の女性ローカルアイドルグループである。"
+            },
+            {
                 "datetime": "2024年12月08日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3523049",
                 "title": "奇妙な果実 (小説)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3625312",
                 "title": "語部マサユキ",
                 "text": "〇〇は、日本の小説家、ライトノベル作家。"
-            },
-            {
-                "datetime": "2024年12月06日 13時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1258564",
-                "title": "高村尚枝",
-                "text": "〇〇は、日本の女優。岡山県出身。身長154cm、体重59kg。血液型はB型。劇団文化座所属。"
             }
         ]
     }
