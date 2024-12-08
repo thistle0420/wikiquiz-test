@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年12月08日 17時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4861578",
+                "title": "UEFA EURO 2024・グループB",
+                "text": "〇〇は、UEFA EURO 2024のグループBの結果をまとめたものである。このグループは、スペイン、クロアチア、イタリア、アルバニアの4か国からなる。"
+            },
+            {
                 "datetime": "2024年12月08日 16時の問題",
                 "url": "https://ja.wikipedia.org/?curid=121032",
                 "title": "ムック (キャラクター)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1999037",
                 "title": "SUNRISE (アイドリング!!!のアルバム)",
                 "text": "〇〇は、アイドリング!!!、3枚目のアルバム。2010年3月3日発売。"
-            },
-            {
-                "datetime": "2024年12月06日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3334864",
-                "title": "Emotivation",
-                "text": "〇〇は、日本のスカパンクバンド、KEMURIの4枚目のアルバム。2001年10月3日発売。"
             }
         ]
     }
