@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年12月08日 15時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4949181",
+                "title": "久保田友之祐",
+                "text": "〇〇は、日本の男子バドミントン選手。日本男子ダブルス史上初の世界ジュニア選手権王者。2022年に22歳で現役を引退。"
+            },
+            {
                 "datetime": "2024年12月08日 14時の問題",
                 "url": "https://ja.wikipedia.org/?curid=766013",
                 "title": "上川天幕出入口",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=792870",
                 "title": "福井市明道中学校",
                 "text": "〇〇は、福井県福井市文京2丁目にある公立中学校。"
-            },
-            {
-                "datetime": "2024年12月06日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=92490",
-                "title": "茨目駅",
-                "text": "〇〇は、新潟県柏崎市茨目二丁目にある、東日本旅客鉄道（JR東日本）信越本線の駅である。"
             }
         ]
     }
