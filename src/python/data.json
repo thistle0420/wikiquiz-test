@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年12月08日 13時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4017258",
+                "title": "中川未由希",
+                "text": "〇〇は、日本のフィールドホッケー選手。"
+            },
+            {
                 "datetime": "2024年12月08日 12時の問題",
                 "url": "https://ja.wikipedia.org/?curid=74672",
                 "title": "吹田明日香",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4972208",
                 "title": "東桜木町",
                 "text": "〇〇は、日本の地名。〇〇 (豊川市) - 愛知県豊川市の地名。松ケ崎〇〇 - 京都府京都市左京区の地名。〇〇 (尼崎市) - 兵庫県尼崎市の地名。"
-            },
-            {
-                "datetime": "2024年12月06日 18時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4530900",
-                "title": "メアリー・アバークロンビー (初代アバークロンビー女男爵)",
-                "text": "〇〇は、イギリスの貴族。"
             }
         ]
     }
