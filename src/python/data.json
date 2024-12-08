@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年12月09日 04時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4054244",
+                "title": "森弘一郎",
+                "text": "〇〇は、日本の福岡県直方市出身の舞台芸術家、ダンサー、振付家、舞台監督、演出家、映像監督、芸術家である。"
+            },
+            {
                 "datetime": "2024年12月09日 03時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1732901",
                 "title": "棲管",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1882965",
                 "title": "S-Master",
                 "text": "〇〇は、ソニーが開発したフルデジタルアンプの商標である。正式名称はストリーム・マスター・デジタルアンプである。"
-            },
-            {
-                "datetime": "2024年12月07日 10時の問題",
-                "url": "https://ja.wikipedia.org/?curid=720009",
-                "title": "井馬博",
-                "text": "〇〇は、ばんえい競馬の元実況アナウンサーである。有限会社井馬企画 代表。"
             }
         ]
     }
