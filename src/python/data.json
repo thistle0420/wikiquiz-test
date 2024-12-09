@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年12月09日 16時の問題",
+                "url": "https://ja.wikipedia.org/?curid=281748",
+                "title": "PROBANK",
+                "text": "〇〇は、富士通が開発した金融機関向けの勘定系システムである。「〇〇」は富士通の登録商標である。後継である「FUJITSU Financial Services Solution」（FSPS）についてもこの項目で扱う。"
+            },
+            {
                 "datetime": "2024年12月09日 15時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2874360",
                 "title": "通仙散",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4131179",
                 "title": "リュカ擬素数",
                 "text": "〇〇は、任意の素数と非常に少数の合成数が通過する特定のテストに合格する合成数である。"
-            },
-            {
-                "datetime": "2024年12月07日 23時の問題",
-                "url": "https://ja.wikipedia.org/?curid=46403",
-                "title": "ジェノサイド条約",
-                "text": "〇〇は、集団殺害を国際法上の犯罪とし、防止と処罰を定めるための条約。「ジェノサイド」（「種族」(genos)と「殺害」(cide)の合成語）を定義し、前文および19カ条から構成される。通称は、〇〇（ジェノサイドじょうやく、Genocide Convention）。"
             }
         ]
     }
