@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年12月11日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=100996",
+                "title": "大津京駅",
+                "text": "〇〇は、滋賀県大津市皇子が丘二丁目にある、西日本旅客鉄道（JR西日本）湖西線の駅である。駅番号はJR-B29。"
+            },
+            {
                 "datetime": "2024年12月11日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3088570",
                 "title": "ジャック・オルブライト",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=281748",
                 "title": "PROBANK",
                 "text": "〇〇は、富士通が開発した金融機関向けの勘定系システムである。「〇〇」は富士通の登録商標である。後継である「FUJITSU Financial Services Solution」（FSPS）についてもこの項目で扱う。"
-            },
-            {
-                "datetime": "2024年12月09日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2874360",
-                "title": "通仙散",
-                "text": "〇〇は、江戸時代の外科医華岡青洲が開発した全身麻酔薬である。別称で麻沸散とも称す。"
             }
         ]
     }
