@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年12月11日 03時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4897113",
+                "title": "小鷲河村",
+                "text": "〇〇は、鳥取県気高郡にあった自治体である。1896年（明治29年）3月31日までは気多郡に属した。"
+            },
+            {
                 "datetime": "2024年12月11日 02時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1913910",
                 "title": "HP OpenView Performance Agent",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4995061",
                 "title": "佐原若子",
                 "text": "〇〇は、日本の政治家、歯科医師、青森県保険医協会理事。れいわ新選組所属の衆議院議員（1期）。"
-            },
-            {
-                "datetime": "2024年12月09日 11時の問題",
-                "url": "https://ja.wikipedia.org/?curid=15849",
-                "title": "配電",
-                "text": "〇〇は、電気を配る（分配する）ことであるが、電気事業における〇〇とは、送電網から変電所を通して受電した電力（電気）を需要家に供給するため、〇〇網システムの構築とその運用を行うことである。電線路の一部を形成する。"
             }
         ]
     }
