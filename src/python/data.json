@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年12月10日 10時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2615759",
+                "title": "ルカート",
+                "text": "〇〇は、フランス、オクシタニー地域圏、オード県のコミューン。コミューンの名は、ギリシャ語で「白」を意味するleukosに由来する。"
+            },
+            {
                 "datetime": "2024年12月10日 09時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3730041",
                 "title": "岩国陸軍燃料廠横島出張所",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4364083",
                 "title": "ハインリヒ・フリードリヒ・ヴェーバー",
                 "text": "〇〇は、ドイツ出身のスイスの物理学者である。"
-            },
-            {
-                "datetime": "2024年12月08日 18時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2172238",
-                "title": "イシヅチサンショウウオ",
-                "text": "〇〇は、有尾目サンショウウオ科サンショウウオ属に分類される有尾類。"
             }
         ]
     }
