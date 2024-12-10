@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年12月10日 15時の問題",
+                "url": "https://ja.wikipedia.org/?curid=446808",
+                "title": "白砂川",
+                "text": "〇〇は、群馬県吾妻郡の主に中之条町を流れる一級河川であり、利根川水系吾妻川の支川である。"
+            },
+            {
                 "datetime": "2024年12月10日 14時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2376661",
                 "title": "渡辺定綱",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4224753",
                 "title": "結城伽寿也",
                 "text": "〇〇は、日本の俳優・タレント。宮城県出身。株式会社bamboo所属。"
-            },
-            {
-                "datetime": "2024年12月08日 23時の問題",
-                "url": "https://ja.wikipedia.org/?curid=9478",
-                "title": "リチウム",
-                "text": "〇〇は、原子番号3の元素である。元素記号はLi。原子量は6.941。アルカリ金属元素の一つ。"
             }
         ]
     }
