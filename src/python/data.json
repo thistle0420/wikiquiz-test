@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年12月10日 09時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3730041",
+                "title": "岩国陸軍燃料廠横島出張所",
+                "text": "〇〇は、広島県福山市（旧沼隈郡内海町）の横島にあった旧日本陸軍の燃料貯蔵施設。現在はシーパーク大浜という有料海水浴場になっている。"
+            },
+            {
                 "datetime": "2024年12月10日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3726686",
                 "title": "DRAMATIC SOUL",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2172238",
                 "title": "イシヅチサンショウウオ",
                 "text": "〇〇は、有尾目サンショウウオ科サンショウウオ属に分類される有尾類。"
-            },
-            {
-                "datetime": "2024年12月08日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4861578",
-                "title": "UEFA EURO 2024・グループB",
-                "text": "〇〇は、UEFA EURO 2024のグループBの結果をまとめたものである。このグループは、スペイン、クロアチア、イタリア、アルバニアの4か国からなる。"
             }
         ]
     }
