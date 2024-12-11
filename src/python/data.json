@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年12月11日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=676253",
+                "title": "RC4",
+                "text": "〇〇は、SSLやWEPなどで広く使われているストリーム暗号である。"
+            },
+            {
                 "datetime": "2024年12月11日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1915163",
                 "title": "アメノウズメ (小惑星)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=773535",
                 "title": "ゆめタウン博多",
                 "text": "〇〇は、福岡市東区東浜にあるイズミのショッピングセンター。"
-            },
-            {
-                "datetime": "2024年12月10日 04時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1805361",
-                "title": "シルヴァン・イーバンクス＝ブレイク",
-                "text": "〇〇は、イングランド・ケンブリッジ出身の元サッカー選手。ポジションはフォワード。姓は「イバンクス＝ブレイク」、「エバンクス＝ブレイク」とも表記される。"
             }
         ]
     }
