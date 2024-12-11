@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年12月12日 04時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4991514",
+                "title": "天神社 (加須市牛重)",
+                "text": "〇〇は、埼玉県加須市の神社。"
+            },
+            {
                 "datetime": "2024年12月12日 03時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3568729",
                 "title": "本村直樹 (ラグビー選手)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2121844",
                 "title": "Strikeforce: Los Angeles",
                 "text": "〇〇は、アメリカ合衆国の総合格闘技団体「Strikeforce」の大会の一つ。2010年6月16日、カリフォルニア州ロサンゼルスのノキア・シアターで開催された。"
-            },
-            {
-                "datetime": "2024年12月10日 12時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4093614",
-                "title": "アルブレヒト・ウェルニヒ",
-                "text": "〇〇は、明治時代にお雇い外国人として来日したドイツの医学者である。"
             }
         ]
     }
