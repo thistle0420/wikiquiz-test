@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年12月11日 09時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2498022",
+                "title": "マカオサッカーリーグファーストディビジョン",
+                "text": "〇〇は、マカオにおけるサッカーの最上位リーグである。リーグは通常1月に開幕し、7月に終了する。"
+            },
+            {
                 "datetime": "2024年12月11日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3566676",
                 "title": "天国と地獄 (随筆)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=352467",
                 "title": "トヨタ・カローラセレス",
                 "text": "〇〇は、トヨタ自動車がかつて生産・販売していた4ドアハードトップ型の乗用車である。"
-            },
-            {
-                "datetime": "2024年12月09日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=660704",
-                "title": "玉川伊佐男",
-                "text": "〇〇は、日本の俳優。本名同じ。"
             }
         ]
     }
