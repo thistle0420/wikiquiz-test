@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年12月12日 05時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4850543",
+                "title": "2024年パリオリンピックのアンティグア・バーブーダ選手団",
+                "text": "〇〇は、2024年7月26日から8月11日までフランスのパリで開催された〇〇の名簿。"
+            },
+            {
                 "datetime": "2024年12月12日 04時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4991514",
                 "title": "天神社 (加須市牛重)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2376661",
                 "title": "渡辺定綱",
                 "text": "〇〇は、江戸時代前期から中期にかけての尾張藩家老。渡辺半蔵家5代当主。"
-            },
-            {
-                "datetime": "2024年12月10日 13時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2121844",
-                "title": "Strikeforce: Los Angeles",
-                "text": "〇〇は、アメリカ合衆国の総合格闘技団体「Strikeforce」の大会の一つ。2010年6月16日、カリフォルニア州ロサンゼルスのノキア・シアターで開催された。"
             }
         ]
     }
