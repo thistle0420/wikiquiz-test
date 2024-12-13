@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年12月13日 13時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3437354",
+                "title": "VERONICA VERONICO",
+                "text": "〇〇は、東京都で結成されたロックバンド。"
+            },
+            {
                 "datetime": "2024年12月13日 12時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4192761",
                 "title": "CH4N2",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3067636",
                 "title": "松雪彩花",
                 "text": "〇〇は、日本の気象キャスター。ウェザーニューズ所属。愛称はあやち、リボンさん。"
-            },
-            {
-                "datetime": "2024年12月11日 21時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3590498",
-                "title": "1952年の大阪タイガース",
-                "text": "〇〇は、〇〇の動向をまとめる。この年の大阪タイガースは、この年から監督選任となった松木謙治郎監督の3年目のシーズンである。"
             }
         ]
     }
