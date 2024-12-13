@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年12月13日 19時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4659414",
+                "title": "ジョニ・ノヴァク",
+                "text": "〇〇は、スロベニア (旧ユーゴスラビア)・リュブリャナ出身の元同国代表サッカー選手。現役時代のポジションはMF。"
+            },
+            {
                 "datetime": "2024年12月13日 18時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1199563",
                 "title": "内皮細胞",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4991514",
                 "title": "天神社 (加須市牛重)",
                 "text": "〇〇は、埼玉県加須市の神社。"
-            },
-            {
-                "datetime": "2024年12月12日 03時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3568729",
-                "title": "本村直樹 (ラグビー選手)",
-                "text": "〇〇は、青森県八戸市出身のラグビー選手。所属はジャパンラグビーリーグワン三重ホンダヒート。"
             }
         ]
     }
