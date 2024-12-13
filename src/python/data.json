@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年12月13日 12時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4192761",
+                "title": "CH4N2",
+                "text": "〇〇は、シアン化アンモニウムジアジリジンホルムアミジン"
+            },
+            {
                 "datetime": "2024年12月13日 11時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1844849",
                 "title": "シュウキン",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3590498",
                 "title": "1952年の大阪タイガース",
                 "text": "〇〇は、〇〇の動向をまとめる。この年の大阪タイガースは、この年から監督選任となった松木謙治郎監督の3年目のシーズンである。"
-            },
-            {
-                "datetime": "2024年12月11日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=676253",
-                "title": "RC4",
-                "text": "〇〇は、SSLやWEPなどで広く使われているストリーム暗号である。"
             }
         ]
     }
