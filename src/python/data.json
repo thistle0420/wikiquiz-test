@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年12月14日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2073279",
+                "title": "ジャング大学",
+                "text": "〇〇は、カメルーン西部州のジャングにある国立大学。旧〇〇センター（Centre Universitaire de Dschang）およびフォツォ・ヴィクトル・ドゥ・バンジュン多科学校（Collège Polyvalent Fotso Victor de Bandjoun）の設備を引きついて、1993年に設立再編された。"
+            },
+            {
                 "datetime": "2024年12月14日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3563641",
                 "title": "ロビン・ギヴンズ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4358927",
                 "title": "日尾孝司",
                 "text": "〇〇は、日本の元俳優・擬斗師。"
-            },
-            {
-                "datetime": "2024年12月13日 05時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4752170",
-                "title": "毛紡廠路駅",
-                "text": "〇〇は、中華人民共和国江蘇省南京市浦口区大橋北路と毛紡廠路の交差点にある、南京地下鉄S8号線の駅である。"
             }
         ]
     }
