@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年12月15日 04時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2518894",
+                "title": "2012年宜野湾市長選挙",
+                "text": "〇〇は、2012年（平成24年）2月5日に告示され、同年2月12日に執行された沖縄県宜野湾市の市長選挙である。"
+            },
+            {
                 "datetime": "2024年12月15日 03時の問題",
                 "url": "https://ja.wikipedia.org/?curid=460648",
                 "title": "ソルトレイク・ビーズ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3437354",
                 "title": "VERONICA VERONICO",
                 "text": "〇〇は、東京都で結成されたロックバンド。"
-            },
-            {
-                "datetime": "2024年12月13日 12時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4192761",
-                "title": "CH4N2",
-                "text": "〇〇は、シアン化アンモニウムジアジリジンホルムアミジン"
             }
         ]
     }
