@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年12月15日 05時の問題",
+                "url": "https://ja.wikipedia.org/?curid=538970",
+                "title": "ロイヤルブルネイ航空",
+                "text": "〇〇は、ブルネイの航空会社。同国のフラッグキャリアで、ブルネイ政府が所有する国営航空会社である。"
+            },
+            {
                 "datetime": "2024年12月15日 04時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2518894",
                 "title": "2012年宜野湾市長選挙",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4744293",
                 "title": "西尾仁見",
                 "text": "〇〇は、日本の経営者。日本コークス工業社長を務めた。香川県出身。"
-            },
-            {
-                "datetime": "2024年12月13日 13時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3437354",
-                "title": "VERONICA VERONICO",
-                "text": "〇〇は、東京都で結成されたロックバンド。"
             }
         ]
     }
