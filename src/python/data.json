@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年12月16日 13時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4111846",
+                "title": "渡辺文夫 (経営者)",
+                "text": "〇〇は、日本の経営者。東京海上火災保険(現・東京海上日動火災保険)社長・会長、日本航空会長、日本棋院理事長。"
+            },
+            {
                 "datetime": "2024年12月16日 12時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2144867",
                 "title": "SWEETデリバリー",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=227054",
                 "title": "民防衛隊",
                 "text": "〇〇は、大韓民国における民間防衛組織である。総数628万人に上り、非常時には動員される。通称“民防“（민방）。英語では“ROK Civil Defense Corps”と訳す。"
-            },
-            {
-                "datetime": "2024年12月14日 21時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2073279",
-                "title": "ジャング大学",
-                "text": "〇〇は、カメルーン西部州のジャングにある国立大学。旧〇〇センター（Centre Universitaire de Dschang）およびフォツォ・ヴィクトル・ドゥ・バンジュン多科学校（Collège Polyvalent Fotso Victor de Bandjoun）の設備を引きついて、1993年に設立再編された。"
             }
         ]
     }
