@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年12月17日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3010500",
+                "title": "アンディ・バーマン",
+                "text": "〇〇は、アメリカ合衆国の俳優、声優、脚本家、プロデューサーである。"
+            },
+            {
                 "datetime": "2024年12月17日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1860001",
                 "title": "別れの茶摘歌姉妹篇 お姉さんと呼んだ人",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1917525",
                 "title": "ズアオチメドリ",
                 "text": "〇〇は、鳥綱スズメ目Ifritidae科〇〇属に分類される鳥類。本種のみでIfritidae科〇〇属を構成する。〇〇は羽に神経毒を持つ鳥類で、有毒動物の一種である。羽毛に毒を持つ鳥は、他にカワリモリモズとズグロモリモズ、チャイロモズツグミが知られるものの、世界的に珍しい。"
-            },
-            {
-                "datetime": "2024年12月16日 04時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2778282",
-                "title": "IFTTT",
-                "text": "〇〇は、「レシピ」と呼ばれる個人作成もしくは公に共有しているプロフィールを使って数あるWebサービス（Facebook、Evernote、Weather、Dropboxなど）同士で連携することができるWebサービスである。開発したのはリンデン・チベッツで2010年にスタートした。最近では、GoogleAssistantやamazon alexaなどのAIスピーカー（スマートスピーカー）との連携が進んでいる。"
             }
         ]
     }
