@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年12月18日 11時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3115706",
+                "title": "マルクス・ビョーク",
+                "text": "〇〇は、スウェーデン、マルメ出身の男性フィギュアスケート選手（男子シングル）。"
+            },
+            {
                 "datetime": "2024年12月18日 10時の問題",
                 "url": "https://ja.wikipedia.org/?curid=66196",
                 "title": "アヴィニョン",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4654579",
                 "title": "楽浪張氏",
                 "text": "〇〇は、前漢の武帝が紀元前108年に朝鮮半島に設置した植民地である漢四郡で勢力を張った漢人豪族。"
-            },
-            {
-                "datetime": "2024年12月16日 19時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2850292",
-                "title": "4つの厳粛な歌",
-                "text": "〇〇は、ヨハネス・ブラームスが作曲したバスとピアノのための連作歌曲集。"
             }
         ]
     }
