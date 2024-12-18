@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年12月18日 10時の問題",
+                "url": "https://ja.wikipedia.org/?curid=66196",
+                "title": "アヴィニョン",
+                "text": "〇〇は、フランスの南東部に位置する都市（コミューン）で、ヴォクリューズ県の県庁所在地である。"
+            },
+            {
                 "datetime": "2024年12月18日 09時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2291955",
                 "title": "A Flower",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2850292",
                 "title": "4つの厳粛な歌",
                 "text": "〇〇は、ヨハネス・ブラームスが作曲したバスとピアノのための連作歌曲集。"
-            },
-            {
-                "datetime": "2024年12月16日 18時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2183586",
-                "title": "エミリー・マキナニー",
-                "text": "〇〇は、オーストラリアの元プロバスケットボール選手である。"
             }
         ]
     }
