@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年12月19日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1075819",
+                "title": "ロマーナ",
+                "text": "〇〇は、イタリア共和国サルデーニャ州サッサリ県にある、人口約500人の基礎自治体（コムーネ）。"
+            },
+            {
                 "datetime": "2024年12月19日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=632110",
                 "title": "ラファエル・マルケス (ボクサー)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2481970",
                 "title": "新潟県道248号山熊田府屋停車場線",
                 "text": "〇〇は、新潟県村上市内を通る一般県道である。"
-            },
-            {
-                "datetime": "2024年12月18日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1024000",
-                "title": "中園隆一郎",
-                "text": "〇〇は、福岡県出身のバスケットボール選手である。ポジションはフォワード。身長190cm、体重82kg。"
             }
         ]
     }
