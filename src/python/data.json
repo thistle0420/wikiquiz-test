@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年12月20日 12時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4031646",
+                "title": "一宮市立今伊勢中学校",
+                "text": "〇〇は、愛知県一宮市今伊勢町にある公立中学校。"
+            },
+            {
                 "datetime": "2024年12月20日 11時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1096787",
                 "title": "沖縄・先島への道",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3482488",
                 "title": "吉田菫",
                 "text": "〇〇は、日本の女性歌手、作詞家である。ガールズバンド・SILENT SIRENのメンバー。福島県白河市生まれ。血液型はO型。身長：161cm。愛称はすぅ。同バンドほとんどの楽曲で作詞を手掛けており、他アーティストへの楽曲提供も行なっている。"
-            },
-            {
-                "datetime": "2024年12月18日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4825980",
-                "title": "土生秀治",
-                "text": "〇〇は、大日本帝国陸軍軍人。最終階級は陸軍少将。"
             }
         ]
     }
