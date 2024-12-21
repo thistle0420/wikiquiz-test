@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年12月21日 22時の問題",
+                "url": "https://ja.wikipedia.org/?curid=542825",
+                "title": "ニカラグアの地方行政区分",
+                "text": "〇〇は、15の県（departamento）と2つの自治地域（region autonomista）に分かれている。"
+            },
+            {
                 "datetime": "2024年12月21日 21時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1347697",
                 "title": "エストニア (小惑星)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3464525",
                 "title": "チーズ・ショップ (モンティ・パイソン)",
                 "text": "〇〇は、モンティ・パイソンがテレビシリーズ『空飛ぶモンティ・パイソン』で放送したスケッチである。このスケッチは第3シリーズ第7話『サラダの日々』で放送された。スケッチの脚本は \"The Complete Monty Python's Flying Circus: All the Words, Volume 2\" に収録されている。スケッチは後に1973年のアルバム \"The Monty Python Matching Tie and Handkerchief\" (en) に収録されたほか、『死んだオウム』スケッチに引き続き、2014年の『モンティ・パイソン 復活ライブ!』でも上演された。"
-            },
-            {
-                "datetime": "2024年12月20日 06時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2604591",
-                "title": "ART RYUMEIKAN TOKYO",
-                "text": "〇〇は、東京都千代田区に本拠を置く龍名館が、同社が経営しているホテル龍名館東京を中心とした各事業所で展開しているアート活動の総称。「多くの文化人が宿代の代わりに絵画等の作品を置いていった」という逸話にちなみ、2012年6月より活動が開始されている。"
             }
         ]
     }
