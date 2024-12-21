@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年12月21日 15時の問題",
+                "url": "https://ja.wikipedia.org/?curid=282909",
+                "title": "柳本晶一",
+                "text": "〇〇は、日本のバレーボール元選手（元全日本代表）・指導者。元バレーボール全日本女子チーム監督。"
+            },
+            {
                 "datetime": "2024年12月21日 14時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1121441",
                 "title": "小河信安",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4043564",
                 "title": "IEYASU",
                 "text": "〇〇は、無料のクラウド勤怠管理システム『HRMOS勤怠 by 〇〇』や、SES会社のためのクラウド勤怠・契約・請求システム『HRMOS契約・請求 by 〇〇』等を提供する情報システム会社である。"
-            },
-            {
-                "datetime": "2024年12月19日 23時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2757857",
-                "title": "愛媛FC",
-                "text": "〇〇は、日本の愛媛県松山市を中心として愛媛県全県をホームタウンとする日本プロサッカーリーグ（Jリーグ）に加盟するプロサッカークラブ。"
             }
         ]
     }
