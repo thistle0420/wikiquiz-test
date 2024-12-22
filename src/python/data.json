@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年12月23日 06時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4102290",
+                "title": "SUSHIBOYS",
+                "text": "〇〇は、日本の男性2人組ラップグループ。メンバーはファームハウスとサンテナの2MC。"
+            },
+            {
                 "datetime": "2024年12月23日 05時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1409403",
                 "title": "西舞鶴郵便局",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=282909",
                 "title": "柳本晶一",
                 "text": "〇〇は、日本のバレーボール元選手（元全日本代表）・指導者。元バレーボール全日本女子チーム監督。"
-            },
-            {
-                "datetime": "2024年12月21日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1121441",
-                "title": "小河信安",
-                "text": "〇〇は、戦国時代の武将。龍造寺氏の家臣。"
             }
         ]
     }
