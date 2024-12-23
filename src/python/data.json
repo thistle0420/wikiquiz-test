@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年12月23日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2130396",
+                "title": "真空凍結乾燥装置",
+                "text": "〇〇は、乾燥させたいものを凍結させてから真空中で水分を蒸発させる真空装置である。"
+            },
+            {
                 "datetime": "2024年12月23日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1094298",
                 "title": "上新井",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2334068",
                 "title": "おしゃれ大作戦",
                 "text": "〇〇は、1976年1月17日に公開された日本映画。製作は東宝映画。配給は東宝。カラー、シネマスコープ。"
-            },
-            {
-                "datetime": "2024年12月22日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4906037",
-                "title": "矢嶋大樹",
-                "text": "〇〇は、日本中央競馬会 (JRA) ・美浦トレーニングセンターに所属している調教師。"
             }
         ]
     }
