@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年12月23日 17時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1094298",
+                "title": "上新井",
+                "text": "〇〇は、埼玉県所沢市の地名。現行行政地名は〇〇一丁目から〇〇五丁目。郵便番号359-1142。"
+            },
+            {
                 "datetime": "2024年12月23日 16時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1865090",
                 "title": "OpenTTD",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4906037",
                 "title": "矢嶋大樹",
                 "text": "〇〇は、日本中央競馬会 (JRA) ・美浦トレーニングセンターに所属している調教師。"
-            },
-            {
-                "datetime": "2024年12月22日 01時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1652589",
-                "title": "星創太",
-                "text": "〇〇は、日本の元陸上競技選手。専門は長距離種目。福島県立会津工業高等学校、駒澤大学経営学部経営学科卒業。現役時代は富士通所属。身長173cm、体重56kgで血液型はB型。"
             }
         ]
     }
