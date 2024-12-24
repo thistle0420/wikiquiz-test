@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年12月25日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4382770",
+                "title": "テムル (ジョチ家)",
+                "text": "〇〇は、バトゥ家断絶後のジョチ・ウルスのハン。トカ・テムル系ノムカン王家の出で、先代のボラト・ハンの弟にあたる。マングト部のエディゲによって推戴された傀儡ハンの一人。"
+            },
+            {
                 "datetime": "2024年12月25日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3463608",
                 "title": "サンマークシティ日暮里",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1094298",
                 "title": "上新井",
                 "text": "〇〇は、埼玉県所沢市の地名。現行行政地名は〇〇一丁目から〇〇五丁目。郵便番号359-1142。"
-            },
-            {
-                "datetime": "2024年12月23日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1865090",
-                "title": "OpenTTD",
-                "text": "〇〇は、クリス・ソイヤーのゲーム『Transport Tycoon Deluxe』のゲームエンジンのオープンソース版。"
             }
         ]
     }
