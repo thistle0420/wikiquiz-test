@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年12月25日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3463608",
+                "title": "サンマークシティ日暮里",
+                "text": "〇〇は、東京都荒川区に所在する複合施設。ステーションガーデンタワー、ステーションポートタワー、ステーションプラザタワーの3棟で構成されている。"
+            },
+            {
                 "datetime": "2024年12月25日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2063815",
                 "title": "クライスラー・ターバイン",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1865090",
                 "title": "OpenTTD",
                 "text": "〇〇は、クリス・ソイヤーのゲーム『Transport Tycoon Deluxe』のゲームエンジンのオープンソース版。"
-            },
-            {
-                "datetime": "2024年12月23日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3149697",
-                "title": "イニャキ・オチョア",
-                "text": "〇〇は、スペイン・パンプローナ出身の登山家・アルピニスト・クライマー。名前はイナキ・オチョアとも表記される。"
             }
         ]
     }
