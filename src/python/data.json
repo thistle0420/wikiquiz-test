@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年12月25日 17時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1910293",
+                "title": "√5 (アルバム)",
+                "text": "〇〇は、BARBEE BOYSが1989年2月1日にEPIC/SONY RECORDSからリリースした5枚目のオリジナル・アルバム。"
+            },
+            {
                 "datetime": "2024年12月25日 16時の問題",
                 "url": "https://ja.wikipedia.org/?curid=752599",
                 "title": "宮崎善吾",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4897783",
                 "title": "新川橋 (福島県)",
                 "text": "〇〇は、福島県いわき市にある道路橋である。"
-            },
-            {
-                "datetime": "2024年12月24日 01時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3052698",
-                "title": "プレミアサッカー",
-                "text": "〇〇は、1993年にコナミが発売したアーケードゲーム（サッカーゲーム）である。"
             }
         ]
     }
