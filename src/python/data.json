@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年12月25日 23時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2868215",
+                "title": "有村架純",
+                "text": "〇〇は、日本の女優。兵庫県出身。フラーム所属。姉は女優、タレントの有村藍里。"
+            },
+            {
                 "datetime": "2024年12月25日 22時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1988066",
                 "title": "みなづきふたご",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3914819",
                 "title": "Espial Elevate Cloud",
                 "text": "〇〇は、Espial Group Inc.が提供するTVaaS型クラウドベースベースビデオプラットフォームである。"
-            },
-            {
-                "datetime": "2024年12月24日 07時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4877504",
-                "title": "大麻ひかり町",
-                "text": "〇〇は、北海道江別市の町丁。郵便番号は069-0847。人口は1,975人、世帯数は819世帯（2023年12月1日現在）。丁目の設定のない単独町名である。住居表示は全域で未実施。"
             }
         ]
     }
