@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年12月25日 09時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4843252",
+                "title": "福徳稲荷神社 (下関市)",
+                "text": "〇〇は、山口県下関市豊浦町にある神社。"
+            },
+            {
                 "datetime": "2024年12月25日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4382770",
                 "title": "テムル (ジョチ家)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2130396",
                 "title": "真空凍結乾燥装置",
                 "text": "〇〇は、乾燥させたいものを凍結させてから真空中で水分を蒸発させる真空装置である。"
-            },
-            {
-                "datetime": "2024年12月23日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1094298",
-                "title": "上新井",
-                "text": "〇〇は、埼玉県所沢市の地名。現行行政地名は〇〇一丁目から〇〇五丁目。郵便番号359-1142。"
             }
         ]
     }
