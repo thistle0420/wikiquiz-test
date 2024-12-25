@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年12月25日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2811732",
+                "title": "東経63度線",
+                "text": "〇〇は、本初子午線面から東へ63度の角度を成す経線である。北極点から北極海、ヨーロッパ、アジア、インド洋、南極海、南極大陸を通過して南極点までを結ぶ。〇〇は、西経117度線と共に大円を形成する。"
+            },
+            {
                 "datetime": "2024年12月25日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1221863",
                 "title": "戸田工業",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1678187",
                 "title": "Higher and Higher!",
                 "text": "〇〇は、DA PUMPの2枚目のオリジナル・アルバム。1999年7月28日に発売された。"
-            },
-            {
-                "datetime": "2024年12月24日 04時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3152520",
-                "title": "オルディシア",
-                "text": "〇〇は、スペイン・バスク州ギプスコア県のムニシピオ（基礎自治体）。公式名はバスク語名のOrdizia。かつてはビジャフランカ・デ・オリア(Villafranca de Oria)、ビジャフランカ・デ・〇〇(Villafranca de Ordicia)、ビジャフランカ (Villafranca)などと呼ばれた。コマルカ（郡）としてはゴイエリの構成自治体のひとつである。守護聖人は聖アンナ。"
             }
         ]
     }
