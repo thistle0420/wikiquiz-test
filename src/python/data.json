@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年12月26日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4574578",
+                "title": "イニゴ・ララインサル",
+                "text": "〇〇は、スペイン・ナバラ州パンプローナ出身の元サッカー選手。現役時代のポジションはDF。元スペイン代表。"
+            },
+            {
                 "datetime": "2024年12月25日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2868215",
                 "title": "有村架純",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2134515",
                 "title": "奥さま10:30",
                 "text": "〇〇は、1990年代に福岡放送で放送された情報番組。"
-            },
-            {
-                "datetime": "2024年12月24日 08時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3914819",
-                "title": "Espial Elevate Cloud",
-                "text": "〇〇は、Espial Group Inc.が提供するTVaaS型クラウドベースベースビデオプラットフォームである。"
             }
         ]
     }
