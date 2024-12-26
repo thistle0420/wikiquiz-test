@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年12月27日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2342346",
+                "title": "上天草市立上北小学校",
+                "text": "〇〇は、かつて熊本県上天草市大矢野町に存在した小学校。"
+            },
+            {
                 "datetime": "2024年12月27日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4975185",
                 "title": "守口市立土居小学校",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1910293",
                 "title": "√5 (アルバム)",
                 "text": "〇〇は、BARBEE BOYSが1989年2月1日にEPIC/SONY RECORDSからリリースした5枚目のオリジナル・アルバム。"
-            },
-            {
-                "datetime": "2024年12月25日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=752599",
-                "title": "宮崎善吾",
-                "text": "〇〇は、元・佐賀県副知事。"
             }
         ]
     }
