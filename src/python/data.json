@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年12月27日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4975185",
+                "title": "守口市立土居小学校",
+                "text": "〇〇は、大阪府守口市にあった公立小学校。"
+            },
+            {
                 "datetime": "2024年12月27日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2702038",
                 "title": "柏会",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=752599",
                 "title": "宮崎善吾",
                 "text": "〇〇は、元・佐賀県副知事。"
-            },
-            {
-                "datetime": "2024年12月25日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4953424",
-                "title": "富士 (一宮市)",
-                "text": "〇〇は、愛知県一宮市の地名。"
             }
         ]
     }
