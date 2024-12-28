@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年12月28日 12時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4550642",
+                "title": "池上雪枝",
+                "text": "〇〇は、日本の社会事業家。日本で最初の感化院（児童自立支援施設）とされる池上感化院の設立者。孫は日本画家の村上華岳。"
+            },
+            {
                 "datetime": "2024年12月28日 11時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2826391",
                 "title": "酒井治彦",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2823694",
                 "title": "森脇和郎",
                 "text": "〇〇は、日本の遺伝学者、哺乳類学者。国立遺伝学研究所名誉教授。"
-            },
-            {
-                "datetime": "2024年12月26日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1285226",
-                "title": "半山区",
-                "text": "〇〇は、香港島北側の、中心部の高台に広がる住宅地区である。"
             }
         ]
     }
