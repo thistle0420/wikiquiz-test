@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年12月28日 23時の問題",
+                "url": "https://ja.wikipedia.org/?curid=756982",
+                "title": "関風ファイティング",
+                "text": "〇〇は、関ジャニ∞の楽曲。2006年12月13日にテイチクレコードから5枚目のシングルとして発売された。"
+            },
+            {
                 "datetime": "2024年12月28日 22時の問題",
                 "url": "https://ja.wikipedia.org/?curid=96794",
                 "title": "摂津北インターチェンジ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2342346",
                 "title": "上天草市立上北小学校",
                 "text": "〇〇は、かつて熊本県上天草市大矢野町に存在した小学校。"
-            },
-            {
-                "datetime": "2024年12月27日 07時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4975185",
-                "title": "守口市立土居小学校",
-                "text": "〇〇は、大阪府守口市にあった公立小学校。"
             }
         ]
     }
