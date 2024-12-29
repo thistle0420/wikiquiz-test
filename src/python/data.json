@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年12月30日 06時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2130328",
+                "title": "大村 (東京都)",
+                "text": "〇〇は、東京都小笠原支庁管内にかつて存在した村である。"
+            },
+            {
                 "datetime": "2024年12月30日 05時の問題",
                 "url": "https://ja.wikipedia.org/?curid=84294",
                 "title": "高浜駅 (茨城県)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2457293",
                 "title": "ホンダ・N-BOX",
                 "text": "〇〇は、本田技研工業が生産・販売しているトールワゴン型の軽自動車である。本稿では便宜上、派生車種のN-BOX +（エヌ ボックス プラス）、N-BOX SLASH（エヌ ボックス スラッシュ）も併せて記述する。"
-            },
-            {
-                "datetime": "2024年12月28日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4934436",
-                "title": "清水兵治",
-                "text": "〇〇は、日本の経営者。古河鉱業(現在の古河機械金属)社長、会長を務めた。富山県出身。"
             }
         ]
     }
