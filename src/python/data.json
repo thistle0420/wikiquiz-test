@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年12月29日 22時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2119481",
+                "title": "ワイロン・ミュラー",
+                "text": "〇〇は、代表には選ばれていなかったものの役員として選手団の旗手を務めた。"
+            },
+            {
                 "datetime": "2024年12月29日 21時の問題",
                 "url": "https://ja.wikipedia.org/?curid=998625",
                 "title": "犬食い",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1041720",
                 "title": "エレファントカシマシ ベスト",
                 "text": "〇〇は、エレファントカシマシの初のベスト・アルバム。1997年12月1日にEpic/Sony Recordsから発売。"
-            },
-            {
-                "datetime": "2024年12月28日 06時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2325572",
-                "title": "神河町立神河中学校",
-                "text": "〇〇は、兵庫県神崎郡神河町にある公立中学校。"
             }
         ]
     }
