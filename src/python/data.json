@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年12月30日 03時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1354215",
+                "title": "愛知県道291号米津碧南線",
+                "text": "〇〇は、愛知県西尾市米津町から同県碧南市中江町に至る一般県道である。"
+            },
+            {
                 "datetime": "2024年12月30日 02時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2309936",
                 "title": "一斉の声",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4550642",
                 "title": "池上雪枝",
                 "text": "〇〇は、日本の社会事業家。日本で最初の感化院（児童自立支援施設）とされる池上感化院の設立者。孫は日本画家の村上華岳。"
-            },
-            {
-                "datetime": "2024年12月28日 11時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2826391",
-                "title": "酒井治彦",
-                "text": "〇〇は、日本の元アマチュア野球選手。佐賀県出身。"
             }
         ]
     }
