@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年12月30日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=915606",
+                "title": "岡山環状道路",
+                "text": "〇〇は、岡山県岡山市内を環状のように通る地域高規格道路である。"
+            },
+            {
                 "datetime": "2024年12月30日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=543976",
                 "title": "臥牙丸勝",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=995929",
                 "title": "ダーウィン国際空港",
                 "text": "〇〇は、オーストラリア連邦ノーザンテリトリー、ダーウィンにある国際空港である。"
-            },
-            {
-                "datetime": "2024年12月28日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1990863",
-                "title": "ミズニラ",
-                "text": "〇〇は、〇〇属に属する水草、また〇〇属の植物の総称でもある。"
             }
         ]
     }
