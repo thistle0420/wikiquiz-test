@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年12月30日 22時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4759287",
+                "title": "Microsoft 365 Copilot",
+                "text": "〇〇は、マイクロソフトが提供している、OpenAIの大規模言語モデル （LLM）のGPTを使用した、Microsoft 365アプリケーション、カレンダー、メール、Microsoft Graphのデータなどが連携するアプリ。Microsoft公式サイトのプレリリース、プレス発表によると、Copilotは、Word、Excel、PowerPoint、Outlook、TeamsなどのMicrosoft 365アプリケーションに組み込まれており、国内国外を問わず、ユーザの言葉を地球上の誰とでも共有できるようになるという。"
+            },
+            {
                 "datetime": "2024年12月30日 21時の問題",
                 "url": "https://ja.wikipedia.org/?curid=717337",
                 "title": "長崎県立島原高等学校",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4636821",
                 "title": "関取在位後に4階級以上陥落した力士一覧",
                 "text": "〇〇は、関取経験者（最高位が十両以上）でかつ、自身の最高位より4階級以上下回る番付上の地位に在位した経験を持つ大相撲の力士の一覧である。"
-            },
-            {
-                "datetime": "2024年12月29日 06時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1620054",
-                "title": "西出興業",
-                "text": "〇〇は、日本の各種サービス業を行う企業である。北海道赤平市に本社を置く。"
             }
         ]
     }
