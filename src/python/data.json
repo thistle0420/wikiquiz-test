@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年12月30日 17時の問題",
+                "url": "https://ja.wikipedia.org/?curid=831516",
+                "title": "エドワード・ハードウィック",
+                "text": "〇〇は、イギリスの俳優。"
+            },
+            {
                 "datetime": "2024年12月30日 16時の問題",
                 "url": "https://ja.wikipedia.org/?curid=374278",
                 "title": "SURVIVE",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4683567",
                 "title": "Close to me…",
                 "text": "〇〇は、日本の歌手、KOTOKOの楽曲。2000年12月1日に発売された。"
-            },
-            {
-                "datetime": "2024年12月29日 01時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4969273",
-                "title": "大陸選手権 (サッカー)",
-                "text": "〇〇は、サッカーの大陸選手権の一覧である。大陸選手権はAFC（アジア）、CAF（アフリカ）、CONCACAF（北中米）、CONMEBOL（南米）、OFC（オセアニア）、UEFA（欧州）の各大陸連盟が主催する。"
             }
         ]
     }
