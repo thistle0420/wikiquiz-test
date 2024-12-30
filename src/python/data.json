@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年12月30日 09時の問題",
+                "url": "https://ja.wikipedia.org/?curid=879234",
+                "title": "人慶",
+                "text": "〇〇は、西夏の仁宗の治世で用いられた元号。1144年 - 1148年。"
+            },
+            {
                 "datetime": "2024年12月30日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=915606",
                 "title": "岡山環状道路",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3552019",
                 "title": "呂号第百十二潜水艦",
                 "text": "〇〇は、日本海軍の潜水艦。呂百型潜水艦（小型）の13番艦。"
-            },
-            {
-                "datetime": "2024年12月28日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=995929",
-                "title": "ダーウィン国際空港",
-                "text": "〇〇は、オーストラリア連邦ノーザンテリトリー、ダーウィンにある国際空港である。"
             }
         ]
     }
