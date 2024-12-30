@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年12月31日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1392715",
+                "title": "ポプラ文庫",
+                "text": "〇〇は、株式会社ポプラ社が発行している文庫レーベル。2008年4月5日に創刊。"
+            },
+            {
                 "datetime": "2024年12月30日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=812094",
                 "title": "ホムンクルス (漫画)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4173356",
                 "title": "前川功一",
                 "text": "〇〇は、日本の経済学者。計量経済学専攻。学位は、経済学博士（大阪大学・1986年）。広島大学副学長、広島経済大学学長、日本金融・証券計量・工学学会会長、ウエスタン・オンタリオ大学客員教授、広島銀行監査役などを歴任。Econometric Theory Award受賞。"
-            },
-            {
-                "datetime": "2024年12月29日 08時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4504529",
-                "title": "オーストラリア陸軍戦車博物館",
-                "text": "〇〇は、オーストラリアのビクトリア州セイモアの西約10km（メルボルンからは北に約100km）に位置するオーストラリア陸軍の訓練施設パッカパニャルにある軍事博物館である。Royal Australian Armoured Corps Memorial and Army Tank Museum (RAAC陸軍戦車博物館、王立オーストラリア機甲軍団陸軍戦車博物館) などの名称も知られている。"
             }
         ]
     }
