@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年12月31日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2314983",
+                "title": "青森スプリング・スキーリゾート",
+                "text": "〇〇は、日本のスキー場。青森県西津軽郡鯵ヶ沢町に位置する。"
+            },
+            {
                 "datetime": "2024年12月31日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=344557",
                 "title": "ArXiv",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=84294",
                 "title": "高浜駅 (茨城県)",
                 "text": "〇〇は、茨城県石岡市北根本にある東日本旅客鉄道（JR東日本）常磐線の駅である。"
-            },
-            {
-                "datetime": "2024年12月30日 04時の問題",
-                "url": "https://ja.wikipedia.org/?curid=553532",
-                "title": "トランスワールドスポーツ",
-                "text": "〇〇は、IMGの番組制作部門・TWI / IMG Mediaが制作するスポーツ情報番組。"
             }
         ]
     }
