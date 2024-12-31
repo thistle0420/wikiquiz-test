@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年01月01日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1307421",
+                "title": "街の姫君",
+                "text": "〇〇は、菊池寛原作の1936年（昭和11年）公開の映画。製作は新興キネマ。"
+            },
+            {
                 "datetime": "2024年12月31日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3990710",
                 "title": "トミー・エドマン",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=879234",
                 "title": "人慶",
                 "text": "〇〇は、西夏の仁宗の治世で用いられた元号。1144年 - 1148年。"
-            },
-            {
-                "datetime": "2024年12月30日 08時の問題",
-                "url": "https://ja.wikipedia.org/?curid=915606",
-                "title": "岡山環状道路",
-                "text": "〇〇は、岡山県岡山市内を環状のように通る地域高規格道路である。"
             }
         ]
     }
