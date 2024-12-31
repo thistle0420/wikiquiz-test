@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2024年12月31日 11時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4945760",
+                "title": "スペクトロベナトル",
+                "text": "〇〇は、前期白亜紀に現在でいうブラジルに生息した、基盤的アベリサウルス科に属する獣脚類の恐竜の属。Quiricó層から化石が産出したSpectrovenator rageiのみを含む単型の属である。"
+            },
+            {
                 "datetime": "2024年12月31日 10時の問題",
                 "url": "https://ja.wikipedia.org/?curid=12472",
                 "title": "散乱理論",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2177177",
                 "title": "世田米町",
                 "text": "〇〇は、昭和30年（1955年）まで岩手県気仙郡に存在していた町。現在の住田町世田米にあたる。"
-            },
-            {
-                "datetime": "2024年12月29日 19時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3247053",
-                "title": "エムキャス",
-                "text": "〇〇は、東京メトロポリタンテレビジョン (TOKYO MX) が提供していた無料の動画配信（IPサイマル放送）サービス、またはそのアプリケーションソフトウェアである。"
             }
         ]
     }
