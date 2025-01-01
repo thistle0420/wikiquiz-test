@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年01月01日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3490541",
+                "title": "カタハランブー",
+                "text": "〇〇は、天ぷらの生地のみを油で揚げた沖縄県の食品。"
+            },
+            {
                 "datetime": "2025年01月01日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2178448",
                 "title": "サイモン・ウィットロック",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=812094",
                 "title": "ホムンクルス (漫画)",
                 "text": "〇〇は、山本英夫による日本の漫画作品。2003年より『週刊ビッグコミックスピリッツ』で連載。2008年28号以降休載していたが、2009年34号より連載再開、2011年12月号をもって完結。2020年9月時点で、累計発行部数は400万部を突破している。2020年9月10日に実写映画化が発表され、2021年4月2日に公開。"
-            },
-            {
-                "datetime": "2024年12月30日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4759287",
-                "title": "Microsoft 365 Copilot",
-                "text": "〇〇は、マイクロソフトが提供している、OpenAIの大規模言語モデル （LLM）のGPTを使用した、Microsoft 365アプリケーション、カレンダー、メール、Microsoft Graphのデータなどが連携するアプリ。Microsoft公式サイトのプレリリース、プレス発表によると、Copilotは、Word、Excel、PowerPoint、Outlook、TeamsなどのMicrosoft 365アプリケーションに組み込まれており、国内国外を問わず、ユーザの言葉を地球上の誰とでも共有できるようになるという。"
             }
         ]
     }
