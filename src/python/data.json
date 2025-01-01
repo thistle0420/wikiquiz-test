@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年01月01日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1742138",
+                "title": "ティルソン・ブリトー",
+                "text": "〇〇は、ドミニカ共和国出身の元プロ野球選手（内野手）。"
+            },
+            {
                 "datetime": "2025年01月01日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2328526",
                 "title": "井野村 (茨城県)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3256258",
                 "title": "大森海苔のふるさと館",
                 "text": "〇〇は、東京都大田区平和の森公園にある博物館で、管理運営は特定非営利活動法人海苔のふるさと会が行っている。"
-            },
-            {
-                "datetime": "2024年12月31日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4019372",
-                "title": "苔色",
-                "text": "〇〇は、苔のように落ち着いた彩度を抑えた黄緑色のこと。英名はモスグリーン（Moss Green）。"
             }
         ]
     }
