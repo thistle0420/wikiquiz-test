@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年01月02日 03時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4601538",
+                "title": "ジャック・エップス・ジュニア",
+                "text": "〇〇は、アメリカ合衆国の脚本家、作家、教員である。"
+            },
+            {
                 "datetime": "2025年01月02日 02時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1236797",
                 "title": "津田梅子",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2202926",
                 "title": "ひと (遊助の曲)",
                 "text": "〇〇は、2010年11月10日に上地雄輔が「遊助」名義で発売した6枚目のシングル。テーマは、「失ったもん以外全部持ってるあなたへ」"
-            },
-            {
-                "datetime": "2024年12月31日 11時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4945760",
-                "title": "スペクトロベナトル",
-                "text": "〇〇は、前期白亜紀に現在でいうブラジルに生息した、基盤的アベリサウルス科に属する獣脚類の恐竜の属。Quiricó層から化石が産出したSpectrovenator rageiのみを含む単型の属である。"
             }
         ]
     }
