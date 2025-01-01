@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年01月01日 23時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2411697",
+                "title": "須馬町",
+                "text": "〇〇は、神奈川県中郡に存在した町。本項では町制前の須馬村（すばむら）についても記す。"
+            },
+            {
                 "datetime": "2025年01月01日 22時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4112167",
                 "title": "井出正信",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=43829",
                 "title": "金子駅",
                 "text": "〇〇は、埼玉県入間市大字南峯にある、東日本旅客鉄道（JR東日本）八高線の駅である。"
-            },
-            {
-                "datetime": "2024年12月31日 07時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3752106",
-                "title": "ピアシティ富士見ヶ丘",
-                "text": "〇〇は、茨城県つくばみらい市富士見ヶ丘一丁目にある複合型商業施設である。核テナントはKASUMIで、複数店舗集合型ショッピングセンターである。"
             }
         ]
     }
