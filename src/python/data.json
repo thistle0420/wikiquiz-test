@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年01月04日 02時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3309964",
+                "title": "Minori Chihara 10th Anniversary Live 〜SANCTUARY〜",
+                "text": "〇〇は、2014年11月18日に日本武道館で開催された茅原実里のコンサート。"
+            },
+            {
                 "datetime": "2025年01月04日 01時の問題",
                 "url": "https://ja.wikipedia.org/?curid=541784",
                 "title": "大沼健太郎",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4163008",
                 "title": "階上町立道仏小学校",
                 "text": "〇〇は、青森県三戸郡階上町道仏にある公立小学校。"
-            },
-            {
-                "datetime": "2025年01月02日 10時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1765671",
-                "title": "松岡洋子 (評論家)",
-                "text": "〇〇は、日本のジャーナリスト、評論家、翻訳家、婦人運動家。婦人民主クラブ初代委員長、日本婦人会議議長、日本ペンクラブ事務局長を歴任。父の松岡正男は、京城日報社社長、毎日申報社社長、時事新報社社長。伯母（父の姉）に羽仁もと子。"
             }
         ]
     }
