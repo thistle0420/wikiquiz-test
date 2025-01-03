@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年01月04日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4537172",
+                "title": "スマホ脳",
+                "text": "〇〇は、アンデシュ・ハンセンによって書かれた書籍。"
+            },
+            {
                 "datetime": "2025年01月03日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=667647",
                 "title": "電子入札",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=904798",
                 "title": "Goal Den Age",
                 "text": "〇〇は、『マガジンSPECIAL』に連載されていたサッカー漫画。原作綱本将也・作画高岡永生。全3巻。"
-            },
-            {
-                "datetime": "2025年01月02日 08時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2754745",
-                "title": "西村晋弥",
-                "text": "〇〇は、日本のシンガーソングライター、俳優。スリーピースロックバンド、シュノーケルのボーカリスト兼ギタリスト。宮崎県児湯郡出身。身長180cm。"
             }
         ]
     }
