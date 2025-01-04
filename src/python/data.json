@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年01月04日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1335244",
+                "title": "田中十三",
+                "text": "〇〇は、日本の撮影技師である。"
+            },
+            {
                 "datetime": "2025年01月04日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4854555",
                 "title": "日立市立中里小中学校",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4816309",
                 "title": "久芳村",
                 "text": "〇〇は、広島県豊田郡にあった村。おおむね現在の東広島市福富町久芳にあたる。"
-            },
-            {
-                "datetime": "2025年01月03日 05時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2155758",
-                "title": "片桐正雪",
-                "text": "〇〇は、地方競馬の高知競馬場・胡本友晴厩舎に所属していた元騎手である。勝負服の柄は胴青・桃右襷、袖桃・青一本輪。"
             }
         ]
     }
