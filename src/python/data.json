@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年01月04日 09時の問題",
+                "url": "https://ja.wikipedia.org/?curid=555460",
+                "title": "アミューズメント・ジャーナル",
+                "text": "〇〇は、株式会社〇〇が発行している月刊のアミューズメント業界誌である。新機種の発表やインカムランキングなど、業界全般の動向・話題を扱っている。"
+            },
+            {
                 "datetime": "2025年01月04日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=68820",
                 "title": "8月20日 (旧暦)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=650391",
                 "title": "THE SEVENTH NIGHT 〜UNPLUGGED〜",
                 "text": "〇〇は、2004年5月26日に発表されたGacktのセルフカバー・アルバム。発売元は日本クラウン。"
-            },
-            {
-                "datetime": "2025年01月02日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3566626",
-                "title": "平原大橋",
-                "text": "〇〇は、北海道河東郡音更町と帯広市の境にあり、十勝川に架かる橋。供用前の仮称は「新十勝大橋」。"
             }
         ]
     }
