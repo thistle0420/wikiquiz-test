@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年01月05日 17時の問題",
+                "url": "https://ja.wikipedia.org/?curid=479363",
+                "title": "ウゼイル・ハジベヨフ",
+                "text": "〇〇は、アゼルバイジャン人の作曲家。"
+            },
+            {
                 "datetime": "2025年01月05日 16時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3965775",
                 "title": "ミカエル・アンティオコ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3309964",
                 "title": "Minori Chihara 10th Anniversary Live 〜SANCTUARY〜",
                 "text": "〇〇は、2014年11月18日に日本武道館で開催された茅原実里のコンサート。"
-            },
-            {
-                "datetime": "2025年01月04日 01時の問題",
-                "url": "https://ja.wikipedia.org/?curid=541784",
-                "title": "大沼健太郎",
-                "text": "〇〇は、日本の子役。かつて劇団ひまわりに所属していた。"
             }
         ]
     }
