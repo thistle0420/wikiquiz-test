@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年01月06日 04時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3049072",
+                "title": "クリストフ・ダルンスタット",
+                "text": "〇〇は、ドイツの脚本家。"
+            },
+            {
                 "datetime": "2025年01月06日 03時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1629647",
                 "title": "横浜市奈良中学柔道部暴行事件",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1116603",
                 "title": "文殊仙寺",
                 "text": "〇〇は、大分県国東市国東町大恩寺にある天台宗の寺院である。山号は峨眉山（がびさん）。"
-            },
-            {
-                "datetime": "2025年01月04日 12時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1156771",
-                "title": "出島 (宮城県)",
-                "text": "〇〇は、宮城県牡鹿郡女川町に浮かぶ有人島。"
             }
         ]
     }
