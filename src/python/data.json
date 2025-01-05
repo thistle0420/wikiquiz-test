@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年01月05日 16時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3965775",
+                "title": "ミカエル・アンティオコ",
+                "text": "〇〇は、ベルギーの学者。EDHEC経営大学院教授。マーケティング学科長。"
+            },
+            {
                 "datetime": "2025年01月05日 15時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3455416",
                 "title": "夢見る森",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=541784",
                 "title": "大沼健太郎",
                 "text": "〇〇は、日本の子役。かつて劇団ひまわりに所属していた。"
-            },
-            {
-                "datetime": "2025年01月04日 00時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4537172",
-                "title": "スマホ脳",
-                "text": "〇〇は、アンデシュ・ハンセンによって書かれた書籍。"
             }
         ]
     }
