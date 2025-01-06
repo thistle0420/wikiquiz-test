@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年01月06日 16時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1159439",
+                "title": "日立市民運動公園陸上競技場",
+                "text": "〇〇は、茨城県日立市にある陸上競技場。"
+            },
+            {
                 "datetime": "2025年01月06日 15時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3058464",
                 "title": "三村&有吉特番",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3523222",
                 "title": "奈良県の観光地",
                 "text": "〇〇は、奈良県内の主要な観光地等に関する項目である。"
-            },
-            {
-                "datetime": "2025年01月05日 00時の問題",
-                "url": "https://ja.wikipedia.org/?curid=981016",
-                "title": "野口冨士男",
-                "text": "〇〇は、日本の小説家。戸籍名は平井冨士男。日本文芸家協会理事長。"
             }
         ]
     }
