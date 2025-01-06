@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年01月06日 22時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2765216",
+                "title": "オールイーストJAPAN",
+                "text": "〇〇は、2013年の日本女子プロ野球機構のヴィクトリアシリーズにおけるチームである。"
+            },
+            {
                 "datetime": "2025年01月06日 21時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4912566",
                 "title": "細谷町 (豊田市)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=403362",
                 "title": "Dream Horses 2000",
                 "text": "〇〇は、日本中央競馬会(JRA)が2000年に実施したキャンペーンの名称である。"
-            },
-            {
-                "datetime": "2025年01月05日 06時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2167554",
-                "title": "田尻城",
-                "text": "〇〇は、福岡県みやま市にあった日本の城（山城）。"
             }
         ]
     }
