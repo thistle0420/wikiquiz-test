@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年01月06日 15時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3058464",
+                "title": "三村&有吉特番",
+                "text": "〇〇は、テレビ朝日にて2014年から2015年まで放送されたバラエティ特別番組。三村マサカズと有吉弘行の冠番組である。"
+            },
+            {
                 "datetime": "2025年01月06日 14時の問題",
                 "url": "https://ja.wikipedia.org/?curid=331600",
                 "title": "花巻インターチェンジ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=981016",
                 "title": "野口冨士男",
                 "text": "〇〇は、日本の小説家。戸籍名は平井冨士男。日本文芸家協会理事長。"
-            },
-            {
-                "datetime": "2025年01月04日 23時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3989505",
-                "title": "1936年ベルリンオリンピックのフェンシング競技",
-                "text": "〇〇は、7種目が行われた。"
             }
         ]
     }
