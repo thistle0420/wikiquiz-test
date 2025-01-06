@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年01月06日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1963777",
+                "title": "西永彩奈",
+                "text": "〇〇は、日本のグラビアアイドル、雑誌編集者。岡山県出身。SPJ Entertainment所属。"
+            },
+            {
                 "datetime": "2025年01月06日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3676009",
                 "title": "佐藤俊介 (実業家)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=39872",
                 "title": "カイツブリ",
                 "text": "〇〇は、〇〇目〇〇科〇〇属に分類される鳥類の1種。全長約26cmと、日本の〇〇科のなかではいちばん小さい。"
-            },
-            {
-                "datetime": "2025年01月05日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1347692",
-                "title": "ドシャブリ (平井堅の曲)",
-                "text": "〇〇は、日本の歌手、平井堅の4枚目のシングル。1996年8月21日に発売された。累計出荷枚数は1万枚。"
             }
         ]
     }
