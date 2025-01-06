@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年01月06日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4912566",
+                "title": "細谷町 (豊田市)",
+                "text": "〇〇は、愛知県豊田市の地名。"
+            },
+            {
                 "datetime": "2025年01月06日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4482725",
                 "title": "山香温泉",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2167554",
                 "title": "田尻城",
                 "text": "〇〇は、福岡県みやま市にあった日本の城（山城）。"
-            },
-            {
-                "datetime": "2025年01月05日 05時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4196022",
-                "title": "久保田美郎",
-                "text": "〇〇は、島根県出身の元アマチュア野球選手（投手）。"
             }
         ]
     }
