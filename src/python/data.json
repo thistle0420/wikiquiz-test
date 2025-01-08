@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年01月08日 11時の問題",
+                "url": "https://ja.wikipedia.org/?curid=894657",
+                "title": "三八五流通",
+                "text": "〇〇は、青森県八戸市に本社を置く運送会社である。運送業および関連事業の他、系列下に広範な事業を擁し、青森県南部地方の有力企業グループの一つとなっている。"
+            },
+            {
                 "datetime": "2025年01月08日 10時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3846068",
                 "title": "ニコン Z 7",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4482725",
                 "title": "山香温泉",
                 "text": "〇〇は、大分県杵築市にある温泉。"
-            },
-            {
-                "datetime": "2025年01月06日 19時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4003879",
-                "title": "渚にて (indigo la Endのアルバム)",
-                "text": "〇〇は、indigo la Endの2枚目のミニアルバム。2012年9月5日にeninalより発売された。"
             }
         ]
     }
