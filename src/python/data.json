@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年01月08日 13時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3579819",
+                "title": "HU-345",
+                "text": "〇〇は、親化合物のカンナビノールよりも強く、大動脈輪の血管新生を阻害する薬物である。"
+            },
+            {
                 "datetime": "2025年01月08日 12時の問題",
                 "url": "https://ja.wikipedia.org/?curid=340353",
                 "title": "0",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2765216",
                 "title": "オールイーストJAPAN",
                 "text": "〇〇は、2013年の日本女子プロ野球機構のヴィクトリアシリーズにおけるチームである。"
-            },
-            {
-                "datetime": "2025年01月06日 21時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4912566",
-                "title": "細谷町 (豊田市)",
-                "text": "〇〇は、愛知県豊田市の地名。"
             }
         ]
     }
