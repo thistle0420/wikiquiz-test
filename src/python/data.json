@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年01月10日 06時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2246555",
+                "title": "MARCH (原田真二の曲)",
+                "text": "〇〇は、1979年11月21日にリリースされた、原田真二9作目のシングル。"
+            },
+            {
                 "datetime": "2025年01月10日 05時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2538333",
                 "title": "大槻透",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4466711",
                 "title": "ポンティアック・サンバースト",
                 "text": "〇〇は、ポンティアックが販売していた乗用車である。"
-            },
-            {
-                "datetime": "2025年01月08日 13時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3579819",
-                "title": "HU-345",
-                "text": "〇〇は、親化合物のカンナビノールよりも強く、大動脈輪の血管新生を阻害する薬物である。"
             }
         ]
     }
