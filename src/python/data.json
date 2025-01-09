@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年01月09日 13時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3810264",
+                "title": "共和コーポレーション",
+                "text": "〇〇は、長野県長野市に本社を置き、ゲームセンターやバッティングセンター、ボウリング場などを運営する日本の企業。"
+            },
+            {
                 "datetime": "2025年01月09日 12時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3722207",
                 "title": "MBSチャチャヤング",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4307806",
                 "title": "豊崎みさと",
                 "text": "〇〇は、日本のAV女優。LINX所属。"
-            },
-            {
-                "datetime": "2025年01月07日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1558184",
-                "title": "ネクロマンティック",
-                "text": "〇〇は、1987年に公開された、ドイツの映画監督ユルグ・ブットゲライトによるホラー映画、エログロ映画である。"
             }
         ]
     }
