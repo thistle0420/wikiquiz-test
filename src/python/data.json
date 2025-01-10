@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年01月10日 23時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4195305",
+                "title": "ラグビーベルギー代表",
+                "text": "〇〇は、ベルギーラグビー連合によるラグビーユニオンのナショナルチームである。愛称は「ズワルト・ドゥイヴェルズ (Zwarte Duivels)」。"
+            },
+            {
                 "datetime": "2025年01月10日 22時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2431605",
                 "title": "蜜の味 (映画)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3191314",
                 "title": "大野洒竹",
                 "text": "〇〇は、俳人、医師。"
-            },
-            {
-                "datetime": "2025年01月09日 06時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3989243",
-                "title": "ヘンリー・アレクサンダー (第3代スターリング伯爵)",
-                "text": "〇〇は、スコットランド貴族。"
             }
         ]
     }
