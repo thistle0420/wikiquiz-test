@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年01月11日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4902429",
+                "title": "とうへい鍋",
+                "text": "〇〇は、福岡県宗像大島（宗像市）の郷土料理。トウヘイと呼ばれる魚を用いた味噌仕立ての鍋料理である。"
+            },
+            {
                 "datetime": "2025年01月10日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4195305",
                 "title": "ラグビーベルギー代表",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1263464",
                 "title": "カナック (企業)",
                 "text": "〇〇は、香川県高松市に本社を置く建設会社である。電気通信工事を中心に展開している。エクシオグループの完全子会社。"
-            },
-            {
-                "datetime": "2025年01月09日 07時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3191314",
-                "title": "大野洒竹",
-                "text": "〇〇は、俳人、医師。"
             }
         ]
     }
