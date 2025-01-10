@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年01月10日 17時の問題",
+                "url": "https://ja.wikipedia.org/?curid=465606",
+                "title": "リチャード・ジョーダン",
+                "text": "〇〇は、アメリカ合衆国ニューヨーク市出身の俳優。"
+            },
+            {
                 "datetime": "2025年01月10日 16時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1301927",
                 "title": "大河原栄",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3861229",
                 "title": "丸りおな",
                 "text": "〇〇は、日本の女優、歌手、モデル。旧芸名は、里於奈（りおな）。プラチナムプロダクション所属。神奈川県出身。"
-            },
-            {
-                "datetime": "2025年01月09日 00時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4644569",
-                "title": "東別所町 (太田市)",
-                "text": "〇〇は、群馬県太田市にある地名（町丁）。郵便番号は373-0815。"
             }
         ]
     }
