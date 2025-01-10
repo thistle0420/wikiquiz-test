@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年01月11日 01時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3473211",
+                "title": "さよなら私のクラマー",
+                "text": "〇〇は、新川直司によるサッカー漫画。『月刊少年マガジン』（講談社）にて、2016年6月号から2021年1月号まで連載された。"
+            },
+            {
                 "datetime": "2025年01月11日 00時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4902429",
                 "title": "とうへい鍋",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2700929",
                 "title": "DOG FIGHT!",
                 "text": "〇〇は、DOG FIGHTの6枚目のアルバム。"
-            },
-            {
-                "datetime": "2025年01月09日 08時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1263464",
-                "title": "カナック (企業)",
-                "text": "〇〇は、香川県高松市に本社を置く建設会社である。電気通信工事を中心に展開している。エクシオグループの完全子会社。"
             }
         ]
     }
