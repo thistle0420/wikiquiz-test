@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年01月11日 13時の問題",
+                "url": "https://ja.wikipedia.org/?curid=475457",
+                "title": "魔鏡",
+                "text": "〇〇は、平行光線ないし点光源からの拡散光線を反射すると、反射面のわずかな歪みにより反射光の中に濃淡があらわれ、像が浮かび上がる鏡（特に銅鏡）である。"
+            },
+            {
                 "datetime": "2025年01月11日 12時の問題",
                 "url": "https://ja.wikipedia.org/?curid=368691",
                 "title": "カマサミ・コング",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3529182",
                 "title": "藤原勉",
                 "text": "〇〇は、日本の政治家。岐阜県本巣市長（5期）。"
-            },
-            {
-                "datetime": "2025年01月09日 21時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4459278",
-                "title": "Chara's Time Machine - MUSIC FILMS -",
-                "text": "〇〇は、CHARAのビデオ・クリップ集。"
             }
         ]
     }
