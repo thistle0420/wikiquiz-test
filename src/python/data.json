@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年01月12日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2248727",
+                "title": "上村従義",
+                "text": "〇〇は、日本の海軍軍人、政治家、華族。最終階級は海軍大佐。貴族院議員、男爵。従三位勲二等。"
+            },
+            {
                 "datetime": "2025年01月12日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4101527",
                 "title": "ドナルド・スペンサー",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=465606",
                 "title": "リチャード・ジョーダン",
                 "text": "〇〇は、アメリカ合衆国ニューヨーク市出身の俳優。"
-            },
-            {
-                "datetime": "2025年01月10日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1301927",
-                "title": "大河原栄",
-                "text": "〇〇は、山口県下関市彦島出身の元プロ野球選手（捕手）。"
             }
         ]
     }
