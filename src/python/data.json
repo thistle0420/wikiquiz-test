@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年01月11日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3871053",
+                "title": "愛川町立愛川中学校",
+                "text": "〇〇は、神奈川県愛甲郡愛川町にある公立中学校。"
+            },
+            {
                 "datetime": "2025年01月11日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=475457",
                 "title": "魔鏡",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1037959",
                 "title": "治平龍応",
                 "text": "〇〇は、ベトナム・李朝の高宗李龍𣉙の治世で使われた元号。1205年旧3月 - 1210年。"
-            },
-            {
-                "datetime": "2025年01月09日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3529182",
-                "title": "藤原勉",
-                "text": "〇〇は、日本の政治家。岐阜県本巣市長（5期）。"
             }
         ]
     }
