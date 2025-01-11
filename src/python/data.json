@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年01月11日 12時の問題",
+                "url": "https://ja.wikipedia.org/?curid=368691",
+                "title": "カマサミ・コング",
+                "text": "〇〇は、アメリカ合衆国出身で、日本に在住するラジオDJ。ハワイ州でキャリアを開始し、日本のほか、台湾でも活動した。"
+            },
+            {
                 "datetime": "2025年01月11日 11時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3803718",
                 "title": "ノラ・トゥーミー",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4459278",
                 "title": "Chara's Time Machine - MUSIC FILMS -",
                 "text": "〇〇は、CHARAのビデオ・クリップ集。"
-            },
-            {
-                "datetime": "2025年01月09日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=749866",
-                "title": "大久佐八幡宮",
-                "text": "〇〇は、愛知県小牧市大草（おおくさ）地区にある神社（八幡宮）である。"
             }
         ]
     }
