@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年01月12日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4364869",
+                "title": "イブ・エリス",
+                "text": "〇〇は、アメリカ合衆国のポルノ女優、アダルトモデル、ボンデージ・モデル。"
+            },
+            {
                 "datetime": "2025年01月11日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=25280",
                 "title": "カボチャ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=821202",
                 "title": "愛知陸運",
                 "text": "〇〇は、愛知県小牧市に本社を置く日本の物流会社。"
-            },
-            {
-                "datetime": "2025年01月10日 08時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3373264",
-                "title": "住吉久仁夫",
-                "text": "〇〇は、日本のプロレスラー。"
             }
         ]
     }
