@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年01月11日 22時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1598648",
+                "title": "大出真也",
+                "text": "〇〇は、日本の元俳優。"
+            },
+            {
                 "datetime": "2025年01月11日 21時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3274207",
                 "title": "茂木久平",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=478135",
                 "title": "体脂肪計",
                 "text": "〇〇は、人体に占める脂肪の割合（体脂肪率）を測定する計器である。現在では家庭用に量産されている。"
-            },
-            {
-                "datetime": "2025年01月10日 06時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2246555",
-                "title": "MARCH (原田真二の曲)",
-                "text": "〇〇は、1979年11月21日にリリースされた、原田真二9作目のシングル。"
             }
         ]
     }
