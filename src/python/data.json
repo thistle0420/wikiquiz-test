@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年01月12日 09時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4417434",
+                "title": "2019年世界陸上競技選手権大会シエラレオネ選手団",
+                "text": "〇〇は、2019年9月27日から10月6日までカタールのドーハで開催された第17回世界陸上競技選手権大会のシエラレオネ選手団。"
+            },
+            {
                 "datetime": "2025年01月12日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2248727",
                 "title": "上村従義",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4439506",
                 "title": "カークランド",
                 "text": "〇〇は、英語圏の姓、また地名。"
-            },
-            {
-                "datetime": "2025年01月10日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=465606",
-                "title": "リチャード・ジョーダン",
-                "text": "〇〇は、アメリカ合衆国ニューヨーク市出身の俳優。"
             }
         ]
     }
