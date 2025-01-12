@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年01月12日 12時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4995262",
+                "title": "キタヤマオウレン",
+                "text": "〇〇は、キンポウゲ科オウレン属に分類される常緑多年生の1種。奥山春季により原色日本野外植物図譜6 補遺I（誠文堂新光社，1972）にバイカオウレンの変種（学名：Coptis quinquefolia Miq. var. kitayamensis Okuyama）として発表されていた〇〇が、2011年に門田裕一により新種のCoptis kitayamensis Kadotaと記載された。種小名（kitayamensis）は、この標本が採集された当時の分布域の岐阜県山県郡北山村（現山県市）に由来する。"
+            },
+            {
                 "datetime": "2025年01月12日 11時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3991830",
                 "title": "みきなつみ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1828170",
                 "title": "JOUR (雑誌)",
                 "text": "〇〇は、双葉社が発行する日本の女性向け月刊漫画雑誌。"
-            },
-            {
-                "datetime": "2025年01月10日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=46939",
-                "title": "いるか座",
-                "text": "〇〇は、現代の88星座の1つで、プトレマイオスの48星座の1つ。海獣のイルカをモチーフとしており、天の川の近くに位置する。最も明るい星でも4等星と暗い星座だが、星が密集しているため見つけやすい星座である。"
             }
         ]
     }
