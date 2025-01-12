@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年01月12日 10時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4562493",
+                "title": "水嶋凜",
+                "text": "〇〇は、日本のタレント、歌手。本名は非公表。東京都出身。東宝芸能所属。身長162cm。斉藤由貴は母で、芹澤優は従姉にあたる。"
+            },
+            {
                 "datetime": "2025年01月12日 09時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4417434",
                 "title": "2019年世界陸上競技選手権大会シエラレオネ選手団",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2660052",
                 "title": "琴浦町立成美小学校",
                 "text": "〇〇は、かつて鳥取県東伯郡琴浦町佐崎にあった公立小学校。"
-            },
-            {
-                "datetime": "2025年01月10日 18時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4439506",
-                "title": "カークランド",
-                "text": "〇〇は、英語圏の姓、また地名。"
             }
         ]
     }
