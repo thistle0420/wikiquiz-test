@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年01月13日 13時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2570020",
+                "title": "押書",
+                "text": "〇〇は、中世日本において行われた契約状・誓約書の一種で、将来の履行を約束した文書。"
+            },
+            {
                 "datetime": "2025年01月13日 12時の問題",
                 "url": "https://ja.wikipedia.org/?curid=188990",
                 "title": "学級担任",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1598648",
                 "title": "大出真也",
                 "text": "〇〇は、日本の元俳優。"
-            },
-            {
-                "datetime": "2025年01月11日 21時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3274207",
-                "title": "茂木久平",
-                "text": "〇〇は、東京市会議員（1期）、満洲映画協会東京支社長。"
             }
         ]
     }
