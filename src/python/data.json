@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年01月14日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=789774",
+                "title": "岩井昇山",
+                "text": "〇〇は、明治から昭和期の日本画家。"
+            },
+            {
                 "datetime": "2025年01月14日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=75849",
                 "title": "押阪忍",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=807746",
                 "title": "丹波新聞社",
                 "text": "〇〇は、兵庫県丹波市に本社を置く日本の新聞社。丹波新聞の発行元である。"
-            },
-            {
-                "datetime": "2025年01月13日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2884059",
-                "title": "八日市町",
-                "text": "〇〇は、滋賀県神崎郡にあった町。現在の東近江市の中心部にあたる。"
             }
         ]
     }
