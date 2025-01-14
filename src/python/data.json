@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年01月15日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1715972",
+                "title": "滋賀ゴルフ倶楽部",
+                "text": "〇〇は、滋賀県甲賀市にあるメンバーシップ制のゴルフ場。"
+            },
+            {
                 "datetime": "2025年01月15日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4910477",
                 "title": "ニコニコ VOCALOID SONGS TOP20",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=896550",
                 "title": "テッラッツォ",
                 "text": "〇〇は、イタリア共和国ヴェネト州ヴェローナ県にある、人口約2,100人の基礎自治体（コムーネ）。"
-            },
-            {
-                "datetime": "2025年01月13日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2943638",
-                "title": "ユービー・ブレイク",
-                "text": "〇〇は、アメリカ合衆国の作曲家、作詞家、ラグタイム/ジャズ/ポップスのピアニスト。1921年、長年の相方ノーブル・シスルと組んで、ブロードウェイ・ミュージカル『シャッフル・アロング』を書く。これが、世界初の黒人によるミュージカル作品となった。「Bandana Days」「Charleston Rag」「Love Will Find A Way」「あなたの思い出 (Memories of You)」「I'm Just Wild About Harry」などがヒット。1978年開幕のミュージカル『ユービー!』は彼の作品をまとめたものである。"
             }
         ]
     }
