@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年01月14日 11時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2535470",
+                "title": "日産プリンス岩手販売",
+                "text": "〇〇は、岩手県盛岡市に本社を置く日産自動車の販売会社である。"
+            },
+            {
                 "datetime": "2025年01月14日 10時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1926067",
                 "title": "酒田市福祉乗合バス",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4717142",
                 "title": "アイアンプレッジ",
                 "text": "〇〇は、2021年の日本の短編アニメーション映画。"
-            },
-            {
-                "datetime": "2025年01月12日 19時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1875236",
-                "title": "ジャン・スタブリンスキ",
-                "text": "〇〇は、フランスの名自転車競技、ロードレース選手。"
             }
         ]
     }
