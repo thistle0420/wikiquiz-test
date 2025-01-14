@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年01月14日 09時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1235311",
+                "title": "アングレーム国際漫画祭",
+                "text": "〇〇は、ヨーロッパ最大級のバンド・デシネのイベントである。1974年よりフランス、アングレーム市が開催している。フランスで最も古い漫画関連のイベントであり、「漫画界におけるカンヌ」とも言われている。"
+            },
+            {
                 "datetime": "2025年01月14日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4638365",
                 "title": "ビオセボン・ジャポン",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4847724",
                 "title": "井土太良",
                 "text": "〇〇は、日本の経営者。SBI証券社長を務めた。"
-            },
-            {
-                "datetime": "2025年01月12日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4191823",
-                "title": "C25H42N7O17P3S",
-                "text": "〇〇は、ブチリルCoAイソブチリルCoA"
             }
         ]
     }
