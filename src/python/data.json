@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年01月14日 12時の問題",
+                "url": "https://ja.wikipedia.org/?curid=314940",
+                "title": "京都府道656号間人大宮線",
+                "text": "〇〇は、京都府京丹後市を通る一般府道である。"
+            },
+            {
                 "datetime": "2025年01月14日 11時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2535470",
                 "title": "日産プリンス岩手販売",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=800861",
                 "title": "山梨県立飯田野球場",
                 "text": "〇〇は、山梨県甲府市飯田にある野球場。施設は山梨県が所有し、株式会社富士グリーンテックが指定管理者として管理運営を行っている。"
-            },
-            {
-                "datetime": "2025年01月12日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4717142",
-                "title": "アイアンプレッジ",
-                "text": "〇〇は、2021年の日本の短編アニメーション映画。"
             }
         ]
     }
