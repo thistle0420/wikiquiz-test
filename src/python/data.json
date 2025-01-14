@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年01月14日 13時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4345223",
+                "title": "喜劇王",
+                "text": "〇〇は、1999年公開の香港の映画。チャウ・シンチー（周星馳）監督作品。日本では2000年に公開された。"
+            },
+            {
                 "datetime": "2025年01月14日 12時の問題",
                 "url": "https://ja.wikipedia.org/?curid=314940",
                 "title": "京都府道656号間人大宮線",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1554971",
                 "title": "Data Access Objects",
                 "text": "〇〇は、Microsoft Windows でのデータベースアクセスのための汎用APIである。オブジェクト指向設計で使う。"
-            },
-            {
-                "datetime": "2025年01月12日 21時の問題",
-                "url": "https://ja.wikipedia.org/?curid=800861",
-                "title": "山梨県立飯田野球場",
-                "text": "〇〇は、山梨県甲府市飯田にある野球場。施設は山梨県が所有し、株式会社富士グリーンテックが指定管理者として管理運営を行っている。"
             }
         ]
     }
