@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年01月15日 06時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4910477",
+                "title": "ニコニコ VOCALOID SONGS TOP20",
+                "text": "〇〇は、Billboard JAPANによって発表される日本の音楽チャート。ニコニコ動画上におけるVOCALOID等の音声合成ソフトウェアによって作成された楽曲の人気を測るチャートである。"
+            },
+            {
                 "datetime": "2025年01月15日 05時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1978499",
                 "title": "明日のよいち! キャラクターソング",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2943638",
                 "title": "ユービー・ブレイク",
                 "text": "〇〇は、アメリカ合衆国の作曲家、作詞家、ラグタイム/ジャズ/ポップスのピアニスト。1921年、長年の相方ノーブル・シスルと組んで、ブロードウェイ・ミュージカル『シャッフル・アロング』を書く。これが、世界初の黒人によるミュージカル作品となった。「Bandana Days」「Charleston Rag」「Love Will Find A Way」「あなたの思い出 (Memories of You)」「I'm Just Wild About Harry」などがヒット。1978年開幕のミュージカル『ユービー!』は彼の作品をまとめたものである。"
-            },
-            {
-                "datetime": "2025年01月13日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2844",
-                "title": "ファクシミリ",
-                "text": "〇〇は、文字や図形、写真などの静止画像を、電気信号に変換して送受信する通信方式、またはその用途で使用する機器である。通称はFAX（ファックスまたはファクス）。"
             }
         ]
     }
