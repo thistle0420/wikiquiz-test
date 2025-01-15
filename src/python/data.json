@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年01月16日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3931047",
+                "title": "HELLO WORLD (アニメ映画)",
+                "text": "〇〇は、2019年9月20日公開の日本のアニメーション映画。"
+            },
+            {
                 "datetime": "2025年01月15日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2519525",
                 "title": "Don't Give Up Yourself!!",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1235311",
                 "title": "アングレーム国際漫画祭",
                 "text": "〇〇は、ヨーロッパ最大級のバンド・デシネのイベントである。1974年よりフランス、アングレーム市が開催している。フランスで最も古い漫画関連のイベントであり、「漫画界におけるカンヌ」とも言われている。"
-            },
-            {
-                "datetime": "2025年01月14日 08時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4638365",
-                "title": "ビオセボン・ジャポン",
-                "text": "〇〇は、東京都中央区に本社を置く日本の小売事業者で、イオン株式会社の子会社。"
             }
         ]
     }
