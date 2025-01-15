@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年01月16日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=5014693",
+                "title": "下妻市立千代川中学校",
+                "text": "〇〇は、茨城県下妻市鎌庭2777番地にある公立中学校。市域南部の一帯を校区とする。"
+            },
+            {
                 "datetime": "2025年01月16日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3110352",
                 "title": "北条新九郎",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=75849",
                 "title": "押阪忍",
                 "text": "〇〇は、日本のフリーアナウンサー、司会者、タレント、芸能プロモーター。元日本教育テレビ（NETテレビ、現在のテレビ朝日）アナウンサー。"
-            },
-            {
-                "datetime": "2025年01月14日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3581107",
-                "title": "安宅晃樹",
-                "text": "〇〇は、フジテレビのアナウンサー、記者。"
             }
         ]
     }
