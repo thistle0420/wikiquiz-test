@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年01月16日 03時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1206485",
+                "title": "POLYPHONIC MEETING",
+                "text": "〇〇は、2002年に結成された男女2人組の音楽ユニット。通称「ポリフォ」。"
+            },
+            {
                 "datetime": "2025年01月16日 02時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1808386",
                 "title": "虎姫郵便局",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=314940",
                 "title": "京都府道656号間人大宮線",
                 "text": "〇〇は、京都府京丹後市を通る一般府道である。"
-            },
-            {
-                "datetime": "2025年01月14日 11時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2535470",
-                "title": "日産プリンス岩手販売",
-                "text": "〇〇は、岩手県盛岡市に本社を置く日産自動車の販売会社である。"
             }
         ]
     }
