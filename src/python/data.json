@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年01月15日 17時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1821838",
+                "title": "巻紙分析",
+                "text": "〇〇は、日本の伝統的な工程分析・改善手法。"
+            },
+            {
                 "datetime": "2025年01月15日 16時の問題",
                 "url": "https://ja.wikipedia.org/?curid=9045",
                 "title": "倶知安町",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1260753",
                 "title": "福井県道218号新道安賀里線",
                 "text": "〇〇は、福井県三方上中郡若狭町内にある一般県道である。"
-            },
-            {
-                "datetime": "2025年01月14日 01時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3469239",
-                "title": "李存渥",
-                "text": "〇〇は、後唐の太祖李克用の五男。母は貞簡皇后。荘宗李存勗の同母弟。"
             }
         ]
     }
