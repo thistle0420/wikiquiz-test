@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年01月16日 19時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3337625",
+                "title": "ルーカス・ギルバートソン",
+                "text": "〇〇は、カナダの男性声優。"
+            },
+            {
                 "datetime": "2025年01月16日 18時の問題",
                 "url": "https://ja.wikipedia.org/?curid=350443",
                 "title": "護送船団方式",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=788638",
                 "title": "チュメニ油田",
                 "text": "〇〇は、ロシア連邦の西シベリアのチュメニ州とトムスク州にまたがる油田。西シベリア低地一帯に広がっている。中心はオビ川中流域に位置するサモトロール油田。"
-            },
-            {
-                "datetime": "2025年01月15日 03時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4405448",
-                "title": "ジェントル",
-                "text": "〇〇は、日本の俳優。G-STAR.PRO所属。"
             }
         ]
     }
