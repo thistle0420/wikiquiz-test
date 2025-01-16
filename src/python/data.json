@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年01月17日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4244617",
+                "title": "名古屋市立徳重小学校",
+                "text": "〇〇は、愛知県名古屋市緑区徳重にある公立小学校。"
+            },
+            {
                 "datetime": "2025年01月17日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3079382",
                 "title": "稲場愛香",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=9045",
                 "title": "倶知安町",
                 "text": "〇〇は、北海道虻田郡にある町。後志総合振興局所在地。"
-            },
-            {
-                "datetime": "2025年01月15日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2267712",
-                "title": "中山和子",
-                "text": "〇〇は、日本近代文学研究者。明治大学名誉教授。旧姓は永井。"
             }
         ]
     }
