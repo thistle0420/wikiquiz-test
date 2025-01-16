@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年01月16日 09時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2051088",
+                "title": "菊地宏",
+                "text": "〇〇は、日本の建築家。武蔵野美術大学造形学部建築学科教授。〇〇建築設計事務所主宰。東京理科大学大学院修了。"
+            },
+            {
                 "datetime": "2025年01月16日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=5014693",
                 "title": "下妻市立千代川中学校",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=789774",
                 "title": "岩井昇山",
                 "text": "〇〇は、明治から昭和期の日本画家。"
-            },
-            {
-                "datetime": "2025年01月14日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=75849",
-                "title": "押阪忍",
-                "text": "〇〇は、日本のフリーアナウンサー、司会者、タレント、芸能プロモーター。元日本教育テレビ（NETテレビ、現在のテレビ朝日）アナウンサー。"
             }
         ]
     }
