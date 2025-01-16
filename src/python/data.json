@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年01月17日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=70314",
+                "title": "SMBC日興証券",
+                "text": "〇〇は、 東京都千代田区丸の内に本社を置く、三井住友フィナンシャルグループ（SMFG）傘下の証券会社。"
+            },
+            {
                 "datetime": "2025年01月17日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4244617",
                 "title": "名古屋市立徳重小学校",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1821838",
                 "title": "巻紙分析",
                 "text": "〇〇は、日本の伝統的な工程分析・改善手法。"
-            },
-            {
-                "datetime": "2025年01月15日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=9045",
-                "title": "倶知安町",
-                "text": "〇〇は、北海道虻田郡にある町。後志総合振興局所在地。"
             }
         ]
     }
