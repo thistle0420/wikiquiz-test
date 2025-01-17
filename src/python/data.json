@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年01月17日 09時の問題",
+                "url": "https://ja.wikipedia.org/?curid=203659",
+                "title": "織田信興",
+                "text": "〇〇は、戦国時代から安土桃山時代にかけての武将。織田氏の家臣。織田信秀の7男で織田信長の弟。"
+            },
+            {
                 "datetime": "2025年01月17日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=70314",
                 "title": "SMBC日興証券",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4971418",
                 "title": "勝手にオネーサン",
                 "text": "〇〇は、日本の動画クリエーター、インフルエンサー。"
-            },
-            {
-                "datetime": "2025年01月15日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1821838",
-                "title": "巻紙分析",
-                "text": "〇〇は、日本の伝統的な工程分析・改善手法。"
             }
         ]
     }
