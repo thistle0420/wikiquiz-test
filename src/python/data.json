@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年01月17日 15時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4706433",
+                "title": "観音寺 (柏市)",
+                "text": "〇〇は、千葉県柏市にある真言宗豊山派の寺院。"
+            },
+            {
                 "datetime": "2025年01月17日 14時の問題",
                 "url": "https://ja.wikipedia.org/?curid=156220",
                 "title": "名古屋造形大学",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3931047",
                 "title": "HELLO WORLD (アニメ映画)",
                 "text": "〇〇は、2019年9月20日公開の日本のアニメーション映画。"
-            },
-            {
-                "datetime": "2025年01月15日 23時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2519525",
-                "title": "Don't Give Up Yourself!!",
-                "text": "〇〇は、2011年7月6日に発売されたHAN-KUN（湘南乃風）の4枚目のシングルである。発売元はトイズファクトリー。"
             }
         ]
     }
