@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年01月17日 16時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3485244",
+                "title": "豊場",
+                "text": "〇〇は、愛知県西春日井郡豊山町の大字である。"
+            },
+            {
                 "datetime": "2025年01月17日 15時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4706433",
                 "title": "観音寺 (柏市)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2466218",
                 "title": "新和村 (青森県)",
                 "text": "〇〇は、かつて青森県津軽地方（中津軽郡）にあった村。"
-            },
-            {
-                "datetime": "2025年01月16日 00時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3931047",
-                "title": "HELLO WORLD (アニメ映画)",
-                "text": "〇〇は、2019年9月20日公開の日本のアニメーション映画。"
             }
         ]
     }
