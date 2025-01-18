@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年01月18日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3145461",
+                "title": "松井庄村",
+                "text": "〇〇は、兵庫県多可郡にあった村。現在の多可町加美区の南半にあたる。"
+            },
+            {
                 "datetime": "2025年01月18日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=245541",
                 "title": "白元",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3335062",
                 "title": "ロブ・ラックストロー",
                 "text": "〇〇は、イギリスの声優。サンダーランド出身。"
-            },
-            {
-                "datetime": "2025年01月17日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2656902",
-                "title": "ジャハラー県",
-                "text": "〇〇は、クウェートの県である。日本語では「ジャハラ州」とも表記される。県都はジャハラー。"
             }
         ]
     }
