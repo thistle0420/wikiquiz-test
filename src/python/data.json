@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年01月18日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4728823",
+                "title": "マイク・ホワイト (レーサー)",
+                "text": "〇〇は、南アフリカのレーシングドライバー。"
+            },
+            {
                 "datetime": "2025年01月18日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2800349",
                 "title": "佐橋法龍",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=944128",
                 "title": "あさぎ色の伝説",
                 "text": "〇〇は、和田慎二による日本の漫画作品。1976年から1990年に『LaLa』と『花とゆめEPO』（いずれも白泉社）で連載された。"
-            },
-            {
-                "datetime": "2025年01月16日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4710807",
-                "title": "第54回明治神宮野球大会",
-                "text": "〇〇は、2023年11月15日から11月20日まで明治神宮野球場で開催された学生野球の大会である。"
             }
         ]
     }
