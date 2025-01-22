@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年01月23日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=997848",
+                "title": "増野彰",
+                "text": "〇〇は、日本の元男子バレーボール選手。"
+            },
+            {
                 "datetime": "2025年01月23日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4802867",
                 "title": "マイラ・ブエノ・シウバ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4105868",
                 "title": "阿恵官衙遺跡",
                 "text": "〇〇は、福岡県糟屋郡粕屋町にある、飛鳥時代から奈良時代にかけての筑前国糟屋評（かすやのこおり）の役所跡とされる遺跡。国の史跡に指定されている。"
-            },
-            {
-                "datetime": "2025年01月21日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4094607",
-                "title": "中村隼明",
-                "text": "〇〇は、日本の農学者。"
             }
         ]
     }
