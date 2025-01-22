@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年01月23日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4802867",
+                "title": "マイラ・ブエノ・シウバ",
+                "text": "〇〇は、ブラジルの女性総合格闘家。ミナスジェライス州ウベルランジア出身。アメリカン・トップチーム所属。UFC世界女子バンタム級ランキング6位。"
+            },
+            {
                 "datetime": "2025年01月23日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4938819",
                 "title": "西島出町",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4094607",
                 "title": "中村隼明",
                 "text": "〇〇は、日本の農学者。"
-            },
-            {
-                "datetime": "2025年01月21日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3071809",
-                "title": "斎藤末逸",
-                "text": "〇〇は、大阪府出身のプロ野球選手（二塁手、三塁手、遊撃手）。"
             }
         ]
     }
