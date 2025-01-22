@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年01月22日 19時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4819717",
+                "title": "エミール・マッセ",
+                "text": "〇〇は、明治時代にお雇い外国人として来日したフランスの医師である。"
+            },
+            {
                 "datetime": "2025年01月22日 18時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2944745",
                 "title": "カリフォルニア征服",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4192442",
                 "title": "テリー・ボーラウア",
                 "text": "〇〇は、フランスのラグビー選手。"
-            },
-            {
-                "datetime": "2025年01月21日 03時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4988829",
-                "title": "三輪神社 (北杜市)",
-                "text": "〇〇は、山梨県北杜市須玉町若神子（わかみこ）820にある神社。社格は旧村社。"
             }
         ]
     }
