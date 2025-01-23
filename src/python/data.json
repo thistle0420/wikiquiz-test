@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年01月24日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3207644",
+                "title": "喬貴妃",
+                "text": "〇〇は、北宋の徽宗の貴妃。"
+            },
+            {
                 "datetime": "2025年01月24日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=648167",
                 "title": "錢高組",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4673952",
                 "title": "日本語と朝鮮語の比較",
                 "text": "〇〇は、〇〇（にほんごとちょうせんごのひかく、英語:Comparison of Japanese and Korean、韓:한국어와 일본어의 비교、朝: 조선어와 일본어의 비교）について述べる。"
-            },
-            {
-                "datetime": "2025年01月22日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1769828",
-                "title": "ホルスト・シュテッヒバルト",
-                "text": "〇〇は、旧ドイツ民主共和国（東ドイツ）の軍人。1972年から1989年まで、副国防相および国家人民軍地上軍（東ドイツ陸軍）総司令官を務めた。"
             }
         ]
     }
