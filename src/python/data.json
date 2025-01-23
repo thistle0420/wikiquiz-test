@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年01月23日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3964276",
+                "title": "岐阜県立土岐高等学校釜戸分校",
+                "text": "〇〇は、かつて岐阜県土岐郡釜戸村（現・瑞浪市釜戸町）にあった公立の高等学校の分校。"
+            },
+            {
                 "datetime": "2025年01月23日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2289246",
                 "title": "草津市立渋川小学校",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3494513",
                 "title": "名なし草",
                 "text": "〇〇は、1967年2月15日に ビクターより発売された橋幸夫の87枚目のシングル（SV-521）。"
-            },
-            {
-                "datetime": "2025年01月22日 04時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3917209",
-                "title": "ただ一度の人生",
-                "text": "〇〇は、1986年4月23日にTBS系列で放映されたテレビドラマ。"
             }
         ]
     }
