@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年01月25日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4085098",
+                "title": "レオン・クラーク",
+                "text": "〇〇は、イングランドのサッカー選手。ポジションはFW。シュルーズベリー・タウンFC所属。"
+            },
+            {
                 "datetime": "2025年01月24日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2094139",
                 "title": "ジム・ケリー (空手)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4405336",
                 "title": "コナー・ウォン",
                 "text": "〇〇は、 アメリカ合衆国テキサス州ヒューストン出身のプロ野球選手（捕手）。右投右打。MLBのボストン・レッドソックス所属。"
-            },
-            {
-                "datetime": "2025年01月23日 08時の問題",
-                "url": "https://ja.wikipedia.org/?curid=997848",
-                "title": "増野彰",
-                "text": "〇〇は、日本の元男子バレーボール選手。"
             }
         ]
     }
