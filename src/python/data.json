@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年01月26日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3568471",
+                "title": "広瀬道明",
+                "text": "〇〇は、日本の実業家。東京ガス元社長。東京都公安委員会委員長。"
+            },
+            {
                 "datetime": "2025年01月26日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4442298",
                 "title": "ホイップド・クリーム&アザー・ディライツ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=869640",
                 "title": "鉄男",
                 "text": "〇〇は、1989年に公開された塚本晋也監督による日本映画作品。"
-            },
-            {
-                "datetime": "2025年01月24日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=375151",
-                "title": "月極ラジオ",
-                "text": "〇〇は、MBSラジオで放送されていた土曜深夜のラジオ番組。"
             }
         ]
     }
