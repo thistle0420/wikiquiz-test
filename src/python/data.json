@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年01月26日 15時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1094021",
+                "title": "ショーン・ケリー",
+                "text": "〇〇は、エディ・メルクスに次ぐ歴代2位。"
+            },
+            {
                 "datetime": "2025年01月26日 14時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2538201",
                 "title": "屋久島国立公園",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4085098",
                 "title": "レオン・クラーク",
                 "text": "〇〇は、イングランドのサッカー選手。ポジションはFW。シュルーズベリー・タウンFC所属。"
-            },
-            {
-                "datetime": "2025年01月24日 23時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2094139",
-                "title": "ジム・ケリー (空手)",
-                "text": "〇〇は、アメリカ合衆国ケンタッキー州バーボン郡出身の俳優、空手家。日本では『燃えよドラゴン』のアフロヘアーの空手家役で知られる。"
             }
         ]
     }
