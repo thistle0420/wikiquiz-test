@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年01月26日 13時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1377879",
+                "title": "スペイン辺境領",
+                "text": "〇〇は、フランク王国のカール大帝によって設置された辺境領。"
+            },
+            {
                 "datetime": "2025年01月26日 12時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4920461",
                 "title": "ディレクトワール様式",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=757939",
                 "title": "森高南",
                 "text": "〇〇は、日本のAV女優。秋田県出身。"
-            },
-            {
-                "datetime": "2025年01月24日 21時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3316149",
-                "title": "ヤンゴン環状線",
-                "text": "〇〇は、ヤンゴン市内を走る全長45.9kmの環状線である。"
             }
         ]
     }
