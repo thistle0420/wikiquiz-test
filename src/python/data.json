@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年01月28日 01時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4262447",
+                "title": "医師養成課程を持つフィリピンの大学一覧",
+                "text": "〇〇は、医師の養成課程を有するフィリピンの大学の一覧を示す。"
+            },
+            {
                 "datetime": "2025年01月28日 00時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4919349",
                 "title": "葉山風花",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3514119",
                 "title": "ぷよぷよクロニクル",
                 "text": "〇〇は、セガゲームスより2016年12月8日に発売されたニンテンドー3DS用ゲームソフト。"
-            },
-            {
-                "datetime": "2025年01月26日 09時の問題",
-                "url": "https://ja.wikipedia.org/?curid=5019958",
-                "title": "アシミウ・トゥーレ",
-                "text": "〇〇は、トーゴの元サッカー選手。元トーゴ代表。ポジションはディフェンダー。"
             }
         ]
     }
