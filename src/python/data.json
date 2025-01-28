@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年01月28日 15時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4386703",
+                "title": "ミーガン・パーク",
+                "text": "〇〇は、カナダの女優、歌手、映画監督。テレビシリーズ『The Secret Life of the American Teenager』のグレース・ボウマン役で知られている 。"
+            },
+            {
                 "datetime": "2025年01月28日 14時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1569480",
                 "title": "1969年バスケットボール男子欧州選手権",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4301860",
                 "title": "花散る宮廷の女たち〜愛と裏切りの生涯〜",
                 "text": "〇〇は、2017年の中国のテレビドラマ。全37話。"
-            },
-            {
-                "datetime": "2025年01月26日 23時の問題",
-                "url": "https://ja.wikipedia.org/?curid=309597",
-                "title": "ハンドウイルカ",
-                "text": "〇〇は、クジラ目ハクジラ亜目マイルカ科〇〇属に属するイルカである。バンドウイルカ（坂東海豚）と呼ばれることが多い。最も良く知られたイルカの一つであり、熱帯~温帯の陸近くの世界中の海に生息する。"
             }
         ]
     }
