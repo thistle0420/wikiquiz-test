@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年01月30日 06時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1730861",
+                "title": "キャピラノ大学",
+                "text": "〇〇は、学部課程のみを持つカナダ・ブリティッシュコロンビア州の大学。キャピラノ・カレッジ（英: Capilano College）を前身とする。ブリティッシュコロンビア州ノースバンクーバー地区に本拠を置く州立の総合大学。"
+            },
+            {
                 "datetime": "2025年01月30日 05時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4901237",
                 "title": "シデナム準男爵",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4386703",
                 "title": "ミーガン・パーク",
                 "text": "〇〇は、カナダの女優、歌手、映画監督。テレビシリーズ『The Secret Life of the American Teenager』のグレース・ボウマン役で知られている 。"
-            },
-            {
-                "datetime": "2025年01月28日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1569480",
-                "title": "1969年バスケットボール男子欧州選手権",
-                "text": "〇〇は、イタリアで開催されたバスケットボール欧州選手権男子大会。通称「ユーロバスケット1969」。"
             }
         ]
     }
