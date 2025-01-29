@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年01月29日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1957006",
+                "title": "第75回ニューヨーク映画批評家協会賞",
+                "text": "〇〇は、2009年の優秀な映画に贈られた賞である。2009年12月14日に発表された。"
+            },
+            {
                 "datetime": "2025年01月29日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4905103",
                 "title": "神々の愛 (カラッチ)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2171083",
                 "title": "相澤奈美",
                 "text": "〇〇は、日本のグラビアアイドル。"
-            },
-            {
-                "datetime": "2025年01月27日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4092457",
-                "title": "海野三朗",
-                "text": "〇〇は、大正・昭和期の冶金学者、僧侶、政治家。衆議院議員、参議院議員、理学博士。"
             }
         ]
     }
