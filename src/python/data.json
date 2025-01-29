@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年01月29日 19時の問題",
+                "url": "https://ja.wikipedia.org/?curid=90673",
+                "title": "Purple software",
+                "text": "〇〇は、株式会社クリアブルーコミュニケーションズのアダルトゲームブランド。"
+            },
+            {
                 "datetime": "2025年01月29日 18時の問題",
                 "url": "https://ja.wikipedia.org/?curid=7272",
                 "title": "男性",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2331558",
                 "title": "2度目の恋は嘘つき",
                 "text": "〇〇は、畑亜希美による日本の漫画作品。『プチコミック』（小学館）にて2010年12月号から2012年9月号まで連載された。単行本は全5巻。"
-            },
-            {
-                "datetime": "2025年01月28日 03時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1588928",
-                "title": "ブルザ級駆逐艦",
-                "text": "〇〇は、ポーランド海軍がフランスより購入した駆逐艦の艦級（Niszczyciel）で、2隻が就役した。"
             }
         ]
     }
