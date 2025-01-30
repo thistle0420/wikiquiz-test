@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年01月30日 23時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1091293",
+                "title": "土屋久美子",
+                "text": "〇〇は、日本の女優。"
+            },
+            {
                 "datetime": "2025年01月30日 22時の問題",
                 "url": "https://ja.wikipedia.org/?curid=5017962",
                 "title": "オリバー・ラスムッセン",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2399864",
                 "title": "エドガー賞 長編賞",
                 "text": "〇〇は、アメリカ探偵作家クラブが授与するエドガー賞の部門の1つ。優れた長編推理小説に与えられる。"
-            },
-            {
-                "datetime": "2025年01月29日 07時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1958871",
-                "title": "ホッカイセレス",
-                "text": "〇〇は、日本の競走馬、繁殖牝馬。主な勝ち鞍に1994年の中山牝馬ステークス、府中牝馬ステークス。"
             }
         ]
     }
