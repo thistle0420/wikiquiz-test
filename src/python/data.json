@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年01月31日 11時の問題",
+                "url": "https://ja.wikipedia.org/?curid=598297",
+                "title": "埼玉県立入間高等学校",
+                "text": "〇〇は、埼玉県入間市小谷田に所在した公立の高等学校。略称は「間高」（まこう）。2013年3月をもって閉校した。"
+            },
+            {
                 "datetime": "2025年01月31日 10時の問題",
                 "url": "https://ja.wikipedia.org/?curid=865217",
                 "title": "岩戸町",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=319061",
                 "title": "コル・レーニョ",
                 "text": "〇〇は、ヴァイオリン属などの弓で弾く弦楽器（擦弦楽器）における特殊奏法の一つで、弓の毛ではなく、木製の棹の部分を用いて音を出す奏法を指す。"
-            },
-            {
-                "datetime": "2025年01月29日 19時の問題",
-                "url": "https://ja.wikipedia.org/?curid=90673",
-                "title": "Purple software",
-                "text": "〇〇は、株式会社クリアブルーコミュニケーションズのアダルトゲームブランド。"
             }
         ]
     }
