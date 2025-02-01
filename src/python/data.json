@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年02月01日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2684640",
+                "title": "パルィギン・ボリス",
+                "text": "〇〇は、ロシアの哲学者であり心理学者。"
+            },
+            {
                 "datetime": "2025年02月01日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3936494",
                 "title": "EMOE",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1091293",
                 "title": "土屋久美子",
                 "text": "〇〇は、日本の女優。"
-            },
-            {
-                "datetime": "2025年01月30日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=5017962",
-                "title": "オリバー・ラスムッセン",
-                "text": "〇〇は、デンマークのレーシングドライバー。"
             }
         ]
     }
