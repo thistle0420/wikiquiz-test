@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年02月01日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4682266",
+                "title": "伊藤學",
+                "text": "〇〇は、日本の工学者、東京大学名誉教授、学位は工学博士。専攻は土木工学。"
+            },
+            {
                 "datetime": "2025年02月01日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4219377",
                 "title": "動詞名詞",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4788557",
                 "title": "キム・ダイン",
                 "text": "〇〇は、韓国の女子バレーボール選手である。"
-            },
-            {
-                "datetime": "2025年01月31日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=612108",
-                "title": "黒沢保裕",
-                "text": "〇〇は、東京都八王子市出身のNHKのシニアアナウンサー。"
             }
         ]
     }
