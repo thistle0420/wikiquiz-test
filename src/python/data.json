@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年02月02日 04時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1577882",
+                "title": "ブレックファースト・オブ・チャンピオンズ",
+                "text": "〇〇は、1999年に製作されたブルース・ウィリス主演のブラック・コメディである。アラン・ルドルフ監督。"
+            },
+            {
                 "datetime": "2025年02月02日 03時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4834114",
                 "title": "道井緑一郎",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1768373",
                 "title": "本間友紀乃",
                 "text": "〇〇は、日本の元子役である。2010年引退。"
-            },
-            {
-                "datetime": "2025年01月31日 12時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4590231",
-                "title": "平岩玄",
-                "text": "〇〇は、日本の男子プロバスケットボール選手である。ポジションはセンター。愛知県出身。B.LEAGUEのアルバルク東京所属。"
             }
         ]
     }
