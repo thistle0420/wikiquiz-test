@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年02月03日 06時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2409010",
+                "title": "ティス・ハーザリー駅",
+                "text": "〇〇は、インドデリー ティス・ハーザリ地域にあるデリー・メトロレッドラインの駅である。"
+            },
+            {
                 "datetime": "2025年02月03日 05時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4817491",
                 "title": "稲木 (海防艦)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1300988",
                 "title": "清水坂公園",
                 "text": "〇〇は、東京都北区十条仲原に設置された公立の公園施設。"
-            },
-            {
-                "datetime": "2025年02月01日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2684640",
-                "title": "パルィギン・ボリス",
-                "text": "〇〇は、ロシアの哲学者であり心理学者。"
             }
         ]
     }
