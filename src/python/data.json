@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年02月03日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1819405",
+                "title": "WWFインターナショナル・ヘビー級王座",
+                "text": "〇〇は、WWFが管理、認定していた王座。"
+            },
+            {
                 "datetime": "2025年02月03日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2409010",
                 "title": "ティス・ハーザリー駅",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=325134",
                 "title": "九鬼隆直",
                 "text": "〇〇は、江戸時代前期から中期にかけての大名。丹波国綾部藩3代藩主。官位は従五位下豊前守、長門守。"
-            },
-            {
-                "datetime": "2025年02月01日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1300988",
-                "title": "清水坂公園",
-                "text": "〇〇は、東京都北区十条仲原に設置された公立の公園施設。"
             }
         ]
     }
