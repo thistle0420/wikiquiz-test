@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年02月04日 06時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4023945",
+                "title": "浪江町立浪江中学校",
+                "text": "〇〇は、福島県双葉郡浪江町にあった公立中学校。"
+            },
+            {
                 "datetime": "2025年02月04日 05時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3361840",
                 "title": "大木市蔵",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4062225",
                 "title": "STM-1",
                 "text": "〇〇は、 SDH ITU-T 光ファイバー ネットワーク伝送規格である。 ビットレートは155.52 Mbit / sである。 より高いレベルは一度に4倍になる。現在サポートされている他のレベルはSTM-4 、 〇〇6 、 STM-64およびSTM-256である。 上記のSTM-256 波長分割多重 （WDM）は、海底ケーブルで一般的に使用されている。"
-            },
-            {
-                "datetime": "2025年02月02日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3644019",
-                "title": "ケンタウルス座カッパ星",
-                "text": "〇〇は、ケンタウルス座の恒星で3等星。"
             }
         ]
     }
