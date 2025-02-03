@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年02月04日 04時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1590638",
+                "title": "李青若",
+                "text": "〇〇は、在日韓国人三世の作家。"
+            },
+            {
                 "datetime": "2025年02月04日 03時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1778692",
                 "title": "第40回ブルーリボン賞 (鉄道)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3929667",
                 "title": "柴田四子吉",
                 "text": "〇〇は、日本の大工。"
-            },
-            {
-                "datetime": "2025年02月02日 12時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1060604",
-                "title": "豊明節会",
-                "text": "〇〇は、大嘗祭のあとに行われる節会の饗宴。大正以降は、大饗の儀（だいきょうのぎ）として執り行われている。"
             }
         ]
     }
