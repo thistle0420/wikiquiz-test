@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年02月04日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1595253",
+                "title": "漫画の描き方",
+                "text": "〇〇は、漫画講座ビデオ及び教則本のひとつ。"
+            },
+            {
                 "datetime": "2025年02月04日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4023945",
                 "title": "浪江町立浪江中学校",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=642213",
                 "title": "マーベル・ウイン (サッカー選手)",
                 "text": "〇〇は、アメリカ合衆国の元サッカー選手。"
-            },
-            {
-                "datetime": "2025年02月02日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4062225",
-                "title": "STM-1",
-                "text": "〇〇は、 SDH ITU-T 光ファイバー ネットワーク伝送規格である。 ビットレートは155.52 Mbit / sである。 より高いレベルは一度に4倍になる。現在サポートされている他のレベルはSTM-4 、 〇〇6 、 STM-64およびSTM-256である。 上記のSTM-256 波長分割多重 （WDM）は、海底ケーブルで一般的に使用されている。"
             }
         ]
     }
