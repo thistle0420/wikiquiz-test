@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年02月03日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3777903",
+                "title": "SEGA AGES",
+                "text": "〇〇は、セガサターンで誕生し、さまざまなハードで展開してきた復刻シリーズ。"
+            },
+            {
                 "datetime": "2025年02月03日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3917163",
                 "title": "甲府市立東小学校",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1931428",
                 "title": "What's flumpool!?",
                 "text": "〇〇は、flumpoolの1枚目のフルアルバム。2009年12月23日発売。"
-            },
-            {
-                "datetime": "2025年02月02日 04時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1577882",
-                "title": "ブレックファースト・オブ・チャンピオンズ",
-                "text": "〇〇は、1999年に製作されたブルース・ウィリス主演のブラック・コメディである。アラン・ルドルフ監督。"
             }
         ]
     }
