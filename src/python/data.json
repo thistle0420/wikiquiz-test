@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年02月03日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4925816",
+                "title": "七宝町徳実",
+                "text": "〇〇は、愛知県あま市の地名。"
+            },
+            {
                 "datetime": "2025年02月03日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3777903",
                 "title": "SEGA AGES",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1321837",
                 "title": "岩村城の戦い",
                 "text": "〇〇は、元亀3年（1572年）から天正3年（1575年）に美濃国恵那郡で起こった武田氏と織田氏の岩村城をめぐる戦い。"
-            },
-            {
-                "datetime": "2025年02月02日 05時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1931428",
-                "title": "What's flumpool!?",
-                "text": "〇〇は、flumpoolの1枚目のフルアルバム。2009年12月23日発売。"
             }
         ]
     }
