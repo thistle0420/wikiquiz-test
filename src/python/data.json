@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年02月04日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=84443",
+                "title": "航空機関砲",
+                "text": "〇〇は、航空機に搭載される機関砲。また本項では、同様に使用する機関銃についても述べる。"
+            },
+            {
                 "datetime": "2025年02月04日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1595253",
                 "title": "漫画の描き方",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4371602",
                 "title": "Laur",
                 "text": "〇〇は、日本の作曲家、編曲家、DJである。"
-            },
-            {
-                "datetime": "2025年02月02日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=642213",
-                "title": "マーベル・ウイン (サッカー選手)",
-                "text": "〇〇は、アメリカ合衆国の元サッカー選手。"
             }
         ]
     }
