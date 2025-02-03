@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年02月04日 05時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3361840",
+                "title": "大木市蔵",
+                "text": "〇〇は、日本の食肉加工技術者、畜産学者である。門下に多くの職人を育て上げ、「日本のソーセージの父」と称される。"
+            },
+            {
                 "datetime": "2025年02月04日 04時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1590638",
                 "title": "李青若",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3644019",
                 "title": "ケンタウルス座カッパ星",
                 "text": "〇〇は、ケンタウルス座の恒星で3等星。"
-            },
-            {
-                "datetime": "2025年02月02日 13時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3929667",
-                "title": "柴田四子吉",
-                "text": "〇〇は、日本の大工。"
             }
         ]
     }
