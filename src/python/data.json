@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年02月04日 22時の問題",
+                "url": "https://ja.wikipedia.org/?curid=626485",
+                "title": "石川大介",
+                "text": "〇〇は、日本の男性声優。かつてはトリトリオフィス所属、現在はフリー。東京都出身。"
+            },
+            {
                 "datetime": "2025年02月04日 21時の問題",
                 "url": "https://ja.wikipedia.org/?curid=18296",
                 "title": "デシベル",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1819405",
                 "title": "WWFインターナショナル・ヘビー級王座",
                 "text": "〇〇は、WWFが管理、認定していた王座。"
-            },
-            {
-                "datetime": "2025年02月03日 06時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2409010",
-                "title": "ティス・ハーザリー駅",
-                "text": "〇〇は、インドデリー ティス・ハーザリ地域にあるデリー・メトロレッドラインの駅である。"
             }
         ]
     }
