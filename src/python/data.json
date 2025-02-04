@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年02月04日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2228107",
+                "title": "藤北彩香",
+                "text": "〇〇は、日本の元AV女優。"
+            },
+            {
                 "datetime": "2025年02月04日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1764147",
                 "title": "福寿村",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2699624",
                 "title": "弥勒寺 (関市)",
                 "text": "〇〇は、岐阜県関市池尻にある天台寺門宗の寺院である。山号は龍華山。本尊は弥勒菩薩。"
-            },
-            {
-                "datetime": "2025年02月02日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2462519",
-                "title": "竜門寺直操",
-                "text": "〇〇は、室町時代中期の武将。赤松満祐の実弟。"
             }
         ]
     }
