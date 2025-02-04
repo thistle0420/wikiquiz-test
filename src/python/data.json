@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年02月04日 09時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1171452",
+                "title": "ナゴヤセントラルガーデン",
+                "text": "〇〇は、愛知県名古屋市千種区高見二丁目にある、ジェイアール東海不動産と三菱地所が共同で開発した、総戸数373戸の分譲マンションと商業施設からなる複合エリア。"
+            },
+            {
                 "datetime": "2025年02月04日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=84443",
                 "title": "航空機関砲",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4696810",
                 "title": "ナッタワット・ジローティクン",
                 "text": "〇〇は、フォース（タイ語: โฟร์ท、英語: Fourth）という愛称で知られるタイの俳優。"
-            },
-            {
-                "datetime": "2025年02月02日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4371602",
-                "title": "Laur",
-                "text": "〇〇は、日本の作曲家、編曲家、DJである。"
             }
         ]
     }
