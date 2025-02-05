@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年02月06日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=520779",
+                "title": "カール1世 (ヴュルテンベルク王)",
+                "text": "〇〇は、ヴュルテンベルク王国の第3代国王（在位：1864年 - 1891年）。ヴィルヘルム1世とその3番目の妃であったパウリーネ（1800年 - 1873年）の長男で、全名はカール・フリードリヒ・アレクサンダー（Karl Friedrich Alexander）。"
+            },
+            {
                 "datetime": "2025年02月06日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1592935",
                 "title": "UH-72 (航空機)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=312255",
                 "title": "ルールマラン",
                 "text": "〇〇は、ヴォクリューズ県アプト郡カドネ小郡の村(コミューン)。"
-            },
-            {
-                "datetime": "2025年02月04日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1995425",
-                "title": "国宝・彦根城築城400年祭",
-                "text": "〇〇は、滋賀県彦根市で開催された記念行事。"
             }
         ]
     }
