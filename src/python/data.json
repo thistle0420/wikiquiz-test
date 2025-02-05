@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年02月05日 22時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4798828",
+                "title": "村上晃彦",
+                "text": "〇〇は、日本の経営者。愛知県出身。"
+            },
+            {
                 "datetime": "2025年02月05日 21時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1902710",
                 "title": "スワンニー・スコンター",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1595253",
                 "title": "漫画の描き方",
                 "text": "〇〇は、漫画講座ビデオ及び教則本のひとつ。"
-            },
-            {
-                "datetime": "2025年02月04日 06時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4023945",
-                "title": "浪江町立浪江中学校",
-                "text": "〇〇は、福島県双葉郡浪江町にあった公立中学校。"
             }
         ]
     }
