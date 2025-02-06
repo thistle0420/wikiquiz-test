@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年02月07日 06時の問題",
+                "url": "https://ja.wikipedia.org/?curid=958179",
+                "title": "ヴォルフガング・シュルツ",
+                "text": "〇〇は、オーストリアのフルート演奏家。"
+            },
+            {
                 "datetime": "2025年02月07日 05時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3445076",
                 "title": "アルギルダス (曖昧さ回避)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=878177",
                 "title": "疏附県",
                 "text": "〇〇は、中華人民共和国新疆ウイグル自治区カシュガル地区に位置する県。"
-            },
-            {
-                "datetime": "2025年02月05日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=245686",
-                "title": "愛知県立豊橋南高等学校",
-                "text": "〇〇は、愛知県豊橋市南大清水町字元町にある県立高等学校。"
             }
         ]
     }
