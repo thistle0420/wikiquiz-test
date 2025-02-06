@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年02月06日 17時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2259845",
+                "title": "わが名は小学生",
+                "text": "〇〇は、2011年1月26日にGloryHeavenから発売されたシングル。"
+            },
+            {
                 "datetime": "2025年02月06日 16時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1856179",
                 "title": "マウント・アイザ線",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=980890",
                 "title": "第4回立法院議員総選挙",
                 "text": "〇〇は、1958年3月16日に行われた琉球政府の立法院議員選挙である。"
-            },
-            {
-                "datetime": "2025年02月05日 01時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3723510",
-                "title": "ブンゼン電池",
-                "text": "〇〇は、亜鉛-炭素一次電池。硝酸もしくはクロム酸の炭素カソードと、それから多孔質ポットで隔離された希硫酸中の亜鉛アノードからなる。"
             }
         ]
     }
