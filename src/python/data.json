@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年02月07日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=102036",
+                "title": "浜松ケーブルテレビ",
+                "text": "〇〇は、静岡県浜松市中央区に本社を置くケーブルテレビ局。愛称はウィンディ（旧愛称はケーブル・ウィンディ）。"
+            },
+            {
                 "datetime": "2025年02月06日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4172916",
                 "title": "李周午",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=183589",
                 "title": "田立駅",
                 "text": "〇〇は、長野県木曽郡南木曽町田立にある、東海旅客鉄道（JR東海）中央本線の駅。長野県最西端の駅である。"
-            },
-            {
-                "datetime": "2025年02月05日 08時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4035667",
-                "title": "LD-8100",
-                "text": "〇〇は、パイオニアが1985年に発売したレーザーディスクプレーヤーである。"
             }
         ]
     }
