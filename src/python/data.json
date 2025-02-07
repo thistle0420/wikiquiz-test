@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年02月08日 05時の問題",
+                "url": "https://ja.wikipedia.org/?curid=145561",
+                "title": "西別院駅",
+                "text": "〇〇は、福井県福井市松本三丁目にある、えちぜん鉄道三国芦原線の駅である。駅番号はE25。"
+            },
+            {
                 "datetime": "2025年02月08日 04時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2800034",
                 "title": "桜Trick",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=398463",
                 "title": "小岩井久美子",
                 "text": "〇〇は、日本の元フィギュアスケート選手（女子シングル）。1993年世界ジュニア選手権優勝、1995年世界選手権日本代表（16位）。"
-            },
-            {
-                "datetime": "2025年02月06日 13時の問題",
-                "url": "https://ja.wikipedia.org/?curid=365778",
-                "title": "袋田バイパス",
-                "text": "〇〇は、茨城県久慈郡大子町内を通る国道118号のバイパスである。"
             }
         ]
     }
