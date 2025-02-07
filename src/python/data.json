@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年02月07日 13時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4476395",
+                "title": "サイモン記念賞",
+                "text": "〇〇は、英国物理学会が授与する物理学の賞。実験・理論低温物理学の卓越した業績に対して3年に一度授与される。"
+            },
+            {
                 "datetime": "2025年02月07日 12時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3361414",
                 "title": "カク (姓)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4798828",
                 "title": "村上晃彦",
                 "text": "〇〇は、日本の経営者。愛知県出身。"
-            },
-            {
-                "datetime": "2025年02月05日 21時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1902710",
-                "title": "スワンニー・スコンター",
-                "text": "〇〇は、タイ王国の作家。本名は、スワンニー・スコンティヤン（สุวรรณี สุคนธ์เที่ยง）。"
             }
         ]
     }
