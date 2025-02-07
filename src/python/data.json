@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年02月07日 09時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2504618",
+                "title": "中川中学校",
+                "text": "〇〇は、日本の公立中学校。"
+            },
+            {
                 "datetime": "2025年02月07日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1099734",
                 "title": "Myself ; Yourself",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2173886",
                 "title": "壬生中将",
                 "text": "〇〇は、日本の男性声優。主にアダルトゲームに声をあてている。"
-            },
-            {
-                "datetime": "2025年02月05日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3240410",
-                "title": "UEFA欧州女子選手権2017",
-                "text": "〇〇は、2017年7月16日から8月6日にかけて、オランダで開催された第12回目のUEFA欧州女子選手権（女子EURO）である。この大会から本大会の出場枠がこれまでの12か国から16か国に拡大された。"
             }
         ]
     }
