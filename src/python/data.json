@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年02月07日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3718761",
+                "title": "リベンジgirl",
+                "text": "〇〇は、初登場11位だった。"
+            },
+            {
                 "datetime": "2025年02月07日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4476395",
                 "title": "サイモン記念賞",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3622816",
                 "title": "信政誠",
                 "text": "〇〇は、日本のシンガーソングライター・作詞家・作曲家。長崎県出身。関西学院大学卒業。2011年にインペリアルレコードよりメジャー・デビュー。神戸を中心に活動。音楽の地産地消、地域発信を掲げ活動中。"
-            },
-            {
-                "datetime": "2025年02月05日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4798828",
-                "title": "村上晃彦",
-                "text": "〇〇は、日本の経営者。愛知県出身。"
             }
         ]
     }
