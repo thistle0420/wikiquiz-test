@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年02月09日 06時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2884054",
+                "title": "クレマン・ロレ",
+                "text": "〇〇は、ベルギーに生まれ、フランスに帰化したオルガニスト、作曲家。"
+            },
+            {
                 "datetime": "2025年02月09日 05時の問題",
                 "url": "https://ja.wikipedia.org/?curid=5005270",
                 "title": "2-メチルコハク酸",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3602189",
                 "title": "松尾彩月",
                 "text": "〇〇は、日本の女優。千葉県出身。純血華劇派に所属していた。"
-            },
-            {
-                "datetime": "2025年02月07日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3718761",
-                "title": "リベンジgirl",
-                "text": "〇〇は、初登場11位だった。"
             }
         ]
     }
