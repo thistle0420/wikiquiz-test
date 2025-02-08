@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年02月09日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=732350",
+                "title": "ヤーコフ・ロストフツェフ",
+                "text": "〇〇は、帝政ロシアの軍人、政治家。ロシア皇帝アレクサンドル2世の大改革の下行われた、農奴解放令制定過程における中心人物のひとり。"
+            },
+            {
                 "datetime": "2025年02月08日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1866265",
                 "title": "AZERTY配列",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2504618",
                 "title": "中川中学校",
                 "text": "〇〇は、日本の公立中学校。"
-            },
-            {
-                "datetime": "2025年02月07日 08時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1099734",
-                "title": "Myself ; Yourself",
-                "text": "〇〇は、有限会社レジスタ（Regista）により開発され、2007年12月20日にイエティ（Yeti）より発売されたPlayStation 2用ゲームソフト、およびそのテレビアニメ作品。略称は『マイユア』。キャラクターデザインを『Memories Offシリーズ』や『双恋』などを手掛けたささきむつみが担当している。"
             }
         ]
     }
