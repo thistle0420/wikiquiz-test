@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年02月08日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1944514",
+                "title": "D01NE",
+                "text": "〇〇は、NECインフロンティアによって開発された、イー・モバイルによるHSDPA対応のPCカード型データ通信端末。"
+            },
+            {
                 "datetime": "2025年02月08日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=273814",
                 "title": "江草仁貴",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4172916",
                 "title": "李周午",
                 "text": "〇〇は、朝鮮民主主義人民共和国の政治家。朝鮮労働党中央委員会委員、内閣副総理。軽工業相、内閣事務次長などを歴任。"
-            },
-            {
-                "datetime": "2025年02月06日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2204282",
-                "title": "佐藤藤佐",
-                "text": "〇〇は、江戸時代後期の公事師・財政家。蘭方医佐藤泰然の父。"
             }
         ]
     }
