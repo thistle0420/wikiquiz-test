@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年02月09日 05時の問題",
+                "url": "https://ja.wikipedia.org/?curid=5005270",
+                "title": "2-メチルコハク酸",
+                "text": "〇〇は、構造式HO2CCH(CH3)CH2CO2Hの有機化合物である。白色固体で、最も単純なキラルジカルボン酸である。都市のエアロゾルの成分に含まれている 。〇〇の塩は〇〇塩、エステルは〇〇エステルと呼ばれる。"
+            },
+            {
                 "datetime": "2025年02月09日 04時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2136553",
                 "title": "青木一彦",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3718761",
                 "title": "リベンジgirl",
                 "text": "〇〇は、初登場11位だった。"
-            },
-            {
-                "datetime": "2025年02月07日 13時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4476395",
-                "title": "サイモン記念賞",
-                "text": "〇〇は、英国物理学会が授与する物理学の賞。実験・理論低温物理学の卓越した業績に対して3年に一度授与される。"
             }
         ]
     }
