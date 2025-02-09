@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年02月09日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1779993",
+                "title": "所沢航空記念公園野球場",
+                "text": "〇〇は、埼玉県所沢市の所沢航空記念公園内にある硬式野球場である。"
+            },
+            {
                 "datetime": "2025年02月09日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1980420",
                 "title": "アブー・サイード (ティムール朝)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1192870",
                 "title": "青戸あかね",
                 "text": "〇〇は、広島県広島市安佐北区出身の元ハンドボール選手、指導者。"
-            },
-            {
-                "datetime": "2025年02月08日 05時の問題",
-                "url": "https://ja.wikipedia.org/?curid=145561",
-                "title": "西別院駅",
-                "text": "〇〇は、福井県福井市松本三丁目にある、えちぜん鉄道三国芦原線の駅である。駅番号はE25。"
             }
         ]
     }
