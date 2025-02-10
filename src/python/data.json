@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年02月11日 04時の問題",
+                "url": "https://ja.wikipedia.org/?curid=5018224",
+                "title": "ビーイングホールディングス",
+                "text": "〇〇は、石川県金沢市に本社を置く物流会社。東京証券取引所スタンダード市場上場。"
+            },
+            {
                 "datetime": "2025年02月11日 03時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4789959",
                 "title": "泉山御流",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1870320",
                 "title": "大松彰",
                 "text": "〇〇は、ジョイスタッフ（JOYSTAFF）所属のフリーアナウンサー、身長173cm。"
-            },
-            {
-                "datetime": "2025年02月09日 12時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2220865",
-                "title": "チャーン島",
-                "text": "〇〇は、標高744mである。島は多くの滝、珊瑚礁、熱帯雨林で名が知られている。"
             }
         ]
     }
