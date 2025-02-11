@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年02月11日 13時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1747951",
+                "title": "JTBツーリズムビジネスカレッジ",
+                "text": "〇〇は、日本の東京都豊島区に所在する専門学校（専修学校）である。運営はJTBグループの学校法人 国際文化アカデミー。"
+            },
+            {
                 "datetime": "2025年02月11日 12時の問題",
                 "url": "https://ja.wikipedia.org/?curid=397524",
                 "title": "うみにん",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=25019",
                 "title": "T-Kernel",
                 "text": "〇〇は、オープンソースのリアルタイムオペレーティングシステム(RTOS)である。"
-            },
-            {
-                "datetime": "2025年02月09日 21時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1779993",
-                "title": "所沢航空記念公園野球場",
-                "text": "〇〇は、埼玉県所沢市の所沢航空記念公園内にある硬式野球場である。"
             }
         ]
     }
