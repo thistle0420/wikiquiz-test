@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年02月12日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3601294",
+                "title": "花見通",
+                "text": "〇〇は、愛知県名古屋市昭和区の地名。現行行政地名は〇〇1丁目から〇〇3丁目。住居表示未実施。"
+            },
+            {
                 "datetime": "2025年02月11日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1713753",
                 "title": "熊本英学校",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=229694",
                 "title": "リボニール・ルッシェル",
                 "text": "〇〇は、ブラジル・サンタカタリーナ州出身のサッカー選手。ポジションはフォワード。川崎フロンターレ、FC東京在籍時の登録名はツゥット。"
-            },
-            {
-                "datetime": "2025年02月10日 08時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4849281",
-                "title": "岩巣山",
-                "text": "〇〇は、愛知県瀬戸市の山。標高480m。"
             }
         ]
     }
