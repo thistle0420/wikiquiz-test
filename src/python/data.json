@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年02月11日 23時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1713753",
+                "title": "熊本英学校",
+                "text": "〇〇は、明治時代中期に熊本県熊本市にあったキリスト教主義学校。"
+            },
+            {
                 "datetime": "2025年02月11日 22時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2796294",
                 "title": "ルナ (韓国の歌手)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4849281",
                 "title": "岩巣山",
                 "text": "〇〇は、愛知県瀬戸市の山。標高480m。"
-            },
-            {
-                "datetime": "2025年02月10日 07時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4750898",
-                "title": "ささら (曖昧さ回避)",
-                "text": "〇〇は、竹や細い木などを束ねて作製される道具"
             }
         ]
     }
