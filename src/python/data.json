@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年02月11日 22時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2796294",
+                "title": "ルナ (韓国の歌手)",
+                "text": "〇〇は、大韓民国・ソウル特別市出身の歌手。アイドルグループf(x)のメンバー。"
+            },
+            {
                 "datetime": "2025年02月11日 21時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4155394",
                 "title": "さいたま市立海老沼小学校",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4750898",
                 "title": "ささら (曖昧さ回避)",
                 "text": "〇〇は、竹や細い木などを束ねて作製される道具"
-            },
-            {
-                "datetime": "2025年02月10日 06時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4306825",
-                "title": "ボブ・バーグ",
-                "text": "〇〇は、アメリカのジャズ・サクソフォーン奏者。"
             }
         ]
     }
