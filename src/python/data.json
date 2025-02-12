@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年02月13日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4252694",
+                "title": "田中虔一",
+                "text": "〇〇は、日本の化学者。専門は、触媒化学。"
+            },
+            {
                 "datetime": "2025年02月13日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=14843",
                 "title": "森信三",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2282007",
                 "title": "上条衿",
                 "text": "〇〇は、日本のイラストレーター、キャラクターデザイナー。北海道札幌市在住。"
-            },
-            {
-                "datetime": "2025年02月11日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3007857",
-                "title": "奇虎360",
-                "text": "〇〇は、中華人民共和国のアンチウイルスソフトウェアを制作するIT企業。本社は北京市にある。"
             }
         ]
     }
