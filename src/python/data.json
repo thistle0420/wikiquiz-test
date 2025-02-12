@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年02月13日 05時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1021769",
+                "title": "吉田まゆみ",
+                "text": "〇〇は、日本の漫画家。東京都世田谷区出身。"
+            },
+            {
                 "datetime": "2025年02月13日 04時の問題",
                 "url": "https://ja.wikipedia.org/?curid=392401",
                 "title": "スタジオたくらんけ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2353662",
                 "title": "有賀裕子",
                 "text": "〇〇は、日本のアイドル、女優。近年は活動していないようである。"
-            },
-            {
-                "datetime": "2025年02月11日 13時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1747951",
-                "title": "JTBツーリズムビジネスカレッジ",
-                "text": "〇〇は、日本の東京都豊島区に所在する専門学校（専修学校）である。運営はJTBグループの学校法人 国際文化アカデミー。"
             }
         ]
     }
