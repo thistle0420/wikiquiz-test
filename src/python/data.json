@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年02月12日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1969553",
+                "title": "松田弦",
+                "text": "〇〇は、日本のクラシックギタリスト。高知県出身。"
+            },
+            {
                 "datetime": "2025年02月12日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3366538",
                 "title": "床田亮一",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1329409",
                 "title": "畠山義里",
                 "text": "〇〇は、江戸時代中期の高家旗本。畠山義重とも。下野守、飛騨守。従四位下侍従。"
-            },
-            {
-                "datetime": "2025年02月11日 04時の問題",
-                "url": "https://ja.wikipedia.org/?curid=5018224",
-                "title": "ビーイングホールディングス",
-                "text": "〇〇は、石川県金沢市に本社を置く物流会社。東京証券取引所スタンダード市場上場。"
             }
         ]
     }
