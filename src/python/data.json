@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年02月12日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4552001",
+                "title": "Apple M1 Ultra",
+                "text": "〇〇は、AppleがMac向けにARMアーキテクチャのライセンスを受けて設計したシステムオンチップ（SoC）である。TSMCの5nmプロセスで製造されている。2022年3月8日にオンラインで行われたApple Eventで発表された。本SoCは、Apple M1 Max 2つのダイを、2.5TB/sにもおよぶ広帯域のTSVシリコンインターポーザでつないだ、UltraFusionパッケージングアーキテクチャである。GPUのコア数で2構成がある。"
+            },
+            {
                 "datetime": "2025年02月12日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=364933",
                 "title": "ID ATTACK",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4789959",
                 "title": "泉山御流",
                 "text": "〇〇は、江戸時代から続く京都の香道の流派。"
-            },
-            {
-                "datetime": "2025年02月11日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3375774",
-                "title": "レオ・ペン",
-                "text": "〇〇は、アメリカ合衆国の俳優、映画監督。"
             }
         ]
     }
