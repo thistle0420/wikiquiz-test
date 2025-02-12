@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年02月13日 06時の問題",
+                "url": "https://ja.wikipedia.org/?curid=14843",
+                "title": "森信三",
+                "text": "〇〇は、日本の哲学者・教育者。通称、しんぞう。"
+            },
+            {
                 "datetime": "2025年02月13日 05時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1021769",
                 "title": "吉田まゆみ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3007857",
                 "title": "奇虎360",
                 "text": "〇〇は、中華人民共和国のアンチウイルスソフトウェアを制作するIT企業。本社は北京市にある。"
-            },
-            {
-                "datetime": "2025年02月11日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2353662",
-                "title": "有賀裕子",
-                "text": "〇〇は、日本のアイドル、女優。近年は活動していないようである。"
             }
         ]
     }
