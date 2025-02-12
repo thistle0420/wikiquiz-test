@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年02月13日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1970385",
+                "title": "小生駅",
+                "text": "〇〇は、三重県四日市市小生町にあった、近畿日本鉄道（近鉄）湯の山線の鉄道駅（廃駅）である。"
+            },
+            {
                 "datetime": "2025年02月12日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=44079",
                 "title": "小西行長",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2041125",
                 "title": "中津留奨吾",
                 "text": "〇〇は、福岡県出身の元サッカー選手。ポジションはディフェンダー。"
-            },
-            {
-                "datetime": "2025年02月11日 08時の問題",
-                "url": "https://ja.wikipedia.org/?curid=641843",
-                "title": "明智小五郎対怪人二十面相",
-                "text": "〇〇は、2002年8月27日にTBS系で放送されたテレビドラマである。"
             }
         ]
     }
