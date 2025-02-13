@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年02月13日 13時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4466957",
+                "title": "訃報 1971年",
+                "text": "〇〇は、1971年（昭和46年）中に物故した人物をまとめたものである。詳細は月別訃報記事を参照のこと。"
+            },
+            {
                 "datetime": "2025年02月13日 12時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2039759",
                 "title": "ポルシェ・パナメリカーナ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2796294",
                 "title": "ルナ (韓国の歌手)",
                 "text": "〇〇は、大韓民国・ソウル特別市出身の歌手。アイドルグループf(x)のメンバー。"
-            },
-            {
-                "datetime": "2025年02月11日 21時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4155394",
-                "title": "さいたま市立海老沼小学校",
-                "text": "〇〇は、埼玉県さいたま市見沼区にある公立小学校。"
             }
         ]
     }
