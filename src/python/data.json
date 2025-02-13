@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年02月13日 22時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4166239",
+                "title": "C3H5",
+                "text": "〇〇は、アリル化合物シクロプロピル基"
+            },
+            {
                 "datetime": "2025年02月13日 21時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3528680",
                 "title": "上信電気鉄道ED31形電気機関車",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2209380",
                 "title": "窪徳忠",
                 "text": "〇〇は、日本の宗教民俗学者、東京大学名誉教授。"
-            },
-            {
-                "datetime": "2025年02月12日 06時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4446800",
-                "title": "黒田みゆ",
-                "text": "〇〇は、日本テレビのアナウンサー。"
             }
         ]
     }
