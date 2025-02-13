@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年02月13日 16時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4969725",
+                "title": "桂亜依",
+                "text": "〇〇は、大阪府出身の女子サッカー選手。ちふれASエルフェン埼玉所属。ポジションはミッドフィールダー。"
+            },
+            {
                 "datetime": "2025年02月13日 15時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4946451",
                 "title": "KSRベンガルール-ダールワード・ヴァンデ・バーラト急行",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2783689",
                 "title": "許 (姓)",
                 "text": "〇〇は、漢姓の一つ。"
-            },
-            {
-                "datetime": "2025年02月12日 00時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3601294",
-                "title": "花見通",
-                "text": "〇〇は、愛知県名古屋市昭和区の地名。現行行政地名は〇〇1丁目から〇〇3丁目。住居表示未実施。"
             }
         ]
     }
