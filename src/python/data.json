@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年02月13日 11時の問題",
+                "url": "https://ja.wikipedia.org/?curid=692847",
+                "title": "勇気彩",
+                "text": "〇〇は、日本の女子プロレスラー。本名：渡邉 彩（わたなべ あや）。"
+            },
+            {
                 "datetime": "2025年02月13日 10時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2124356",
                 "title": "LOVE×Singles",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3469771",
                 "title": "2016年リオデジャネイロオリンピックのプエルトリコ選手団",
                 "text": "〇〇は、2016年8月5日から8月21日にかけてブラジルのリオデジャネイロで開催された〇〇、およびその競技結果。"
-            },
-            {
-                "datetime": "2025年02月11日 19時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4638675",
-                "title": "Return to Zero",
-                "text": "〇〇は、Fear, and Loathing in Las Vegasの楽曲。彼らの5thフルアルバム「New Sunrise」のリードトラックとして収録され、アルバム発売に先駆けてiTunes Storeとレコチョクにて2017年10月2日にワーナーミュージック・ジャパンより配信された。"
             }
         ]
     }
