@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年02月15日 01時の問題",
+                "url": "https://ja.wikipedia.org/?curid=267853",
+                "title": "高木浩光",
+                "text": "〇〇は、日本のセキュリティ研究者。博士（工学）（名古屋工業大学）。産業技術総合研究所サイバーフィジカルセキュリティ研究センター主任研究員。ネット上では「ひろみちゅ」という愛称で呼ばれることもある。企業ウェブサイトにおけるセキュリティホールの指摘や改善策を提言している。第3回情報セキュリティ文化賞受賞。"
+            },
+            {
                 "datetime": "2025年02月15日 00時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4411778",
                 "title": "フェナセン",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2124356",
                 "title": "LOVE×Singles",
                 "text": "〇〇は、榊原ゆいの1枚目のシングルコレクション。2009年7月3日にLOVE×TRAX☆Recordsよりリリースされた。「jewelry days」から「Imitation」までのカップリングを含めた全8曲とInstrumentalを収録している。"
-            },
-            {
-                "datetime": "2025年02月13日 09時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1119",
-                "title": "力学",
-                "text": "〇〇は、物体の運動、またそれらに働く力や相互作用を考察の対象とする学問分野の総称。"
             }
         ]
     }
