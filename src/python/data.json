@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年02月15日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4582568",
+                "title": "オトメガサ",
+                "text": "〇〇は、スカシガイ科(Fissurellidae)に属する軟体動物で、約5cm程度の黒色または飴色の平たく楕円形の軟体に、カサガイ状の貝殻を隠している。潮間帯の岩礁に棲む。"
+            },
+            {
                 "datetime": "2025年02月15日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4764487",
                 "title": "ASIAN SOUNDSCAPE",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4969725",
                 "title": "桂亜依",
                 "text": "〇〇は、大阪府出身の女子サッカー選手。ちふれASエルフェン埼玉所属。ポジションはミッドフィールダー。"
-            },
-            {
-                "datetime": "2025年02月13日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4946451",
-                "title": "KSRベンガルール-ダールワード・ヴァンデ・バーラト急行",
-                "text": "〇〇は、インド鉄道の急行列車であるヴァンデ・バーラト急行の1つ。2023年から営業運転を開始した。"
             }
         ]
     }
