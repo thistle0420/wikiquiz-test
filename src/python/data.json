@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年02月14日 09時の問題",
+                "url": "https://ja.wikipedia.org/?curid=215529",
+                "title": "ギム・ギンガナム",
+                "text": "〇〇は、テレビアニメ『∀ガンダム』に登場する架空の人物。担当声優は子安武人。"
+            },
+            {
                 "datetime": "2025年02月14日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1962281",
                 "title": "原田宏二",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4552001",
                 "title": "Apple M1 Ultra",
                 "text": "〇〇は、AppleがMac向けにARMアーキテクチャのライセンスを受けて設計したシステムオンチップ（SoC）である。TSMCの5nmプロセスで製造されている。2022年3月8日にオンラインで行われたApple Eventで発表された。本SoCは、Apple M1 Max 2つのダイを、2.5TB/sにもおよぶ広帯域のTSVシリコンインターポーザでつないだ、UltraFusionパッケージングアーキテクチャである。GPUのコア数で2構成がある。"
-            },
-            {
-                "datetime": "2025年02月12日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=364933",
-                "title": "ID ATTACK",
-                "text": "〇〇は、日本のロックバンド、PIERROTのメジャー・デビュー後4枚目に発売されたアルバム。2003年7月23日発売。発売元はユニバーサルJ。"
             }
         ]
     }
