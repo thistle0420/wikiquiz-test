@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年02月14日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=637788",
+                "title": "瀬戸内短期大学",
+                "text": "〇〇は、香川県三豊市高瀬町大学通りに本部を置いていた日本の私立大学である。1967年に設置され、2010年に廃止された。大学の略称は瀬戸短。"
+            },
+            {
                 "datetime": "2025年02月14日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2366083",
                 "title": "市民科学研究室",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=14843",
                 "title": "森信三",
                 "text": "〇〇は、日本の哲学者・教育者。通称、しんぞう。"
-            },
-            {
-                "datetime": "2025年02月13日 05時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1021769",
-                "title": "吉田まゆみ",
-                "text": "〇〇は、日本の漫画家。東京都世田谷区出身。"
             }
         ]
     }
