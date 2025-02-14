@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年02月14日 22時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3788937",
+                "title": "宮本燈",
+                "text": "〇〇は、フリーランスのコラムニスト。美容、健康記事を中心に多数のメディアでコラムを掲載している。2020年より、イギリス留学コンシェルジュとして、Crocus Garden（クロッカスガーデン）を立ち上げ、イギリス留学のサポートをしている。HP:http://crocus-garden.vivian.jp/"
+            },
+            {
                 "datetime": "2025年02月14日 21時の問題",
                 "url": "https://ja.wikipedia.org/?curid=637788",
                 "title": "瀬戸内短期大学",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4252694",
                 "title": "田中虔一",
                 "text": "〇〇は、日本の化学者。専門は、触媒化学。"
-            },
-            {
-                "datetime": "2025年02月13日 06時の問題",
-                "url": "https://ja.wikipedia.org/?curid=14843",
-                "title": "森信三",
-                "text": "〇〇は、日本の哲学者・教育者。通称、しんぞう。"
             }
         ]
     }
