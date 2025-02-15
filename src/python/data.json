@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年02月15日 17時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2137376",
+                "title": "LOVER",
+                "text": "〇〇は、AAAの49枚目のシングル。2015年7月29日にavex traxから発売された。"
+            },
+            {
                 "datetime": "2025年02月15日 16時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3534096",
                 "title": "平沢ゆうな",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3127555",
                 "title": "L-アラビノキナーゼ",
                 "text": "〇〇は、以下の化学反応を触媒する酵素である。ATP + L-アラビノース                     ⇌              {\\displaystyle \\rightleftharpoons }   ADP + β-L-アラビノース-1-リン酸従って、この酵素の基質はATPとL-アラビノースの2つ、生成物はADPとβ-L-アラビノース-1-リン酸の2つである。この酵素は転移酵素、特にアルコールを受容体とするホスホトランスフェラーゼに分類される。この酵素の系統名は、ATP:L-アラビノース 1-ホスホトランスフェラーゼ(ATP:L-arabinose 1-phosphotransferase)である。この酵素は、ヌクレオチド糖の代謝に関与している。"
-            },
-            {
-                "datetime": "2025年02月14日 01時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1309887",
-                "title": "ヘンリー・アレクサンダー・ワイズ",
-                "text": "〇〇は、アメリカ合衆国の政治家。1856年から1860年まで第33代バージニア州知事を務めた。"
             }
         ]
     }
