@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年02月16日 01時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2974071",
+                "title": "グレッチェン・ブレイラー",
+                "text": "〇〇は、アメリカ合衆国オハイオ州トレド出身の女性スノーボード選手。2006年トリノオリンピックの銀メダル、Winter X Gamesの金メダリスト。現在コロラド州アスペン在住。"
+            },
+            {
                 "datetime": "2025年02月16日 00時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1639139",
                 "title": "エレーン・デュトリュー",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3696310",
                 "title": "小笠原臣也",
                 "text": "〇〇は、日本の政治家、自治官僚。元広島県呉市長（3期）。"
-            },
-            {
-                "datetime": "2025年02月14日 09時の問題",
-                "url": "https://ja.wikipedia.org/?curid=215529",
-                "title": "ギム・ギンガナム",
-                "text": "〇〇は、テレビアニメ『∀ガンダム』に登場する架空の人物。担当声優は子安武人。"
             }
         ]
     }
