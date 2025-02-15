@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年02月15日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3994542",
+                "title": "訃報 1994年11月",
+                "text": "〇〇は、1994年（平成6年）11月中に物故した、又は物故が報じられた人物についてまとめる。"
+            },
+            {
                 "datetime": "2025年02月15日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3115502",
                 "title": "志方村",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3897600",
                 "title": "木内キヤウ",
                 "text": "〇〇は、日本の教育者、政治家。参議院議員。旧姓・淡島、筆名・木内月上。淡島寒月の娘。"
-            },
-            {
-                "datetime": "2025年02月13日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4166239",
-                "title": "C3H5",
-                "text": "〇〇は、アリル化合物シクロプロピル基"
             }
         ]
     }
