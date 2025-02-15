@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年02月15日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=40952",
+                "title": "1064年",
+                "text": "〇〇は、西暦（ユリウス暦）による、閏年。"
+            },
+            {
                 "datetime": "2025年02月15日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=41333",
                 "title": "830年",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4539499",
                 "title": "コンストファック",
                 "text": "〇〇は、芸術、工芸、造形に特化したスウェーデン・ストックホルムの大学（högskola）。"
-            },
-            {
-                "datetime": "2025年02月14日 05時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3810263",
-                "title": "中尾俊介",
-                "text": "〇〇は、大分県出身のハンドボール選手。日本ハンドボールリーグの豊田合成所属。"
             }
         ]
     }
