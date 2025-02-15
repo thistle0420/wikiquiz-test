@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年02月15日 13時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3115502",
+                "title": "志方村",
+                "text": "〇〇は、兵庫県印南郡にあった村。現在の加古川市志方町の中心部にあたる。"
+            },
+            {
                 "datetime": "2025年02月15日 12時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2198708",
                 "title": "ピアス・アロー作戦",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4166239",
                 "title": "C3H5",
                 "text": "〇〇は、アリル化合物シクロプロピル基"
-            },
-            {
-                "datetime": "2025年02月13日 21時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3528680",
-                "title": "上信電気鉄道ED31形電気機関車",
-                "text": "〇〇は、1957年（昭和32年) に上信電気鉄道 (現 上信電鉄) が導入した電気機関車である。"
             }
         ]
     }
