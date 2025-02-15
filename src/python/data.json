@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年02月15日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1552472",
+                "title": "安比川",
+                "text": "〇〇は、岩手県八幡平市、二戸市と二戸郡一戸町を流れる馬淵川水系の一級河川である。"
+            },
+            {
                 "datetime": "2025年02月15日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2137376",
                 "title": "LOVER",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1192185",
                 "title": "クジャクトゲオアガマ",
                 "text": "〇〇は、アガマ科トゲオアガマ属に分類されるトカゲ。"
-            },
-            {
-                "datetime": "2025年02月14日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3127555",
-                "title": "L-アラビノキナーゼ",
-                "text": "〇〇は、以下の化学反応を触媒する酵素である。ATP + L-アラビノース                     ⇌              {\\displaystyle \\rightleftharpoons }   ADP + β-L-アラビノース-1-リン酸従って、この酵素の基質はATPとL-アラビノースの2つ、生成物はADPとβ-L-アラビノース-1-リン酸の2つである。この酵素は転移酵素、特にアルコールを受容体とするホスホトランスフェラーゼに分類される。この酵素の系統名は、ATP:L-アラビノース 1-ホスホトランスフェラーゼ(ATP:L-arabinose 1-phosphotransferase)である。この酵素は、ヌクレオチド糖の代謝に関与している。"
             }
         ]
     }
