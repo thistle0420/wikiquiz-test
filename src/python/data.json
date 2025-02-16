@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年02月17日 05時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1396495",
+                "title": "今年の夏はモア・ベター",
+                "text": "〇〇は、1998年5月21日に森高千里が発表したアルバム。"
+            },
+            {
                 "datetime": "2025年02月17日 04時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1722548",
                 "title": "ブリード・イット・アウト",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3994542",
                 "title": "訃報 1994年11月",
                 "text": "〇〇は、1994年（平成6年）11月中に物故した、又は物故が報じられた人物についてまとめる。"
-            },
-            {
-                "datetime": "2025年02月15日 13時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3115502",
-                "title": "志方村",
-                "text": "〇〇は、兵庫県印南郡にあった村。現在の加古川市志方町の中心部にあたる。"
             }
         ]
     }
