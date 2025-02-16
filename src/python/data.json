@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年02月16日 15時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3244670",
+                "title": "ジョン・ランドルフ (俳優)",
+                "text": "〇〇は、アメリカ合衆国の俳優。"
+            },
+            {
                 "datetime": "2025年02月16日 14時の問題",
                 "url": "https://ja.wikipedia.org/?curid=475594",
                 "title": "ファウストゥルス",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4411778",
                 "title": "フェナセン",
                 "text": "〇〇は、融合した芳香族環を持つ有機化合物の一分類である。これらは多環芳香族炭化水素であり、融合環の配置の異なるアセンやヘリセンに関連する。"
-            },
-            {
-                "datetime": "2025年02月14日 23時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2726819",
-                "title": "遠藤さやか",
-                "text": "〇〇は、日本の女性声優。神奈川県出身。81プロデュース所属。"
             }
         ]
     }
