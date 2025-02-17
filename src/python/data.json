@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年02月18日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=561588",
+                "title": "村田一誠",
+                "text": "〇〇は、日本中央競馬会 (JRA) 美浦トレーニングセンター所属の調教師で、元騎手。"
+            },
+            {
                 "datetime": "2025年02月17日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4837265",
                 "title": "宝幢寺 (寒河江市)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2839382",
                 "title": "岡田祐政",
                 "text": "〇〇は、熊本県出身のサッカー選手。ポジションは、ディフェンダー。"
-            },
-            {
-                "datetime": "2025年02月16日 08時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2317920",
-                "title": "ビッグヨーサン",
-                "text": "〇〇は、神奈川県中部と東京都多摩南部を中心に店舗展開しているスーパーチェーンである。本社は東京都町田市。"
             }
         ]
     }
