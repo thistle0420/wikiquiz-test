@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年02月17日 09時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4611463",
+                "title": "福岡県済生会二日市病院",
+                "text": "〇〇は、社会福祉法人恩賜財団済生会福岡県済生会が福岡県筑紫野市湯町に設置する病院。福岡県災害拠点病院（地域災害拠点病院）や地域医療支援病院等に指定されている。"
+            },
+            {
                 "datetime": "2025年02月17日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=775839",
                 "title": "注連縄",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1552472",
                 "title": "安比川",
                 "text": "〇〇は、岩手県八幡平市、二戸市と二戸郡一戸町を流れる馬淵川水系の一級河川である。"
-            },
-            {
-                "datetime": "2025年02月15日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2137376",
-                "title": "LOVER",
-                "text": "〇〇は、AAAの49枚目のシングル。2015年7月29日にavex traxから発売された。"
             }
         ]
     }
