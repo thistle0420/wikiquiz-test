@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年02月18日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4335817",
+                "title": "だいすき北海道",
+                "text": "〇〇は、北海道内のNHK総合テレビジョンで放送されていたNHK札幌放送局制作の情報番組である。"
+            },
+            {
                 "datetime": "2025年02月18日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4966085",
                 "title": "井垣康弘",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3929829",
                 "title": "タニヤマヒロアキ",
                 "text": "〇〇は、日本のソングライター、編曲家、音楽プロデューサー、マネージャー。宮崎県都城市出身。"
-            },
-            {
-                "datetime": "2025年02月17日 05時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1396495",
-                "title": "今年の夏はモア・ベター",
-                "text": "〇〇は、1998年5月21日に森高千里が発表したアルバム。"
             }
         ]
     }
