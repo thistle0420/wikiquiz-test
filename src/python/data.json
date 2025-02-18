@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年02月19日 05時の問題",
+                "url": "https://ja.wikipedia.org/?curid=294047",
+                "title": "VESA Display Data Channel",
+                "text": "〇〇は、主にPnPのため、コンピュータディスプレイの固有情報（ベンダ名や型番、適合可能な解像度など）を接続しているビデオカードに通知する方式である。DDCと略記される。最終期のVGA端子や、DVIコネクタ、HDMIコネクタで利用できる。電気的には、データ信号、クロック信号、接地の3本の線を使ってシリアルで通信する。送信されるデータ形式は、EDID(Extended Display Identification Data)として規定されている。DDCおよびEDIDは、いずれもVESAが規格化した。"
+            },
+            {
                 "datetime": "2025年02月19日 04時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1871407",
                 "title": "現代宇宙論",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2238260",
                 "title": "張恵紹",
                 "text": "〇〇は、南朝斉から梁にかけての軍人。字は徳継。本貫は義陽郡。"
-            },
-            {
-                "datetime": "2025年02月17日 13時の問題",
-                "url": "https://ja.wikipedia.org/?curid=5018935",
-                "title": "サツェベリ",
-                "text": "〇〇は、ジョージアのソースである。トマトペースト、コリアンダー、ニンニク、酢、コショウ、フメリスネリ（伝統的なジョージアのミックススパイス）、水、アジカ（唐辛子ペースト）等から作る。非常に辛い。"
             }
         ]
     }
