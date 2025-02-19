@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年02月19日 23時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1028975",
+                "title": "村田晴郎",
+                "text": "〇〇は、CSRコーポレーション→ZAI OFFICE→フリーランス(2018年4月1日より)の声優、ナレーター、実況アナウンサー、マシンソムリエ。プロレス実況、インディカー・シリーズのモータースポーツ実況等幅広い分野をSKY PerfecTV!等のCS放送を中心に行っている。"
+            },
+            {
                 "datetime": "2025年02月19日 22時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3798199",
                 "title": "武蔵不破麻呂",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=80570",
                 "title": "ツノメドリ",
                 "text": "〇〇は、チドリ目ウミスズメ科に分類される海鳥である。"
-            },
-            {
-                "datetime": "2025年02月18日 07時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3351602",
-                "title": "中島康晴 (テノール歌手)",
-                "text": "〇〇は、日本のテノール歌手。東京都出身。"
             }
         ]
     }
