@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年02月19日 15時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1744721",
+                "title": "汐見橋",
+                "text": "〇〇は、大阪府大阪市の都心部を西流する道頓堀川に架かる新なにわ筋（大阪府道29号大阪臨海線）の橋。"
+            },
+            {
                 "datetime": "2025年02月19日 14時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4113069",
                 "title": "カンブリア紀第四期",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=561588",
                 "title": "村田一誠",
                 "text": "〇〇は、日本中央競馬会 (JRA) 美浦トレーニングセンター所属の調教師で、元騎手。"
-            },
-            {
-                "datetime": "2025年02月17日 23時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4837265",
-                "title": "宝幢寺 (寒河江市)",
-                "text": "〇〇は、山形県寒河江市にかつて存在した曹洞宗の寺院。寒河江氏9代、寒河江元時の菩提寺。"
             }
         ]
     }
