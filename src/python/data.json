@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年02月20日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4472049",
+                "title": "身近なことからSDGs",
+                "text": "〇〇は、地方民放ラジオ局向けに2021年9月27日から放送されている教養番組である。"
+            },
+            {
                 "datetime": "2025年02月20日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2829504",
                 "title": "姉小路公宣",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3739167",
                 "title": "野口航",
                 "text": "〇〇は、大分県大分市出身のプロサッカー選手。登録ポジションはミッドフィールダー。"
-            },
-            {
-                "datetime": "2025年02月18日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3456328",
-                "title": "こだま、ことだま。",
-                "text": "〇〇は、日本のバンド・Bank Bandの4作目の配信限定シングル。2016年7月20日にトイズファクトリーより発売された。"
             }
         ]
     }
