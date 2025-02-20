@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年02月20日 13時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1131239",
+                "title": "ジョナサン・カプラン",
+                "text": "〇〇は、アメリカ合衆国の映画監督。"
+            },
+            {
                 "datetime": "2025年02月20日 12時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3266952",
                 "title": "トレヴァー・ブルッキング",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2519926",
                 "title": "桜野公園",
                 "text": "〇〇は、岐阜県高山市にある公園。江戸期からの名所で、「飛騨八景」の1つに数えられる。2003年に「飛騨・美濃さくら三十三選」に選定されている。"
-            },
-            {
-                "datetime": "2025年02月18日 21時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4335817",
-                "title": "だいすき北海道",
-                "text": "〇〇は、北海道内のNHK総合テレビジョンで放送されていたNHK札幌放送局制作の情報番組である。"
             }
         ]
     }
