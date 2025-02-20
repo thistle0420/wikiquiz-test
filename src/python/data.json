@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年02月20日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1502798",
+                "title": "序奏とアレグロ (エルガー)",
+                "text": "〇〇は、エドワード・エルガーが作曲した弦楽合奏と弦楽四重奏のための作品。"
+            },
+            {
                 "datetime": "2025年02月20日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=306777",
                 "title": "日本近代史",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=294047",
                 "title": "VESA Display Data Channel",
                 "text": "〇〇は、主にPnPのため、コンピュータディスプレイの固有情報（ベンダ名や型番、適合可能な解像度など）を接続しているビデオカードに通知する方式である。DDCと略記される。最終期のVGA端子や、DVIコネクタ、HDMIコネクタで利用できる。電気的には、データ信号、クロック信号、接地の3本の線を使ってシリアルで通信する。送信されるデータ形式は、EDID(Extended Display Identification Data)として規定されている。DDCおよびEDIDは、いずれもVESAが規格化した。"
-            },
-            {
-                "datetime": "2025年02月19日 04時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1871407",
-                "title": "現代宇宙論",
-                "text": "〇〇は、すなわち、現代の宇宙論である。現代の科学者が「〇〇」という言葉で指しているのは、おおむね英語の physical cosmology （フィジカル・コスモロジー）に相当する。フィジカル・コスモロジーは、物理学と天文物理学の一部門であり、宇宙の大規模構造および宇宙の生成や宇宙の変化に関する根本的な問題を扱っている。"
             }
         ]
     }
