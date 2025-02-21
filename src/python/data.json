@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年02月21日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=123783",
+                "title": "小林康夫",
+                "text": "〇〇は、日本の哲学者、翻訳家。東京大学名誉教授。前青山学院大学大学院総合文化政策学研究科特任教授。専門は現代哲学、表象文化論。『知の技法』の編者として有名。"
+            },
+            {
                 "datetime": "2025年02月21日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=378439",
                 "title": "ダゴン",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2829504",
                 "title": "姉小路公宣",
                 "text": "〇〇は、平安時代後期から鎌倉時代前期にかけての公卿。左大臣・三条実房の次男。官位は正二位・権大納言。姉小路に住み姉小路大納言と号す。姉小路家（閑院流）の祖。"
-            },
-            {
-                "datetime": "2025年02月20日 05時の問題",
-                "url": "https://ja.wikipedia.org/?curid=412710",
-                "title": "DRIVE-GLAY complete BEST",
-                "text": "〇〇は、日本のロックバンド、GLAYの2枚目のベストアルバムである。"
             }
         ]
     }
