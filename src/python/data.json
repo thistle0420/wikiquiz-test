@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年02月21日 10時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2961770",
+                "title": "平出の泉",
+                "text": "〇〇は、長野県塩尻市にある泉。塩尻市指定の史跡。"
+            },
+            {
                 "datetime": "2025年02月21日 09時の問題",
                 "url": "https://ja.wikipedia.org/?curid=393459",
                 "title": "金融工学",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3952161",
                 "title": "フリードリヒ・カール・ツー・カステル＝カステル",
                 "text": "〇〇は、ドイツ・バイエルン王国のシュタンデスヘル。カステル＝カステル侯。"
-            },
-            {
-                "datetime": "2025年02月19日 18時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1312154",
-                "title": "ブレスト中央駅",
-                "text": "〇〇は、ベラルーシのブレスト（旧ブレスト・リトフスク）にある鉄道駅。"
             }
         ]
     }
