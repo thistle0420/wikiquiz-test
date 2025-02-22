@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年02月22日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3878883",
+                "title": "PASSION (EVEのアルバム)",
+                "text": "〇〇は、日本のコーラス・グループであるEVEが1987年5月21日にリリースした2枚目のオリジナルアルバムである。"
+            },
+            {
                 "datetime": "2025年02月22日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1282591",
                 "title": "観光庁",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=904608",
                 "title": "グラミー賞 クラシック現代作品部門",
                 "text": "〇〇は、グラミー賞の部門の一つ。1967年から1984年までは存在しなかった。"
-            },
-            {
-                "datetime": "2025年02月21日 05時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4660250",
-                "title": "榊原長政",
-                "text": "〇〇は、戦国時代の武将。榊原清長の子。通称 孫十郎、七郎右衛門。子に榊原康政がいる。"
             }
         ]
     }
