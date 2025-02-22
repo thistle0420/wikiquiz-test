@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年02月23日 05時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2653024",
+                "title": "岩手県企業局",
+                "text": "〇〇は、岩手県の地方公営企業である。同県内で電気事業及び工業用水道事業を行っている。"
+            },
+            {
                 "datetime": "2025年02月23日 04時の問題",
                 "url": "https://ja.wikipedia.org/?curid=994360",
                 "title": "アックアフォンダータ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3149948",
                 "title": "平松令三",
                 "text": "〇〇は、浄土真宗の仏教学者。学位は、文学博士（龍谷大学・2009年）（学位論文「親鸞の生涯と思想」）。"
-            },
-            {
-                "datetime": "2025年02月21日 13時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4692346",
-                "title": "観福寺 (行田市)",
-                "text": "〇〇は、埼玉県行田市にある高野山真言宗の寺院。"
             }
         ]
     }
