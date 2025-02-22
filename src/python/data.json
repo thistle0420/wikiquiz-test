@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年02月22日 19時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3534328",
+                "title": "石垣市議会",
+                "text": "〇〇は、石垣市に設置されている地方議会である。"
+            },
+            {
                 "datetime": "2025年02月22日 18時の問題",
                 "url": "https://ja.wikipedia.org/?curid=457229",
                 "title": "ドジョーギーン・ツェデブ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1157436",
                 "title": "Strawberry Time",
                 "text": "〇〇は、1987年4月22日にリリースされた松田聖子の23枚目のシングル。規格品番：07SH 1926（EP盤）"
-            },
-            {
-                "datetime": "2025年02月21日 03時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4923240",
-                "title": "アジアン (ネコ)",
-                "text": "〇〇は、猫の品種でヨーロピアンバーミーズに似ているが、毛色や模様がさまざまである。あらゆる品種の長髪のアジアンはティファニーと呼ばれ、アジアンは、Cat Fancy の統治評議会によってセクション 5 (バーミーズ) に分類される。"
             }
         ]
     }
