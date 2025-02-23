@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年02月24日 04時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1027373",
+                "title": "やいこ汁",
+                "text": "〇〇は、高知県土佐清水市の名産品である。"
+            },
+            {
                 "datetime": "2025年02月24日 03時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2608014",
                 "title": "シャーリィ・ホームズ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=483053",
                 "title": "梅田源治",
                 "text": "〇〇は、日本のプロレスラー。群馬県出身。"
-            },
-            {
-                "datetime": "2025年02月22日 12時の問題",
-                "url": "https://ja.wikipedia.org/?curid=360220",
-                "title": "永和 (東晋)",
-                "text": "〇〇は、東晋の穆帝司馬聃の治世に行われた元号。345年 - 356年。"
             }
         ]
     }
