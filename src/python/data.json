@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年02月26日 06時の問題",
+                "url": "https://ja.wikipedia.org/?curid=309854",
+                "title": "超人ポープマン",
+                "text": "〇〇は、ロドルフォ・レオン・サンチェスによるコロンビアの漫画である。"
+            },
+            {
                 "datetime": "2025年02月26日 05時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4158513",
                 "title": "藤沢市民会館",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=203515",
                 "title": "平沢堤川高速道路",
                 "text": "〇〇は、京畿道平沢市から忠清北道堤川市に至る高速道路である。"
-            },
-            {
-                "datetime": "2025年02月24日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=5024133",
-                "title": "世会色ユニバース",
-                "text": "〇〇は、日本の男性歌手まふまふの通算6作目のオリジナルアルバム。2024年12月25日発売。発売元はA-Sketch。"
             }
         ]
     }
