@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年02月25日 19時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1936635",
+                "title": "D-ピニトールデヒドロゲナーゼ",
+                "text": "〇〇は、次の化学反応を触媒する酸化還元酵素である。反応式の通り、この酵素の基質は1D-3-O-メチル-chiro-イノシトールとNADP+、生成物は2D-5-O-メチル-2,3,5/4,6-ペンタヒドロキシシクロヘキサノンとNADPHとH+である。組織名は1D-3-O-methyl-chiro-inositol:NADP+ oxidoreductaseで、別名に5D-5-O-methyl-chiro-inositol:NADP+ oxidoreductaseがある。"
+            },
+            {
                 "datetime": "2025年02月25日 18時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2415751",
                 "title": "始まりのバラード/I Have a Dream",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1027373",
                 "title": "やいこ汁",
                 "text": "〇〇は、高知県土佐清水市の名産品である。"
-            },
-            {
-                "datetime": "2025年02月24日 03時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2608014",
-                "title": "シャーリィ・ホームズ",
-                "text": "〇〇は、後藤寿庵による日本の成人向け漫画、ギャグ漫画であり、「シャーロック・ホームズシリーズ」のパロディ。また、短編集のタイトルでもある。『キャンディータイム海賊版』（富士美出版）で連載された。なお、目次やタイトルでは「〇〇」と中黒（・）が入っているが、表紙や背表紙には入っていない（「シャーリィホームズ」、あるいは「シャーリィ ホームズ」表記）。"
             }
         ]
     }
