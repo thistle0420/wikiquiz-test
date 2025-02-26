@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年02月26日 13時の問題",
+                "url": "https://ja.wikipedia.org/?curid=934432",
+                "title": "バンコク週報",
+                "text": "〇〇は、タイのバンコクで発行されている日本語の週刊新聞。公称12,000部発行。販売価格85バーツ。"
+            },
+            {
                 "datetime": "2025年02月26日 12時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2028819",
                 "title": "熊州 (河南省)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3518017",
                 "title": "キ101 (航空機)",
                 "text": "〇〇は、大日本帝国陸軍が計画した夜間戦闘機。開発は中島飛行機が行った。実機は製作されていない。"
-            },
-            {
-                "datetime": "2025年02月24日 21時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1001870",
-                "title": "田口清",
-                "text": "〇〇は、日本のシンガーソングライター。"
             }
         ]
     }
