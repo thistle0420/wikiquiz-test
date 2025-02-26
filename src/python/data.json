@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年02月26日 11時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3716995",
+                "title": "ウィリアム・アスター (初代アスター子爵)",
+                "text": "〇〇は、アメリカ・イギリスの実業家、政治家、外交官、貴族。アメリカの財閥アスター家の一族。"
+            },
+            {
                 "datetime": "2025年02月26日 10時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3375687",
                 "title": "玉巻映美",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2087642",
                 "title": "SxOxU (アルバム)",
                 "text": "〇〇は、2009年12月2日に発売された、GOING UNDER GROUNDの松本素生のソロプロジェクトSxOxUの1stアルバム。松本素生のソロデビューアルバムである。"
-            },
-            {
-                "datetime": "2025年02月24日 19時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3578602",
-                "title": "ガブリエリーノ語",
-                "text": "〇〇は、トンヴァ語(Tongva language)とも呼ばれ、アメリカ合衆国カリフォルニア州のロサンゼルス郡およびオレンジ郡北部でかつて話されていた言語。現在は死語となっている。"
             }
         ]
     }
