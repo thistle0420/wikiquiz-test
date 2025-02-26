@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年02月27日 03時の問題",
+                "url": "https://ja.wikipedia.org/?curid=883435",
+                "title": "サルノキング",
+                "text": "〇〇は、日本の競走馬、種牡馬。主な勝ち鞍に1982年の東京4歳ステークス、弥生賞。スプリングステークス時の八百長疑惑（〇〇事件）でも知られる。"
+            },
+            {
                 "datetime": "2025年02月27日 02時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3313311",
                 "title": "琉球漆器",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4716817",
                 "title": "池田一郎 (銀行家)",
                 "text": "〇〇は、日本の経営者。大和銀行頭取を務めた。"
-            },
-            {
-                "datetime": "2025年02月25日 11時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1533659",
-                "title": "ヴェンダ",
-                "text": "〇〇は、南アフリカ共和国にかつて存在したバントゥースタン。"
             }
         ]
     }
