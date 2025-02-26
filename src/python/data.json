@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年02月26日 10時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3375687",
+                "title": "玉巻映美",
+                "text": "〇〇は、毎日放送（MBS）のアナウンサー。"
+            },
+            {
                 "datetime": "2025年02月26日 09時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3698454",
                 "title": "バラコマ飛行場",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3578602",
                 "title": "ガブリエリーノ語",
                 "text": "〇〇は、トンヴァ語(Tongva language)とも呼ばれ、アメリカ合衆国カリフォルニア州のロサンゼルス郡およびオレンジ郡北部でかつて話されていた言語。現在は死語となっている。"
-            },
-            {
-                "datetime": "2025年02月24日 18時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4790543",
-                "title": "嵩聡久",
-                "text": "〇〇は、日本の経営者。長谷工コーポレーション社長、会長を務めた。北海道出身。"
             }
         ]
     }
