@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年02月28日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4773263",
+                "title": "エジプトの港湾",
+                "text": "〇〇は、地中海側と紅海側にある。"
+            },
+            {
                 "datetime": "2025年02月28日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=870143",
                 "title": "大象 (北周)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4254016",
                 "title": "ゲオルギオス・クツィアス",
                 "text": "〇〇は、ギリシャ・テッサロニキ出身のプロサッカー選手。シカゴ・ファイアーFC所属。ポジションは、フォワード。"
-            },
-            {
-                "datetime": "2025年02月26日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3347489",
-                "title": "ネラ川",
-                "text": "〇〇は、ロシア連邦シベリア東部のサハ共和国を流れるインディギルカ水系の川である。全長331 km、流域面積は24,500 km2。"
             }
         ]
     }
