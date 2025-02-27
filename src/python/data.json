@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年02月27日 11時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2601051",
+                "title": "狩野倫久",
+                "text": "〇〇は、大阪府枚方市出身の元プロサッカー選手、サッカー指導者。JFA 公認S級コーチ。大阪府立枚方津田高等学校卒業。現役時代のポジションは、ボランチ、サイドバック。フットサル選手の狩野新は弟。"
+            },
+            {
                 "datetime": "2025年02月27日 10時の問題",
                 "url": "https://ja.wikipedia.org/?curid=505789",
                 "title": "マッスルボマー",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2574550",
                 "title": "筒井敦史",
                 "text": "〇〇は、岡山県を登録地としている競輪選手。元 陸上競技の三段跳選手。日本競輪学校（以下、競輪学校）第85期生。"
-            },
-            {
-                "datetime": "2025年02月25日 19時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1936635",
-                "title": "D-ピニトールデヒドロゲナーゼ",
-                "text": "〇〇は、次の化学反応を触媒する酸化還元酵素である。反応式の通り、この酵素の基質は1D-3-O-メチル-chiro-イノシトールとNADP+、生成物は2D-5-O-メチル-2,3,5/4,6-ペンタヒドロキシシクロヘキサノンとNADPHとH+である。組織名は1D-3-O-methyl-chiro-inositol:NADP+ oxidoreductaseで、別名に5D-5-O-methyl-chiro-inositol:NADP+ oxidoreductaseがある。"
             }
         ]
     }
