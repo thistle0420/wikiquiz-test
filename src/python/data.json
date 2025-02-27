@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年02月28日 01時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3284648",
+                "title": "FIFA会長賞",
+                "text": "〇〇は、国際サッカー連盟（FIFA）からサッカー界に最も貢献したサッカー関係者に授与される賞である。"
+            },
+            {
                 "datetime": "2025年02月28日 00時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3219009",
                 "title": "松浪有",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3375687",
                 "title": "玉巻映美",
                 "text": "〇〇は、毎日放送（MBS）のアナウンサー。"
-            },
-            {
-                "datetime": "2025年02月26日 09時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3698454",
-                "title": "バラコマ飛行場",
-                "text": "〇〇は、ニュージョージア諸島・ベララベラ島に存在する飛行場。第二次世界大戦中にはアメリカ軍の飛行場として利用された。"
             }
         ]
     }
