@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年03月01日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4090064",
+                "title": "美根五郎",
+                "text": "〇〇は、昭和時代前期の朝鮮総督府官僚。黄海道知事。"
+            },
+            {
                 "datetime": "2025年03月01日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3209611",
                 "title": "阪本篤",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=98650",
                 "title": "さつき野駅",
                 "text": "〇〇は、新潟県新潟市秋葉区さつき野一丁目にある、東日本旅客鉄道（JR東日本）信越本線の駅である。"
-            },
-            {
-                "datetime": "2025年02月27日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=662189",
-                "title": "吉川元忠",
-                "text": "〇〇は、日本の経済学者。専門は国際金融論。兵庫県出身。"
             }
         ]
     }
