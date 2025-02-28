@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年02月28日 22時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1318353",
+                "title": "チャールズ・ベーコン",
+                "text": "〇〇は、アメリカ合衆国フロリダ州出身の陸上競技選手。1908年ロンドンオリンピックの金メダリストである。"
+            },
+            {
                 "datetime": "2025年02月28日 21時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1233309",
                 "title": "ビンパッキング問題",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2388409",
                 "title": "あかり",
                 "text": "〇〇は、日本の女性名。"
-            },
-            {
-                "datetime": "2025年02月27日 06時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3073067",
-                "title": "焼尻発電所",
-                "text": "〇〇は、北海道苫前郡羽幌町にある北海道電力ネットワークの火力発電所。"
             }
         ]
     }
