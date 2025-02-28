@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年03月01日 06時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3209611",
+                "title": "阪本篤",
+                "text": "〇〇は、日本の俳優、劇団『温泉ドラゴン』主宰。ヘリンボーン所属。"
+            },
+            {
                 "datetime": "2025年03月01日 05時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1290085",
                 "title": "男鹿目潟火山群一ノ目潟",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=662189",
                 "title": "吉川元忠",
                 "text": "〇〇は、日本の経済学者。専門は国際金融論。兵庫県出身。"
-            },
-            {
-                "datetime": "2025年02月27日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1128990",
-                "title": "美容師養成施設指定規則",
-                "text": "〇〇は、1998年（平成10年）1月27日に、日本国の美容師法に基づき厚生省令第8号として公布された省令である。"
             }
         ]
     }
