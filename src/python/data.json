@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年03月01日 23時の問題",
+                "url": "https://ja.wikipedia.org/?curid=370544",
+                "title": "ジャン・フランチェスコ・マリピエロ",
+                "text": "〇〇は、イタリアの作曲家・音楽学者。モンテヴェルディとヴィヴァルディの校訂者として有名。"
+            },
+            {
                 "datetime": "2025年03月01日 22時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2492133",
                 "title": "ビルウェル証券",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4773263",
                 "title": "エジプトの港湾",
                 "text": "〇〇は、地中海側と紅海側にある。"
-            },
-            {
-                "datetime": "2025年02月28日 07時の問題",
-                "url": "https://ja.wikipedia.org/?curid=870143",
-                "title": "大象 (北周)",
-                "text": "〇〇は、南北朝時代の北周において、静帝の治世に使用された元号。579年正月 - 580年12月。"
             }
         ]
     }
