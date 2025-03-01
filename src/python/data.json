@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年03月01日 22時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2492133",
+                "title": "ビルウェル証券",
+                "text": "〇〇は、かつて存在した日本の証券会社である。2010年10月21日をもって登録取消となった。"
+            },
+            {
                 "datetime": "2025年03月01日 21時の問題",
                 "url": "https://ja.wikipedia.org/?curid=995601",
                 "title": "オルソーニャ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=870143",
                 "title": "大象 (北周)",
                 "text": "〇〇は、南北朝時代の北周において、静帝の治世に使用された元号。579年正月 - 580年12月。"
-            },
-            {
-                "datetime": "2025年02月28日 06時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2272133",
-                "title": "三橋純",
-                "text": "〇〇は、日本の芸術家、写真家。"
             }
         ]
     }
