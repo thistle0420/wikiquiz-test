@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年03月01日 16時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1205866",
+                "title": "菓匠三全",
+                "text": "〇〇は、宮城県仙台市青葉区に本社、宮城県柴田郡大河原町に工場を置く、和洋菓子の製造販売会社。『仙台銘菓「萩の月」』が看板商品。"
+            },
+            {
                 "datetime": "2025年03月01日 15時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3929754",
                 "title": "バックアイ郡区 (アイオワ州ハーディン郡)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3284648",
                 "title": "FIFA会長賞",
                 "text": "〇〇は、国際サッカー連盟（FIFA）からサッカー界に最も貢献したサッカー関係者に授与される賞である。"
-            },
-            {
-                "datetime": "2025年02月28日 00時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3219009",
-                "title": "松浪有",
-                "text": "〇〇は、日本の英語学者。"
             }
         ]
     }
