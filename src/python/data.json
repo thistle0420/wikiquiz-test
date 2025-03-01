@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年03月01日 19時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2314409",
+                "title": "俺が愛した馬鹿",
+                "text": "〇〇は、1985年6月5日に吉田拓郎がリリースしたオリジナル・アルバムである。"
+            },
+            {
                 "datetime": "2025年03月01日 18時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3136265",
                 "title": "東横グループ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4740508",
                 "title": "ヘファエスチン",
                 "text": "〇〇は、ヒトではHEPH遺伝子にコードされるタンパク質である。"
-            },
-            {
-                "datetime": "2025年02月28日 03時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1692926",
-                "title": "君沢ユウキ",
-                "text": "〇〇は、日本の俳優、モデル。　京都府京都市出身。キューブ→東宝芸能→えりオフィス→Pasture所属。"
             }
         ]
     }
