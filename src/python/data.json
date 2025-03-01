@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年03月01日 15時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3929754",
+                "title": "バックアイ郡区 (アイオワ州ハーディン郡)",
+                "text": "〇〇は、アメリカ合衆国アイオワ州ハーディン郡にある郡区。"
+            },
+            {
                 "datetime": "2025年03月01日 14時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1061418",
                 "title": "長野県水辺環境保全研究会",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3219009",
                 "title": "松浪有",
                 "text": "〇〇は、日本の英語学者。"
-            },
-            {
-                "datetime": "2025年02月27日 23時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3621317",
-                "title": "奇妙礼太郎トラベルスイング楽団",
-                "text": "〇〇は、日本のバンド。2008年に大阪で結成され、2016年に解散。"
             }
         ]
     }
