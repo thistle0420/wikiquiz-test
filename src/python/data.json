@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年03月02日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=35030",
+                "title": "和泉大宮駅",
+                "text": "〇〇は、大阪府岸和田市上野町東13-1にある、南海電気鉄道南海本線の駅。駅番号はNK23。"
+            },
+            {
                 "datetime": "2025年03月01日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=370544",
                 "title": "ジャン・フランチェスコ・マリピエロ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1023712",
                 "title": "茅野裕城子",
                 "text": "〇〇は、日本の小説家、日本ペンクラブ女性作家委員会副委員長。"
-            },
-            {
-                "datetime": "2025年02月28日 08時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4773263",
-                "title": "エジプトの港湾",
-                "text": "〇〇は、地中海側と紅海側にある。"
             }
         ]
     }
