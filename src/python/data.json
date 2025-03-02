@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年03月02日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1928370",
+                "title": "辣子鶏",
+                "text": "〇〇は、鶏肉のから揚げを大量の唐辛子や花椒などと共に炒めた料理。「子鶏」は丸鶏の意。四川料理の代表的な品目のひとつとされる。"
+            },
+            {
                 "datetime": "2025年03月02日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=49826",
                 "title": "つげ義春",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3785488",
                 "title": "RPGFan",
                 "text": "〇〇は、コンピュータRPGに関するニュース、レビュー、批評、画像を発信するウェブサイト。1999年に開設された。〇〇は、ファンアートやゲームのサウンドトラックに関する情報も扱っている。現在はエリック・ファランドが編集者で、スティーヴン・ハリスが広報を担当している。ウェブマスターはジョン・マキャロルである。"
-            },
-            {
-                "datetime": "2025年03月01日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2758359",
-                "title": "日米原子力協定",
-                "text": "〇〇は、1988年7月に発効した条約である。アメリカ合衆国から日本への核燃料の調達や再処理、資機材・技術の導入などについて取り決めている。正式名称は原子力の平和的利用に関する協力のための日本国政府とアメリカ合衆国政府との間の協定（英語: Agreement for Cooperation Between the Government of the United States of America and the Government of Japan Concerning Peaceful Uses of Nuclear Energy）。"
             }
         ]
     }
