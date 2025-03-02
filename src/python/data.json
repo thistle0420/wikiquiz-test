@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年03月03日 06時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1617868",
+                "title": "コリメーター",
+                "text": "〇〇は、粒子や波（光など）を平行にする装置。　日本語では視準器とも呼ばれている。"
+            },
+            {
                 "datetime": "2025年03月03日 05時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2938778",
                 "title": "マスカレード 〜Masquerade〜",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3929754",
                 "title": "バックアイ郡区 (アイオワ州ハーディン郡)",
                 "text": "〇〇は、アメリカ合衆国アイオワ州ハーディン郡にある郡区。"
-            },
-            {
-                "datetime": "2025年03月01日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1061418",
-                "title": "長野県水辺環境保全研究会",
-                "text": "〇〇は、長野県長野市に事務所を置くNPO法人である。"
             }
         ]
     }
