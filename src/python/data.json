@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年03月02日 10時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1647839",
+                "title": "東野愛鈴",
+                "text": "〇〇は、日本の元AV女優（プライムエージェンシー所属）。"
+            },
+            {
                 "datetime": "2025年03月02日 09時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4686182",
                 "title": "五十嵐睦美",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2484027",
                 "title": "クルーズ/ワグナー・プロダクションズ",
                 "text": "〇〇は、アメリカ合衆国の独立系の映画製作会社である。俳優のトム・クルーズと元キャスティング・エージェントのポーラ・ワグナーが設立した。"
-            },
-            {
-                "datetime": "2025年02月28日 18時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2487577",
-                "title": "Departure!",
-                "text": "〇〇は、小野正利21枚目のシングル。2011年12月21日にバップから発売された。"
             }
         ]
     }
