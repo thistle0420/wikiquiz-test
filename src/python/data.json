@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年03月04日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2129934",
+                "title": "硫黄ジオキシゲナーゼ",
+                "text": "〇〇は、硫黄代謝酵素の一つで、次の化学反応を触媒する酸化還元酵素である。(1a) グルタチオン + 硫黄                     ⇌              {\\displaystyle \\rightleftharpoons }   S-スルファニルグルタチオン （自発的）(1b) S-スルファニルグルタチオン + O2 + H2O                     ⇌              {\\displaystyle \\rightleftharpoons }   グルタチオン + 亜硫酸 + 2 H+補因子として鉄を用いる。組織名はS-sulfanylglutathione:oxygen oxidoreductaseで、別名にsulfur oxygenase、sulfur:oxygen oxidoreductaseがある。"
+            },
+            {
                 "datetime": "2025年03月03日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2102047",
                 "title": "フィルターハウス",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4686182",
                 "title": "五十嵐睦美",
                 "text": "〇〇は、日本のスタントウーマン、女優。神奈川県出身。ジャパンアクションエンタープライズ所属。"
-            },
-            {
-                "datetime": "2025年03月02日 08時の問題",
-                "url": "https://ja.wikipedia.org/?curid=752126",
-                "title": "小川友三",
-                "text": "〇〇は、日本の実業家、政治家。元参議院議員(1期)。"
             }
         ]
     }
