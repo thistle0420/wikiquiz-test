@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年03月03日 12時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2168355",
+                "title": "フランク・タナナ",
+                "text": "〇〇は、アメリカ合衆国・ミシガン州デトロイト出身の元プロ野球選手（投手）。"
+            },
+            {
                 "datetime": "2025年03月03日 11時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2265007",
                 "title": "ブランディ (駆逐艦)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=995601",
                 "title": "オルソーニャ",
                 "text": "〇〇は、イタリア共和国アブルッツォ州キエーティ県にある、人口約3,800人の基礎自治体（コムーネ）。"
-            },
-            {
-                "datetime": "2025年03月01日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3990416",
-                "title": "全日本珠算技能競技大会",
-                "text": "〇〇は、全国珠算学校連盟が主催する珠算の競技会である。"
             }
         ]
     }
