@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年03月04日 16時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4166979",
+                "title": "西貝塚環境センター",
+                "text": "〇〇は、埼玉県上尾市大字西貝塚にある清掃工場である。"
+            },
+            {
                 "datetime": "2025年03月04日 15時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3625077",
                 "title": "大庭秀昭",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1029439",
                 "title": "ガンビーノ小林",
                 "text": "〇〇は、日本のお笑い芸人、俳優。たけし軍団の一員。北海道出身。株式会社TAP（旧：オフィス北野）所属。既婚で子持ち。"
-            },
-            {
-                "datetime": "2025年03月03日 00時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1958109",
-                "title": "ジャンピエール・モンセレ",
-                "text": "〇〇は、ベルギー、ルーセラーレ出身の元自転車競技（ロードレース）選手。"
             }
         ]
     }
