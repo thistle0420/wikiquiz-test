@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年03月04日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1142937",
+                "title": "はらがたわ峠",
+                "text": "〇〇は、大阪府豊能郡能勢町にある山辺地区と天王地区を結ぶ峠である。"
+            },
+            {
                 "datetime": "2025年03月04日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=588692",
                 "title": "学校法人共立女子学園",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1617868",
                 "title": "コリメーター",
                 "text": "〇〇は、粒子や波（光など）を平行にする装置。　日本語では視準器とも呼ばれている。"
-            },
-            {
-                "datetime": "2025年03月03日 05時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2938778",
-                "title": "マスカレード 〜Masquerade〜",
-                "text": "〇〇は、韓国の男性アイドルグループ・2PMの5枚目のシングル。2012年11月14日にアリオラジャパンから発売された。"
             }
         ]
     }
