@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年03月05日 04時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2198206",
+                "title": "HOME (HOME MADE 家族のアルバム)",
+                "text": "〇〇は、〇〇MADE 家族が2008年10月8日にリリースした4枚目のアルバム。"
+            },
+            {
                 "datetime": "2025年03月05日 03時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3842585",
                 "title": "本部飛行場",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3304783",
                 "title": "碧と彩奈のラ・プチミレディオ",
                 "text": "〇〇は、2013年4月7日から2019年3月31日まで、声優ユニットの petit milady をパーソナリティに据えて放送されていたラジオ番組。文化放送にて放送されていた。"
-            },
-            {
-                "datetime": "2025年03月03日 12時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2168355",
-                "title": "フランク・タナナ",
-                "text": "〇〇は、アメリカ合衆国・ミシガン州デトロイト出身の元プロ野球選手（投手）。"
             }
         ]
     }
