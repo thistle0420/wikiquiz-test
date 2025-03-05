@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年03月06日 02時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3185630",
+                "title": "ナチョ・ビガロンド",
+                "text": "〇〇は、スペイン・カンタブリア州出身の映画監督・脚本家・映画製作者・俳優。本名はイグナシオ・ビガロンド・パラシオス(Ignacio Vigalondo Palacios)。"
+            },
+            {
                 "datetime": "2025年03月06日 01時の問題",
                 "url": "https://ja.wikipedia.org/?curid=224865",
                 "title": "松倉重信",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2113461",
                 "title": "夢屋 (鉄道模型メーカー)",
                 "text": "〇〇は、東京都葛飾区にある、鉄道模型を製造販売する企業である。"
-            },
-            {
-                "datetime": "2025年03月04日 10時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4599354",
-                "title": "古宮洋二",
-                "text": "〇〇は、日本の経営者。九州旅客鉄道株式会社代表取締役社長。"
             }
         ]
     }
