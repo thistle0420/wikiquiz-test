@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年03月05日 16時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3010836",
+                "title": "藤田庄市",
+                "text": "〇〇は、日本のフォトジャーナリスト。日本写真家協会会員。国際宗教研究所・宗教情報リサーチセンター元研究員。日本山岳修験学会評議員。"
+            },
+            {
                 "datetime": "2025年03月05日 15時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2867045",
                 "title": "フッスィラ (クルアーン)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=205902",
                 "title": "とはずがたり",
                 "text": "〇〇は、鎌倉時代の中後期、後深草院二条という女性が実体験を綴ったという形式で書かれた、日記文学および紀行文学。作者の実在性や、その内容にどこまで真偽を認めるかについては諸説ある。1938年（昭和13年）に再発見された「新しい古典」である。タイトルは問はず語りとも表記され、「（他人に）問われなくても話し出してしまう語り」の意。"
-            },
-            {
-                "datetime": "2025年03月04日 00時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2129934",
-                "title": "硫黄ジオキシゲナーゼ",
-                "text": "〇〇は、硫黄代謝酵素の一つで、次の化学反応を触媒する酸化還元酵素である。(1a) グルタチオン + 硫黄                     ⇌              {\\displaystyle \\rightleftharpoons }   S-スルファニルグルタチオン （自発的）(1b) S-スルファニルグルタチオン + O2 + H2O                     ⇌              {\\displaystyle \\rightleftharpoons }   グルタチオン + 亜硫酸 + 2 H+補因子として鉄を用いる。組織名はS-sulfanylglutathione:oxygen oxidoreductaseで、別名にsulfur oxygenase、sulfur:oxygen oxidoreductaseがある。"
             }
         ]
     }
