@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年03月07日 05時の問題",
+                "url": "https://ja.wikipedia.org/?curid=383169",
+                "title": "Transport Layer Interface",
+                "text": "〇〇は、1987年にAT&TのUNIX System V Release 3.0で提供されたネットワーク用APIであり、Release 4 (SVR4) でもサポートが継続された。"
+            },
+            {
                 "datetime": "2025年03月07日 04時の問題",
                 "url": "https://ja.wikipedia.org/?curid=883915",
                 "title": "ヨーロッパ軒",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4402002",
                 "title": "レナノロン",
                 "text": "〇〇は、合成ニューロステロイドである。全身麻酔薬であるとされるが、臨床使用はされていない。異性体のアルファキサロンとアルファドロンも全身麻酔薬であり、恐らく〇〇と同じ機構で、GABAA受容体のポジティブアロステリックモジュレーターとして作用することが知られる。"
-            },
-            {
-                "datetime": "2025年03月05日 13時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1694492",
-                "title": "谷遼",
-                "text": "〇〇は、日本の俳優・タレントである。エイジアプロモーション並びに劇団PU-PU-JUICEに所属。"
             }
         ]
     }
