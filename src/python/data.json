@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年03月06日 15時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3255299",
+                "title": "非同盟連合",
+                "text": "〇〇は、オーランド諸島の政党。"
+            },
+            {
                 "datetime": "2025年03月06日 14時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3262414",
                 "title": "ビーポーレン",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3810907",
                 "title": "Moskobel",
                 "text": "〇〇は、かつてソビエト連邦で製造された鉄道模型。"
-            },
-            {
-                "datetime": "2025年03月04日 23時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2898414",
-                "title": "座間市立栗原中学校",
-                "text": "〇〇は、神奈川県座間市栗原中央六丁目にある公立中学校。通称は「栗中」（くりちゅう）。"
             }
         ]
     }
