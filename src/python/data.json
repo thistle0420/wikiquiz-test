@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年03月06日 13時の問題",
+                "url": "https://ja.wikipedia.org/?curid=531811",
+                "title": "ダイハツ・クー",
+                "text": "〇〇は、ダイハツ工業がかつて生産・販売していた小型トールワゴン型乗用車である。"
+            },
+            {
                 "datetime": "2025年03月06日 12時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1104664",
                 "title": "村岡章子",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3842585",
                 "title": "本部飛行場",
                 "text": "〇〇は、本部補助飛行場、上〇〇、桃原飛行場ともよばれた、沖縄本島北部の本部半島、現在の美ら海水族館の近くにかつてあった米軍基地。また、〇〇の北側の備瀬にはフクギ並木に隣接してビースリー小飛行場（Cub Airstrip on Beasley Field）があった。"
-            },
-            {
-                "datetime": "2025年03月04日 21時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1142937",
-                "title": "はらがたわ峠",
-                "text": "〇〇は、大阪府豊能郡能勢町にある山辺地区と天王地区を結ぶ峠である。"
             }
         ]
     }
