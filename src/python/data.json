@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年03月06日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3542562",
+                "title": "AQUOS CRYSTAL Y2",
+                "text": "〇〇は、シャープによって開発された、ワイモバイルの第3.9世代移動通信システム、Hybrid 4G LTE（SoftBank 4G／SoftBank 4G LTE）端末である。"
+            },
+            {
                 "datetime": "2025年03月06日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=105946",
                 "title": "奥多摩湖",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3842585",
                 "title": "本部飛行場",
                 "text": "〇〇は、本部補助飛行場、上〇〇、桃原飛行場ともよばれた、沖縄本島北部の本部半島、現在の美ら海水族館の近くにかつてあった米軍基地。また、〇〇の北側の備瀬にはフクギ並木に隣接してビースリー小飛行場（Cub Airstrip on Beasley Field）があった。"
-            },
-            {
-                "datetime": "2025年03月05日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2282414",
-                "title": "長岡京市立長岡第三小学校",
-                "text": "〇〇は、京都府長岡京市今里四丁目にある市立小学校。略称「三小」、「長三小」、「長三」。"
             }
         ]
     }
