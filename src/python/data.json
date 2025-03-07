@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年03月08日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=465550",
+                "title": "中西親志",
+                "text": "〇〇は、三重県松阪市出身の元プロ野球選手（捕手）、コーチ。現在は東京ヤクルトスワローズ選手寮の寮長を務める。"
+            },
+            {
                 "datetime": "2025年03月08日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3486208",
                 "title": "田中拓人",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4779675",
                 "title": "上津村 (島根県)",
                 "text": "〇〇は、島根県簸川郡にあった村。現在の出雲市上島町、船津町、西谷町にあたる。"
-            },
-            {
-                "datetime": "2025年03月06日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3255299",
-                "title": "非同盟連合",
-                "text": "〇〇は、オーランド諸島の政党。"
             }
         ]
     }
