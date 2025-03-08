@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年03月08日 10時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2612194",
+                "title": "2014年ソチオリンピックのカーリング競技",
+                "text": "〇〇は、2014年2月10日から21日まで男女2種目が実施された。世界カーリング連盟が管轄する5回目のオリンピックカーリング競技である。会場はアイス・キューブ・カーリングセンター。"
+            },
+            {
                 "datetime": "2025年03月08日 09時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3727185",
                 "title": "クリス・カヨール",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3191561",
                 "title": "太田勝",
                 "text": "〇〇は、愛知県出身のプロ野球選手（内野手）。左投左打。"
-            },
-            {
-                "datetime": "2025年03月06日 18時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3542562",
-                "title": "AQUOS CRYSTAL Y2",
-                "text": "〇〇は、シャープによって開発された、ワイモバイルの第3.9世代移動通信システム、Hybrid 4G LTE（SoftBank 4G／SoftBank 4G LTE）端末である。"
             }
         ]
     }
