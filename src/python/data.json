@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年03月09日 22時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2239455",
+                "title": "Mentallo",
+                "text": "〇〇は、カナダ出身の覆面レスラー。"
+            },
+            {
                 "datetime": "2025年03月09日 21時の問題",
                 "url": "https://ja.wikipedia.org/?curid=5033602",
                 "title": "中華雄立宇宙間",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=465550",
                 "title": "中西親志",
                 "text": "〇〇は、三重県松阪市出身の元プロ野球選手（捕手）、コーチ。現在は東京ヤクルトスワローズ選手寮の寮長を務める。"
-            },
-            {
-                "datetime": "2025年03月08日 06時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3486208",
-                "title": "田中拓人",
-                "text": "〇〇は、日本の作曲家、編曲家、音楽プロデューサー、ピアニスト。北海道札幌市手稲区出身。"
             }
         ]
     }
