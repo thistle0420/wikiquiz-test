@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年03月10日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4429868",
+                "title": "わたしの青い空",
+                "text": "〇〇は、藤井隆の5枚目のシングル。"
+            },
+            {
                 "datetime": "2025年03月10日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3285819",
                 "title": "吉川祐二",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2611598",
                 "title": "背徳の瞳〜Eyes of Venus〜",
                 "text": "〇〇は、小室哲哉とYOSHIKIが結成した期間限定ユニットであるV2が、1992年1月18日にリリースしたシングルである。"
-            },
-            {
-                "datetime": "2025年03月09日 05時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1011733",
-                "title": "ロコモーション (企業)",
-                "text": "〇〇は、テレビ番組の制作プロダクション。テリー伊藤が立ち上げ、代表取締役を務める。"
             }
         ]
     }
