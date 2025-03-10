@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年03月11日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4852623",
+                "title": "デイヴィジ・ヴァシングトン・ジ・ソウザ・エウジェニオ",
+                "text": "〇〇は、ブラジルのサッカー選手。のポジションはFW。"
+            },
+            {
                 "datetime": "2025年03月11日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1691875",
                 "title": "アレクサンドル・ジルキン",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4840573",
                 "title": "怠田ユニ",
                 "text": "〇〇は、日本のソロアイドル・タレント・作詞家。福島県出身。"
-            },
-            {
-                "datetime": "2025年03月09日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4174238",
-                "title": "中臣真人",
-                "text": "〇〇は、古墳時代の豪族・中臣氏の一人。"
             }
         ]
     }
