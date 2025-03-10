@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年03月10日 10時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2349939",
+                "title": "ホタテーズ",
+                "text": "〇〇は、ホリプロコム及び漫才協会に所属していた日本のお笑いコンビ。2021年4月30日解散。"
+            },
+            {
                 "datetime": "2025年03月10日 09時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4981223",
                 "title": "ビクトリア・マイヤー",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2953649",
                 "title": "小見川 (香取市)",
                 "text": "〇〇は、千葉県香取市の大字。郵便番号289-0313。"
-            },
-            {
-                "datetime": "2025年03月08日 18時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4518708",
-                "title": "耶律喊舎",
-                "text": "〇〇は、金末に活躍した契丹人。後遼政権最後の君主。"
             }
         ]
     }
