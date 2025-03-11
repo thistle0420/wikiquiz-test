@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年03月12日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4387642",
+                "title": "冨士見町 (米子市)",
+                "text": "〇〇は、鳥取県米子市の町名。郵便番号は683-0055。冨士見町と冨士見町1〜2丁目がある。"
+            },
+            {
                 "datetime": "2025年03月12日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4666572",
                 "title": "国際連合安全保障理事会決議1329",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=661133",
                 "title": "トゥフィーノ",
                 "text": "〇〇は、イタリア共和国カンパニア州ナポリ県にある、人口約3,700人の基礎自治体（コムーネ）。"
-            },
-            {
-                "datetime": "2025年03月10日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4112996",
-                "title": "東虢",
-                "text": "〇〇は、西周初期の重要な諸侯国。"
             }
         ]
     }
