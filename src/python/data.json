@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年03月12日 19時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2054864",
+                "title": "永平府",
+                "text": "〇〇は、中国にかつて存在した府。明代から民国初年にかけて、現在の河北省秦皇島市南部と唐山市東部にまたがる地域に設置された。"
+            },
+            {
                 "datetime": "2025年03月12日 18時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4488634",
                 "title": "みずほの自然の森公園",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2079594",
                 "title": "東武建設",
                 "text": "〇〇は、日本の建設会社。東武グループのひとつであり、栃木県日光市に本社を置いている。"
-            },
-            {
-                "datetime": "2025年03月11日 03時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2946978",
-                "title": "木下良",
-                "text": "〇〇は、日本の地理学者。"
             }
         ]
     }
