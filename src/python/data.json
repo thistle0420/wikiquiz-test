@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年03月13日 01時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4718275",
+                "title": "三上直之",
+                "text": "〇〇は、日本の環境社会学者、北海道大学准教授。"
+            },
+            {
                 "datetime": "2025年03月13日 00時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3934044",
                 "title": "午前0時、キスしに来てよ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=839698",
                 "title": "全国高等学校野球選手権大阪大会",
                 "text": "〇〇は、大阪府で行われる全国高等学校野球選手権大会（夏の甲子園大会）の地方大会。"
-            },
-            {
-                "datetime": "2025年03月11日 09時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1881832",
-                "title": "Rockin'on",
-                "text": "〇〇は、1972年に創刊された日本の月刊音楽雑誌である。ロッキング・オン社発行。毎月7日発売。誌名は、英語表記では「rocking on」ではなく「g」が省略された「rockin'on」であるが、日本語では「ロッキング・オン」と表記される。"
             }
         ]
     }
