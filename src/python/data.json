@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年03月14日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1710558",
+                "title": "長崎元家",
+                "text": "〇〇は、戦国時代からの江戸時代初期にかけての武将、江戸幕府旗本。通称は弥左衛門尉。"
+            },
+            {
                 "datetime": "2025年03月14日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4709673",
                 "title": "キラーカブトガニ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=353577",
                 "title": "青井夏海",
                 "text": "〇〇は、日本の推理作家。"
-            },
-            {
-                "datetime": "2025年03月12日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2361768",
-                "title": "名古屋市立広路小学校",
-                "text": "〇〇は、愛知県名古屋市昭和区にある公立小学校である。御器所小学校とともに、昭和区における近代教育の源流となった。"
             }
         ]
     }
