@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年03月15日 01時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4231879",
+                "title": "クリストファー・マルコム",
+                "text": "〇〇は、スコットランド生まれの俳優、監督、プロデューサー。"
+            },
+            {
                 "datetime": "2025年03月15日 00時の問題",
                 "url": "https://ja.wikipedia.org/?curid=5054593",
                 "title": "幌尻山",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4819973",
                 "title": "雷電神社 (埼玉県宮代町)",
                 "text": "〇〇は、埼玉県南埼玉郡宮代町の神社。"
-            },
-            {
-                "datetime": "2025年03月13日 09時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2174226",
-                "title": "ONGAX",
-                "text": "〇〇は、千葉テレビ放送（チバテレ）で放送されている音楽情報番組。チバテレで放送される音楽番組の大多数が演歌・歌謡曲・懐メロ関連である中、珍しいJ-POP音楽番組である。"
             }
         ]
     }
