@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年03月14日 17時の問題",
+                "url": "https://ja.wikipedia.org/?curid=344879",
+                "title": "一柳末栄",
+                "text": "〇〇は、江戸時代中期の大名。播磨国小野藩5代藩主。"
+            },
+            {
                 "datetime": "2025年03月14日 16時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4900046",
                 "title": "春日學",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=776128",
                 "title": "レスカルディーナ",
                 "text": "〇〇は、イタリア共和国ロンバルディア州ミラノ県にある、人口約14,000人の基礎自治体（コムーネ）。"
-            },
-            {
-                "datetime": "2025年03月13日 01時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4718275",
-                "title": "三上直之",
-                "text": "〇〇は、日本の環境社会学者、北海道大学准教授。"
             }
         ]
     }
