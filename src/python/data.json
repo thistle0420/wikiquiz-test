@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年03月14日 11時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3361605",
+                "title": "中田海斗",
+                "text": "〇〇は、日本のスケートボーダー。 幼少時代にはドラマやテレビ番組の出演経験あり。トラロックエンターテインメント株式会社に所属。"
+            },
+            {
                 "datetime": "2025年03月14日 10時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4965373",
                 "title": "Feel My Pain",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=312557",
                 "title": "エレイン・キャシディ",
                 "text": "〇〇は、アイルランド・ダブリン出身の女優である。"
-            },
-            {
-                "datetime": "2025年03月12日 19時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2054864",
-                "title": "永平府",
-                "text": "〇〇は、中国にかつて存在した府。明代から民国初年にかけて、現在の河北省秦皇島市南部と唐山市東部にまたがる地域に設置された。"
             }
         ]
     }
