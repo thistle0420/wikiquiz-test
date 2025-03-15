@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年03月16日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1747752",
+                "title": "田中勇一",
+                "text": "〇〇は、日本の政治活動家。"
+            },
+            {
                 "datetime": "2025年03月15日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3754857",
                 "title": "一心斎貞一",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1114624",
                 "title": "痛快!三匹のご隠居",
                 "text": "〇〇は、1999年10月21日から12月16日にテレビ朝日系で毎週木曜日の19時から放映されたテレビ朝日、東映制作の連続時代劇。全9回。"
-            },
-            {
-                "datetime": "2025年03月14日 08時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1710558",
-                "title": "長崎元家",
-                "text": "〇〇は、戦国時代からの江戸時代初期にかけての武将、江戸幕府旗本。通称は弥左衛門尉。"
             }
         ]
     }
