@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年03月16日 02時の問題",
+                "url": "https://ja.wikipedia.org/?curid=307650",
+                "title": "鉄道連隊",
+                "text": "〇〇は、日本陸軍が保有した〇〇について説明する。"
+            },
+            {
                 "datetime": "2025年03月16日 01時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2896134",
                 "title": "桜井安右衛門",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3361605",
                 "title": "中田海斗",
                 "text": "〇〇は、日本のスケートボーダー。 幼少時代にはドラマやテレビ番組の出演経験あり。トラロックエンターテインメント株式会社に所属。"
-            },
-            {
-                "datetime": "2025年03月14日 10時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4965373",
-                "title": "Feel My Pain",
-                "text": "〇〇は、HEY-SMITHの楽曲。2作目のデジタル配信限定シングルとして、2024年8月14日に各音楽配信サービスにてポニーキャニオンからリリースされた。"
             }
         ]
     }
