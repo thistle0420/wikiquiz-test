@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年03月16日 01時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2896134",
+                "title": "桜井安右衛門",
+                "text": "〇〇は、日本の内務・厚生官僚。官選栃木県知事。"
+            },
+            {
                 "datetime": "2025年03月16日 00時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1747752",
                 "title": "田中勇一",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4965373",
                 "title": "Feel My Pain",
                 "text": "〇〇は、HEY-SMITHの楽曲。2作目のデジタル配信限定シングルとして、2024年8月14日に各音楽配信サービスにてポニーキャニオンからリリースされた。"
-            },
-            {
-                "datetime": "2025年03月14日 09時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1114624",
-                "title": "痛快!三匹のご隠居",
-                "text": "〇〇は、1999年10月21日から12月16日にテレビ朝日系で毎週木曜日の19時から放映されたテレビ朝日、東映制作の連続時代劇。全9回。"
             }
         ]
     }
