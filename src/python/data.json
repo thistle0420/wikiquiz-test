@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年03月16日 13時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3091143",
+                "title": "城間幹子",
+                "text": "〇〇は、日本の教育者、政治家。沖縄県那覇市長を2期務めた。"
+            },
+            {
                 "datetime": "2025年03月16日 12時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2958096",
                 "title": "平知時",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2524441",
                 "title": "中保倉村",
                 "text": "〇〇は、かつて新潟県東頸城郡にあった村。"
-            },
-            {
-                "datetime": "2025年03月14日 21時の問題",
-                "url": "https://ja.wikipedia.org/?curid=818483",
-                "title": "九州農政局",
-                "text": "〇〇は、熊本市にある農林水産省の地方支分部局で、九州全県を管轄している。"
             }
         ]
     }
