@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年03月16日 19時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1938766",
+                "title": "小林警察署",
+                "text": "〇〇は、宮崎県警察所管の警察署。署長の階級は警視。"
+            },
+            {
                 "datetime": "2025年03月16日 18時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1909806",
                 "title": "豊田勇造",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3309891",
                 "title": "コーリンベリー",
                 "text": "〇〇は、日本の競走馬、繁殖牝馬。2015年のJBCスプリントに優勝した。"
-            },
-            {
-                "datetime": "2025年03月15日 03時の問題",
-                "url": "https://ja.wikipedia.org/?curid=5023058",
-                "title": "ザ・ウォー・オン・ドラッグス",
-                "text": "〇〇は、アメリカのロックバンド。2005年にペンシルベニア州・フィラデルフィアで結成。"
             }
         ]
     }
