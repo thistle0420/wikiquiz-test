@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年03月17日 04時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3294554",
+                "title": "ガニメデの地形一覧",
+                "text": "〇〇は、木星の衛星ガニメデ上にあり、名前が与えられている地形の一覧を示す。"
+            },
+            {
                 "datetime": "2025年03月17日 03時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4209333",
                 "title": "新ユーラシア・ランドブリッジ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2314216",
                 "title": "Don't Stop (童子-Tの曲)",
                 "text": "〇〇は、日本の歌手、童子-Tの9枚目のシングルである。2007年5月16日発売。発売元はユニバーサルミュージック。"
-            },
-            {
-                "datetime": "2025年03月15日 12時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1399216",
-                "title": "Ӛ",
-                "text": "〇〇は、U+04DAとU+04DBである。"
             }
         ]
     }
