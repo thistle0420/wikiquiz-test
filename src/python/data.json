@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年03月17日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=506309",
+                "title": "2002年ソルトレークシティオリンピックのフリースタイルスキー競技",
+                "text": "〇〇は、2月9日から2月19日の競技日程で実施された。"
+            },
+            {
                 "datetime": "2025年03月17日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1238544",
                 "title": "ゼロヨンチャンプ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3754857",
                 "title": "一心斎貞一",
                 "text": "〇〇は、江戸時代の浮世絵師。"
-            },
-            {
-                "datetime": "2025年03月15日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3196768",
-                "title": "清貧譚",
-                "text": "〇〇は、太宰治の短編小説。"
             }
         ]
     }
