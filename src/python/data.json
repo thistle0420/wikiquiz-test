@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年03月19日 13時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1798560",
+                "title": "日下皓",
+                "text": "〇〇は、日本の漫画家。女性。主に角川書店の漫画雑誌にて活動。"
+            },
+            {
                 "datetime": "2025年03月19日 12時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2869276",
                 "title": "シーン・エドワーズ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4218586",
                 "title": "田口絵未花",
                 "text": "〇〇は、日本の元フリーアナウンサー。タレント。ポコチャの事務所所属ライバー。ラジオパーソナリティー三重県津市出身。"
-            },
-            {
-                "datetime": "2025年03月17日 21時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4044821",
-                "title": "甲賀町小佐治",
-                "text": "〇〇は、滋賀県甲賀市にある地名。旧佐山村の中心部である。"
             }
         ]
     }
