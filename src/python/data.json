@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年03月23日 10時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2724039",
+                "title": "エリザベス・ハーブ",
+                "text": "〇〇は、ポーランド出身のフィギュアスケート選手（ペアスケーティング）。パートナーはパトルィク・シャワシヌィ。"
+            },
+            {
                 "datetime": "2025年03月23日 09時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4488885",
                 "title": "揚げピザ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1615626",
                 "title": "N821i",
                 "text": "〇〇は、日本電気(NEC)のNTTドコモの第二世代携帯電話(mova)・PHS（ドッチーモ）端末である。"
-            },
-            {
-                "datetime": "2025年03月21日 18時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2607360",
-                "title": "かよえ!チュー学",
-                "text": "〇〇は、東海テレビで放送されていた5分枠の短編アニメーション。略称は、「かよチュー」。"
             }
         ]
     }
