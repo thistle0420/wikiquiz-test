@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年03月24日 12時の問題",
+                "url": "https://ja.wikipedia.org/?curid=975158",
+                "title": "ウィリアム・フート・ホワイト",
+                "text": "〇〇は、アメリカ合衆国の社会学者。"
+            },
+            {
                 "datetime": "2025年03月24日 11時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4138732",
                 "title": "吉川奈央",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1127971",
                 "title": "白石城 (伯耆国)",
                 "text": "〇〇は、鳥取県東伯郡湯梨浜町白石・方地（ほうじ）にあった日本の城。"
-            },
-            {
-                "datetime": "2025年03月22日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=230329",
-                "title": "渡辺顗修",
-                "text": "〇〇は、日本の法学者・言語学者・弁護士。甲南大学大学院教授・甲南大学法科大学院長。博士（法学）。専門は刑事訴訟法。"
             }
         ]
     }
