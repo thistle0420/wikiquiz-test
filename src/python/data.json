@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年03月25日 05時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1073106",
+                "title": "朝日放送テレビ送信所・中継局一覧",
+                "text": "〇〇は、朝日放送テレビ（ABCテレビ）の送信所と中継局を一覧にしたものである。"
+            },
+            {
                 "datetime": "2025年03月25日 04時の問題",
                 "url": "https://ja.wikipedia.org/?curid=630490",
                 "title": "戦闘警察",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=492889",
                 "title": "因島",
                 "text": "〇〇は、広島県尾道市に属する島である。"
-            },
-            {
-                "datetime": "2025年03月23日 13時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2674561",
-                "title": "さそり座シグマ星",
-                "text": "〇〇は、さそり座にある恒星で3等星。"
             }
         ]
     }
