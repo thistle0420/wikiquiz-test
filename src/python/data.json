@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年03月24日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=288276",
+                "title": "EZ FeliCa",
+                "text": "〇〇は、非接触型ICチップであるFeliCaチップを内蔵したauブランドを展開するKDDIおよび沖縄セルラー電話の携帯電話の機能またはサービスの名称である。FeliCaチップを内蔵した au の携帯電話をドコモと同様に「おサイフケータイ」と呼ぶ。おサイフケータイはNTTドコモの登録商標であり、許可を得て使用している。"
+            },
+            {
                 "datetime": "2025年03月24日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3533816",
                 "title": "ワルデレ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=728817",
                 "title": "五條市立西吉野農業高等学校",
                 "text": "〇〇は、奈良県五條市西吉野町江出に所在する市立農業高等学校である。"
-            },
-            {
-                "datetime": "2025年03月23日 05時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1189805",
-                "title": "福田紀一",
-                "text": "〇〇は、日本の小説家。元大阪工業大学教授。"
             }
         ]
     }
