@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年03月25日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=350081",
+                "title": "Ѷ",
+                "text": "〇〇は、初期キリル文字の一つで、現在は使用されていない。Ѵに重音記号が付いたもの。ギリシャ語のΫ、ϋ（ディアリティカ・ウプシロン）を起源とする。"
+            },
+            {
                 "datetime": "2025年03月25日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2490112",
                 "title": "上金一家",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1639984",
                 "title": "寺田忠兵衛",
                 "text": "〇〇は、日本の実業家（薪炭商）である。"
-            },
-            {
-                "datetime": "2025年03月23日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=5002065",
-                "title": "中林雅",
-                "text": "〇〇は、日本の生物学者。専門は動物生態学。"
             }
         ]
     }
