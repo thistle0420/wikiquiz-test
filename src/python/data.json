@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年03月24日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=579959",
+                "title": "宮崎京",
+                "text": "〇〇は、日本のファッションモデル、舞台女優、ミス・ユニバース・ジャパン公式ウォーキングインストラクター。ワイケーエージェント所属。"
+            },
+            {
                 "datetime": "2025年03月24日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4613019",
                 "title": "玉田敏郎",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3633793",
                 "title": "A Mirage In The Sun",
                 "text": "〇〇は、2015年7月29日に発売されたMONOEYESの1枚目のオリジナルアルバム。"
-            },
-            {
-                "datetime": "2025年03月23日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3892134",
-                "title": "林下詩美",
-                "text": "〇〇は、日本の女性プロレスラー。鹿児島県奄美市出身。マリーゴールド所属。血液型O型。166cm、65kg。柔道初段。"
             }
         ]
     }
