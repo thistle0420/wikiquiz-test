@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年03月25日 22時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4978009",
+                "title": "松尾剛彦",
+                "text": "〇〇は、日本の経産官僚。"
+            },
+            {
                 "datetime": "2025年03月25日 21時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2710862",
                 "title": "バンブーダンス",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1903647",
                 "title": "さーくるらいおん",
                 "text": "〇〇は、日本のお笑いトリオである。2002年にコンビ結成の後、2006年よりトリオとして活動。画用紙コント、歌ネタを行う。"
-            },
-            {
-                "datetime": "2025年03月24日 06時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3386585",
-                "title": "松田協輔",
-                "text": "〇〇は、日本の検事。広島県尾道市長。"
             }
         ]
     }
