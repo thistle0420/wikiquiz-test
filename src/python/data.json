@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年03月25日 09時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2107826",
+                "title": "内野ぽち",
+                "text": "〇〇は、日本の女性声優。主にアダルトゲームに声をあてている。"
+            },
+            {
                 "datetime": "2025年03月25日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=350081",
                 "title": "Ѷ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2393292",
                 "title": "佐々木實雄",
                 "text": "〇〇は、日本の経済学者。日本大学商学部教授、同大学院商学研究科教授。経済社会学会会長。"
-            },
-            {
-                "datetime": "2025年03月23日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1639984",
-                "title": "寺田忠兵衛",
-                "text": "〇〇は、日本の実業家（薪炭商）である。"
             }
         ]
     }
