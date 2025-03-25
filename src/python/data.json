@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年03月26日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4098107",
+                "title": "EVOKE",
+                "text": "〇〇は、2015年8月5日にキングレコードから発売されたlynch.のメジャー4枚目のシングル。"
+            },
+            {
                 "datetime": "2025年03月26日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1958634",
                 "title": "暁 (小説)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4676127",
                 "title": "第20回全国地域リーグ決勝大会",
                 "text": "〇〇は、1996年に開催された全国地域リーグ決勝大会。"
-            },
-            {
-                "datetime": "2025年03月24日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=269442",
-                "title": "滋賀県道243号東上坂近江線",
-                "text": "〇〇は、滋賀県長浜市から米原市に至る一般県道である。"
             }
         ]
     }
