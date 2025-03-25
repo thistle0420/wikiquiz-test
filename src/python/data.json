@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年03月26日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3488634",
+                "title": "ニエリ (カウンティ)",
+                "text": "〇〇は、ケニアの中央州北部のカウンティ。中心都市はニエリ。2009年の人口は66万1156人。"
+            },
+            {
                 "datetime": "2025年03月25日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1344696",
                 "title": "モーケン族",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4239046",
                 "title": "三品建",
                 "text": "〇〇は、日本の男性声優。宮城県亘理郡出身。"
-            },
-            {
-                "datetime": "2025年03月24日 08時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3627779",
-                "title": "阜康隕石",
-                "text": "〇〇は、2000年、中国新疆ウイグル自治区の阜康市付近で発見された石鉄隕石。重量1003kg。富康隕石、福康隕石とも言う。"
             }
         ]
     }
