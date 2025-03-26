@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年03月26日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3505080",
+                "title": "無為信",
+                "text": "〇〇は、鎌倉時代の僧。親鸞の高弟である二十四輩の一人。"
+            },
+            {
                 "datetime": "2025年03月26日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4045297",
                 "title": "小郡市立大原中学校",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=814575",
                 "title": "ピラタスの丘ペンション村",
                 "text": "〇〇は、日本のリゾート。"
-            },
-            {
-                "datetime": "2025年03月25日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3981262",
-                "title": "ウィラビー・バーティー (第3代アビンドン伯爵)",
-                "text": "〇〇は、イギリスの地主、政治家。トーリー党所属。"
             }
         ]
     }
