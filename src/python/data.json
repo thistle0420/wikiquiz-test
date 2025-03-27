@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年03月27日 10時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2873543",
+                "title": "源流点を目指す旅シリーズ",
+                "text": "〇〇は、テレビ東京の土曜スペシャルで放送されていたレギュラー企画である。毎回番組タイトルが変わるため便宜上これを用いる。"
+            },
+            {
                 "datetime": "2025年03月27日 09時の問題",
                 "url": "https://ja.wikipedia.org/?curid=15293",
                 "title": "タレス",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3630394",
                 "title": "Samsung Galaxy S8",
                 "text": "〇〇は、サムスン電子が開発、設計、発表、販売したスマートフォンである。Galaxy S7│S7edgeの後継モデルとして発表された。"
-            },
-            {
-                "datetime": "2025年03月25日 18時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4359092",
-                "title": "梅野初実",
-                "text": "〇〇は、明治期の政治家。衆議院議員。"
             }
         ]
     }
