@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年03月28日 03時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4229715",
+                "title": "Synthesizer V",
+                "text": "〇〇は、Dreamtonics株式会社が開発した歌声合成ソフトウェアである。"
+            },
+            {
                 "datetime": "2025年03月28日 02時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3267094",
                 "title": "諫早市立長里小学校",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1881661",
                 "title": "しまだりら",
                 "text": "〇〇は、1990年代に活動したレースクイーン、タレントであり、カーレーサーである。元スティングコーポレーション代表、元スティングレーシングチーム所属。"
-            },
-            {
-                "datetime": "2025年03月26日 11時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3992107",
-                "title": "ホセ・ルイス・アバホ",
-                "text": "〇〇は、スペインの男子フェンシング選手。愛称はピッリ（Pirri）。"
             }
         ]
     }
