@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年03月27日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4796516",
+                "title": "新宿公園",
+                "text": "〇〇は、東京都新宿区新宿二丁目にある公園である。"
+            },
+            {
                 "datetime": "2025年03月27日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=415554",
                 "title": "島根県道252号枕木山線",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2205772",
                 "title": "田中敬",
                 "text": "〇〇は、日本の大蔵官僚。大蔵事務次官。"
-            },
-            {
-                "datetime": "2025年03月26日 04時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3789150",
-                "title": "あしべ",
-                "text": "〇〇は、日本のものまねタレント、コメディアン。本名、関根 祐太（せきね ゆうた）。神奈川県生まれ。"
             }
         ]
     }
