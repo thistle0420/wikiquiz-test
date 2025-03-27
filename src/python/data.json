@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年03月27日 19時の問題",
+                "url": "https://ja.wikipedia.org/?curid=415554",
+                "title": "島根県道252号枕木山線",
+                "text": "〇〇は、島根県松江市を通る一般県道である。"
+            },
+            {
                 "datetime": "2025年03月27日 18時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1276528",
                 "title": "AIM-65",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3789150",
                 "title": "あしべ",
                 "text": "〇〇は、日本のものまねタレント、コメディアン。本名、関根 祐太（せきね ゆうた）。神奈川県生まれ。"
-            },
-            {
-                "datetime": "2025年03月26日 03時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4889336",
-                "title": "アフォンソ・デ・ルセナ",
-                "text": "〇〇は、安土桃山時代から江戸時代初期にかけて日本で活動したポルトガルのイエズス会宣教師である。名はアルフォンスス（Alfonsus）とも表記される。"
             }
         ]
     }
