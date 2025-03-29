@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年03月29日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3099638",
+                "title": "コミックG.G.",
+                "text": "〇〇は、日本で唯一のゲイ漫画専門誌である。発売元は株式会社古川書房（現 メディレクト）。"
+            },
+            {
                 "datetime": "2025年03月29日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4241748",
                 "title": "僕たちの復讐ノート",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4229715",
                 "title": "Synthesizer V",
                 "text": "〇〇は、Dreamtonics株式会社が開発した歌声合成ソフトウェアである。"
-            },
-            {
-                "datetime": "2025年03月28日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3267094",
-                "title": "諫早市立長里小学校",
-                "text": "〇〇は、長崎県諫早市小長井町大峰にある公立小学校。2025年（令和7年）3月末に小長井地区の小学校3校（小長井・長里・遠竹）が統合される予定である。"
             }
         ]
     }
