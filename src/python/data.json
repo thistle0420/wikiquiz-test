@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年03月30日 05時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4860821",
+                "title": "カルタヘナ工科大学",
+                "text": "〇〇は、スペイン・ムルシア州カルタヘナにある公立大学（工業大学）。"
+            },
+            {
                 "datetime": "2025年03月30日 04時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2205947",
                 "title": "閩江",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2545553",
                 "title": "Virtual Rabbit",
                 "text": "〇〇は、平沢進のソロ3枚目となる『平沢初期ソロ3部作』3作目となるアルバム。1991年5月25日にポリドールより発売された。2020年12月2日に180g重量盤アナログレコードが発売された。"
-            },
-            {
-                "datetime": "2025年03月28日 13時の問題",
-                "url": "https://ja.wikipedia.org/?curid=843155",
-                "title": "ラルフ・ジョンソン",
-                "text": "〇〇は、コンピュータサイエンスの教科書であるデザインパターンの共同執筆者。イリノイ大学アーバナ・シャンペーン校コンピュータサイエンス学部准教授。Smalltalkコミュニティの先駆者で、Gang of Four(GoF)とも呼ばれている。OOPSLA(Object-Oriented Programming, Systems, Languages & Applications)には毎年参加している。"
             }
         ]
     }
