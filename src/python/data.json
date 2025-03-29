@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年03月30日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=239148",
+                "title": "ヤサカグループ",
+                "text": "〇〇は、京都府の彌榮自動車株式會社（やさかじどうしゃ）を中心に、東京都、埼玉県、神奈川県、大阪府、滋賀県、兵庫県などでタクシー、バス、旅行会社、トヨタ自動車のディーラーなどを経営する企業グループ。7業種17社、4,200名を超える社員を抱える。彌榮自動車本社は京都市下京区に所在。1945年9月21日を創業日と定めている。"
+            },
+            {
                 "datetime": "2025年03月30日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3060720",
                 "title": "鰺坂二夫",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1998024",
                 "title": "マロン酸セミアルデヒドデヒドロゲナーゼ (アセチル化)",
                 "text": "〇〇は、イノシトール代謝、アラニン・アスパラギン酸代謝、β-アラニン代謝、プロピオン酸代謝酵素の一つで、次の化学反応を触媒する酸化還元酵素である。マロン酸セミアルデヒド + CoA + NAD(P)+                     ⇌              {\\displaystyle \\rightleftharpoons }   アセチルCoA + CO2 + NAD(P)H反応式の通り、この酵素の基質はマロン酸セミアルデヒドとCoAとNAD(P)+、生成物はアセチルCoAとCO2とNAD(P)Hである。組織名は3-oxopropanoate:NAD(P)+ oxidoreductase (decarboxylating, CoA-acetylating)で、別名にmalonic semialdehyde oxidative decarboxylaseがある。"
-            },
-            {
-                "datetime": "2025年03月28日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4200066",
-                "title": "小林忠文",
-                "text": "〇〇は、日本出身の元サッカー選手。ポジションはフォワード。メキシコリーグに日本人としてプロ契約。大谷武文と同時期にプレー。メキシコプロフットボールラピドリーグにはJリーグ監督間瀬秀一と同時期にプレー。"
             }
         ]
     }
