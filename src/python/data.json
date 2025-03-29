@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年03月29日 10時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3601776",
+                "title": "新居浜市立別子中学校",
+                "text": "〇〇は、愛媛県新居浜市にある公立中学校。新居浜市立別子小学校と同じ校舎で活動している。"
+            },
+            {
                 "datetime": "2025年03月29日 09時の問題",
                 "url": "https://ja.wikipedia.org/?curid=514062",
                 "title": "鈴木重成",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=415554",
                 "title": "島根県道252号枕木山線",
                 "text": "〇〇は、島根県松江市を通る一般県道である。"
-            },
-            {
-                "datetime": "2025年03月27日 18時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1276528",
-                "title": "AIM-65",
-                "text": "〇〇は、ロックウェル・インターナショナルが1976年に発売した高機能のワンボードマイコンであり、MOS 6502 を搭載していた。"
             }
         ]
     }
