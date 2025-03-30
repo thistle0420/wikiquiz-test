@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年03月30日 12時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2675818",
+                "title": "PLEDISエンターテインメント",
+                "text": "〇〇は、韓国の芸能企画事務所である。HYBE LABELS傘下。AFTERSCHOOL、NU'EST、SEVENTEEN、PRISTIN、fromis_9、TWSなどが所属している。"
+            },
+            {
                 "datetime": "2025年03月30日 11時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2872915",
                 "title": "アドルフ・ダンハウザー",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3605288",
                 "title": "畠山久尚",
                 "text": "〇〇は、日本の地球物理学者。"
-            },
-            {
-                "datetime": "2025年03月28日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4894991",
-                "title": "可朱渾孝裕",
-                "text": "〇〇は、中国の北斉の軍人。諱は長挙、字は孝裕。本貫は太安郡狄那県。"
             }
         ]
     }
