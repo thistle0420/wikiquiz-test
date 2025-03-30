@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年03月30日 17時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4937169",
+                "title": "赤池町 (曖昧さ回避)",
+                "text": "〇〇は、日本の地名のひとつ。"
+            },
+            {
                 "datetime": "2025年03月30日 16時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4861059",
                 "title": "寿徳寺 (久喜市)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=875181",
                 "title": "ブルックス",
                 "text": "〇〇は、ブルックの息子を意味する英語の姓。まれに「Brookes」という表記も見られる。"
-            },
-            {
-                "datetime": "2025年03月29日 01時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1704281",
-                "title": "伊木忠正",
-                "text": "〇〇は、岡山藩筆頭家老。伊木家13代当主。通称は長門。主君は池田斉政・斉敏。"
             }
         ]
     }
