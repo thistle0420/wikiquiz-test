@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年04月01日 03時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2416777",
+                "title": "杜々の森名水公園",
+                "text": "〇〇は、新潟県長岡市西中野俣（栃尾地域）にある公園である。"
+            },
+            {
                 "datetime": "2025年04月01日 02時の問題",
                 "url": "https://ja.wikipedia.org/?curid=392364",
                 "title": "三遠南信のコミュニティ放送局",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2675818",
                 "title": "PLEDISエンターテインメント",
                 "text": "〇〇は、韓国の芸能企画事務所である。HYBE LABELS傘下。AFTERSCHOOL、NU'EST、SEVENTEEN、PRISTIN、fromis_9、TWSなどが所属している。"
-            },
-            {
-                "datetime": "2025年03月30日 11時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2872915",
-                "title": "アドルフ・ダンハウザー",
-                "text": "〇〇は、フランスの教育者、音楽理論家、作曲家。"
             }
         ]
     }
