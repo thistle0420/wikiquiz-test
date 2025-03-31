@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年04月01日 06時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1077104",
+                "title": "大日本帝国海軍艦艇類別変遷",
+                "text": "〇〇は、日本海軍の艦艇類別の変遷。"
+            },
+            {
                 "datetime": "2025年04月01日 05時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3799672",
                 "title": "ウマニティ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3699919",
                 "title": "チャック・テイラー (プロレスラー)",
                 "text": "〇〇は、アメリカ合衆国の男性プロレスラー。本名、ダスティン・ハワード（英語: Dustin Howard）。ケンタッキー州マレー出身。AEW所属。"
-            },
-            {
-                "datetime": "2025年03月30日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2414125",
-                "title": "TAKAMICHI SUMMER WORKS",
-                "text": "〇〇は、2011年8月19日に発売されたたかみちのデジタル原画集、映像作品。これとは別に、書籍媒体の画集であるFLOW COMICS『〇〇』も発売された。"
             }
         ]
     }
