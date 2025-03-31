@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年04月01日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2730753",
+                "title": "ENERGY (earthmindの曲)",
+                "text": "〇〇は、earthmindの3枚目のシングル。2013年2月13日にgr8! Recordsから発売された。"
+            },
+            {
                 "datetime": "2025年04月01日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2739500",
                 "title": "Only One (BoAの曲)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4937169",
                 "title": "赤池町 (曖昧さ回避)",
                 "text": "〇〇は、日本の地名のひとつ。"
-            },
-            {
-                "datetime": "2025年03月30日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4861059",
-                "title": "寿徳寺 (久喜市)",
-                "text": "〇〇は、埼玉県久喜市にある真言宗豊山派の寺院。"
             }
         ]
     }
