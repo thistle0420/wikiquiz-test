@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年04月01日 04時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1782077",
+                "title": "F-09A",
+                "text": "〇〇は、富士通によって開発された、NTTドコモの第三世代携帯電話 (FOMA) 端末である。docomo PRIME seriesの端末。"
+            },
+            {
                 "datetime": "2025年04月01日 03時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2416777",
                 "title": "杜々の森名水公園",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2742104",
                 "title": "キャベツ白書〜春編〜",
                 "text": "〇〇は、ピーベリーのメジャー1枚目、通算2枚目のシングル。2013年2月27日に発売された。"
-            },
-            {
-                "datetime": "2025年03月30日 12時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2675818",
-                "title": "PLEDISエンターテインメント",
-                "text": "〇〇は、韓国の芸能企画事務所である。HYBE LABELS傘下。AFTERSCHOOL、NU'EST、SEVENTEEN、PRISTIN、fromis_9、TWSなどが所属している。"
             }
         ]
     }
