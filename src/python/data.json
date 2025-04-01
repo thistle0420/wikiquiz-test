@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年04月02日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1094484",
+                "title": "1974",
+                "text": "〇〇は、自然数また整数において、1973の次で1975の前の数である。"
+            },
+            {
                 "datetime": "2025年04月02日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=8817",
                 "title": "ベルンシュタインの定理",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1170888",
                 "title": "涙の万華鏡 -m.yo mix-",
                 "text": "〇〇は、2003年5月6日にリリースされた吉田美和の1stシングル。"
-            },
-            {
-                "datetime": "2025年03月31日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4548835",
-                "title": "待たせてSorry",
-                "text": "〇〇は、1983年6月1日にビクター音楽産業から発売された、野村義男のデビュー・アルバム。"
             }
         ]
     }
