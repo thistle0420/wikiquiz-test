@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年04月01日 22時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1080744",
+                "title": "シュンエイ記念",
+                "text": "〇〇は、中央競馬で行われていた競馬の重賞競走（平地競走）である。"
+            },
+            {
                 "datetime": "2025年04月01日 21時の問題",
                 "url": "https://ja.wikipedia.org/?curid=265643",
                 "title": "ティム・オブライエン",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4920198",
                 "title": "DANGER (SUPER JUNIOR-D&Eのアルバム)",
                 "text": "〇〇は、2019年4月14日にリリースされたSUPER JUNIOR-D&Eの3作目となるミニアルバム。"
-            },
-            {
-                "datetime": "2025年03月31日 06時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1235403",
-                "title": "高知師範学校",
-                "text": "〇〇は、高知県師範学校（こうちけんしはんがっこう）、高知県女子師範学校（こうちけんじょししはんがっこう）などの前身諸校を含めて記述する。"
             }
         ]
     }
