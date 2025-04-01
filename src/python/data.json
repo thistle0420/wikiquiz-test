@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年04月01日 19時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3364299",
+                "title": "札幌オオドオリ大学",
+                "text": "〇〇は、日本の特定非営利活動法人（NPO法人）。学校教育法で定められた正規の大学ではなく、生涯学習を推進する団体である。NPO法人「シブヤ大学」のノウハウを移転して開校した姉妹校で、京都・名古屋に次ぐ3校目。"
+            },
+            {
                 "datetime": "2025年04月01日 18時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3705499",
                 "title": "Suburban Baroque",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3148720",
                 "title": "百鬼絢爛",
                 "text": "〇〇は、日本のロックバンド、Kagrra,のアルバム。2011年2月2日にPS musicから販売。"
-            },
-            {
-                "datetime": "2025年03月31日 03時の問題",
-                "url": "https://ja.wikipedia.org/?curid=309183",
-                "title": "香椎秀一",
-                "text": "〇〇は、大正から昭和期の日本陸軍軍人。最終階級は陸軍中将。陸軍中将香椎浩平の兄。"
             }
         ]
     }
