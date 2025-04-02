@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年04月02日 11時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1180694",
+                "title": "鶏足寺 (姫路市)",
+                "text": "〇〇は、播磨国にかつて存在した寺院。"
+            },
+            {
                 "datetime": "2025年04月02日 10時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3102926",
                 "title": "塹江敦哉",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=320314",
                 "title": "ドラゴンクエストモンスターズ1・2 星降りの勇者と牧場の仲間たち",
                 "text": "〇〇は、エニックス（現スクウェア・エニックス）から2002年5月30日に発売されたPlayStation用ソフト。"
-            },
-            {
-                "datetime": "2025年03月31日 19時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2746201",
-                "title": "ミムズ",
-                "text": "〇〇は、アメリカ合衆国のラッパーである。ニューヨーク州マンハッタンの出身で、本名はショーン・〇〇。"
             }
         ]
     }
