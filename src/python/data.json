@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年04月02日 22時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1126483",
+                "title": "日産・MRエンジン",
+                "text": "〇〇は、日産自動車およびルノーの直列4気筒ガソリンエンジンの系列である。"
+            },
+            {
                 "datetime": "2025年04月02日 21時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1399573",
                 "title": "ネルソン・バルデス",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2739500",
                 "title": "Only One (BoAの曲)",
                 "text": "〇〇は、BoAの33枚目のシングル。2013年2月27日にavex traxから発売された。CD+DVD、CDの2形態で発売。"
-            },
-            {
-                "datetime": "2025年04月01日 06時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1077104",
-                "title": "大日本帝国海軍艦艇類別変遷",
-                "text": "〇〇は、日本海軍の艦艇類別の変遷。"
             }
         ]
     }
