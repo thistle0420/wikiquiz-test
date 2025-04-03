@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年04月03日 13時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2136386",
+                "title": "山口四郎",
+                "text": "〇〇は、ドイツ文学者、翻訳家。中央大学名誉教授。1976年に第49回オール読物新人賞を受賞した〇〇は別人。"
+            },
+            {
                 "datetime": "2025年04月03日 12時の問題",
                 "url": "https://ja.wikipedia.org/?curid=180384",
                 "title": "山田卓生",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1080744",
                 "title": "シュンエイ記念",
                 "text": "〇〇は、中央競馬で行われていた競馬の重賞競走（平地競走）である。"
-            },
-            {
-                "datetime": "2025年04月01日 21時の問題",
-                "url": "https://ja.wikipedia.org/?curid=265643",
-                "title": "ティム・オブライエン",
-                "text": "〇〇は、アメリカの小説家。"
             }
         ]
     }
