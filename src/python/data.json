@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年04月04日 02時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3825125",
+                "title": "リンゴ村から",
+                "text": "〇〇は、1956年にリリースされた三橋美智也のシングル。"
+            },
+            {
                 "datetime": "2025年04月04日 01時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1319296",
                 "title": "熊本県道213号内牧坂梨線",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1180694",
                 "title": "鶏足寺 (姫路市)",
                 "text": "〇〇は、播磨国にかつて存在した寺院。"
-            },
-            {
-                "datetime": "2025年04月02日 10時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3102926",
-                "title": "塹江敦哉",
-                "text": "〇〇は、香川県高松市出身のプロ野球選手（投手）。左投左打。広島東洋カープ所属。"
             }
         ]
     }
