@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年04月05日 04時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2117025",
+                "title": "TESDA",
+                "text": "〇〇は、フィリピン共和国における専門的教育と技術の向上機関。"
+            },
+            {
                 "datetime": "2025年04月05日 03時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2756067",
                 "title": "プレイス・ビヨンド・ザ・パインズ/宿命",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2136386",
                 "title": "山口四郎",
                 "text": "〇〇は、ドイツ文学者、翻訳家。中央大学名誉教授。1976年に第49回オール読物新人賞を受賞した〇〇は別人。"
-            },
-            {
-                "datetime": "2025年04月03日 12時の問題",
-                "url": "https://ja.wikipedia.org/?curid=180384",
-                "title": "山田卓生",
-                "text": "〇〇は、日本の法学者。専門は民法・法社会学。横浜国立大学名誉教授。弁護士。来栖三郎門下。"
             }
         ]
     }
