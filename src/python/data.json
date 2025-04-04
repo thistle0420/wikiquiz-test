@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年04月05日 06時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3753886",
+                "title": "RebellioN",
+                "text": "〇〇は、日本の男性3人組ロックバンド。2010年結成。"
+            },
+            {
                 "datetime": "2025年04月05日 05時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4793626",
                 "title": "若い女性の肖像 (ファン・デル・ウェイデン)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3366473",
                 "title": "さんふらわあ くろしお",
                 "text": "〇〇は、ブルーハイウェイラインが運航したフェリー。"
-            },
-            {
-                "datetime": "2025年04月03日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1625",
-                "title": "カメラ",
-                "text": "〇〇は、写真や映像を撮影するための光学的な機械や装置。写真機（しゃしんき、寫眞機）ともいう。"
             }
         ]
     }
