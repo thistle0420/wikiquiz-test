@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年04月04日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2527677",
+                "title": "プリズム・サイン",
+                "text": "〇〇は、eufoniusの15枚目のシングル。2012年2月8日にLantisから発売された。"
+            },
+            {
                 "datetime": "2025年04月04日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1203838",
                 "title": "ロタール・シュペート",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2597742",
                 "title": "東京カランコロン",
                 "text": "〇〇は、日本の5人組ロックバンド。2007年に結成、2020年に解散。"
-            },
-            {
-                "datetime": "2025年04月02日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1126483",
-                "title": "日産・MRエンジン",
-                "text": "〇〇は、日産自動車およびルノーの直列4気筒ガソリンエンジンの系列である。"
             }
         ]
     }
