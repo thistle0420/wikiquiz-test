@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年04月06日 06時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1310799",
+                "title": "雪山坊",
+                "text": "〇〇は、日蓮正宗総本山大石寺の塔中坊の一つ。"
+            },
+            {
                 "datetime": "2025年04月06日 05時の問題",
                 "url": "https://ja.wikipedia.org/?curid=775180",
                 "title": "トルクステア",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3948568",
                 "title": "笠谷圭見",
                 "text": "〇〇は、大阪府出身の日本のドキュメンタリー映画監督、クリエイティブディレクター。"
-            },
-            {
-                "datetime": "2025年04月04日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2527677",
-                "title": "プリズム・サイン",
-                "text": "〇〇は、eufoniusの15枚目のシングル。2012年2月8日にLantisから発売された。"
             }
         ]
     }
