@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年04月07日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1088125",
+                "title": "松平乗喬",
+                "text": "〇〇は、江戸時代後期の大名。美濃国岩村藩主。乗政流大給松平家7代。官位は従五位下・能登守。"
+            },
+            {
                 "datetime": "2025年04月06日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1677919",
                 "title": "元釗",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2290998",
                 "title": "大原俊弘",
                 "text": "〇〇は、日本の実業家。日本都市の創業者。"
-            },
-            {
-                "datetime": "2025年04月05日 08時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4344332",
-                "title": "ジョン・マッキューアン",
-                "text": "〇〇は、アメリカ人フォーク・ミュージシャンにしてニッティー・グリッティー・ダート・バンドの創設メンバー。"
             }
         ]
     }
