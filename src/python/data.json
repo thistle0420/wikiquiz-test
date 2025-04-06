@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年04月06日 17時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2934270",
+                "title": "小野寺恵介",
+                "text": "〇〇は、バスケットボール選手である。ポジションはガード。"
+            },
+            {
                 "datetime": "2025年04月06日 16時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3358400",
                 "title": "霞ケ丘 (名古屋市)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=453829",
                 "title": "チェルトーザ・ディ・パヴィーア",
                 "text": "〇〇は、イタリア共和国ロンバルディア州パヴィーア県にある、人口約5,400人の基礎自治体（コムーネ）。"
-            },
-            {
-                "datetime": "2025年04月05日 01時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1284314",
-                "title": "大連経済技術開発区",
-                "text": "〇〇は、遼寧省大連市金州区にある1984年に設置された中国の最初の経済技術開発区で、略して大連開発区と呼ばれる。エリア面積は50平方km、工業区、商業区、生活区に分かれていて、人口30万人を有する。（日本人の駐在人口は2000人）英語ではDalian Economic and Technological Development Zone（略称DDZ）、最近では南側の保税区（Free-Trade Zone）と東側のDDポート（双D港、DD Port）も含めて「大連開発区」（Dalian Development Area、略称DDA）とも呼ばれている。"
             }
         ]
     }
