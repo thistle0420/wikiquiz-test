@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年04月08日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3341678",
+                "title": "中江克己",
+                "text": "〇〇は、日本の文筆家。"
+            },
+            {
                 "datetime": "2025年04月07日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3005218",
                 "title": "ペギー・レエ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=337938",
                 "title": "愛知万博の歴史",
                 "text": "〇〇は、2005年日本国際博覧会（愛知万博）に関連した出来事を時系列で記述する。"
-            },
-            {
-                "datetime": "2025年04月06日 08時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3645010",
-                "title": "人民民主党 (インドネシア)",
-                "text": "〇〇は、インドネシアの民主社会主義政党である。"
             }
         ]
     }
