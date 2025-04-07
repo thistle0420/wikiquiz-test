@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年04月07日 17時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2991564",
+                "title": "東田巍",
+                "text": "〇〇は、京都府京都市出身の元プロ野球選手（捕手）。"
+            },
+            {
                 "datetime": "2025年04月07日 16時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4273031",
                 "title": "鹿曲川",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1993342",
                 "title": "ONE PIECE BEST ALBUM 〜ワンピース主題歌集〜",
                 "text": "〇〇は、テレビアニメ『ONE PIECE』のコンピレーション・アルバム。2003年7月30日から2005年3月24日までavex modeから発売された。"
-            },
-            {
-                "datetime": "2025年04月06日 01時の問題",
-                "url": "https://ja.wikipedia.org/?curid=476409",
-                "title": "ヘルゴラント島",
-                "text": "〇〇は、ドイツ連邦共和国領の北海の小さな島である。"
             }
         ]
     }
