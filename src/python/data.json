@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年04月07日 23時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3005218",
+                "title": "ペギー・レエ",
+                "text": "〇〇は、アメリカ合衆国の女優。"
+            },
+            {
                 "datetime": "2025年04月07日 22時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1994005",
                 "title": "ツバメハチドリ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3645010",
                 "title": "人民民主党 (インドネシア)",
                 "text": "〇〇は、インドネシアの民主社会主義政党である。"
-            },
-            {
-                "datetime": "2025年04月06日 07時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1030154",
-                "title": "イエロー (コールドプレイの曲)",
-                "text": "〇〇は、ホームゲームのハーフタイムなどでこの曲を流している。"
             }
         ]
     }
