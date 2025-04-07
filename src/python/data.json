@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年04月07日 22時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1994005",
+                "title": "ツバメハチドリ",
+                "text": "〇〇は、アマツバメ目ハチドリ科に分類される鳥類の一種。"
+            },
+            {
                 "datetime": "2025年04月07日 21時の問題",
                 "url": "https://ja.wikipedia.org/?curid=759929",
                 "title": "ウィスコンシン大学ミルウォーキー校",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1030154",
                 "title": "イエロー (コールドプレイの曲)",
                 "text": "〇〇は、ホームゲームのハーフタイムなどでこの曲を流している。"
-            },
-            {
-                "datetime": "2025年04月06日 06時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1310799",
-                "title": "雪山坊",
-                "text": "〇〇は、日蓮正宗総本山大石寺の塔中坊の一つ。"
             }
         ]
     }
