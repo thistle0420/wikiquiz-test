@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年04月07日 16時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4273031",
+                "title": "鹿曲川",
+                "text": "〇〇は、長野県内を流れる信濃川水系の一級河川。"
+            },
+            {
                 "datetime": "2025年04月07日 15時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4752888",
                 "title": "宮崎県道19号石河内高城高鍋線",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=476409",
                 "title": "ヘルゴラント島",
                 "text": "〇〇は、ドイツ連邦共和国領の北海の小さな島である。"
-            },
-            {
-                "datetime": "2025年04月06日 00時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2401629",
-                "title": "斉藤みどり",
-                "text": "〇〇は、元日本教育テレビ・テレビ朝日アナウンサー。東京都出身。"
             }
         ]
     }
