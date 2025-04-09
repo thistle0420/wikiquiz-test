@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年04月09日 16時の問題",
+                "url": "https://ja.wikipedia.org/?curid=861800",
+                "title": "P209iS",
+                "text": "〇〇は、松下通信工業（現: パナソニック モバイルコミュニケーションズ）製のNTTドコモの第二世代携帯電話(mova)端末である。"
+            },
+            {
                 "datetime": "2025年04月09日 15時の問題",
                 "url": "https://ja.wikipedia.org/?curid=893972",
                 "title": "シュヴァーツ郡",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1751830",
                 "title": "神谷悠",
                 "text": "〇〇は、日本の漫画家。大阪府出身。"
-            },
-            {
-                "datetime": "2025年04月08日 00時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3341678",
-                "title": "中江克己",
-                "text": "〇〇は、日本の文筆家。"
             }
         ]
     }
