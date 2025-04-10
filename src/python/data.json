@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年04月10日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=448055",
+                "title": "モーディカ",
+                "text": "〇〇は、イタリア共和国シチリア州ラグーザ県にある都市であり、その周辺地域を含む人口約5万4000人の基礎自治体（コムーネ）。ラグーザ、ヴィットーリアに次ぎ、県内第3位のコムーネ人口を有する。"
+            },
+            {
                 "datetime": "2025年04月10日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1106434",
                 "title": "モンスターズ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3934240",
                 "title": "道の駅あびら D51ステーション",
                 "text": "〇〇は、北海道勇払郡安平町にある国道234号の道の駅である。"
-            },
-            {
-                "datetime": "2025年04月09日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3597227",
-                "title": "NEW WORLD (lego big morlのアルバム)",
-                "text": "〇〇は、2014年10月22日に発売された、lego big morlの4枚目のアルバムである。"
             }
         ]
     }
