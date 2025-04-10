@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年04月10日 19時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1307879",
+                "title": "プラハ室内管弦楽団",
+                "text": "〇〇は、チェコ・プラハを本拠地とする室内オーケストラである。"
+            },
+            {
                 "datetime": "2025年04月10日 18時の問題",
                 "url": "https://ja.wikipedia.org/?curid=448055",
                 "title": "モーディカ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2658706",
                 "title": "百鬼夜行〜怪談ロマンス〜",
                 "text": "〇〇は、QuinRoseより2012年10月25日に発売されたPlayStation Portable用恋愛アドベンチャーゲーム。2013年9月26日に続編『百物語〜怪談ロマンス〜』発売。"
-            },
-            {
-                "datetime": "2025年04月09日 03時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3934240",
-                "title": "道の駅あびら D51ステーション",
-                "text": "〇〇は、北海道勇払郡安平町にある国道234号の道の駅である。"
             }
         ]
     }
