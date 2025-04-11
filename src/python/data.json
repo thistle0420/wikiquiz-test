@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年04月11日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1319506",
+                "title": "Standard Widget Toolkit",
+                "text": "〇〇は、Javaプラットフォーム用ウィジェット・ツールキットの一種。元々、IBMが開発したが、現在はEclipse FoundationがEclipseと共に管理保守している。サン・マイクロシステムズがJava標準の一環として提供するJava用GUIツールキットであるAWTとSwingを代替するものとして開発された。SWTはJavaで書かれている。GUI部品を表示するため、SWTはそのオペレーティングシステム (OS) が提供するGUIライブラリを JNI (Java Native Interface) 経由で使用する（これはシステム固有のAPIを使う一般的手法である）。SWTを使うプログラムは移植性があるが、ツールキット自体の実装はJavaでかかれているにもかかわらず、各プラットフォーム固有である。SWTはEclipse Public Licenseでライセンスされている。このライセンスはOpen Source Initiative がオープンソースライセンスとして認めている。"
+            },
+            {
                 "datetime": "2025年04月11日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1452177",
                 "title": "RETRO GAMES",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=101593",
                 "title": "上大井駅",
                 "text": "〇〇は、神奈川県足柄上郡大井町上大井にある、東海旅客鉄道（JR東海）御殿場線の駅である。駅番号はCB02。"
-            },
-            {
-                "datetime": "2025年04月10日 05時の問題",
-                "url": "https://ja.wikipedia.org/?curid=451011",
-                "title": "金村大裕",
-                "text": "〇〇は、大阪府大阪市平野区出身の元プロ野球選手（投手）。右投右打。在日韓国人3世で、本名は金 大裕（キム・デユ、김대유）。"
             }
         ]
     }
