@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年04月12日 06時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4719216",
+                "title": "御原村",
+                "text": "〇〇は、福岡県三井郡にあった村。現在の小郡市の一部。"
+            },
+            {
                 "datetime": "2025年04月12日 05時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4287439",
                 "title": "フランクフルト市電O形電車",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=31309",
                 "title": "コミックビーム",
                 "text": "〇〇は、KADOKAWA（エンターブレインブランド）発行の月刊漫画雑誌。1995年11月11日創刊。毎月12日発売。キャッチコピーは「愛と勇気と執念のコミック雑誌」。"
-            },
-            {
-                "datetime": "2025年04月10日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2290238",
-                "title": "カラフル×メロディ",
-                "text": "〇〇は、MOERのユニット・ちーむMOERの、音声合成ソフトVOCALOIDをボーカルに用いたシングルである。2011年3月9日にMOERより発売された。"
             }
         ]
     }
