@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年04月12日 16時の問題",
+                "url": "https://ja.wikipedia.org/?curid=511785",
+                "title": "ザ・シャムロック",
+                "text": "〇〇は、日本のロックバンド。1979年に結成し、1993年に解散したが、2004年に一夜限りではあるが再結成した。"
+            },
+            {
                 "datetime": "2025年04月12日 15時の問題",
                 "url": "https://ja.wikipedia.org/?curid=5058790",
                 "title": "Communications of the ACM",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=383665",
                 "title": "新星日本交響楽団",
                 "text": "〇〇は、かつて東京都に存在したプロフェッショナルのオーケストラ。"
-            },
-            {
-                "datetime": "2025年04月11日 00時の問題",
-                "url": "https://ja.wikipedia.org/?curid=267697",
-                "title": "須田くにお",
-                "text": "〇〇は、福島県福島市渡利地区在住の合唱指揮者、作曲家。代表作に混声合唱組曲「安積野」や「日本楽器の為の四重奏」、福島大学学生歌「今日の世紀に」等がある。"
             }
         ]
     }
