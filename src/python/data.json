@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年04月12日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4530305",
+                "title": "黒崎貴之",
+                "text": "〇〇は、新潟放送 (BSN) のアナウンサー。"
+            },
+            {
                 "datetime": "2025年04月12日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1474313",
                 "title": "田崎英明",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4690032",
                 "title": "荒木直也",
                 "text": "〇〇は、エイチ・ツー・オー リテイリング代表取締役社長、阪急阪神百貨店会長、阪急阪神ホールディングス取締役などを務める日本の実業家。"
-            },
-            {
-                "datetime": "2025年04月11日 04時の問題",
-                "url": "https://ja.wikipedia.org/?curid=860976",
-                "title": "アーサーGARAGE",
-                "text": "〇〇は、たーしによる日本の漫画作品。ここでは第2部に相当する『熱血中古屋魂!! 〇〇』についても併せて記載する。"
             }
         ]
     }
