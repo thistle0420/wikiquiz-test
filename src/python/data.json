@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年04月13日 12時の問題",
+                "url": "https://ja.wikipedia.org/?curid=262445",
+                "title": "ヴァルター・ハイトラー",
+                "text": "〇〇は、ドイツの物理学者。ユダヤ系。"
+            },
+            {
                 "datetime": "2025年04月13日 10時の問題",
                 "url": "https://ja.wikipedia.org/?curid=12950",
                 "title": "1499年",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1452177",
                 "title": "RETRO GAMES",
                 "text": "〇〇は、韓国のゲーム開発会社。代表者はチョン・ギョンス（전경수）。"
-            },
-            {
-                "datetime": "2025年04月11日 19時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3534799",
-                "title": "慶應義塾大学落語研究会",
-                "text": "〇〇は、慶應義塾大学の文化団体連盟（文連）に所属する公認団体の一つで、いわゆる落研（おちけん）のうちの一つである。略称は慶應落研（けいおうおちけん）。関東落研連合（関落連）に所属している。"
             }
         ]
     }
