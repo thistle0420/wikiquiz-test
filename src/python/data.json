@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年04月13日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2904182",
+                "title": "品川氏章",
+                "text": "〇〇は、江戸時代末期から明治時代初期の人物。長府藩士、報国隊士及び陸軍軍人。栄典は正四位勲二等。最終階級は陸軍少将。"
+            },
+            {
                 "datetime": "2025年04月13日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=366226",
                 "title": "美勇士",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3812681",
                 "title": "中島経夫",
                 "text": "〇〇は、日本の魚類学者である。琵琶湖博物館名誉学芸員。"
-            },
-            {
-                "datetime": "2025年04月11日 21時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1319506",
-                "title": "Standard Widget Toolkit",
-                "text": "〇〇は、Javaプラットフォーム用ウィジェット・ツールキットの一種。元々、IBMが開発したが、現在はEclipse FoundationがEclipseと共に管理保守している。サン・マイクロシステムズがJava標準の一環として提供するJava用GUIツールキットであるAWTとSwingを代替するものとして開発された。SWTはJavaで書かれている。GUI部品を表示するため、SWTはそのオペレーティングシステム (OS) が提供するGUIライブラリを JNI (Java Native Interface) 経由で使用する（これはシステム固有のAPIを使う一般的手法である）。SWTを使うプログラムは移植性があるが、ツールキット自体の実装はJavaでかかれているにもかかわらず、各プラットフォーム固有である。SWTはEclipse Public Licenseでライセンスされている。このライセンスはOpen Source Initiative がオープンソースライセンスとして認めている。"
             }
         ]
     }
