@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年04月13日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2298841",
+                "title": "スーパーオキシドレダクターゼ",
+                "text": "〇〇は、次の化学反応を触媒する酸化還元酵素である。還元型ルブレドキシン + スーパーオキシド + 2 H+                     ⇌              {\\displaystyle \\rightleftharpoons }   ルブレドキシン + H2O2この酵素の基質は還元型ルブレドキシン、スーパーオキシドとH+で、生成物はルブレドキシンとH2O2である。この酵素は酸化還元酵素に属し、基質に特異的に作用する。組織名はrubredoxin:superoxide oxidoreductaseで、別名にneelaredoxin、desulfoferrodoxinがある。"
+            },
+            {
                 "datetime": "2025年04月13日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=8582",
                 "title": "上越新幹線",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4287439",
                 "title": "フランクフルト市電O形電車",
                 "text": "〇〇は、ドイツの都市であるフランクフルト・アム・マインの路面電車のフランクフルト市電にかつて在籍していた車両の1形式。ループ線が存在しない系統でも使用可能な両運転台式の3車体連接車として導入された。"
-            },
-            {
-                "datetime": "2025年04月12日 04時の問題",
-                "url": "https://ja.wikipedia.org/?curid=905914",
-                "title": "リヴァルタ・ボルミダ",
-                "text": "〇〇は、イタリア共和国ピエモンテ州アレッサンドリア県にある、人口約1,400人の基礎自治体（コムーネ）。"
             }
         ]
     }
