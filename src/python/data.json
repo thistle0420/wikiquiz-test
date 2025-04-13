@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年04月13日 15時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4278616",
+                "title": "西山冨佐太",
+                "text": "〇〇は、明治末から昭和期の教育者、政治家。衆議院議員。"
+            },
+            {
                 "datetime": "2025年04月13日 14時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2904182",
                 "title": "品川氏章",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=84749",
                 "title": "エフエム富士",
                 "text": "〇〇は、山梨県を放送対象地域として超短波放送（FM放送）をする特定地上基幹放送事業者である。愛称はFM FUJI。識別信号はJOCV-FM。"
-            },
-            {
-                "datetime": "2025年04月11日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3812681",
-                "title": "中島経夫",
-                "text": "〇〇は、日本の魚類学者である。琵琶湖博物館名誉学芸員。"
             }
         ]
     }
