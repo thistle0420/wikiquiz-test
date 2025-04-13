@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年04月13日 13時の問題",
+                "url": "https://ja.wikipedia.org/?curid=366226",
+                "title": "美勇士",
+                "text": "〇〇は、日本のミュージシャン、俳優、ゲーマー。本名は桑名 〇〇 ジュリアン。ハワイ生まれ。A型。173cm。普通免許。船舶免許。趣味はフットサルとゲーム。2006年まで吉本興業に所属。現在、事務所フリー。17 Liveのライバー（動画配信者）として配信活動中。"
+            },
+            {
                 "datetime": "2025年04月13日 12時の問題",
                 "url": "https://ja.wikipedia.org/?curid=262445",
                 "title": "ヴァルター・ハイトラー",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1319506",
                 "title": "Standard Widget Toolkit",
                 "text": "〇〇は、Javaプラットフォーム用ウィジェット・ツールキットの一種。元々、IBMが開発したが、現在はEclipse FoundationがEclipseと共に管理保守している。サン・マイクロシステムズがJava標準の一環として提供するJava用GUIツールキットであるAWTとSwingを代替するものとして開発された。SWTはJavaで書かれている。GUI部品を表示するため、SWTはそのオペレーティングシステム (OS) が提供するGUIライブラリを JNI (Java Native Interface) 経由で使用する（これはシステム固有のAPIを使う一般的手法である）。SWTを使うプログラムは移植性があるが、ツールキット自体の実装はJavaでかかれているにもかかわらず、各プラットフォーム固有である。SWTはEclipse Public Licenseでライセンスされている。このライセンスはOpen Source Initiative がオープンソースライセンスとして認めている。"
-            },
-            {
-                "datetime": "2025年04月11日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1452177",
-                "title": "RETRO GAMES",
-                "text": "〇〇は、韓国のゲーム開発会社。代表者はチョン・ギョンス（전경수）。"
             }
         ]
     }
