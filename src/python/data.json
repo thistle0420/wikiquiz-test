@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年04月14日 10時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2923600",
+                "title": "五坊寂静院",
+                "text": "〇〇は、和歌山県伊都郡高野町にある、高野山真言宗の寺院。高野山（金剛峯寺）の子院の一つで、高野十谷のうちの一心院谷に位置する。"
+            },
+            {
                 "datetime": "2025年04月14日 09時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2138530",
                 "title": "平成22年台風第2号",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2632031",
                 "title": "ベズイミアニ山",
                 "text": "〇〇は、ロシアのカムチャツカ半島にある成層火山。現在の標高は2,882m。名称は「無名」という意味である。"
-            },
-            {
-                "datetime": "2025年04月12日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4041493",
-                "title": "平滑化スプライン",
-                "text": "〇〇は、関数                     f        (                  x                      i                          )              {\\displaystyle f(x_{i})}   をノイズを含んで観測した観測値                               y                      i                                {\\displaystyle y_{i}}   から、2階微分に基づく平滑度とのバランスを取りながらスプライン曲線を使用して関数                                                         f              ^                                      (        x        )              {\\displaystyle {\\hat {f}}(x)}   を推定する手法。スプライン曲線は3次スプライン曲線がよく使われる。"
             }
         ]
     }
