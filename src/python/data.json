@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年04月14日 15時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1203800",
+                "title": "ヴィルヘルム・アダム",
+                "text": "〇〇は、ドイツの陸軍軍人。最終階級は陸軍上級大将。1930年から1933年まで、参謀総長にあたる兵務局長を務めた。"
+            },
+            {
                 "datetime": "2025年04月14日 14時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1111609",
                 "title": "各務原市立中央図書館",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3934504",
                 "title": "高松秀明",
                 "text": "〇〇は、歌人。"
-            },
-            {
-                "datetime": "2025年04月12日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1117108",
-                "title": "千代田信号所",
-                "text": "〇〇は、大阪府河内長野市にある、南海電気鉄道高野線の信号場である。"
             }
         ]
     }
