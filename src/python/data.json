@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年04月15日 15時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4262386",
+                "title": "2020-21シーズンのデンバー・ナゲッツ",
+                "text": "〇〇は、ナゲッツのフランチャイズ45回目のシーズンである。"
+            },
+            {
                 "datetime": "2025年04月15日 14時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4055013",
                 "title": "黒薙川",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1671641",
                 "title": "大分市指定文化財一覧",
                 "text": "〇〇は、大分県大分市が指定（または登録、選択、選定）した文化財の一覧である。"
-            },
-            {
-                "datetime": "2025年04月13日 23時の問題",
-                "url": "https://ja.wikipedia.org/?curid=432911",
-                "title": "伊勢警察署",
-                "text": "〇〇は、三重県警察が管轄する警察署の一つ。"
             }
         ]
     }
