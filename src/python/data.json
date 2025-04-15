@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年04月15日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4055013",
+                "title": "黒薙川",
+                "text": "〇〇は、富山県黒部市と下新川郡朝日町を流れる河川で、黒部川最大の支流。上流で北又谷と柳又谷を合わせて〇〇となる。北又谷と柳又谷はどちらも日本百名谷の一つ。初雪山や犬ヶ岳を源流とする。"
+            },
+            {
                 "datetime": "2025年04月15日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=749897",
                 "title": "BREM-84",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=432911",
                 "title": "伊勢警察署",
                 "text": "〇〇は、三重県警察が管轄する警察署の一つ。"
-            },
-            {
-                "datetime": "2025年04月13日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2331234",
-                "title": "玉東町立玉東中学校",
-                "text": "〇〇は、熊本県玉名郡玉東町白木にある中学校。"
             }
         ]
     }
