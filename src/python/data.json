@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年04月15日 13時の問題",
+                "url": "https://ja.wikipedia.org/?curid=749897",
+                "title": "BREM-84",
+                "text": "〇〇は、ウクライナのA・A・モローゾフ記念ハリコフ機械製造設計局 (KhKBM) で開発された装甲回収車である。なお、「BREM」 (БРЕМ) とはウクライナ語で「装甲を施された修理・回収用車輌」を意味する「Броньована ремонтна евакуаційна машина」の略語である。"
+            },
+            {
                 "datetime": "2025年04月15日 12時の問題",
                 "url": "https://ja.wikipedia.org/?curid=720028",
                 "title": "ポケットドリームコンソール",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2331234",
                 "title": "玉東町立玉東中学校",
                 "text": "〇〇は、熊本県玉名郡玉東町白木にある中学校。"
-            },
-            {
-                "datetime": "2025年04月13日 21時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2298841",
-                "title": "スーパーオキシドレダクターゼ",
-                "text": "〇〇は、次の化学反応を触媒する酸化還元酵素である。還元型ルブレドキシン + スーパーオキシド + 2 H+                     ⇌              {\\displaystyle \\rightleftharpoons }   ルブレドキシン + H2O2この酵素の基質は還元型ルブレドキシン、スーパーオキシドとH+で、生成物はルブレドキシンとH2O2である。この酵素は酸化還元酵素に属し、基質に特異的に作用する。組織名はrubredoxin:superoxide oxidoreductaseで、別名にneelaredoxin、desulfoferrodoxinがある。"
             }
         ]
     }
