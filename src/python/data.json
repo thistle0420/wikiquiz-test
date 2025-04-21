@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年04月21日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=5055622",
+                "title": "張廷珪",
+                "text": "〇〇は、唐代の官僚。本貫は河南府済源県。"
+            },
+            {
                 "datetime": "2025年04月21日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1195813",
                 "title": "ID; Peace B (曲)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3211767",
                 "title": "ジャン・ジロー (映画監督)",
                 "text": "〇〇は、フランスの映画監督。"
-            },
-            {
-                "datetime": "2025年04月19日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2391048",
-                "title": "シャウィニガン",
-                "text": "〇〇は、カナダ・ケベック州の都市。モリシー地域に属し、サンモーリス川が流れる。郡（municipalité régionale de comté、MRC）に属さない単一層自治体としての市である。「南の入江」、「岸辺の入り口」等を意味するとされる Shawinigan の綴りは、過去には、Chaouinigane、Oshaouinigane、Assaouinigane、Achawénégan、Chawinigame、Shawenigane、Chaouénigane 等多数あったが、1958年に市名が Shawinigan Falls（〇〇・フォールズ）と定まったことで定着した。"
             }
         ]
     }
