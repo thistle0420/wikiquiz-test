@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年04月21日 13時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1195813",
+                "title": "ID; Peace B (曲)",
+                "text": "〇〇は、BoAの日本でのデビューシングル。"
+            },
+            {
                 "datetime": "2025年04月21日 12時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1609375",
                 "title": "私立さくらんぼ小学校",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2391048",
                 "title": "シャウィニガン",
                 "text": "〇〇は、カナダ・ケベック州の都市。モリシー地域に属し、サンモーリス川が流れる。郡（municipalité régionale de comté、MRC）に属さない単一層自治体としての市である。「南の入江」、「岸辺の入り口」等を意味するとされる Shawinigan の綴りは、過去には、Chaouinigane、Oshaouinigane、Assaouinigane、Achawénégan、Chawinigame、Shawenigane、Chaouénigane 等多数あったが、1958年に市名が Shawinigan Falls（〇〇・フォールズ）と定まったことで定着した。"
-            },
-            {
-                "datetime": "2025年04月19日 21時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2985613",
-                "title": "ウメオ・タウンホール",
-                "text": "〇〇は、スウェーデンのウメオにある旧市庁舎の建物である。最初のタウンホールは1600年代に建てられ、現存する建物は町が徹底的に燃やし尽くされた1888年の大火の後に同じ場所に建てられて、1890年に完成した 。設計者はストックホルムから来たフレデリック・オラス・リンドストローム（Fredrik Olaus Lindström）であり、リンドストロームは新都市開発計画でタウンホールを川岸のランドマークとして位置づけ、建物のファサードを当時の交通の要所だったウメ川の港に南面させた。"
             }
         ]
     }
