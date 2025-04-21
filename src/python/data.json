@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年04月22日 02時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4336421",
+                "title": "Phase to Fate",
+                "text": "〇〇は、SURFACEの1枚目のライブアルバム。2001年3月14日にキティMMEよりリリースされた。"
+            },
+            {
                 "datetime": "2025年04月22日 01時の問題",
                 "url": "https://ja.wikipedia.org/?curid=49831",
                 "title": "ジェームズ・クラーク (事業家)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=471726",
                 "title": "ポルトグルアーロ",
                 "text": "〇〇は、イタリア共和国ヴェネト州ヴェネツィア県にある、人口約24,000人の基礎自治体（コムーネ）。"
-            },
-            {
-                "datetime": "2025年04月20日 10時の問題",
-                "url": "https://ja.wikipedia.org/?curid=642662",
-                "title": "原谷村 (埼玉県)",
-                "text": "〇〇は、埼玉県の西部、秩父郡に属していた村。"
             }
         ]
     }
