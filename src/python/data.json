@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年04月21日 15時の問題",
+                "url": "https://ja.wikipedia.org/?curid=177142",
+                "title": "反応度",
+                "text": "〇〇は、原子炉制御の重要なパラメーターのひとつである。"
+            },
+            {
                 "datetime": "2025年04月21日 14時の問題",
                 "url": "https://ja.wikipedia.org/?curid=5055622",
                 "title": "張廷珪",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=730322",
                 "title": "アルタミラピクチャーズ",
                 "text": "〇〇は、日本映画の企画・製作・宣伝・配給を行う独立系映画製作プロダクションである。"
-            },
-            {
-                "datetime": "2025年04月19日 23時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3211767",
-                "title": "ジャン・ジロー (映画監督)",
-                "text": "〇〇は、フランスの映画監督。"
             }
         ]
     }
