@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年04月23日 06時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4250054",
+                "title": "第33回東京国際映画祭",
+                "text": "〇〇は、2020年（令和2年）10月31日（土）から11月9日（月）の10日間に開催された東京国際映画祭。"
+            },
+            {
                 "datetime": "2025年04月23日 05時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3505116",
                 "title": "愛乃なみ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=177142",
                 "title": "反応度",
                 "text": "〇〇は、原子炉制御の重要なパラメーターのひとつである。"
-            },
-            {
-                "datetime": "2025年04月21日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=5055622",
-                "title": "張廷珪",
-                "text": "〇〇は、唐代の官僚。本貫は河南府済源県。"
             }
         ]
     }
