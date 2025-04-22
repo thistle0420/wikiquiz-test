@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年04月22日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1813619",
+                "title": "谷田歩",
+                "text": "〇〇は、静岡県出身の俳優、声優。ジェイ・クリップ所属。シェイクスピアシアター附属演劇研究所を経て劇団AUNへ入団。以後、舞台およびCF出演・ナレーションの実績を積み現在へ至る。既婚で子供あり。"
+            },
+            {
                 "datetime": "2025年04月22日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3040467",
                 "title": "松永渚",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1972038",
                 "title": "保坂孝",
                 "text": "〇〇は、日本のサッカー選手およびサッカー指導者である。"
-            },
-            {
-                "datetime": "2025年04月21日 04時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3874829",
-                "title": "逢坂與十郎",
-                "text": "〇〇は、戦国時代末期の武将。"
             }
         ]
     }
