@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年04月23日 05時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3505116",
+                "title": "愛乃なみ",
+                "text": "〇〇は、日本の元AV女優。別名義=長瀬真子、愛田ミナミ。"
+            },
+            {
                 "datetime": "2025年04月23日 04時の問題",
                 "url": "https://ja.wikipedia.org/?curid=6463",
                 "title": "干支",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=5055622",
                 "title": "張廷珪",
                 "text": "〇〇は、唐代の官僚。本貫は河南府済源県。"
-            },
-            {
-                "datetime": "2025年04月21日 13時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1195813",
-                "title": "ID; Peace B (曲)",
-                "text": "〇〇は、BoAの日本でのデビューシングル。"
             }
         ]
     }
