@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年04月23日 23時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2612360",
+                "title": "4-クロロアニリン",
+                "text": "〇〇は、アニリンのベンゼン環の4位の水素が塩素に置き換わった有機化合物で、化学式はClC6H4NH2。パラクロロアニリン（英: p-Chloroaniline、略称PCA）とも呼ばれる。"
+            },
+            {
                 "datetime": "2025年04月23日 22時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2969016",
                 "title": "OKN",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=716784",
                 "title": "八王子車人形",
                 "text": "〇〇は、東京都八王子市において伝承されている人形劇。国の重要無形民俗文化財。"
-            },
-            {
-                "datetime": "2025年04月22日 06時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4524402",
-                "title": "佐藤博夫",
-                "text": "〇〇は、日本の実業家。"
             }
         ]
     }
