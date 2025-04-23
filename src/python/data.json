@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年04月23日 22時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2969016",
+                "title": "OKN",
+                "text": "〇〇は、日本のイラストレーター、キャラクターデザイナー、ゲームクリエイター。三重県立四日市高等学校、武蔵野美術大学造形学部空間演出デザイン学科卒業。"
+            },
+            {
                 "datetime": "2025年04月23日 21時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2885370",
                 "title": "独占価格",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4524402",
                 "title": "佐藤博夫",
                 "text": "〇〇は、日本の実業家。"
-            },
-            {
-                "datetime": "2025年04月22日 05時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2819947",
-                "title": "小林香萌",
-                "text": "〇〇は、日本の女子プロレスラー。"
             }
         ]
     }
