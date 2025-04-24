@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年04月24日 22時の問題",
+                "url": "https://ja.wikipedia.org/?curid=892789",
+                "title": "過去に存在した西友の店舗",
+                "text": "〇〇は、かつて西友によって運営されていた店舗について記述する。"
+            },
+            {
                 "datetime": "2025年04月24日 21時の問題",
                 "url": "https://ja.wikipedia.org/?curid=238029",
                 "title": "フィガロ (新聞)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4250054",
                 "title": "第33回東京国際映画祭",
                 "text": "〇〇は、2020年（令和2年）10月31日（土）から11月9日（月）の10日間に開催された東京国際映画祭。"
-            },
-            {
-                "datetime": "2025年04月23日 05時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3505116",
-                "title": "愛乃なみ",
-                "text": "〇〇は、日本の元AV女優。別名義=長瀬真子、愛田ミナミ。"
             }
         ]
     }
