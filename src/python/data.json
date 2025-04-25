@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年04月25日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1324838",
+                "title": "中ノ岱駅",
+                "text": "〇〇は、かつて北海道雨竜郡北竜町板谷にあった日本国有鉄道（国鉄）札沼線の鉄道駅（廃駅）である。事務管理コードは▲120212。"
+            },
+            {
                 "datetime": "2025年04月25日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1210071",
                 "title": "メディアボックス (ゲーム会社)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4165567",
                 "title": "1997年のドイツ・スーパーツーリング選手権",
                 "text": "〇〇は、Super Tourenwagen Cup（STW）の第4版だった。"
-            },
-            {
-                "datetime": "2025年04月24日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1338070",
-                "title": "大久保賢一",
-                "text": "〇〇は、日本の映画評論家。多摩美術大学造形表現学部講師。"
             }
         ]
     }
