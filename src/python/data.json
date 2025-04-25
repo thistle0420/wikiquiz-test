@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年04月26日 05時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2260555",
+                "title": "4-ヒドロキシフェニルアセトアルデヒドオキシムモノオキシゲナーゼ",
+                "text": "〇〇は、シアノアミノ酸代謝酵素の一つで、次の化学反応を触媒する酸化還元酵素である。(Z)-4-ヒドロキシフェニルアセトアルデヒドオキシム + NADPH + H+ + O2                     ⇌              {\\displaystyle \\rightleftharpoons }   (S)-4-ヒドロキシマンデロニトリル + NADP+ + 2 H2Oこの酵素の基質は(Z)-4-ヒドロキシフェニルアセトアルデヒドオキシムとNADPH、H+およびO2で、生成物は(S)-4-ヒドロキシマンデロニトリルとNADP+、H2Oである。組織名は(Z)-4-hydroxyphenylacetaldehyde oxime,NADPH:oxygen oxidoreductaseで、別名に4-hydroxybenzeneacetaldehyde oxime monooxygenase、cytochrome P450II-dependent monooxygenase、NADPH-cytochrome P450 reductase (CYP71E1)、CYP71E1、4-hydroxyphenylacetaldehyde oxime,NADPH:oxygen oxidoreductaseがある。"
+            },
+            {
                 "datetime": "2025年04月26日 04時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4029852",
                 "title": "アーナンド県",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1546648",
                 "title": "ディナブルグFC",
                 "text": "〇〇は、同じくダウガフピルスを本拠地としているFKダウガヴァ・ダウガフピルスと共同使用していた。"
-            },
-            {
-                "datetime": "2025年04月24日 13時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4482526",
-                "title": "ホセ・マルテ",
-                "text": "〇〇は、ドミニカ共和国サンティアゴ・デ・ロス・カバリェロス出身のプロ野球選手（投手）。右投右打。MLBのロサンゼルス・エンゼルス所属。"
             }
         ]
     }
