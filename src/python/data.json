@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年04月27日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=434578",
+                "title": "天野貞祐",
+                "text": "〇〇は、大正・昭和期の日本の哲学者・教育者・文学博士。京都帝国大学名誉教授。甲南高等学校校長。第二次世界大戦後は第一高等学校校長・文部大臣（第3次吉田内閣）を務めた後に獨逸学協会学校を母体として創立された獨協大学の初代学長を務めた。文化功労者。武蔵野市名誉市民。"
+            },
+            {
                 "datetime": "2025年04月27日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4098388",
                 "title": "田代律雄",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4888072",
                 "title": "ハローズ西宮山口モール",
                 "text": "〇〇は、兵庫県西宮市山口町下山口にあるショッピングセンター。2024年4月時点でハローズ最東端の店舗。西宮市山口地域では初となる複合商業施設。かつてこの場所にあったコープ西宮北についても述べる。"
-            },
-            {
-                "datetime": "2025年04月26日 05時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2260555",
-                "title": "4-ヒドロキシフェニルアセトアルデヒドオキシムモノオキシゲナーゼ",
-                "text": "〇〇は、シアノアミノ酸代謝酵素の一つで、次の化学反応を触媒する酸化還元酵素である。(Z)-4-ヒドロキシフェニルアセトアルデヒドオキシム + NADPH + H+ + O2                     ⇌              {\\displaystyle \\rightleftharpoons }   (S)-4-ヒドロキシマンデロニトリル + NADP+ + 2 H2Oこの酵素の基質は(Z)-4-ヒドロキシフェニルアセトアルデヒドオキシムとNADPH、H+およびO2で、生成物は(S)-4-ヒドロキシマンデロニトリルとNADP+、H2Oである。組織名は(Z)-4-hydroxyphenylacetaldehyde oxime,NADPH:oxygen oxidoreductaseで、別名に4-hydroxybenzeneacetaldehyde oxime monooxygenase、cytochrome P450II-dependent monooxygenase、NADPH-cytochrome P450 reductase (CYP71E1)、CYP71E1、4-hydroxyphenylacetaldehyde oxime,NADPH:oxygen oxidoreductaseがある。"
             }
         ]
     }
