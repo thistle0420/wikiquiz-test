@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年04月27日 12時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1743616",
+                "title": "アラネタ・コロシアム",
+                "text": "〇〇は、2001年に日本の大分スタジアムの274.0mに抜かれるまで、アジア最大であった。愛称はザ・ビッグドーム（The Big Dome）。スマート・コミュニケーションズが2011年に施設命名権を取得しており、名称をスマート・〇〇（Smart Araneta Coliseum）としている。"
+            },
+            {
                 "datetime": "2025年04月27日 11時の問題",
                 "url": "https://ja.wikipedia.org/?curid=801350",
                 "title": "滋賀短期大学附属高等学校",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4014860",
                 "title": "SAKE100",
                 "text": "〇〇は、株式会社Clearが運営する日本酒ブランド。"
-            },
-            {
-                "datetime": "2025年04月25日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=40988",
-                "title": "1020年",
-                "text": "〇〇は、西暦（ユリウス暦）による、閏年。"
             }
         ]
     }
