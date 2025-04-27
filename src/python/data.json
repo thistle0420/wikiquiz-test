@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年04月28日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4647909",
+                "title": "ヤクブ・キヴィオル",
+                "text": "〇〇は、ポーランド・ティヒ出身のサッカー選手。アーセナルFC所属。ポーランド代表。ポジションはDF。"
+            },
+            {
                 "datetime": "2025年04月27日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1042446",
                 "title": "ディケイター・ストリート",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2523243",
                 "title": "ジェレミー・アーヴァイン",
                 "text": "〇〇は、イギリスの舞台・映画俳優。"
-            },
-            {
-                "datetime": "2025年04月26日 08時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2351098",
-                "title": "平沢嘉太郎",
-                "text": "〇〇は、日本の実業家。材木商、加賀銀行取締役。石川郡田井村（のちの崎浦村、現在の金沢市）出身。"
             }
         ]
     }
