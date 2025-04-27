@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年04月27日 11時の問題",
+                "url": "https://ja.wikipedia.org/?curid=801350",
+                "title": "滋賀短期大学附属高等学校",
+                "text": "〇〇は、滋賀県大津市朝日が丘一丁目にある私立高等学校。"
+            },
+            {
                 "datetime": "2025年04月27日 10時の問題",
                 "url": "https://ja.wikipedia.org/?curid=156835",
                 "title": "日産自動車硬式野球部",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=40988",
                 "title": "1020年",
                 "text": "〇〇は、西暦（ユリウス暦）による、閏年。"
-            },
-            {
-                "datetime": "2025年04月25日 19時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1744496",
-                "title": "ヴァーン・クラーク",
-                "text": "〇〇は、アメリカ合衆国の海軍軍人。最終階級は海軍大将。2000年7月21日に第27代アメリカ海軍作戦部長に就任した。"
             }
         ]
     }
