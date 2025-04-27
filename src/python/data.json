@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年04月27日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4098388",
+                "title": "田代律雄",
+                "text": "〇〇は、明治時代の司法官。大審院判事。"
+            },
+            {
                 "datetime": "2025年04月27日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=221426",
                 "title": "ウラジーミル・ポターニン",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2260555",
                 "title": "4-ヒドロキシフェニルアセトアルデヒドオキシムモノオキシゲナーゼ",
                 "text": "〇〇は、シアノアミノ酸代謝酵素の一つで、次の化学反応を触媒する酸化還元酵素である。(Z)-4-ヒドロキシフェニルアセトアルデヒドオキシム + NADPH + H+ + O2                     ⇌              {\\displaystyle \\rightleftharpoons }   (S)-4-ヒドロキシマンデロニトリル + NADP+ + 2 H2Oこの酵素の基質は(Z)-4-ヒドロキシフェニルアセトアルデヒドオキシムとNADPH、H+およびO2で、生成物は(S)-4-ヒドロキシマンデロニトリルとNADP+、H2Oである。組織名は(Z)-4-hydroxyphenylacetaldehyde oxime,NADPH:oxygen oxidoreductaseで、別名に4-hydroxybenzeneacetaldehyde oxime monooxygenase、cytochrome P450II-dependent monooxygenase、NADPH-cytochrome P450 reductase (CYP71E1)、CYP71E1、4-hydroxyphenylacetaldehyde oxime,NADPH:oxygen oxidoreductaseがある。"
-            },
-            {
-                "datetime": "2025年04月26日 04時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4029852",
-                "title": "アーナンド県",
-                "text": "〇〇は、インド西部グジャラート州の県で、異称のチャロタール (Charotar) としても広く知られている。1997年にケーダー県から分離して創設された。行政の中心となる県都は、アーナンドである。北側はケーダー県、東側はヴァドーダラー県、西側はアフマダーバード県に接しており、南側はカンバート湾に面している。主要都市は、カンバート、カラムサード、タラプール、ペトラード、ソジトラである。"
             }
         ]
     }
