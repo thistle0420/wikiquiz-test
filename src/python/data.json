@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年04月29日 04時の問題",
+                "url": "https://ja.wikipedia.org/?curid=478460",
+                "title": "道の駅吉野路 大塔",
+                "text": "〇〇は、奈良県五條市大塔町阪本にある国道168号の道の駅である。当駅は奈良県第1号の道の駅として登録された。"
+            },
+            {
                 "datetime": "2025年04月29日 03時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2242733",
                 "title": "アウンサンスーチー",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4621726",
                 "title": "CREWSING BASEBALL BEST",
                 "text": "〇〇は、ビーグルクルーの2枚目のベスト・アルバムである。2020年6月10日発売。発売元はユニバーサルミュージック。"
-            },
-            {
-                "datetime": "2025年04月27日 12時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1743616",
-                "title": "アラネタ・コロシアム",
-                "text": "〇〇は、2001年に日本の大分スタジアムの274.0mに抜かれるまで、アジア最大であった。愛称はザ・ビッグドーム（The Big Dome）。スマート・コミュニケーションズが2011年に施設命名権を取得しており、名称をスマート・〇〇（Smart Araneta Coliseum）としている。"
             }
         ]
     }
