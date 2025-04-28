@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年04月28日 23時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4192760",
+                "title": "CH2O3",
+                "text": "〇〇は、炭酸過ギ酸"
+            },
+            {
                 "datetime": "2025年04月28日 22時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4914420",
                 "title": "佐藤哲三郎",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3002943",
                 "title": "加古川市立志方小学校",
                 "text": "〇〇は、兵庫県加古川市志方町にある市立小学校である。"
-            },
-            {
-                "datetime": "2025年04月27日 07時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4242460",
-                "title": "在ギリシャ日本国大使館",
-                "text": "〇〇は、ギリシャの首都アテネにある日本の大使館。2024年1月より、伊藤康一が特命全権大使を務めている。"
             }
         ]
     }
