@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年04月28日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2633818",
+                "title": "太田清和",
+                "text": "〇〇は、日本の外交官。中小企業基盤整備機構業務統括役を経て、駐ルワンダ兼ブルンジ特命全権大使。"
+            },
+            {
                 "datetime": "2025年04月28日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2839167",
                 "title": "レンボルク",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1813835",
                 "title": "額賀辰徳",
                 "text": "〇〇は、茨城県出身のプロゴルファー。所属はフリー。"
-            },
-            {
-                "datetime": "2025年04月26日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=98998",
-                "title": "日向長井駅",
-                "text": "〇〇は、宮崎県延岡市北川町長井にある、九州旅客鉄道（JR九州）日豊本線の駅である。"
             }
         ]
     }
