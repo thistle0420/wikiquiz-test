@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年04月30日 06時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4870217",
+                "title": "19時30分 (ポーランド報道番組)",
+                "text": "〇〇は、ポーランド・テレビが制作し、第1チャンネルTVP1で放送しているポーランドの主要報道番組。"
+            },
+            {
                 "datetime": "2025年04月30日 05時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4104769",
                 "title": "堤孝信",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4796283",
                 "title": "滝雅人",
                 "text": "〇〇は、三重県桑名市出身の俳優。CITY MAGIC所属。"
-            },
-            {
-                "datetime": "2025年04月28日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2633818",
-                "title": "太田清和",
-                "text": "〇〇は、日本の外交官。中小企業基盤整備機構業務統括役を経て、駐ルワンダ兼ブルンジ特命全権大使。"
             }
         ]
     }
