@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年04月29日 23時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1718058",
+                "title": "音楽の子供はみな歌う",
+                "text": "〇〇は、2008年1月23日リリース、サンボマスターのメジャー4枚目のアルバム。"
+            },
+            {
                 "datetime": "2025年04月29日 22時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2432701",
                 "title": "ジンコウガクエン",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3125800",
                 "title": "訃報 2014年9月",
                 "text": "〇〇は、2014年9月に物故した、又は物故が報じられた人物についてまとめる。"
-            },
-            {
-                "datetime": "2025年04月28日 07時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3053317",
-                "title": "大空出版",
-                "text": "〇〇は、日本の出版社。"
             }
         ]
     }
