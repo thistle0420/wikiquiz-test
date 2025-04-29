@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年04月29日 22時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2432701",
+                "title": "ジンコウガクエン",
+                "text": "〇〇は、ILLUSIONより2011年6月10日に発売されたアダルトゲーム。2014年6月13日には続編にあたる『〇〇2』が発売された。"
+            },
+            {
                 "datetime": "2025年04月29日 21時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3143049",
                 "title": "チレスエンノガダ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3053317",
                 "title": "大空出版",
                 "text": "〇〇は、日本の出版社。"
-            },
-            {
-                "datetime": "2025年04月28日 06時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4026507",
-                "title": "Again (倖田來未の曲)",
-                "text": "〇〇は、日本の歌手・倖田來未の10作目の配信限定シングル。2019年10月30日に配信された。"
             }
         ]
     }
