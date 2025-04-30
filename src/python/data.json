@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年04月30日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2847289",
+                "title": "京都幼稚園",
+                "text": "〇〇は、京都府京都市東山区今熊野日吉町にある浄土真宗本願寺派（西本願寺派）の私立幼稚園。"
+            },
+            {
                 "datetime": "2025年04月30日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1580145",
                 "title": "Sound of Mind",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4192760",
                 "title": "CH2O3",
                 "text": "〇〇は、炭酸過ギ酸"
-            },
-            {
-                "datetime": "2025年04月28日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4914420",
-                "title": "佐藤哲三郎",
-                "text": "〇〇は、日本の洋画家。"
             }
         ]
     }
