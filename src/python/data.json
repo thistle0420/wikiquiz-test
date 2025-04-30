@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年04月30日 17時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1878246",
+                "title": "山村進",
+                "text": "〇〇は、陸上競技（中距離走・長距離走）指導者、元中学校教師。山口県周南市在住。"
+            },
+            {
                 "datetime": "2025年04月30日 16時の問題",
                 "url": "https://ja.wikipedia.org/?curid=952375",
                 "title": "CIA:ザ・エージェンシー",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3364268",
                 "title": "門ヶ崎",
                 "text": "〇〇は、福井県敦賀市白木に位置する断崖。若狭湾国定公園に属する。"
-            },
-            {
-                "datetime": "2025年04月29日 01時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2265007",
-                "title": "ブランディ (駆逐艦)",
-                "text": "〇〇は、アメリカ海軍の駆逐艦。フォレスト・シャーマン級駆逐艦の1隻。艦名はウィリアム・H・P・ブランディ提督に因む。"
             }
         ]
     }
