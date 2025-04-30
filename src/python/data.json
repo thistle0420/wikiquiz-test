@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年04月30日 15時の問題",
+                "url": "https://ja.wikipedia.org/?curid=454836",
+                "title": "ヴァイキング・メタル",
+                "text": "〇〇は、ヘヴィメタルのサブジャンルの一つ。北欧神話や戦いに明け暮れるヴァイキングを主要なテーマに置いている。"
+            },
+            {
                 "datetime": "2025年04月30日 14時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2847289",
                 "title": "京都幼稚園",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4060241",
                 "title": "上田農夫",
                 "text": "〇〇は、明治時代の政治家。衆議院議員（1期）。幼名は馬太郎。"
-            },
-            {
-                "datetime": "2025年04月28日 23時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4192760",
-                "title": "CH2O3",
-                "text": "〇〇は、炭酸過ギ酸"
             }
         ]
     }
