@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年05月01日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2682200",
+                "title": "岡崎市立千万町小学校",
+                "text": "〇〇は、かつて愛知県岡崎市にあった公立小学校。"
+            },
+            {
                 "datetime": "2025年05月01日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2873785",
                 "title": "フジバラナイト",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4870217",
                 "title": "19時30分 (ポーランド報道番組)",
                 "text": "〇〇は、ポーランド・テレビが制作し、第1チャンネルTVP1で放送しているポーランドの主要報道番組。"
-            },
-            {
-                "datetime": "2025年04月30日 05時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4104769",
-                "title": "堤孝信",
-                "text": "〇〇は、岡山県出身の日本の技術者。中電工代表取締役副社長。大阪工業大学電気クラブ中国ブロック幹事。"
             }
         ]
     }
