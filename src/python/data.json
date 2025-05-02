@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年05月02日 12時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3358825",
+                "title": "クコ・マルティナ",
+                "text": "〇〇は、キュラソーのサッカー選手。キュラソー代表。ポジションはDF（右サイドバック）。"
+            },
+            {
                 "datetime": "2025年05月02日 11時の問題",
                 "url": "https://ja.wikipedia.org/?curid=915594",
                 "title": "アカシア (アルバム)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1917792",
                 "title": "エミー",
                 "text": "〇〇は、おもに英語圏の女性に用いられる名前。"
-            },
-            {
-                "datetime": "2025年04月30日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1941088",
-                "title": "Breath (松尾一彦のアルバム)",
-                "text": "〇〇は、1990年9月25日に発売された松尾一彦通算2作目のスタジオ・アルバム。"
             }
         ]
     }
