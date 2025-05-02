@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年05月03日 06時の問題",
+                "url": "https://ja.wikipedia.org/?curid=826019",
+                "title": "グレアム・コクソン",
+                "text": "〇〇は、イギリスのミュージシャン、ギタリスト、シンガーソングライター。イギリスのロックバンド・ブラーのギタリスト。コルチェスター出身。"
+            },
+            {
                 "datetime": "2025年05月03日 05時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2723548",
                 "title": "丹後国の式内社一覧",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4050526",
                 "title": "ジョナサン・クリンスマン",
                 "text": "〇〇は、アメリカ合衆国とドイツのサッカー選手。ポジションはGK。"
-            },
-            {
-                "datetime": "2025年05月01日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1786111",
-                "title": "ナビ/揺れ",
-                "text": "〇〇は、日本のヒップホップグループであるKICK THE CAN CREWの14枚目のシングル。2003年11月12日発売。"
             }
         ]
     }
