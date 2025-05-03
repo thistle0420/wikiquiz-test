@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年05月04日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1703354",
+                "title": "坂本充",
+                "text": "〇〇は、福岡県出身の元プロ野球選手（外野手）。"
+            },
+            {
                 "datetime": "2025年05月04日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3093952",
                 "title": "吉田茂書翰の宛名一覧",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2981618",
                 "title": "岡村雄三",
                 "text": "〇〇は、大阪府出身の舞台俳優。劇団わらび座所属。血液型B型。"
-            },
-            {
-                "datetime": "2025年05月02日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=27965",
-                "title": "長門市",
-                "text": "〇〇は、山口県の北部にある市。日本海に面している。"
             }
         ]
     }
