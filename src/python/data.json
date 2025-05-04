@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年05月04日 16時の問題",
+                "url": "https://ja.wikipedia.org/?curid=453110",
+                "title": "半田インターチェンジ",
+                "text": "〇〇は、愛知県半田市にある知多半島道路と南知多道路のインターチェンジ。"
+            },
+            {
                 "datetime": "2025年05月04日 15時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2974142",
                 "title": "スティルパートナーズ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=229656",
                 "title": "動態保存中の蒸気機関車",
                 "text": "〇〇は、動作可能な状態で保存（動態保存）されている蒸気機関車（SL）のこと。"
-            },
-            {
-                "datetime": "2025年05月03日 00時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4202346",
-                "title": "吉田病院 (大阪府)",
-                "text": "〇〇は、医療法人毅峰会が大阪府枚方市に設置する病院。"
             }
         ]
     }
