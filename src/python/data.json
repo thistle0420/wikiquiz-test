@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年05月05日 19時の問題",
+                "url": "https://ja.wikipedia.org/?curid=947183",
+                "title": "クレーミア",
+                "text": "〇〇は、イタリア共和国ロンバルディア州コモ県にある、人口約700人の基礎自治体（コムーネ）。"
+            },
+            {
                 "datetime": "2025年05月05日 18時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4868374",
                 "title": "林おかぎ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2325942",
                 "title": "ヴィクトル・パンチェンコ",
                 "text": "〇〇は、ソビエト連邦（現ロシア連邦）・ゲオルギエフスク出身の元サッカー選手。ポジションはFW。"
-            },
-            {
-                "datetime": "2025年05月04日 03時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4028566",
-                "title": "ローカる!",
-                "text": "〇〇は、2019年10月27日からRKB毎日放送（RKBラジオ）で放送されている情報番組。"
             }
         ]
     }
