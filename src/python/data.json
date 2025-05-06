@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年05月06日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=201419",
+                "title": "楊昂",
+                "text": "〇〇は、中国後漢時代末期の武将。"
+            },
+            {
                 "datetime": "2025年05月06日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3125499",
                 "title": "ビーコンズフィールド伯爵",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4768614",
                 "title": "山本博 (1922年生の実業家)",
                 "text": "〇〇は、日本の経営者。四国電力社長、会長を務めた。"
-            },
-            {
-                "datetime": "2025年05月05日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1964840",
-                "title": "SandForce",
-                "text": "〇〇は、SSDに搭載されるディスクコントローラー。半導体製造は主にTSMC社に委託している。2012年1月4日、LSIコーポレーションによる買収完了が発表された。2014年5月29日、親会社であるLSIコーポレーションが〇〇のSeagateへの売却に合意した。"
             }
         ]
     }
