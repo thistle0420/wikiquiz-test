@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年05月06日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=898360",
+                "title": "川本克彦",
+                "text": "〇〇は、日本の俳優、声優である。テアトル・エコー所属。愛媛県出身。"
+            },
+            {
                 "datetime": "2025年05月06日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=817658",
                 "title": "ウィロー (ゲーム)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4307534",
                 "title": "太平物産",
                 "text": "〇〇は、かつて秋田県秋田市に本社を置いていた肥料メーカー。"
-            },
-            {
-                "datetime": "2025年05月05日 04時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1349635",
-                "title": "加茂町 (徳島県名東郡)",
-                "text": "〇〇は、徳島県名東郡にあった町。1937年10月1日に徳島市に編入された。"
             }
         ]
     }
