@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年05月07日 06時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1433418",
+                "title": "京都市立北野中学校",
+                "text": "〇〇は、京都府京都市中京区にある公立中学校。"
+            },
+            {
                 "datetime": "2025年05月07日 05時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2714107",
                 "title": "日本火山学会",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4896812",
                 "title": "訃報 2024年3月",
                 "text": "〇〇は、2024年3月に物故した、又は物故が報じられた人物についてまとめる。"
-            },
-            {
-                "datetime": "2025年05月05日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3692727",
-                "title": "道の駅木更津 うまくたの里",
-                "text": "〇〇は、千葉県木更津市にある国道410号の道の駅である。"
             }
         ]
     }
