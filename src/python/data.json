@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年05月08日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4507147",
+                "title": "寇彦卿",
+                "text": "〇〇は、五代後梁の将軍。字は俊臣。開封府の人。身長は八尺であり、騎射に長け、書史を好んだ。"
+            },
+            {
                 "datetime": "2025年05月08日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=930765",
                 "title": "西園寺十五将",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2099983",
                 "title": "鹿児島市立大龍小学校",
                 "text": "〇〇は、鹿児島県鹿児島市大竜町にある公立小学校。"
-            },
-            {
-                "datetime": "2025年05月06日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1798463",
-                "title": "キャリー・マリガン",
-                "text": "〇〇は、イギリスの女優。"
             }
         ]
     }
