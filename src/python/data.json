@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年05月08日 02時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1635601",
+                "title": "長崎県庁",
+                "text": "〇〇は、広域自治体である長崎県の行政機関（役所）である。"
+            },
+            {
                 "datetime": "2025年05月08日 01時の問題",
                 "url": "https://ja.wikipedia.org/?curid=980774",
                 "title": "消化管機能改善薬",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2429085",
                 "title": "カルナリ県",
                 "text": "〇〇は、ネパール中西部開発区域に属する県である。県都はジュムラで、5郡からなる。"
-            },
-            {
-                "datetime": "2025年05月06日 10時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1861086",
-                "title": "THE★SCANTY",
-                "text": "〇〇は、日本の4人組ガールズロックバンド。2001年にデビュー、2003年に解散。"
             }
         ]
     }
