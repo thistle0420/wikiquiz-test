@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年05月08日 17時の問題",
+                "url": "https://ja.wikipedia.org/?curid=329038",
+                "title": "秋田駒ヶ岳",
+                "text": "〇〇は、秋田県仙北市と岩手県岩手郡雫石町に跨る活火山である。十和田八幡平国立公園の南端。標高1,637m。全国に数多い駒ヶ岳のなかで最も高山植物の豊富な山としても知られる。日本二百名山の一つである。"
+            },
+            {
                 "datetime": "2025年05月08日 16時の問題",
                 "url": "https://ja.wikipedia.org/?curid=848821",
                 "title": "ニルス",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3843757",
                 "title": "海津市立海西小学校",
                 "text": "〇〇は、岐阜県海津市平田町にある公立小学校。"
-            },
-            {
-                "datetime": "2025年05月07日 01時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3836457",
-                "title": "ルートンDART",
-                "text": "〇〇は、イギリスのルートン・エアポート・パークウェイ駅とルートン空港を結ぶ新交通システムである。DARTは「Direct Air-Rail Transit」の頭字語である。"
             }
         ]
     }
