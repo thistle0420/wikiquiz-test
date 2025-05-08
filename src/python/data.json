@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年05月09日 04時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3992567",
+                "title": "アレクサンダー・エルフィンストーン (第7代エルフィンストーン卿)",
+                "text": "〇〇は、スコットランド貴族。"
+            },
+            {
                 "datetime": "2025年05月09日 03時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2156023",
                 "title": "哲人王 (プラトン)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2267532",
                 "title": "GOLDEN☆BEST 原田真二 OUR SONG〜彼の歌は君の歌〜",
                 "text": "〇〇は、2002年11月20日に発売された原田真二の通算11作目のベスト・アルバム。"
-            },
-            {
-                "datetime": "2025年05月07日 12時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1154905",
-                "title": "高島勲",
-                "text": "〇〇は、日本の地球科学の研究者である。秋田大学教授。専門は地質学、地熱・火山エネルギーの研究。"
             }
         ]
     }
