@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年05月09日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4918541",
+                "title": "蘇州號",
+                "text": "〇〇は、中日国際輪渡が運航するフェリー・RO-RO船。"
+            },
+            {
                 "datetime": "2025年05月09日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4493607",
                 "title": "プラトー (曲)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=814452",
                 "title": "山村宏太",
                 "text": "〇〇は、日本の元男子バレーボール選手、指導者である。"
-            },
-            {
-                "datetime": "2025年05月08日 04時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1884403",
-                "title": "10月12日",
-                "text": "〇〇は、グレゴリオ暦で年始から285日目（閏年では286日目）にあたり、年末まであと80日ある。"
             }
         ]
     }
