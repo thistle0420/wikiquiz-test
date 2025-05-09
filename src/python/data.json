@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年05月10日 02時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3371697",
+                "title": "中国系イギリス人",
+                "text": "〇〇は、中華圏に起源を持つイギリス国民のことである。また、BBC(British born chinese)とも呼ばれる。"
+            },
+            {
                 "datetime": "2025年05月10日 01時の問題",
                 "url": "https://ja.wikipedia.org/?curid=137801",
                 "title": "史弥遠",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3281712",
                 "title": "ヴィトージー・ラーオ・ホールカル",
                 "text": "〇〇は、インドのマラーター同盟、ホールカル家の一員。ハリ・ラーオ・ホールカルの父でもある。"
-            },
-            {
-                "datetime": "2025年05月08日 10時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4449466",
-                "title": "赤田栄",
-                "text": "〇〇は、室町時代の武士。赤田備の子。"
             }
         ]
     }
