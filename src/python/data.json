@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年05月09日 12時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4641272",
+                "title": "リヤド駅",
+                "text": "〇〇は、サウジアラビアのリヤドにあるダンマームリヤド線の鉄道駅。同路線の終点駅でもある。"
+            },
+            {
                 "datetime": "2025年05月09日 11時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4849741",
                 "title": "ランガンラン/夢見るBoy守るため",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2818419",
                 "title": "藤原吉政",
                 "text": "〇〇は、日本の元レーシングドライバー。兵庫県出身。"
-            },
-            {
-                "datetime": "2025年05月07日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=281467",
-                "title": "沼垂駅",
-                "text": "〇〇は、かつて新潟県新潟市中央区沼垂東六丁目にあった日本貨物鉄道（JR貨物）信越本線（貨物支線）の貨物駅である。"
             }
         ]
     }
