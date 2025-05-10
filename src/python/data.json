@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年05月10日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=5054759",
+                "title": "中島爾",
+                "text": "〇〇は、日本の経営者。日本触媒社長を務めた。"
+            },
+            {
                 "datetime": "2025年05月10日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2358856",
                 "title": "縣忍",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4899371",
                 "title": "デイヴ・ポレクキ",
                 "text": "〇〇は、スーパーラグビー・パシフィック、ワラターズに所属するラグビー選手。"
-            },
-            {
-                "datetime": "2025年05月09日 04時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3992567",
-                "title": "アレクサンダー・エルフィンストーン (第7代エルフィンストーン卿)",
-                "text": "〇〇は、スコットランド貴族。"
             }
         ]
     }
