@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年05月11日 03時の問題",
+                "url": "https://ja.wikipedia.org/?curid=220973",
+                "title": "三菱・デリカスペースギア",
+                "text": "〇〇は、三菱自動車工業が製造・販売していたオフロード4WDタイプのミニバンである。"
+            },
+            {
                 "datetime": "2025年05月11日 02時の問題",
                 "url": "https://ja.wikipedia.org/?curid=70826",
                 "title": "荻昌弘",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4641272",
                 "title": "リヤド駅",
                 "text": "〇〇は、サウジアラビアのリヤドにあるダンマームリヤド線の鉄道駅。同路線の終点駅でもある。"
-            },
-            {
-                "datetime": "2025年05月09日 11時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4849741",
-                "title": "ランガンラン/夢見るBoy守るため",
-                "text": "〇〇は、風神RIZING!の1stシングル。2021年7月14日発売。初の両A面シングルとなっている。"
             }
         ]
     }
