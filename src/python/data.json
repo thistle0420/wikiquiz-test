@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年05月11日 11時の問題",
+                "url": "https://ja.wikipedia.org/?curid=243252",
+                "title": "未確認生物一覧",
+                "text": "〇〇は、未確認動物（日本ではUMA（ユーマ、Unidentified Mysterious Animals の略）と呼称される）とされる動物の一覧を記載する。"
+            },
+            {
                 "datetime": "2025年05月11日 10時の問題",
                 "url": "https://ja.wikipedia.org/?curid=381551",
                 "title": "チョン・ダビン (1980年生の女優)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4918541",
                 "title": "蘇州號",
                 "text": "〇〇は、中日国際輪渡が運航するフェリー・RO-RO船。"
-            },
-            {
-                "datetime": "2025年05月09日 19時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4493607",
-                "title": "プラトー (曲)",
-                "text": "〇〇は、日本のロックバンド・サカナクションが2021年に発表した楽曲である。2021年6月1日にイベントで初披露された。同年12月3日に配信でのリリースと、翌年3月30日にリリースされるコンセプト・アルバム『アダプト』に収録されることがアナウンスされている。"
             }
         ]
     }
