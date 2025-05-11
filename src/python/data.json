@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年05月11日 19時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2562888",
+                "title": "プロトン・プレヴェ",
+                "text": "〇〇は、プロトンが製造・販売していた自動車である。"
+            },
+            {
                 "datetime": "2025年05月11日 18時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4002891",
                 "title": "祐代朗功",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3291995",
                 "title": "スーダン (ロワール＝アトランティック県)",
                 "text": "〇〇は、フランス、ペイ・ド・ラ・ロワール地域圏、ロワール＝アトランティック県のコミューン。"
-            },
-            {
-                "datetime": "2025年05月10日 03時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1999892",
-                "title": "ガブリエル・ベルナル",
-                "text": "〇〇は、メキシコの男性プロボクサー。ゲレーロ州出身。身長159cm。元WBC世界フライ級王者。"
             }
         ]
     }
