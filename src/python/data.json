@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年05月11日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4002891",
+                "title": "祐代朗功",
+                "text": "〇〇は、吉本新喜劇に所属する日本の舞台芸人である。大阪府泉南市出身。吉本興業所属。"
+            },
+            {
                 "datetime": "2025年05月11日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=750279",
                 "title": "新宮熊野神社",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1999892",
                 "title": "ガブリエル・ベルナル",
                 "text": "〇〇は、メキシコの男性プロボクサー。ゲレーロ州出身。身長159cm。元WBC世界フライ級王者。"
-            },
-            {
-                "datetime": "2025年05月10日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3371697",
-                "title": "中国系イギリス人",
-                "text": "〇〇は、中華圏に起源を持つイギリス国民のことである。また、BBC(British born chinese)とも呼ばれる。"
             }
         ]
     }
