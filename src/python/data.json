@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年05月11日 17時の問題",
+                "url": "https://ja.wikipedia.org/?curid=750279",
+                "title": "新宮熊野神社",
+                "text": "〇〇は、長床のほか、熊野三社本殿、文殊堂、観音堂が残されている。また、長床前にある大イチョウは高さ30m・根本周り8.1mで樹齢は600年といわれ、喜多方市天然記念物に指定されている。"
+            },
+            {
                 "datetime": "2025年05月11日 16時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2632781",
                 "title": "6344 P-L",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3371697",
                 "title": "中国系イギリス人",
                 "text": "〇〇は、中華圏に起源を持つイギリス国民のことである。また、BBC(British born chinese)とも呼ばれる。"
-            },
-            {
-                "datetime": "2025年05月10日 01時の問題",
-                "url": "https://ja.wikipedia.org/?curid=137801",
-                "title": "史弥遠",
-                "text": "〇〇は、南宋中期の権臣。字は同叔。"
             }
         ]
     }
