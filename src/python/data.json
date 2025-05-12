@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年05月12日 15時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2090515",
+                "title": "Little Braver",
+                "text": "〇〇は、Girls Dead Monsterの3枚目のシングル。2010年6月9日にKey Sounds Labelから販売された。"
+            },
+            {
                 "datetime": "2025年05月12日 14時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1938585",
                 "title": "ウーマン・イン・ホワイト",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4920011",
                 "title": "セプティマニセラス",
                 "text": "〇〇は、ペロノセラスから進化したと思われるアンモナイトの属。前期ジュラ紀のトアルシアン中期に生息していた。本属の種はBifrons SubzoneからVariabilis Subzone帯の下部まで存在した。本属の化石はフランス、ハンガリー、そしておそらくオーストリアでも発見された。"
-            },
-            {
-                "datetime": "2025年05月10日 23時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3918080",
-                "title": "徳川達道",
-                "text": "〇〇は、一橋徳川家の11代当主。妻は徳川慶喜の三女・鐵子。"
             }
         ]
     }
