@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年05月13日 15時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3972679",
+                "title": "中野幹士",
+                "text": "〇〇は、日本のプロボクサー。大阪府大阪市出身。帝拳ボクシングジム所属。現OPBF東洋太平洋フェザー級王者。入場曲は菅野祐悟作曲で、映画『カイジ』のサウンドトラックである「END TITLE」。"
+            },
+            {
                 "datetime": "2025年05月13日 14時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2620853",
                 "title": "田中里衣",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=809670",
                 "title": "サモア語",
                 "text": "〇〇は、ポリネシア諸語に属するサモア諸島の言語。サモア独立国とアメリカ領サモアの公用語でもある。"
-            },
-            {
-                "datetime": "2025年05月11日 23時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4316495",
-                "title": "白須泰彦",
-                "text": "〇〇は、日本の獣医・毒性学者。"
             }
         ]
     }
