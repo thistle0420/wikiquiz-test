@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年05月13日 12時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3532408",
+                "title": "ロバート・ヘイル",
+                "text": "〇〇は、アメリカ合衆国のバス・バリトン歌手。"
+            },
+            {
                 "datetime": "2025年05月13日 11時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2247543",
                 "title": "松本清張のケルト紀行",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2047691",
                 "title": "ミカエル・ダルメダ",
                 "text": "〇〇は、フランス、エヴリー出身の自転車競技（トラックレース）選手。USクレテユ(US Créteil)に在籍。"
-            },
-            {
-                "datetime": "2025年05月11日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1488696",
-                "title": "戴戡",
-                "text": "〇〇は、護国軍の要人として活躍している。旧名は桂齢。字は循若。号は錫九。"
             }
         ]
     }
