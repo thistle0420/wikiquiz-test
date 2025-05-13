@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年05月13日 17時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4596282",
+                "title": "薬王寺 (いわき市)",
+                "text": "〇〇は、福島県いわき市にある真言宗智山派の寺院。"
+            },
+            {
                 "datetime": "2025年05月13日 16時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1933723",
                 "title": "瀧澤樹",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1976987",
                 "title": "臨床心理士",
                 "text": "〇〇は、公益財団法人日本〇〇資格認定協会が認定する公的資格、およびその有資格者のことである。活動領域に応じて学校〇〇、病院〇〇、産業〇〇などとも呼ばれる。また、海外の \"Clinical Psychologist\" などの訳語としても〇〇の名称が用いられる。"
-            },
-            {
-                "datetime": "2025年05月12日 01時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3779726",
-                "title": "アントニオ・カルロス・オルテガ",
-                "text": "〇〇は、スペイン・マラガ出身の元ハンドボール選手、指導者。"
             }
         ]
     }
