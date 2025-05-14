@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年05月14日 23時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1055914",
+                "title": "Sender Policy Framework",
+                "text": "〇〇は、電子メールにおける送信ドメイン認証のひとつである。差出人のメールアドレスが他のドメイン名になりすましされていないか検出する技術である。 SPFまたはSPF認証とも呼ばれる。"
+            },
+            {
                 "datetime": "2025年05月14日 22時の問題",
                 "url": "https://ja.wikipedia.org/?curid=44072",
                 "title": "ナデシコ目",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3775281",
                 "title": "八木沢・宮古短大駅",
                 "text": "〇〇は、岩手県宮古市にある、三陸鉄道リアス線の駅である。駅の愛称は「八木沢川のせせらぎ」。"
-            },
-            {
-                "datetime": "2025年05月13日 07時の問題",
-                "url": "https://ja.wikipedia.org/?curid=931539",
-                "title": "梅田 (足立区)",
-                "text": "〇〇は、東京都足立区中部の町名。現行行政地名は梅田一丁目から八丁目。住居表示実施済み区域である。"
             }
         ]
     }
