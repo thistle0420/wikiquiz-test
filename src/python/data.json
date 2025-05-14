@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年05月15日 04時の問題",
+                "url": "https://ja.wikipedia.org/?curid=329985",
+                "title": "広島県道298号鷲部小用線",
+                "text": "〇〇は、広島県江田島市を通る一般県道である。"
+            },
+            {
                 "datetime": "2025年05月15日 03時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3827776",
                 "title": "揖斐涼",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=243498",
                 "title": "舞鶴親海公園",
                 "text": "〇〇は、京都府舞鶴市にある都市公園（風致公園）である。無料駐車場完備。"
-            },
-            {
-                "datetime": "2025年05月13日 12時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3532408",
-                "title": "ロバート・ヘイル",
-                "text": "〇〇は、アメリカ合衆国のバス・バリトン歌手。"
             }
         ]
     }
