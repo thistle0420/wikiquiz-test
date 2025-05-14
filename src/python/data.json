@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年05月15日 05時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1701394",
+                "title": "ピンキー・シルバーバーグ",
+                "text": "〇〇は、アメリカ合衆国の男性プロボクサー。本名はピンカス・シルバーバーグ（Pincus Silverberg）。ニューヨーク州ニューヨーク市出身。元NBA世界フライ級王者。"
+            },
+            {
                 "datetime": "2025年05月15日 04時の問題",
                 "url": "https://ja.wikipedia.org/?curid=329985",
                 "title": "広島県道298号鷲部小用線",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2620853",
                 "title": "田中里衣",
                 "text": "〇〇は、日本の女優、タレント。東京都出身。宝塚歌劇団76期生。所属事務所は株式会社ケイダッシュ。"
-            },
-            {
-                "datetime": "2025年05月13日 13時の問題",
-                "url": "https://ja.wikipedia.org/?curid=243498",
-                "title": "舞鶴親海公園",
-                "text": "〇〇は、京都府舞鶴市にある都市公園（風致公園）である。無料駐車場完備。"
             }
         ]
     }
