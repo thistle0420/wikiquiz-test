@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年05月15日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4734867",
+                "title": "白雲街道",
+                "text": "〇〇は、広州市越秀区の街道。現行行政地名は〇〇二沙島社区、〇〇海印社区などの社区9個がある。"
+            },
+            {
                 "datetime": "2025年05月15日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=175094",
                 "title": "嵯峨野",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4596282",
                 "title": "薬王寺 (いわき市)",
                 "text": "〇〇は、福島県いわき市にある真言宗智山派の寺院。"
-            },
-            {
-                "datetime": "2025年05月13日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1933723",
-                "title": "瀧澤樹",
-                "text": "〇〇は、日本の男性声優、舞台俳優。以前はプロダクション・エースに所属していた。埼玉県出身。血液型はO型。"
             }
         ]
     }
