@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年05月16日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3864274",
+                "title": "大江三郎",
+                "text": "〇〇は、日本の英語学者。"
+            },
+            {
                 "datetime": "2025年05月16日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3064774",
                 "title": "岩川英樹",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3827776",
                 "title": "揖斐涼",
                 "text": "〇〇は、日本のゲームクリエイターである。福岡県出身。身長：172cm。血液型：O型。"
-            },
-            {
-                "datetime": "2025年05月15日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2508818",
-                "title": "Lovely Girls Anthem",
-                "text": "〇〇は、麻生夏子の楽曲。彼女の9枚目のシングルとして2012年2月8日にLantisから発売された。"
             }
         ]
     }
