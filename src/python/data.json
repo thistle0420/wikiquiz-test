@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年05月17日 03時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2377134",
+                "title": "伊志嶺吉盛",
+                "text": "〇〇は、沖縄県石垣市出身の高校野球指導者である。"
+            },
+            {
                 "datetime": "2025年05月17日 02時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3263354",
                 "title": "石巻地区広域行政事務組合",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3657050",
                 "title": "松崎朝治",
                 "text": "〇〇は、日本の実業家、政治家。衆議院議員。"
-            },
-            {
-                "datetime": "2025年05月15日 11時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1097530",
-                "title": "八千代市消防本部",
-                "text": "〇〇は、千葉県八千代市の消防部局（消防本部）。管轄区域は八千代市全域。"
             }
         ]
     }
