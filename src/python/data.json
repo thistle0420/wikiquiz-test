@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年05月16日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3719797",
+                "title": "晋康郡",
+                "text": "〇〇は、中国にかつて存在した郡。東晋から唐代にかけて、現在の広東省北西部に設置された。"
+            },
+            {
                 "datetime": "2025年05月16日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4238811",
                 "title": "ライアン・イサーク・メンデス・ダ・グラサ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1055914",
                 "title": "Sender Policy Framework",
                 "text": "〇〇は、電子メールにおける送信ドメイン認証のひとつである。差出人のメールアドレスが他のドメイン名になりすましされていないか検出する技術である。 SPFまたはSPF認証とも呼ばれる。"
-            },
-            {
-                "datetime": "2025年05月14日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=44072",
-                "title": "ナデシコ目",
-                "text": "〇〇は、双子葉植物の目の一つで、ナデシコ科をタイプ科とするものである。"
             }
         ]
     }
