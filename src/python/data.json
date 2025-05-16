@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年05月17日 02時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3263354",
+                "title": "石巻地区広域行政事務組合",
+                "text": "〇〇は、宮城県石巻市、東松島市および牡鹿郡女川町の2市1町が設立している一部事務組合。"
+            },
+            {
                 "datetime": "2025年05月17日 01時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2120014",
                 "title": "低燃費少女ハイジ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1097530",
                 "title": "八千代市消防本部",
                 "text": "〇〇は、千葉県八千代市の消防部局（消防本部）。管轄区域は八千代市全域。"
-            },
-            {
-                "datetime": "2025年05月15日 10時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1101106",
-                "title": "上蓬田トンネル",
-                "text": "〇〇は、福島県石川郡平田村から田村郡小野町にいたる道路トンネルである。"
             }
         ]
     }
