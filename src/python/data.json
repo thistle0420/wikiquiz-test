@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年05月16日 19時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2238814",
+                "title": "君が好きだと叫びたい",
+                "text": "〇〇は、1993年12月1日にZAIN RECORDSから発売された、BAADの3枚目のシングル。"
+            },
+            {
                 "datetime": "2025年05月16日 18時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3864274",
                 "title": "大江三郎",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=329985",
                 "title": "広島県道298号鷲部小用線",
                 "text": "〇〇は、広島県江田島市を通る一般県道である。"
-            },
-            {
-                "datetime": "2025年05月15日 03時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3827776",
-                "title": "揖斐涼",
-                "text": "〇〇は、日本のゲームクリエイターである。福岡県出身。身長：172cm。血液型：O型。"
             }
         ]
     }
