@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年05月16日 13時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4238811",
+                "title": "ライアン・イサーク・メンデス・ダ・グラサ",
+                "text": "〇〇は、カーボベルデとフランスのサッカー選手。カーボベルデ代表。ポジションはFW。"
+            },
+            {
                 "datetime": "2025年05月16日 12時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1315763",
                 "title": "田中はくどう",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=44072",
                 "title": "ナデシコ目",
                 "text": "〇〇は、双子葉植物の目の一つで、ナデシコ科をタイプ科とするものである。"
-            },
-            {
-                "datetime": "2025年05月14日 21時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1437646",
-                "title": "ブリジトカ・モルナル",
-                "text": "〇〇は、セルビアの元女子バレーボール選手。元セルビア代表。"
             }
         ]
     }
