@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年05月17日 23時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1928366",
+                "title": "久美浜",
+                "text": "〇〇は、1958年（昭和33年）の町村合併により〇〇町となった範囲をさす。"
+            },
+            {
                 "datetime": "2025年05月17日 22時の問題",
                 "url": "https://ja.wikipedia.org/?curid=479954",
                 "title": "審判員 (バスケットボール)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4944138",
                 "title": "林煜傑",
                 "text": "〇〇は、台湾の男子バドミントン選手。"
-            },
-            {
-                "datetime": "2025年05月16日 07時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3218414",
-                "title": "赤坂信",
-                "text": "〇〇は、日本の園芸学者。千葉大学大学院園芸学研究科・園芸学部教授。専門は風景計画学、都市緑地史。農学博士（京都大学）。八戸大使。"
             }
         ]
     }
