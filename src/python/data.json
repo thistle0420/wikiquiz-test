@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年05月17日 13時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3404226",
+                "title": "鏡野町立鏡野中学校",
+                "text": "〇〇は、岡山県苫田郡鏡野町竹田にある公立中学校。"
+            },
+            {
                 "datetime": "2025年05月17日 12時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2161093",
                 "title": "Fan Fiction",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4490302",
                 "title": "辻中雄二郎",
                 "text": "〇〇は、日本の実業家。まんだらけ元代表取締役社長。北海道羅臼町出身、父は元羅臼町長の辻中義一。"
-            },
-            {
-                "datetime": "2025年05月15日 21時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2949212",
-                "title": "佐藤円",
-                "text": "〇〇は、日本の元女子バレーボール選手。"
             }
         ]
     }
