@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年05月18日 09時の問題",
+                "url": "https://ja.wikipedia.org/?curid=983620",
+                "title": "ランポレッキオ",
+                "text": "〇〇は、イタリア共和国トスカーナ州ピストイア県にある、人口約7,400人の基礎自治体（コムーネ）。"
+            },
+            {
                 "datetime": "2025年05月18日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3303622",
                 "title": "志智真梨奈",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3864274",
                 "title": "大江三郎",
                 "text": "〇〇は、日本の英語学者。"
-            },
-            {
-                "datetime": "2025年05月16日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3064774",
-                "title": "岩川英樹",
-                "text": "〇〇は、日本のソングライター、編曲家、ベーシスト。高知県生まれ。Sound Garden所属。"
             }
         ]
     }
