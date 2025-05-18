@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年05月18日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=228204",
+                "title": "松浦宏治",
+                "text": "〇〇は、兵庫県出身の元プロサッカー選手(FW、MF)、サッカー指導者。現ヴィッセル神戸伊丹U-15監督"
+            },
+            {
                 "datetime": "2025年05月18日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=976824",
                 "title": "モリ・カザフ自治県",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2377134",
                 "title": "伊志嶺吉盛",
                 "text": "〇〇は、沖縄県石垣市出身の高校野球指導者である。"
-            },
-            {
-                "datetime": "2025年05月17日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3263354",
-                "title": "石巻地区広域行政事務組合",
-                "text": "〇〇は、宮城県石巻市、東松島市および牡鹿郡女川町の2市1町が設立している一部事務組合。"
             }
         ]
     }
