@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年05月20日 01時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1166973",
+                "title": "DirectDraw",
+                "text": "〇〇は、Direct3Dに一部の〇〇 APIを追加しただけのDirectX Graphicsという新しいパッケージに統合され、事実上〇〇は廃止された。〇〇はDirectX 8以降と共存可能だが、〇〇を使用する場合は、古いバージョンのDirectXインターフェイス (DirectX 7およびそれ以前) を使わなければならない。"
+            },
+            {
                 "datetime": "2025年05月20日 00時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1725889",
                 "title": "ルールナンバー925",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4603535",
                 "title": "メニッペー",
                 "text": "〇〇は、ギリシア神話の女性である。長音を省略してメニッペとも表記される。主に、ペーネイオスの娘オーリーオーンの娘のほか数人が知られている。以下に説明する。"
-            },
-            {
-                "datetime": "2025年05月18日 09時の問題",
-                "url": "https://ja.wikipedia.org/?curid=983620",
-                "title": "ランポレッキオ",
-                "text": "〇〇は、イタリア共和国トスカーナ州ピストイア県にある、人口約7,400人の基礎自治体（コムーネ）。"
             }
         ]
     }
