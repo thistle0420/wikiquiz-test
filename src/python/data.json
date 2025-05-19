@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年05月20日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1725889",
+                "title": "ルールナンバー925",
+                "text": "〇〇は、アメリカ合衆国のカジュアル系ファッションブランドである。"
+            },
+            {
                 "datetime": "2025年05月19日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2920651",
                 "title": "渡辺優奈",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=983620",
                 "title": "ランポレッキオ",
                 "text": "〇〇は、イタリア共和国トスカーナ州ピストイア県にある、人口約7,400人の基礎自治体（コムーネ）。"
-            },
-            {
-                "datetime": "2025年05月18日 08時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3303622",
-                "title": "志智真梨奈",
-                "text": "〇〇は、日本の元女子バレーボール選手。"
             }
         ]
     }
