@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年05月20日 10時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1930578",
+                "title": "サム・イーストン",
+                "text": "〇〇は、カナダの俳優。ブリティッシュコロンビア州バンクーバー出身。"
+            },
+            {
                 "datetime": "2025年05月20日 09時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1187705",
                 "title": "小松久二一",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3771281",
                 "title": "セベクヘテプ8世",
                 "text": "〇〇は、古代エジプト第二中間期のファラオ。第13王朝もしくは第16王朝に属すと考えられる。"
-            },
-            {
-                "datetime": "2025年05月18日 18時の問題",
-                "url": "https://ja.wikipedia.org/?curid=228204",
-                "title": "松浦宏治",
-                "text": "〇〇は、兵庫県出身の元プロサッカー選手(FW、MF)、サッカー指導者。現ヴィッセル神戸伊丹U-15監督"
             }
         ]
     }
