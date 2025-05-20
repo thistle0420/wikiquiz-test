@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年05月20日 09時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1187705",
+                "title": "小松久二一",
+                "text": "〇〇は、日本の元オートレース選手。2021年3月31日選手登録消除。"
+            },
+            {
                 "datetime": "2025年05月20日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2077655",
                 "title": "總見寺",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=228204",
                 "title": "松浦宏治",
                 "text": "〇〇は、兵庫県出身の元プロサッカー選手(FW、MF)、サッカー指導者。現ヴィッセル神戸伊丹U-15監督"
-            },
-            {
-                "datetime": "2025年05月18日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=976824",
-                "title": "モリ・カザフ自治県",
-                "text": "〇〇は、中華人民共和国新疆ウイグル自治区昌吉回族自治州に位置する自治県。カザフ族による県級の民族区域自治単位である。"
             }
         ]
     }
