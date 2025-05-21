@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年05月21日 11時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3301018",
+                "title": "GOUPIL AND C",
+                "text": "〇〇は、日本の2人組のロックバンド。"
+            },
+            {
                 "datetime": "2025年05月21日 10時の問題",
                 "url": "https://ja.wikipedia.org/?curid=972741",
                 "title": "Awaking Emotion 8/5/my brand new way",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4810686",
                 "title": "北24条桜大橋",
                 "text": "〇〇は、北海道札幌市の豊平川に架かる橋。4車線で、両側に歩道が設けられている。豊平川の道路橋としては36か所目にあたり、長さでは雁来大橋に次いで第2位となる。"
-            },
-            {
-                "datetime": "2025年05月19日 19時の問題",
-                "url": "https://ja.wikipedia.org/?curid=576080",
-                "title": "Jストリーム",
-                "text": "〇〇は、東京都港区に本社を置き、インターネット上でのコンテンツ配信のための通信インフラであるコンテンツデリバリネットワーク（以下CDNと表す）提供事業者。"
             }
         ]
     }
