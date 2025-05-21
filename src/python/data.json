@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年05月21日 17時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3467734",
+                "title": "ロードアイランド州の警察一覧",
+                "text": "〇〇は、ロードアイランド州における警察・法執行機関を列挙する。"
+            },
+            {
                 "datetime": "2025年05月21日 16時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1529804",
                 "title": "氷の華",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2081892",
                 "title": "オーランド・ペース",
                 "text": "〇〇は、アメリカ合衆国オハイオ州サンダスキー出身のアメリカンフットボール選手。NFLのセントルイス・ラムズ、シカゴ・ベアーズで13シーズンプレーし7回プロボウルに選ばれた。現在フリーエージェントポジションはオフェンシブラインマン。"
-            },
-            {
-                "datetime": "2025年05月20日 01時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1166973",
-                "title": "DirectDraw",
-                "text": "〇〇は、Direct3Dに一部の〇〇 APIを追加しただけのDirectX Graphicsという新しいパッケージに統合され、事実上〇〇は廃止された。〇〇はDirectX 8以降と共存可能だが、〇〇を使用する場合は、古いバージョンのDirectXインターフェイス (DirectX 7およびそれ以前) を使わなければならない。"
             }
         ]
     }
