@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年05月22日 02時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1175993",
+                "title": "道の駅神戸フルーツ・フラワーパーク大沢",
+                "text": "〇〇は、神戸市北区大沢町にある、花と果実の道の駅である。"
+            },
+            {
                 "datetime": "2025年05月22日 01時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4550634",
                 "title": "ジェンテックス (自動車部品メーカー)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1814712",
                 "title": "トンベンセFC",
                 "text": "〇〇は、ブラジル・ミナスジェライス州トンボスを本拠地とするサッカークラブである。"
-            },
-            {
-                "datetime": "2025年05月20日 10時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1930578",
-                "title": "サム・イーストン",
-                "text": "〇〇は、カナダの俳優。ブリティッシュコロンビア州バンクーバー出身。"
             }
         ]
     }
