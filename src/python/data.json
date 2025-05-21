@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年05月22日 04時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4796639",
+                "title": "柴田隆三",
+                "text": "〇〇は、日本の経営者。東京建物社長、会長を務めた。"
+            },
+            {
                 "datetime": "2025年05月22日 03時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4236049",
                 "title": "愛愛ファイヤー!!/私達(with friend)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2473932",
                 "title": "和束町営バス",
                 "text": "〇〇は、京都府相楽郡和束町にて運行していた自治体バスである。"
-            },
-            {
-                "datetime": "2025年05月20日 12時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4060850",
-                "title": "東宝会館 (有楽町)",
-                "text": "〇〇は、1957年4月14日に東京都千代田区有楽町1丁目2-1にあった演劇専用劇場及び映画館が入居した東宝本社ビル。"
             }
         ]
     }
