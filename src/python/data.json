@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年05月21日 19時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3091030",
+                "title": "東京銀座資生堂ビル",
+                "text": "〇〇は、東京都中央区銀座八丁目にある建築物である。資生堂銀座ビル、SHISEIDO THE GINZA（FUKUHARA GINZA内）と並ぶ、資生堂グループの銀座地区3か所の拠点の一つであり、資生堂パーラーや資生堂ギャラリーが入る。"
+            },
+            {
                 "datetime": "2025年05月21日 18時の問題",
                 "url": "https://ja.wikipedia.org/?curid=973073",
                 "title": "セントーサ島",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4651083",
                 "title": "南矢島町",
                 "text": "〇〇は、群馬県太田市にある地名（町丁）。郵便番号は373-0861。"
-            },
-            {
-                "datetime": "2025年05月20日 03時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4290095",
-                "title": "橋本二郎",
-                "text": "〇〇は、昭和期の農業指導者、政治家。衆議院議員、熊本県玉名郡滑石村長、玉名市長、玉名市名誉市民。"
             }
         ]
     }
