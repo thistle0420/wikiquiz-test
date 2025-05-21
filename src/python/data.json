@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年05月21日 12時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3751353",
+                "title": "Disdrive EP",
+                "text": "〇〇は、2008年4月4日にリリースされた80kidzの12\"レコード。"
+            },
+            {
                 "datetime": "2025年05月21日 11時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3301018",
                 "title": "GOUPIL AND C",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4712646",
                 "title": "朝日ケ丘町 (千葉市)",
                 "text": "〇〇は、千葉市花見川区の地名。郵便番号は262-0017。"
-            },
-            {
-                "datetime": "2025年05月19日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4810686",
-                "title": "北24条桜大橋",
-                "text": "〇〇は、北海道札幌市の豊平川に架かる橋。4車線で、両側に歩道が設けられている。豊平川の道路橋としては36か所目にあたり、長さでは雁来大橋に次いで第2位となる。"
             }
         ]
     }
