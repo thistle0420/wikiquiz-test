@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年05月22日 12時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4812071",
+                "title": "多賀哲四郎",
+                "text": "〇〇は、大日本帝国陸軍軍人。最終階級は陸軍少将。"
+            },
+            {
                 "datetime": "2025年05月22日 11時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2243966",
                 "title": "日本人 (雑誌)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1835668",
                 "title": "OFCネイションズカップ2008",
                 "text": "〇〇は、2007年10月17日から2008年11月19日にかけて行われた、第8回目のOFCネイションズカップである。"
-            },
-            {
-                "datetime": "2025年05月20日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1580453",
-                "title": "明石市立明石小学校",
-                "text": "〇〇は、兵庫県明石市山下町にある公立小学校。明石市立明石幼稚園を併設する。"
             }
         ]
     }
