@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年05月23日 05時の問題",
+                "url": "https://ja.wikipedia.org/?curid=304766",
+                "title": "アンドレ・プレヴィン",
+                "text": "〇〇は、クラシック音楽・映画音楽・ジャズの指揮者、ピアニスト、作曲家。出生名は、ドイツ名でアンドレアス・ルートヴィヒ・プリヴィン（Andreas Ludwig Priwin）といい、アンドレはフランス風の名乗りである。"
+            },
+            {
                 "datetime": "2025年05月23日 04時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2068726",
                 "title": "相原求一朗",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3751353",
                 "title": "Disdrive EP",
                 "text": "〇〇は、2008年4月4日にリリースされた80kidzの12\"レコード。"
-            },
-            {
-                "datetime": "2025年05月21日 11時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3301018",
-                "title": "GOUPIL AND C",
-                "text": "〇〇は、日本の2人組のロックバンド。"
             }
         ]
     }
