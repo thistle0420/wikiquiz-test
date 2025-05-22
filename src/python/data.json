@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年05月23日 06時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3950523",
+                "title": "ジャン＝ピエール・ウーダン",
+                "text": "〇〇は、フランスの建築家。ギザの大ピラミッドの建築方法について物議を醸す説を発表した。"
+            },
+            {
                 "datetime": "2025年05月23日 05時の問題",
                 "url": "https://ja.wikipedia.org/?curid=304766",
                 "title": "アンドレ・プレヴィン",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4878880",
                 "title": "南インド国際映画賞 タミル語映画部門主演女優賞",
                 "text": "〇〇は、南インド国際映画賞の賞の一つ。タミル語映画に出演した女優を表彰する賞で、一般人の投票によって選出される。"
-            },
-            {
-                "datetime": "2025年05月21日 12時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3751353",
-                "title": "Disdrive EP",
-                "text": "〇〇は、2008年4月4日にリリースされた80kidzの12\"レコード。"
             }
         ]
     }
