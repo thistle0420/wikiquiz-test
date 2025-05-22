@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年05月23日 03時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4476767",
+                "title": "ラジャブ・ブタエフ",
+                "text": "〇〇は、ロシアのプロボクサー。ダゲスタン共和国ハサヴユルト出身。元WBA世界ウェルター級レギュラー王者。"
+            },
+            {
                 "datetime": "2025年05月23日 02時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4242213",
                 "title": "丹波市立青垣小学校",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=972741",
                 "title": "Awaking Emotion 8/5/my brand new way",
                 "text": "〇〇は、日本のシンガーソングライター・ウエンツ瑛士と、同じく日本のシンガーソングライター・小池徹平のスプリット・シングル。"
-            },
-            {
-                "datetime": "2025年05月21日 09時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2124166",
-                "title": "ブラジルの映画",
-                "text": "〇〇は、ブラジルの資本と人材によって製作された映画である。本項ではブラジル合衆国時代から現在のブラジル連邦共和国までの映画産業、および映画史について述べる。"
             }
         ]
     }
