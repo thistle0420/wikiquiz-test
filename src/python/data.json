@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年05月24日 01時の問題",
+                "url": "https://ja.wikipedia.org/?curid=5065970",
+                "title": "マルコ・ボスキーニ",
+                "text": "〇〇は、イタリアの画家、版画家、美術に関する著作家である。ヴェネツィアで働いた美術家に関する著作「Le ricche miniere della pittura veneziana（ヴェネツィア絵画の豊かな鉱床）」などを出版した。"
+            },
+            {
                 "datetime": "2025年05月24日 00時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4497748",
                 "title": "スーパー・ササダンゴ・マシンのチェ・ジバラ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4676801",
                 "title": "加藤洸稀",
                 "text": "〇〇は、兵庫県姫路市出身の元プロ野球選手（投手）。左投左打。プロでは育成選手だった。"
-            },
-            {
-                "datetime": "2025年05月22日 07時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4351867",
-                "title": "-ing",
-                "text": "〇〇は、椎名慶治の4枚目のオリジナルアルバム。2018年6月16日にHigh Windよりリリースされた。"
             }
         ]
     }
