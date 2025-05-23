@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年05月23日 15時の問題",
+                "url": "https://ja.wikipedia.org/?curid=400298",
+                "title": "アミガサタケ",
+                "text": "〇〇は、〇〇科〇〇属に属する子嚢菌類のキノコの一種である。春に人里近くに生え、頭部が深い網目状になるのが特徴。ヨーロッパで人気のある食用キノコであるが、生食すると中毒を起こすといわれている。"
+            },
+            {
                 "datetime": "2025年05月23日 14時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2611166",
                 "title": "BAILA",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2826420",
                 "title": "大ヶ生金山",
                 "text": "〇〇は、岩手県紫波郡乙部村大ヶ生（現・盛岡市大ヶ生）に存在した金の鉱山。大萱生鉱山とも。"
-            },
-            {
-                "datetime": "2025年05月21日 21時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1241016",
-                "title": "THE ALFEE 30th ANNIVERSARY HIT SINGLE COLLECTION 37",
-                "text": "〇〇は、2004年8月25日に発売されたTHE ALFEE21枚目のベストアルバム。"
             }
         ]
     }
