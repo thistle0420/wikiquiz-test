@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年05月24日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4815317",
+                "title": "将棋オールスター東西対抗戦2023",
+                "text": "〇〇は、日本将棋連盟とサントリー食品インターナショナルが主催する将棋の準公式戦「SUNTORY 将棋オールスター 東西対抗戦」の2023年に実施された3回目の大会である。"
+            },
+            {
                 "datetime": "2025年05月24日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2356983",
                 "title": "しあわせのパン",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2613582",
                 "title": "Dreamer (AiRIの曲)",
                 "text": "〇〇は、AiRIの5枚目のシングル。2012年8月1日にLantisから発売された。"
-            },
-            {
-                "datetime": "2025年05月22日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2600728",
-                "title": "From the INNER KINGDOM (内なる王国より)",
-                "text": "〇〇は、日本のロックバンド、FoZZtoneのアルバム。2012年5月7日から同年5月14日までの期間限定受注。"
             }
         ]
     }
