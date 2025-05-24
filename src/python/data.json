@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年05月24日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3577810",
+                "title": "針屋町 (名古屋市)",
+                "text": "〇〇は、愛知県名古屋市中区の地名。"
+            },
+            {
                 "datetime": "2025年05月24日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=629419",
                 "title": "埼玉村",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3950523",
                 "title": "ジャン＝ピエール・ウーダン",
                 "text": "〇〇は、フランスの建築家。ギザの大ピラミッドの建築方法について物議を醸す説を発表した。"
-            },
-            {
-                "datetime": "2025年05月23日 05時の問題",
-                "url": "https://ja.wikipedia.org/?curid=304766",
-                "title": "アンドレ・プレヴィン",
-                "text": "〇〇は、クラシック音楽・映画音楽・ジャズの指揮者、ピアニスト、作曲家。出生名は、ドイツ名でアンドレアス・ルートヴィヒ・プリヴィン（Andreas Ludwig Priwin）といい、アンドレはフランス風の名乗りである。"
             }
         ]
     }
