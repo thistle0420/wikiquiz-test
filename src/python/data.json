@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年05月25日 05時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1157620",
+                "title": "居酒屋ゆうれい",
+                "text": "〇〇は、山本昌代の小説。またそれを原作とした日本映画。"
+            },
+            {
                 "datetime": "2025年05月25日 04時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2030387",
                 "title": "富田眞光",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2611166",
                 "title": "BAILA",
                 "text": "〇〇は、集英社が発売する女性向けファッション雑誌である。毎月28日発売。"
-            },
-            {
-                "datetime": "2025年05月23日 13時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3698305",
-                "title": "死仮面",
-                "text": "〇〇は、横溝正史の短編推理小説。「金田一耕助シリーズ」の一つ。『物語』（中部日本新聞社）に1949年5月号から12月号まで連載された作品。"
             }
         ]
     }
