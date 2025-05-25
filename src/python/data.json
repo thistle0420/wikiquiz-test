@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年05月26日 06時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3719231",
+                "title": "鈴木正和 (法学者)",
+                "text": "〇〇は、日本の法学者。"
+            },
+            {
                 "datetime": "2025年05月26日 05時の問題",
                 "url": "https://ja.wikipedia.org/?curid=554499",
                 "title": "ミア・マエストロ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4904547",
                 "title": "LIVE FILM -My Favorite Things-",
                 "text": "〇〇は、日本のロックバンド・go!go!vanillasが2023年3月22日にGetting Betterより発売した2作目の映像作品。"
-            },
-            {
-                "datetime": "2025年05月24日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4815317",
-                "title": "将棋オールスター東西対抗戦2023",
-                "text": "〇〇は、日本将棋連盟とサントリー食品インターナショナルが主催する将棋の準公式戦「SUNTORY 将棋オールスター 東西対抗戦」の2023年に実施された3回目の大会である。"
             }
         ]
     }
