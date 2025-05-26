@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年05月26日 22時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2294140",
+                "title": "フィリップ・C・シュミッター",
+                "text": "〇〇は、アメリカ合衆国の政治学者。比較政治学、民主化論専攻。"
+            },
+            {
                 "datetime": "2025年05月26日 21時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4667846",
                 "title": "免除 (公船)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1157620",
                 "title": "居酒屋ゆうれい",
                 "text": "〇〇は、山本昌代の小説。またそれを原作とした日本映画。"
-            },
-            {
-                "datetime": "2025年05月25日 04時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2030387",
-                "title": "富田眞光",
-                "text": "〇〇は、写真家。千葉県出身。"
             }
         ]
     }
