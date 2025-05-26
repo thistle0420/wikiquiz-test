@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年05月27日 04時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1053452",
+                "title": "東遼",
+                "text": "〇〇は、金代に中国東北部を中心に存在した地方政権。"
+            },
+            {
                 "datetime": "2025年05月27日 03時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3622570",
                 "title": "香長村",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4677502",
                 "title": "今村氏直",
                 "text": "〇〇は、戦国時代の武将。通称掃部助。浅井氏の家臣。"
-            },
-            {
-                "datetime": "2025年05月25日 10時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1987",
-                "title": "並列化",
-                "text": "〇〇は、コンピュータにおいて、同時に複数の演算処理を実行すること（並列計算）によって処理のスループットを上げるプログラミング手法である。対義語は逐次化（英: serialization）。ハードウェアの資源を有効活用するための最適化手法のひとつである。"
             }
         ]
     }
