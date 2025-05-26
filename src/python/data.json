@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年05月27日 05時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2515797",
+                "title": "福多村",
+                "text": "〇〇は、かつて新潟県南蒲原郡にあった村。"
+            },
+            {
                 "datetime": "2025年05月27日 04時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1053452",
                 "title": "東遼",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4816539",
                 "title": "Midnight Series:Dirty Laundry",
                 "text": "〇〇は、2023年に放送されたタイのテレビドラマシリーズで、コーラパット・クッパン (ナノン)とラチャーナン・マハーワン (フィルム)が主演する。本作は3つあるミッドナイトシリーズのうちのひとつである。"
-            },
-            {
-                "datetime": "2025年05月25日 11時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4677502",
-                "title": "今村氏直",
-                "text": "〇〇は、戦国時代の武将。通称掃部助。浅井氏の家臣。"
             }
         ]
     }
