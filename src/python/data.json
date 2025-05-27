@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年05月27日 19時の問題",
+                "url": "https://ja.wikipedia.org/?curid=651548",
+                "title": "全日本学生室内飛行ロボットコンテスト",
+                "text": "〇〇は、日本航空宇宙学会が主催する室内で飛行するロボットによるコンテスト（ロボコン、ロボット競技）である。"
+            },
+            {
                 "datetime": "2025年05月27日 18時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1690834",
                 "title": "インディギルカ号",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2619833",
                 "title": "READY GO!!/Wake Me Up!",
                 "text": "〇〇は、Dream5の7枚目のシングル。2012年8月15日にavex traxから発売された。"
-            },
-            {
-                "datetime": "2025年05月26日 01時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3084989",
-                "title": "ジョー・ベリー",
-                "text": "〇〇は、血縁関係はない。"
             }
         ]
     }
