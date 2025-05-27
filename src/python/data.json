@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年05月27日 23時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4641268",
+                "title": "美松艶子",
+                "text": "〇〇は、日本の女優。"
+            },
+            {
                 "datetime": "2025年05月27日 22時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4000750",
                 "title": "NGT48の出演一覧",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3719231",
                 "title": "鈴木正和 (法学者)",
                 "text": "〇〇は、日本の法学者。"
-            },
-            {
-                "datetime": "2025年05月26日 05時の問題",
-                "url": "https://ja.wikipedia.org/?curid=554499",
-                "title": "ミア・マエストロ",
-                "text": "〇〇は、アルゼンチンのブエノスアイレス出身の女優、シンガーソングライター。"
             }
         ]
     }
