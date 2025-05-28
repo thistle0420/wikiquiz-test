@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年05月28日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2436518",
+                "title": "鎌田樹",
+                "text": "〇〇は、日本の小説家、フリーライター。宮城県角田市出身。東北大学文学部卒業。出版社編集者を経て、平岩弓枝主宰の新鷹会に参加し2007年、『朝顔ざむらい』でデビューする。"
+            },
+            {
                 "datetime": "2025年05月28日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4215211",
                 "title": "僕らは恋がヘタすぎる",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2515797",
                 "title": "福多村",
                 "text": "〇〇は、かつて新潟県南蒲原郡にあった村。"
-            },
-            {
-                "datetime": "2025年05月27日 04時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1053452",
-                "title": "東遼",
-                "text": "〇〇は、金代に中国東北部を中心に存在した地方政権。"
             }
         ]
     }
