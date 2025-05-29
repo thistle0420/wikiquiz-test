@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年05月30日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2314683",
+                "title": "ラヴハンター",
+                "text": "〇〇は、ホワイトスネイクが1979年に発表したアルバム。"
+            },
+            {
                 "datetime": "2025年05月29日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1057201",
                 "title": "ゲドウ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2390915",
                 "title": "萱場照雄",
                 "text": "〇〇は、日本の剣道家。段位は範士八段。1940年（昭和15年）の天覧試合で準優勝した逆二刀の剣道家である。"
-            },
-            {
-                "datetime": "2025年05月28日 08時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1372014",
-                "title": "安八町立名森小学校",
-                "text": "〇〇は、岐阜県安八郡安八町大明神にある公立小学校である。"
             }
         ]
     }
