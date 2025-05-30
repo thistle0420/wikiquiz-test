@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年05月30日 15時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2367024",
+                "title": "飯田吉秋",
+                "text": "〇〇は、愛知県出身のインダストリアルデザイナー。有限会社アイ・シー・アイデザイン研究所代表取締役。"
+            },
+            {
                 "datetime": "2025年05月30日 14時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3985911",
                 "title": "御替地町",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=157955",
                 "title": "下油井駅",
                 "text": "〇〇は、岐阜県加茂郡白川町白山にある、東海旅客鉄道（JR東海）高山本線の駅。"
-            },
-            {
-                "datetime": "2025年05月28日 23時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2725114",
-                "title": "大阪プロレスお笑い王座",
-                "text": "〇〇は、大阪プロレスが管理、認定している王座。"
             }
         ]
     }
