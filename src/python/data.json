@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年05月31日 01時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2123501",
+                "title": "ジョージ・ワイス",
+                "text": "〇〇は、英語圏の人名。〇〇 (独立宣言署名者) （George Wythe） - アメリカ独立宣言の署名者の一人。〇〇 (野球) （George Weiss） - アメリカのメジャーリーグ球団経営者。"
+            },
+            {
                 "datetime": "2025年05月31日 00時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3329113",
                 "title": "ごめんね東京",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=615202",
                 "title": "クラウディオ・ウベダ",
                 "text": "〇〇は、アルゼンチン・ロサリオ出身の元サッカー選手、サッカー指導者。ポジションはディフェンダー（センターバック）。"
-            },
-            {
-                "datetime": "2025年05月29日 09時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2633818",
-                "title": "太田清和",
-                "text": "〇〇は、日本の外交官。中小企業基盤整備機構業務統括役を経て、駐ルワンダ兼ブルンジ特命全権大使。"
             }
         ]
     }
