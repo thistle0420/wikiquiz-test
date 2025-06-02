@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年06月02日 12時の問題",
+                "url": "https://ja.wikipedia.org/?curid=63551",
+                "title": "永熙 (晋)",
+                "text": "〇〇は、西晋の元号。恵帝の治世に使われた。290年。"
+            },
+            {
                 "datetime": "2025年06月02日 11時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1963963",
                 "title": "小原由梨愛",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4786692",
                 "title": "淀屋橋駅西地区第一種市街地再開発事業",
                 "text": "〇〇は、大阪市中央区北浜で建設されている超高層ビルの開発である。"
-            },
-            {
-                "datetime": "2025年05月31日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4762156",
-                "title": "レフ・マルキズ",
-                "text": "〇〇は、ロシアのヴァイオリニスト、指揮者。"
             }
         ]
     }
