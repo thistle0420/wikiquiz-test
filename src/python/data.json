@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年06月03日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=907406",
+                "title": "静脈 (アルバム)",
+                "text": "〇〇は、2006年8月23日 に『動脈』と同時にリリースされた、Syrup 16gのベストアルバムである。"
+            },
+            {
                 "datetime": "2025年06月03日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3576465",
                 "title": "ケラー試薬",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2706318",
                 "title": "西野智彦",
                 "text": "〇〇は、TBSホールディングス・TBSテレビ業務監査室長（監査役）。元時事通信社記者、元放送プロデューサー。"
-            },
-            {
-                "datetime": "2025年06月01日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2742917",
-                "title": "新潟市立岡方中学校",
-                "text": "〇〇は、新潟県新潟市北区太子堂に所在する市立中学校。"
             }
         ]
     }
