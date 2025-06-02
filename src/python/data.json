@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年06月02日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2592016",
+                "title": "大日本帝国憲法第44条",
+                "text": "〇〇は、大日本帝国憲法第3章にある、帝国議会についての規定である。"
+            },
+            {
                 "datetime": "2025年06月02日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=433522",
                 "title": "三上真史",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2811537",
                 "title": "佐比江町",
                 "text": "〇〇は、兵庫県神戸市兵庫区の町名である。丁番の設定がない単独町名である。郵便番号は652-0821。"
-            },
-            {
-                "datetime": "2025年06月01日 04時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1235835",
-                "title": "沖縄政財界人恐喝事件",
-                "text": "〇〇は、1964年12月13日にアメリカ占領下の沖縄で発覚した恐喝事件。"
             }
         ]
     }
