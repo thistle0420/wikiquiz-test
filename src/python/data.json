@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年06月03日 10時の問題",
+                "url": "https://ja.wikipedia.org/?curid=275161",
+                "title": "福井県道4号越前宮崎線",
+                "text": "〇〇は、福井県丹生郡越前町を通る県道（主要地方道）である。"
+            },
+            {
                 "datetime": "2025年06月03日 09時の問題",
                 "url": "https://ja.wikipedia.org/?curid=258779",
                 "title": "取り込み詐欺",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3783991",
                 "title": "鏡の中から/あたしの残りぜんぶあげる",
                 "text": "〇〇は、まねきケチャの4枚目のシングル。2018年4月18日に日本コロムビアから発売された。"
-            },
-            {
-                "datetime": "2025年06月01日 18時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4752618",
-                "title": "大平晃",
-                "text": "〇〇は、日本の経営者。三菱ガス化学社長を務めた。東京都出身。"
             }
         ]
     }
