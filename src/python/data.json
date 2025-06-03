@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年06月03日 17時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4475584",
+                "title": "ImJayStation",
+                "text": "〇〇は、カナダの元YouTuberやインターネットセレブリティ。"
+            },
+            {
                 "datetime": "2025年06月03日 16時の問題",
                 "url": "https://ja.wikipedia.org/?curid=387707",
                 "title": "ポール・コート",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2101286",
                 "title": "香乃子",
                 "text": "〇〇は、日本の女性ケータイ小説家である。"
-            },
-            {
-                "datetime": "2025年06月02日 01時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2351934",
-                "title": "山下夏生",
-                "text": "〇〇は、日本の元子役、女優、声優。東京都出身。一般社団法人映像コンテンツ権利処理機構においては不明権利者とされている。"
             }
         ]
     }
