@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年06月04日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3766645",
+                "title": "ANAシステムズ",
+                "text": "〇〇は、東京都大田区に本社を置くANAグループ唯一のIT企業。"
+            },
+            {
                 "datetime": "2025年06月04日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=412911",
                 "title": "ベルリッツ・クルーズガイド",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1662684",
                 "title": "大森テレビ中継局",
                 "text": "〇〇は、秋田県横手市大森町に置かれているテレビ中継局である。"
-            },
-            {
-                "datetime": "2025年06月03日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1470298",
-                "title": "工藤静香 Full of Love Concert Tour 1999",
-                "text": "〇〇は、工藤静香通算10作目のライブ・ビデオ。1999年12月18日発売。発売元はポニーキャニオン。規格品番：PCVP-52712（VHS）。工藤静香のライブ・ビデオでDVDが発売された初作品（PCBP-142）。"
             }
         ]
     }
