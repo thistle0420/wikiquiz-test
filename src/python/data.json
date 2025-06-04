@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年06月04日 19時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2753470",
+                "title": "マックス・カール・ヴィルヘルム・ヴェーバー",
+                "text": "〇〇は、ドイツの動物学者。"
+            },
+            {
                 "datetime": "2025年06月04日 18時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3766645",
                 "title": "ANAシステムズ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3927430",
                 "title": "アミン・ルコント",
                 "text": "〇〇は、元サッカーカタール代表のGKである。アル・スィーリーヤSC所属。"
-            },
-            {
-                "datetime": "2025年06月03日 03時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1662684",
-                "title": "大森テレビ中継局",
-                "text": "〇〇は、秋田県横手市大森町に置かれているテレビ中継局である。"
             }
         ]
     }
