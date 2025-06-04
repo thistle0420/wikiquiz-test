@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年06月05日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1131533",
+                "title": "北竜二",
+                "text": "〇〇は、日本の俳優、脚本家。本名：山田 東吾 。東京府東京市京橋区出身。"
+            },
+            {
                 "datetime": "2025年06月05日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1550427",
                 "title": "ギヨーム・テル (戦列艦)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4475584",
                 "title": "ImJayStation",
                 "text": "〇〇は、カナダの元YouTuberやインターネットセレブリティ。"
-            },
-            {
-                "datetime": "2025年06月03日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=387707",
-                "title": "ポール・コート",
-                "text": "〇〇は、アメリカ合衆国の政治学者。専門は、国際政治学、政治心理学。コーネル大学で博士号を取得。オハイオ州立大学客員研究員を経て、現在、フロリダ国際大学国際関係学部准教授。"
             }
         ]
     }
