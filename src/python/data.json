@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年06月05日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4136332",
+                "title": "川合宏",
+                "text": "〇〇は、日本の造園学者。"
+            },
+            {
                 "datetime": "2025年06月05日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4300170",
                 "title": "由良朱合",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1912642",
                 "title": "青年前衛",
                 "text": "〇〇は、朝鮮民主主義人民共和国（北朝鮮）の青年・学生大衆団体（民間団体）である社会主義愛国青年同盟の機関紙。"
-            },
-            {
-                "datetime": "2025年06月04日 04時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3767048",
-                "title": "三遊亭ふう丈",
-                "text": "〇〇は、落語家。落語協会所属。本名∶岡村 卓。出囃子は『キューピー』。"
             }
         ]
     }
