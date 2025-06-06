@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年06月06日 11時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1381076",
+                "title": "ファイサル・モスク",
+                "text": "〇〇は、パキスタンの首都イスラマバードにあるモスク（イスラム教寺院）である。サウジアラビアの援助によって建設された世界有数の大規模なモスクである。国際イスラム大学（en:International Islamic University, Islamabad）の付属施設。"
+            },
+            {
                 "datetime": "2025年06月06日 10時の問題",
                 "url": "https://ja.wikipedia.org/?curid=14845",
                 "title": "ジェフ・ゴールドブラム",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2753470",
                 "title": "マックス・カール・ヴィルヘルム・ヴェーバー",
                 "text": "〇〇は、ドイツの動物学者。"
-            },
-            {
-                "datetime": "2025年06月04日 18時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3766645",
-                "title": "ANAシステムズ",
-                "text": "〇〇は、東京都大田区に本社を置くANAグループ唯一のIT企業。"
             }
         ]
     }
