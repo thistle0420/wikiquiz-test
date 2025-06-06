@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年06月06日 12時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3585068",
+                "title": "1981年の西武ライオンズ",
+                "text": "〇〇は、〇〇の動向をまとめる。この年の西武ライオンズは、根本陸夫監督の4年目のシーズンである。"
+            },
+            {
                 "datetime": "2025年06月06日 11時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1381076",
                 "title": "ファイサル・モスク",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1457156",
                 "title": "田中義清",
                 "text": "〇〇は、平安時代の武将。里見義俊の次男で、里見義成の弟。子に田中重政。"
-            },
-            {
-                "datetime": "2025年06月04日 19時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2753470",
-                "title": "マックス・カール・ヴィルヘルム・ヴェーバー",
-                "text": "〇〇は、ドイツの動物学者。"
             }
         ]
     }
