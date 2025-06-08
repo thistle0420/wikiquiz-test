@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年06月09日 05時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3938882",
+                "title": "瑞浪市立瑞浪北中学校",
+                "text": "〇〇は、岐阜県瑞浪市土岐町にある公立中学校。"
+            },
+            {
                 "datetime": "2025年06月09日 04時の問題",
                 "url": "https://ja.wikipedia.org/?curid=931872",
                 "title": "ラガマフィン",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1574812",
                 "title": "山村啓介",
                 "text": "〇〇は、朝日放送の事業メディア局事業部部長プロデューサー・元テレビプロデューサー。"
-            },
-            {
-                "datetime": "2025年06月07日 13時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4191090",
-                "title": "屈折異常眼の完全矯正値",
-                "text": "〇〇は、"
             }
         ]
     }
