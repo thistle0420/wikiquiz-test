@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年06月08日 10時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2060208",
+                "title": "奈良県道250号平群信貴山線",
+                "text": "〇〇は、奈良県生駒郡平群町を通る一般県道である。"
+            },
+            {
                 "datetime": "2025年06月08日 09時の問題",
                 "url": "https://ja.wikipedia.org/?curid=758452",
                 "title": "ジュマ・イカンガー",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=5090320",
                 "title": "Awaline きらら",
                 "text": "〇〇は、和幸船舶の保有する双胴高速旅客船である。かつては粟島汽船が保有していた。日本海を航行する初の双胴高速船である。"
-            },
-            {
-                "datetime": "2025年06月06日 18時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3536544",
-                "title": "JAグループ神奈川ビル",
-                "text": "〇〇は、神奈川県横浜市中区にある建築物である。"
             }
         ]
     }
