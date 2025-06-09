@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年06月09日 16時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3967483",
+                "title": "五戸町立川内中学校",
+                "text": "〇〇は、青森県三戸郡五戸町大字上市川に所在する公立（町立）の中学校。"
+            },
+            {
                 "datetime": "2025年06月09日 15時の問題",
                 "url": "https://ja.wikipedia.org/?curid=67660",
                 "title": "神田橋ジャンクション",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4591992",
                 "title": "佐藤夏雄",
                 "text": "〇〇は、日本の地球物理学者。元国立極地研究所副所長。元南極地域観測隊隊長。"
-            },
-            {
-                "datetime": "2025年06月08日 00時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1204771",
-                "title": "久保文雄",
-                "text": "〇〇は、和歌山県伊都郡高野口町出身の元プロ野球選手（投手）。左投右打。"
             }
         ]
     }
