@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年06月09日 15時の問題",
+                "url": "https://ja.wikipedia.org/?curid=67660",
+                "title": "神田橋ジャンクション",
+                "text": "〇〇は、東京都千代田区にある首都高速道路の都心環状線と八重洲線を結ぶジャンクションである。"
+            },
+            {
                 "datetime": "2025年06月09日 14時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2466464",
                 "title": "プロクプリェ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1204771",
                 "title": "久保文雄",
                 "text": "〇〇は、和歌山県伊都郡高野口町出身の元プロ野球選手（投手）。左投右打。"
-            },
-            {
-                "datetime": "2025年06月07日 23時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4329303",
-                "title": "雨のち晴れ (GENERATIONS from EXILE TRIBEの曲)",
-                "text": "〇〇は、GENERATIONS from EXILE TRIBEの23作目のシングル。2021年2月10日にrhythm zoneから発売された。"
             }
         ]
     }
