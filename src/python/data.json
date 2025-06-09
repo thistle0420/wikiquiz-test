@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年06月09日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2466464",
+                "title": "プロクプリェ",
+                "text": "〇〇は、ユルギュプ（Ürgüp）とよばれ、ニシュ・サンジャクのカザ（行政的な区域）の中心地であった。"
+            },
+            {
                 "datetime": "2025年06月09日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3051601",
                 "title": "ルーカス・リオス・マルケス",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4329303",
                 "title": "雨のち晴れ (GENERATIONS from EXILE TRIBEの曲)",
                 "text": "〇〇は、GENERATIONS from EXILE TRIBEの23作目のシングル。2021年2月10日にrhythm zoneから発売された。"
-            },
-            {
-                "datetime": "2025年06月07日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3144848",
-                "title": "クリティクス・チョイス・ムービー・アワード 主演男優賞",
-                "text": "〇〇は、クリティクス・チョイス・アソシエーションがその年の優れた主演男優に贈る映画賞である。"
             }
         ]
     }
