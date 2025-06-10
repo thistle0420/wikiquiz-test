@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年06月11日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4894448",
+                "title": "沼柵",
+                "text": "〇〇は、出羽国に置かれた古代日本の城柵の1つ。後三年の役の舞台となった。"
+            },
+            {
                 "datetime": "2025年06月11日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=669090",
                 "title": "北海道登別明日中等教育学校",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3967483",
                 "title": "五戸町立川内中学校",
                 "text": "〇〇は、青森県三戸郡五戸町大字上市川に所在する公立（町立）の中学校。"
-            },
-            {
-                "datetime": "2025年06月09日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=67660",
-                "title": "神田橋ジャンクション",
-                "text": "〇〇は、東京都千代田区にある首都高速道路の都心環状線と八重洲線を結ぶジャンクションである。"
             }
         ]
     }
