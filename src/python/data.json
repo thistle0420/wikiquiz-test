@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年06月11日 05時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2398794",
+                "title": "ごきチャ",
+                "text": "〇〇は、るい・たまちによる日本の4コマ漫画作品。"
+            },
+            {
                 "datetime": "2025年06月11日 04時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4602375",
                 "title": "早川千絵",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2466464",
                 "title": "プロクプリェ",
                 "text": "〇〇は、ユルギュプ（Ürgüp）とよばれ、ニシュ・サンジャクのカザ（行政的な区域）の中心地であった。"
-            },
-            {
-                "datetime": "2025年06月09日 13時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3051601",
-                "title": "ルーカス・リオス・マルケス",
-                "text": "〇〇は、ブラジル・ミナスジェライス州出身のプロサッカー選手。ポジションはディフェンダー。"
             }
         ]
     }
