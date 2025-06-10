@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年06月10日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4930436",
+                "title": "国府谷盛純",
+                "text": "〇〇は、江戸時代の武士。徳大寺家出身。有栖川宮の諸大夫。"
+            },
+            {
                 "datetime": "2025年06月10日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4193654",
                 "title": "フラッシュ蒸留",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4448343",
                 "title": "高鍋篤郎",
                 "text": "〇〇は、日本の政治家。衆議院議員（1期）。"
-            },
-            {
-                "datetime": "2025年06月09日 05時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3938882",
-                "title": "瑞浪市立瑞浪北中学校",
-                "text": "〇〇は、岐阜県瑞浪市土岐町にある公立中学校。"
             }
         ]
     }
