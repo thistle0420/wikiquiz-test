@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年06月11日 06時の問題",
+                "url": "https://ja.wikipedia.org/?curid=669090",
+                "title": "北海道登別明日中等教育学校",
+                "text": "〇〇は、北海道登別市片倉町五丁目にある道立中等教育学校。"
+            },
+            {
                 "datetime": "2025年06月11日 05時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2398794",
                 "title": "ごきチャ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=67660",
                 "title": "神田橋ジャンクション",
                 "text": "〇〇は、東京都千代田区にある首都高速道路の都心環状線と八重洲線を結ぶジャンクションである。"
-            },
-            {
-                "datetime": "2025年06月09日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2466464",
-                "title": "プロクプリェ",
-                "text": "〇〇は、ユルギュプ（Ürgüp）とよばれ、ニシュ・サンジャクのカザ（行政的な区域）の中心地であった。"
             }
         ]
     }
