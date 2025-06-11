@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年06月11日 15時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4887594",
+                "title": "丸亀市立城坤小学校",
+                "text": "〇〇は、香川県丸亀市今津町348にある公立小学校。"
+            },
+            {
                 "datetime": "2025年06月11日 14時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2877755",
                 "title": "偕成社文庫",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3274850",
                 "title": "フィリップス・ブルックス",
                 "text": "〇〇は、アメリカ合衆国の宗教家。米国聖公会の聖職者。作家でもある。ボストントリニティ教会の牧師。『ベツレヘムの小さな町で 』(O Little Town of Bethlehem)を作詞した人物として知られる。フィリップス・ブルークスと訳されることもある。"
-            },
-            {
-                "datetime": "2025年06月09日 23時の問題",
-                "url": "https://ja.wikipedia.org/?curid=528996",
-                "title": "Goodモーニング",
-                "text": "〇〇は、東北放送（TBCラジオ）で放送されている朝の生ワイド番組。放送時間は平日 6:30 - 8:00。"
             }
         ]
     }
