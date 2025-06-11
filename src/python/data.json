@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年06月11日 10時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1989690",
+                "title": "尾鷲義人",
+                "text": "〇〇は、日本の演歌歌手。"
+            },
+            {
                 "datetime": "2025年06月11日 09時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2620385",
                 "title": "Gδ集合",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4593195",
                 "title": "宮本あかり",
                 "text": "〇〇は、日本の女性モデル・レースクイーン。愛知県出身。愛称は「あかりん」。"
-            },
-            {
-                "datetime": "2025年06月09日 18時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4038195",
-                "title": "星島謹一郎",
-                "text": "〇〇は、明治から昭和時代前期の政治家、実業家、銀行家、大地主。貴族院多額納税者議員。字は士信、号は鳴龍。"
             }
         ]
     }
