@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年06月12日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3322727",
+                "title": "日本医療小説大賞",
+                "text": "〇〇は、公益社団法人日本医師会の主催、厚生労働省の後援、新潮社の協力により行われる、日本の医療小説を対象とした文学賞である。"
+            },
+            {
                 "datetime": "2025年06月12日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4038375",
                 "title": "FeatherPad",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2398794",
                 "title": "ごきチャ",
                 "text": "〇〇は、るい・たまちによる日本の4コマ漫画作品。"
-            },
-            {
-                "datetime": "2025年06月11日 04時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4602375",
-                "title": "早川千絵",
-                "text": "〇〇は、日本の映画監督。開志専門職大学アニメ・マンガ学部教授。東京都出身。"
             }
         ]
     }
