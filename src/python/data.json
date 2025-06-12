@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年06月12日 15時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1507313",
+                "title": "『瑠璃城』殺人事件",
+                "text": "〇〇は、北山猛邦による日本の推理小説。"
+            },
+            {
                 "datetime": "2025年06月12日 14時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1270609",
                 "title": "江ノ電バス鎌倉営業所",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3066165",
                 "title": "ローガン・シューロ",
                 "text": "〇〇は、アメリカ合衆国のプロレスラー。ミュージシャン。ペンシルベニア州ピッツバーグ出身。現在はイライアス'''（Elias）のリングネームでWWEに所属。"
-            },
-            {
-                "datetime": "2025年06月10日 23時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1687097",
-                "title": "水戸平成学園高等学校",
-                "text": "〇〇は、茨城県水戸市根本にある私立高等学校。"
             }
         ]
     }
