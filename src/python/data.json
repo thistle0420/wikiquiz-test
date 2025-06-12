@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年06月12日 19時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4038375",
+                "title": "FeatherPad",
+                "text": "〇〇は、GNU GPLのもとで利用可能な自由ソフトウェアのテキストエディタ。イランのPedram Pourang（Tsu Janとしても知られる）によって開発され、Qtで書かれている。また、〇〇は依存関係が少なく、どのデスクトップ環境からも独立に動作し、FreeBSD、Linux、Haiku OS、macOSで利用できる。〇〇は、LXQtに使用デスクトップ環境を変更した、18.10以降のLubuntuでデフォルトのテキストエディタとなっている。Lubuntuは以前、LXDEのLeafpadというGTKベースのテキストエディタを使っていた。また、〇〇はDebianやUbuntuのパッケージレポジトリにも含まれている。"
+            },
+            {
                 "datetime": "2025年06月12日 18時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4181397",
                 "title": "吉田哲郎",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4602375",
                 "title": "早川千絵",
                 "text": "〇〇は、日本の映画監督。開志専門職大学アニメ・マンガ学部教授。東京都出身。"
-            },
-            {
-                "datetime": "2025年06月11日 03時の問題",
-                "url": "https://ja.wikipedia.org/?curid=28762",
-                "title": "神奈川区",
-                "text": "〇〇は、横浜市を構成する18区のうちの一つ。東海道の宿場町である「神奈川宿」から区名が取られた。県名も同源である。また県名と同一の名称の行政区としてはほかに神戸市兵庫区がある。"
             }
         ]
     }
