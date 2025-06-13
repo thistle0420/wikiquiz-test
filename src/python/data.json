@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年06月13日 09時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1245514",
+                "title": "上福元勤",
+                "text": "〇〇は、東京都出身の元プロ野球選手（内野手）。右投右打。"
+            },
+            {
                 "datetime": "2025年06月13日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1191361",
                 "title": "須磨北郵便局",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=167140",
                 "title": "北信景",
                 "text": "〇〇は、安土桃山時代から江戸時代初期にかけての武将。通称は十左衛門、名は信連、愛信とも伝わる。後に直吉と改名した。"
-            },
-            {
-                "datetime": "2025年06月11日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=10676",
-                "title": "周南市",
-                "text": "〇〇は、山口県の東南部に位置する市。"
             }
         ]
     }
