@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年06月14日 02時の問題",
+                "url": "https://ja.wikipedia.org/?curid=173736",
+                "title": "土岐聡子",
+                "text": "〇〇は、日本のフリーアナウンサー。"
+            },
+            {
                 "datetime": "2025年06月14日 01時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1836162",
                 "title": "モシ人",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3744257",
                 "title": "中津濱健",
                 "text": "〇〇は、日本の実業家。ローマイヤ社長を経て、スターゼン会長兼社長。"
-            },
-            {
-                "datetime": "2025年06月12日 10時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2024440",
-                "title": "チョンチョンこまめちゃん",
-                "text": "〇〇は、あなだ♠もあによる日本の4コマ漫画作品。『なかよし』（講談社）で連載された。"
             }
         ]
     }
