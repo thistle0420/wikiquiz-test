@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年06月15日 02時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4166255",
+                "title": "大戸洋儀",
+                "text": "〇〇は、元アマチュア野球選手、アマチュア監督。ポジションは外野手。"
+            },
+            {
                 "datetime": "2025年06月15日 01時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4808715",
                 "title": "DJ Tomoaki's Radio Show!",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1305762",
                 "title": "GNOME-DB",
                 "text": "〇〇は、GNOMEプロジェクトにフリーで統一的なデータアクセスアーキテクチャを提供することである。データ管理APIが含まれているので、永続的データ（データベースに限らず、単なるデータの場合でも）にアクセスするアプリケーションにとって有用である。"
-            },
-            {
-                "datetime": "2025年06月13日 10時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1838085",
-                "title": "カトリーヌ・ドモンジョ",
-                "text": "〇〇は、フランスの元子役女優である。"
             }
         ]
     }
