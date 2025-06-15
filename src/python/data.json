@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年06月15日 17時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1951686",
+                "title": "グリーゼ436b",
+                "text": "〇〇は、赤色矮星グリーゼ436の周りを公転する、海王星程度の大きさの太陽系外惑星である。2009年2月時点では、CoRoT-7bに次ぎ、主星の前面を通過する惑星としては2番目に小さかった。"
+            },
+            {
                 "datetime": "2025年06月15日 16時の問題",
                 "url": "https://ja.wikipedia.org/?curid=28693",
                 "title": "インクリボン",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=173736",
                 "title": "土岐聡子",
                 "text": "〇〇は、日本のフリーアナウンサー。"
-            },
-            {
-                "datetime": "2025年06月14日 01時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1836162",
-                "title": "モシ人",
-                "text": "〇〇は、アフリカの民族。自称は単数形がmoaaga、複数形がmooseである。ブルキナファソを中心とした西アフリカのサバンナ地帯に居住する。"
             }
         ]
     }
