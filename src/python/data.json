@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年06月16日 22時の問題",
+                "url": "https://ja.wikipedia.org/?curid=546867",
+                "title": "カルメン・エレクトラ",
+                "text": "〇〇は、アメリカ合衆国のモデル・女優。オハイオ州・シンシナティ郊外の出身。アイルランド・ドイツ・チェロキーの血を引いている。"
+            },
+            {
                 "datetime": "2025年06月16日 21時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1758161",
                 "title": "ブラッド・ジーグラー",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1578171",
                 "title": "橘糸重",
                 "text": "〇〇は、日本の音楽家、敎育者、歌人。"
-            },
-            {
-                "datetime": "2025年06月15日 06時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4814078",
-                "title": "松尾浩則",
-                "text": "〇〇は、日本の農林水産官僚。"
             }
         ]
     }
