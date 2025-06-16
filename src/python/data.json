@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年06月16日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1758161",
+                "title": "ブラッド・ジーグラー",
+                "text": "〇〇は、アメリカ合衆国カンザス州プラット郡プラット出身の元プロ野球選手（投手）。右投右打。愛称はユニコーン（Unicorn）。"
+            },
+            {
                 "datetime": "2025年06月16日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3786173",
                 "title": "ムエ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4814078",
                 "title": "松尾浩則",
                 "text": "〇〇は、日本の農林水産官僚。"
-            },
-            {
-                "datetime": "2025年06月15日 05時の問題",
-                "url": "https://ja.wikipedia.org/?curid=540089",
-                "title": "岡山基地",
-                "text": "〇〇は、台湾の高雄市にある中華民国国軍の軍用飛行場。主に空軍軍官学校が使用している。戦前は海軍高雄飛行場として名を馳せた。"
             }
         ]
     }
