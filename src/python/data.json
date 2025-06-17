@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年06月18日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=11939",
+                "title": "1680年",
+                "text": "〇〇は、西暦（グレゴリオ暦）による、月曜日から始まる閏年。"
+            },
+            {
                 "datetime": "2025年06月17日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=288391",
                 "title": "島根県道44号西郷都万郡線",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=600824",
                 "title": "フレミングの左手の法則",
                 "text": "〇〇は、ジョン・フレミングが考案した電磁気現象の記憶法で、磁場中の導体に電流が流れるときにその導体に力（ローレンツ力）が作用する現象において、磁場と電流と力の向きの関係を左手の指で示す方法である。"
-            },
-            {
-                "datetime": "2025年06月16日 08時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2669204",
-                "title": "Quarter Century Box",
-                "text": "〇〇は、2012年10月25日に発売されたUNICORNのボックス・セット。同年12月19日発売のシングルリマスター・コレクション「Quarter Century Single Best」（クォーター・センチュリー・シングル・ベスト）、オールタイム・ライブベスト「Quarter Century Live Best」（クォーター・センチュリー・ライブ・ベスト）についても本項で記述する。"
             }
         ]
     }
