@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年06月18日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4998615",
+                "title": "スカート (CHARAの曲)",
+                "text": "〇〇は、日本の女性ミュージシャン、CHARAの23枚目のシングル。2001年7月4日にエピックレコードジャパンから発売された。"
+            },
+            {
                 "datetime": "2025年06月18日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3149594",
                 "title": "アイ・キルド・ザ・ザイトガイスト",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=120915",
                 "title": "ゴルディアヌス1世",
                 "text": "〇〇は、マルクス・アントニウス・ゴルディアヌス・センプロニアヌス・ロマヌス・アフリカヌス・アウグストゥス（ラテン語: Marcus Antonius Gordianus Sempronianus Romanus Africanus Augustus, 159年頃 - 238年4月12日）は、ローマ帝国の軍人皇帝である。"
-            },
-            {
-                "datetime": "2025年06月17日 05時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4331628",
-                "title": "コディ・ウォーカー",
-                "text": "〇〇は、アメリカ合衆国カリフォルニア州出身の俳優。ポール・ウォーカーの弟でもあり、ポールの死後に彼の遺作である第7作『ワイルド・スピード SKY MISSION』にポールの演じていたブライアン・オコナー役で出演し作品を完成させた。演技でのデビュー作は『Abandoned Mine (en) 、廃鉱山』（2013年）。俳優としてのデビュー作は『パシフィック・ウォー』（2016年）。"
             }
         ]
     }
