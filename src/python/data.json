@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年06月19日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4754490",
+                "title": "アニカ・ピンスケ",
+                "text": "〇〇は、ドイツの映画監督、脚本家。"
+            },
+            {
                 "datetime": "2025年06月19日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=480790",
                 "title": "ムラサキイガイ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1033576",
                 "title": "オンヌット駅",
                 "text": "〇〇は、タイ王国、バンコク都ワッタナー区にある、バンコク・スカイトレイン(BTS)スクムウィット線の駅である。駅番号は「E9」。"
-            },
-            {
-                "datetime": "2025年06月18日 05時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4791183",
-                "title": "佐世保海上保安部",
-                "text": "〇〇は、長崎県佐世保市に所在する海上保安庁第七管区海上保安部管轄下に位置する海上保安部である。"
             }
         ]
     }
