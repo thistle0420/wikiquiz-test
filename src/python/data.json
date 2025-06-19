@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年06月19日 19時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2551264",
+                "title": "アンドレアス・プレシェル",
+                "text": "〇〇は、旧東ドイツのシュヴェリーン出身の柔道選手。階級は95kg級。"
+            },
+            {
                 "datetime": "2025年06月19日 18時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3818533",
                 "title": "黄井ぴかち",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4459875",
                 "title": "カナメストーン",
                 "text": "〇〇は、マセキ芸能社に所属する日本のお笑いコンビ。2010年4月1日結成。"
-            },
-            {
-                "datetime": "2025年06月18日 03時の問題",
-                "url": "https://ja.wikipedia.org/?curid=238221",
-                "title": "内田常雄",
-                "text": "〇〇は、日本の政治家。厚生大臣（第47代）、経済企画庁長官（第24代）、衆議院議員（9期）。"
             }
         ]
     }
