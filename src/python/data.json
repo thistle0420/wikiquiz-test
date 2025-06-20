@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年06月21日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4060212",
+                "title": "魏攻略",
+                "text": "〇〇は、紀元前225年に秦が魏を滅ぼした戦い。"
+            },
+            {
                 "datetime": "2025年06月21日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=5091817",
                 "title": "Mammoth Club Circuit",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=572054",
                 "title": "埼玉県教育委員会",
                 "text": "〇〇は、埼玉県の教育委員会である。"
-            },
-            {
-                "datetime": "2025年06月19日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1840952",
-                "title": "ダールマンツヤクワガタ",
-                "text": "〇〇は、昆虫綱コウチュウ目（鞘翅目）クワガタムシ科に属するクワガタムシの一種。原名亜種を和名ではキンケツヤクワガタ（金毛艶鍬形虫）とも言う。"
             }
         ]
     }
