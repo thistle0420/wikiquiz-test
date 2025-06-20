@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年06月20日 14時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4696077",
+                "title": "アオワイファイ",
+                "text": "〇〇は、日本のソングライター、編曲家、DJ。TOKYO LOGIC所属。ボカロPとしても活動。"
+            },
+            {
                 "datetime": "2025年06月20日 13時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3346019",
                 "title": "名古屋市立山王中学校",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2986295",
                 "title": "室井豊",
                 "text": "〇〇は、大阪府出身のプロ野球選手。主なポジションは捕手。"
-            },
-            {
-                "datetime": "2025年06月18日 22時の問題",
-                "url": "https://ja.wikipedia.org/?curid=373371",
-                "title": "Cookie (雑誌)",
-                "text": "〇〇は、集英社が発行する日本の漫画雑誌。1999年に『りぼん』と『ぶ〜け』の合同増刊として創刊後、2000年に独立。奇数月26日発売。キャッチコピーは「乙女の恋、満載！新ガールズコミック」。"
             }
         ]
     }
