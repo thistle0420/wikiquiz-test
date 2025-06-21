@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年06月21日 09時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3251903",
+                "title": "西尾浩行",
+                "text": "〇〇は、日本の俳優。所属事務所はPuR(ピュール)。大阪府守口市出身。守口市立庭窪中学校-大阪府立香里丘高等学校。特技はアコースティックギター、ブルースハープ。"
+            },
+            {
                 "datetime": "2025年06月21日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4060212",
                 "title": "魏攻略",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3818533",
                 "title": "黄井ぴかち",
                 "text": "〇〇は、日本の漫画家、イラストレーター。女性。"
-            },
-            {
-                "datetime": "2025年06月19日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=572054",
-                "title": "埼玉県教育委員会",
-                "text": "〇〇は、埼玉県の教育委員会である。"
             }
         ]
     }
