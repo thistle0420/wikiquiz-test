@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年06月21日 10時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1843434",
+                "title": "ジェネシスの作品",
+                "text": "〇〇は、コリンズの他にはポール・マッカートニーとマイケル・ジャクソンだけである。"
+            },
+            {
                 "datetime": "2025年06月21日 09時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3251903",
                 "title": "西尾浩行",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2551264",
                 "title": "アンドレアス・プレシェル",
                 "text": "〇〇は、旧東ドイツのシュヴェリーン出身の柔道選手。階級は95kg級。"
-            },
-            {
-                "datetime": "2025年06月19日 18時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3818533",
-                "title": "黄井ぴかち",
-                "text": "〇〇は、日本の漫画家、イラストレーター。女性。"
             }
         ]
     }
