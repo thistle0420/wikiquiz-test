@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年06月21日 15時の問題",
+                "url": "https://ja.wikipedia.org/?curid=387516",
+                "title": "田島祐子",
+                "text": "〇〇は、フリーアナウンサー（アール・エフ・ラジオ日本ニュースアナウンサー兼任、元テレビ新潟アナウンサー)。"
+            },
+            {
                 "datetime": "2025年06月21日 14時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3554075",
                 "title": "2017年のNBAオールスターゲーム",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1120089",
                 "title": "鷹司氏",
                 "text": "〇〇は、武家のひとつ。本姓は藤原氏。家系は近衛家の分家筋で五摂家のひとつで公家の鷹司家の一門であったが、後に武家となった。"
-            },
-            {
-                "datetime": "2025年06月19日 23時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1697373",
-                "title": "BIGMAMA",
-                "text": "〇〇は、日本の5人組ロックバンド。所属事務所はUKPMを経て、2022年よりIGNITE Managementに所属。レーベルはALL ACCESS RECORDS。東京都・八王子にて結成。バンドサウンドにヴァイオリンを取り入れた5人編成のロックバンドであり、2006年にRX-RECORDSからCDデビューを果たす。"
             }
         ]
     }
