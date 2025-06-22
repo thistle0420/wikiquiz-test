@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年06月22日 16時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1354979",
+                "title": "篠田和幸",
+                "text": "〇〇は、日本の映画監督。岐阜県岐阜市出身。"
+            },
+            {
                 "datetime": "2025年06月22日 15時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3799416",
                 "title": "Rakudo",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=21592",
                 "title": "横尾駅",
                 "text": "〇〇は、広島県福山市横尾町一丁目にある、西日本旅客鉄道（JR西日本）福塩線の駅である。"
-            },
-            {
-                "datetime": "2025年06月21日 00時の問題",
-                "url": "https://ja.wikipedia.org/?curid=253642",
-                "title": "W・アヴェレル・ハリマン",
-                "text": "〇〇は、アメリカ合衆国の政治家、外交官、銀行家、実業家。商務長官、ニューヨーク州知事などを歴任した。アメリカ対日協議会のスポンサーであった。"
             }
         ]
     }
