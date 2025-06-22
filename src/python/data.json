@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年06月22日 23時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2816219",
+                "title": "中川泉三",
+                "text": "〇〇は、日本の歴史家。独学で地史研究・文筆力を養い滋賀県内各郡志の編纂に携わる。"
+            },
+            {
                 "datetime": "2025年06月22日 22時の問題",
                 "url": "https://ja.wikipedia.org/?curid=831470",
                 "title": "矢代久美子",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4060212",
                 "title": "魏攻略",
                 "text": "〇〇は、紀元前225年に秦が魏を滅ぼした戦い。"
-            },
-            {
-                "datetime": "2025年06月21日 07時の問題",
-                "url": "https://ja.wikipedia.org/?curid=5091817",
-                "title": "Mammoth Club Circuit",
-                "text": "〇〇は、フラワーカンパニーズの2ndライブ・ビデオ（VHS）。4thアルバム『マンモスフラワー』リリース直後に東京圏で6本のライブを行い収録された。長らく廃盤となっていたが、2020年4月1日リリースのBlu-ray『フラカン、二十代の記録 -Flower Companyz Twenties Records-にデジタルリマスター』化され収録された。"
             }
         ]
     }
