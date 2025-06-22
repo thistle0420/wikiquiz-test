@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年06月22日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4204519",
+                "title": "レークセーノール",
+                "text": "〇〇は、ギリシア神話の人物である。長母音を省略してレクセノルとも表記される。主に、カルキオペーの父ナウシトオスの子ディオメーデースの部下が知られている。以下に説明する。"
+            },
+            {
                 "datetime": "2025年06月22日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=281905",
                 "title": "Gift for Fanks",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3426789",
                 "title": "天洋 (測量船・2代)",
                 "text": "〇〇は、海上保安庁の測量船。公称船型は中型測量船。"
-            },
-            {
-                "datetime": "2025年06月21日 04時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1627072",
-                "title": "岸波 (駆逐艦)",
-                "text": "〇〇は、日本海軍の駆逐艦。夕雲型駆逐艦の15番艦である。"
             }
         ]
     }
