@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年06月22日 09時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2671961",
+                "title": "ニューヨーク市地下鉄D系統",
+                "text": "〇〇は、ニューヨーク市地下鉄Bディビジョンの運転系統。カラーはオレンジで、ブロンクス区ではINDコンコース線、マンハッタン区ではIND8番街線、IND6番街線、ブルックリン区ではBMT4番街線、BMTウェスト・エンド線を経由する。"
+            },
+            {
                 "datetime": "2025年06月22日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4347193",
                 "title": "ON MY OWN",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2905532",
                 "title": "和泉 (印西市)",
                 "text": "〇〇は、千葉県印西市の大字。郵便番号270-1351。"
-            },
-            {
-                "datetime": "2025年06月20日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=5025801",
-                "title": "HANA (ガールズグループ)",
-                "text": "〇〇は、日本の7人組ガールズグループ。BMSG傘下のB-RAVE所属。BMSG主催のオーディション番組『No No Girls』から誕生。公式ファンネームはHONEYs（ハニーズ）"
             }
         ]
     }
