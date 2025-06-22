@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年06月22日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4040216",
+                "title": "モーテルズの作品",
+                "text": "〇〇は、モーテルズ及びモーテルズのリード・ボーカルマーサ・デイビスのディスコグラフィについて記述する。"
+            },
+            {
                 "datetime": "2025年06月22日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2597969",
                 "title": "グレーム・ウィーラー",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2412324",
                 "title": "クロチャワンタケ",
                 "text": "〇〇は、〇〇科に属する菌類の一種である。"
-            },
-            {
-                "datetime": "2025年06月21日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=383278",
-                "title": "今掛勇",
-                "text": "〇〇は、アニメーター、アニメ演出家、アニメ監督。鹿児島県出身。"
             }
         ]
     }
