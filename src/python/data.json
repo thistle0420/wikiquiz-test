@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年06月23日 19時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4538074",
+                "title": "ジョン・E・マイルズ",
+                "text": "〇〇は、アメリカ合衆国の政治家。第12代ニューメキシコ州知事、連邦下院議員、ニューメキシコ州公有地委員長。"
+            },
+            {
                 "datetime": "2025年06月23日 18時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3287349",
                 "title": "エドゥアルド・トロヤノフスキー",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=993695",
                 "title": "石景山遊楽園",
                 "text": "〇〇は、中華人民共和国北京市石景山区にある区営遊園地。八角遊楽園（八角游乐园、Bajiao Amusement Park）の別称を持つ。面積は33万8900平方メートル。"
-            },
-            {
-                "datetime": "2025年06月22日 03時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1246183",
-                "title": "Bright Daylight",
-                "text": "〇〇は、日本の女性歌手hiroのソロ2枚目のシングル。2000年2月16日にトイズファクトリーよりリリースされた。"
             }
         ]
     }
