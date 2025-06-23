@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年06月23日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=640602",
+                "title": "大阪市立市岡中学校",
+                "text": "〇〇は、大阪府大阪市港区にある公立中学校。通称「市中（いっちゅう）」"
+            },
+            {
                 "datetime": "2025年06月23日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4538074",
                 "title": "ジョン・E・マイルズ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4614336",
                 "title": "THE AWAKENING:WRITTEN IN THE STARS",
                 "text": "〇〇は、CRAVITYのスタジオアルバムパート1。2021年8月19日にSTARSHIPエンターテインメントからリリースされ、Kakao Mにて販売された。"
-            },
-            {
-                "datetime": "2025年06月22日 04時の問題",
-                "url": "https://ja.wikipedia.org/?curid=993695",
-                "title": "石景山遊楽園",
-                "text": "〇〇は、中華人民共和国北京市石景山区にある区営遊園地。八角遊楽園（八角游乐园、Bajiao Amusement Park）の別称を持つ。面積は33万8900平方メートル。"
             }
         ]
     }
