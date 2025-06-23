@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年06月24日 01時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2821383",
+                "title": "平戸市立生月中学校",
+                "text": "〇〇は、長崎県平戸市生月町山田免にある公立中学校。略称は「生月中」（いきつきちゅう）。"
+            },
+            {
                 "datetime": "2025年06月24日 00時の問題",
                 "url": "https://ja.wikipedia.org/?curid=850886",
                 "title": "フランスの山人の歌による交響曲",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2373190",
                 "title": "DUM SPIRO SPERO",
                 "text": "〇〇は、日本のバンドDIR EN GREYのメジャー8作目のアルバム。"
-            },
-            {
-                "datetime": "2025年06月22日 09時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2671961",
-                "title": "ニューヨーク市地下鉄D系統",
-                "text": "〇〇は、ニューヨーク市地下鉄Bディビジョンの運転系統。カラーはオレンジで、ブロンクス区ではINDコンコース線、マンハッタン区ではIND8番街線、IND6番街線、ブルックリン区ではBMT4番街線、BMTウェスト・エンド線を経由する。"
             }
         ]
     }
