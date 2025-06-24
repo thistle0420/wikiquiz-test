@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年06月24日 15時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1108173",
+                "title": "アルベール・エルバス",
+                "text": "〇〇は、イスラエルのファッションデザイナー。"
+            },
+            {
                 "datetime": "2025年06月24日 14時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4853923",
                 "title": "熊取町の地名",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1217473",
                 "title": "留萌ラジオ中継局",
                 "text": "〇〇は、北海道留萌市にあるNHK旭川放送局、北海道放送、STVラジオの中波放送中継局の総称。"
-            },
-            {
-                "datetime": "2025年06月22日 23時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2816219",
-                "title": "中川泉三",
-                "text": "〇〇は、日本の歴史家。独学で地史研究・文筆力を養い滋賀県内各郡志の編纂に携わる。"
             }
         ]
     }
