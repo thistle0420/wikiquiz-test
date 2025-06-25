@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年06月25日 11時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4422706",
+                "title": "HIKARI (Ms.OOJAの曲)",
+                "text": "〇〇は、Ms.OOJAの楽曲。2020年2月5日にUniversal Sigmaから配信限定シングルとしてリリースされた。"
+            },
+            {
                 "datetime": "2025年06月25日 10時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3957414",
                 "title": "メタモルフォーゼの縁側",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=640602",
                 "title": "大阪市立市岡中学校",
                 "text": "〇〇は、大阪府大阪市港区にある公立中学校。通称「市中（いっちゅう）」"
-            },
-            {
-                "datetime": "2025年06月23日 19時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4538074",
-                "title": "ジョン・E・マイルズ",
-                "text": "〇〇は、アメリカ合衆国の政治家。第12代ニューメキシコ州知事、連邦下院議員、ニューメキシコ州公有地委員長。"
             }
         ]
     }
