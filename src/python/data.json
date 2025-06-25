@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年06月25日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2197186",
+                "title": "飛天オンライン",
+                "text": "〇〇は、多人数同時参加型のオンラインゲーム。開発元は台湾のデベロッパー、SOFTSTAR。"
+            },
+            {
                 "datetime": "2025年06月25日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=114285",
                 "title": "セパタクロー",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1249999",
                 "title": "福岡市立箱崎中学校",
                 "text": "〇〇は、福岡県福岡市東区にある公立中学校。"
-            },
-            {
-                "datetime": "2025年06月24日 05時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3859225",
-                "title": "のだみそ",
-                "text": "〇〇は、味噌メーカー。天然醸造の豆味噌を主力商品とする。「桝塚味噌（ますづかみそ）」の名で三河地方では古くから知られる。"
             }
         ]
     }
