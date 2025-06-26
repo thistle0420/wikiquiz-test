@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年06月27日 02時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2574318",
+                "title": "柴田鐵雄",
+                "text": "〇〇は、日本の剣道家。段位は教士八段。鞍馬流剣術第17代宗家。"
+            },
+            {
                 "datetime": "2025年06月27日 01時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2522103",
                 "title": "川崎洋介",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4422706",
                 "title": "HIKARI (Ms.OOJAの曲)",
                 "text": "〇〇は、Ms.OOJAの楽曲。2020年2月5日にUniversal Sigmaから配信限定シングルとしてリリースされた。"
-            },
-            {
-                "datetime": "2025年06月25日 10時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3957414",
-                "title": "メタモルフォーゼの縁側",
-                "text": "〇〇は、鶴谷香央理による日本の漫画作品である。2017年11月17日より2020年10月9日にかけて、KADOKAWAのウェブコミック配信サイト『コミックNewtype』で連載された。2022年に実写映画化されている。単行本第3巻の帯には宇垣美里が推薦文を寄せた。"
             }
         ]
     }
