@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年06月26日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4724926",
+                "title": "ボリス・ピストリウス",
+                "text": "〇〇は、ドイツの政治家。2023年1月から国防大臣を務めている。"
+            },
+            {
                 "datetime": "2025年06月26日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1796310",
                 "title": "砂浜海岸",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4071297",
                 "title": "林家小正楽",
                 "text": "〇〇は、落語家の名跡。上方、江戸に二流あり、江戸方は紙切りの名跡である。"
-            },
-            {
-                "datetime": "2025年06月25日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4886873",
-                "title": "井上茂兵衛 (政治家)",
-                "text": "〇〇は、日本の商人（扇子商）、実業家、政治家。名古屋市会議長。旧姓は富田。族籍は愛知県平民。"
             }
         ]
     }
