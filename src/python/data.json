@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年06月28日 05時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2318495",
+                "title": "東氏津波古殿内",
+                "text": "〇〇は、東開極・東風平親方政真を元祖とする琉球王国の士族（首里士族）。旧首里士族東姓大宗家。"
+            },
+            {
                 "datetime": "2025年06月28日 04時の問題",
                 "url": "https://ja.wikipedia.org/?curid=218083",
                 "title": "河端龍",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1540915",
                 "title": "大韓民国国軍",
                 "text": "〇〇は、大韓民国が保有する軍隊である。"
-            },
-            {
-                "datetime": "2025年06月26日 13時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1514519",
-                "title": "都賀川",
-                "text": "〇〇は、兵庫県神戸市灘区にある二級河川。"
             }
         ]
     }
