@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年06月27日 13時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4547119",
+                "title": "岩井盛次",
+                "text": "〇〇は、日本の実業家で、エコナックホールディングスの創業者でもある。"
+            },
+            {
                 "datetime": "2025年06月27日 12時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2120641",
                 "title": "2009年バスケットボール男子アフリカ選手権",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=5033345",
                 "title": "エア・マッシー (第3代クラリナ男爵)",
                 "text": "〇〇は、アイルランド貴族。保守党に属し、アイルランド貴族代表議員を務めた。"
-            },
-            {
-                "datetime": "2025年06月25日 21時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2197186",
-                "title": "飛天オンライン",
-                "text": "〇〇は、多人数同時参加型のオンラインゲーム。開発元は台湾のデベロッパー、SOFTSTAR。"
             }
         ]
     }
