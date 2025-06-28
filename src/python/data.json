@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年06月28日 22時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3334403",
+                "title": "白井第二小学校",
+                "text": "〇〇は、日本の公立小学校。白井市立〇〇 - 千葉県白井市立〇〇平塚分校"
+            },
+            {
                 "datetime": "2025年06月28日 21時の問題",
                 "url": "https://ja.wikipedia.org/?curid=118411",
                 "title": "虎徹",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1289500",
                 "title": "パラワンコクジャク",
                 "text": "〇〇は、鳥綱キジ目キジ科コクジャク属に分類される鳥類。別名ナポレオンコクジャク。"
-            },
-            {
-                "datetime": "2025年06月27日 06時の問題",
-                "url": "https://ja.wikipedia.org/?curid=5031967",
-                "title": "気多神社 (沼津市)",
-                "text": "〇〇は、静岡県沼津市内浦三津（うちうら みと）にある神社。"
             }
         ]
     }
