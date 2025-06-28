@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年06月28日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1653061",
+                "title": "2009年の音楽",
+                "text": "〇〇は、〇〇分野に関する動向をまとめる。2008年の音楽-〇〇-2010年の音楽"
+            },
+            {
                 "datetime": "2025年06月28日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1668301",
                 "title": "ソユーズTM-20",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3795641",
                 "title": "鈴木あぐり",
                 "text": "〇〇は、山形県米沢市出身の女子サッカー選手。"
-            },
-            {
-                "datetime": "2025年06月27日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2574318",
-                "title": "柴田鐵雄",
-                "text": "〇〇は、日本の剣道家。段位は教士八段。鞍馬流剣術第17代宗家。"
             }
         ]
     }
