@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年06月30日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=77318",
+                "title": "126年",
+                "text": "〇〇は、西暦（ユリウス暦）による、平年。"
+            },
+            {
                 "datetime": "2025年06月30日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=813284",
                 "title": "バスク一周",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1612718",
                 "title": "フィル・ゴフ",
                 "text": "〇〇は、ニュージーランドの政治家。オークランド市長（第2代）。元ニュージーランド労働党党首（第12代）。"
-            },
-            {
-                "datetime": "2025年06月29日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4153800",
-                "title": "松田裕市",
-                "text": "〇〇は、日本の男性声優。神奈川県出身。大沢事務所所属。"
             }
         ]
     }
