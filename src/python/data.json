@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年07月01日 15時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4656139",
+                "title": "Rチャンネル",
+                "text": "〇〇は、楽天グループが提供する無料のリニア型動画配信サービス及び日本の広告付無料ストリーミングテレビ（FAST）である。"
+            },
+            {
                 "datetime": "2025年07月01日 14時の問題",
                 "url": "https://ja.wikipedia.org/?curid=792670",
                 "title": "佐々木空",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=994010",
                 "title": "フィオルディモンテ",
                 "text": "〇〇は、イタリア共和国マルケ州マチェラータ県に存在した、人口約200人の基礎自治体（コムーネ）。かつては独立したコムーネであったが、2017年1月1日にピエヴェボヴィリアーナと合併してヴァルフォルナーチェの一部となった。"
-            },
-            {
-                "datetime": "2025年06月29日 23時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2136216",
-                "title": "3,4-ジヒドロキシフェニルアラニン酸化的デアミナーゼ",
-                "text": "〇〇は、次の化学反応を触媒する酸化還元酵素である。2 L-ドーパ + O2                     ⇌              {\\displaystyle \\rightleftharpoons }   2 3,4-ジヒドロキシフェニルピルビン酸 + 2 NH3反応式の通り、基質はL-ドーパとO2で、生成物は3,4-ジヒドロキシフェニルピルビン酸とNH3である。組織名は3,4-dihydroxy-L-phenylalanine:oxygen oxidoreductase (deaminating)で、別名に3,4-dihydroxy-L-phenylalanine: oxidative deaminase、oxidative deaminase、DOPA oxidative deaminase、DOPAODAがある。"
             }
         ]
     }
