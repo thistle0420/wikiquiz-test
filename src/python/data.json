@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年07月02日 02時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1995955",
+                "title": "マリーア・ルイーザ・ディ・スパーニャ",
+                "text": "〇〇は、スペイン王カルロス4世と王妃マリーア・ルイサ・デ・パルマの娘。ブルボン＝パルマ家当主でエトルリア王となったルドヴィーコ・ディ・ボルボーネと結婚した。マリーア・ルイーザ・ディ・ボルボーネ＝スパーニャ（Maria Luisa di Borbone-Spagna）、マリーア・ルイーザ・ディ・ボルボーネ（Maria Luisa di Borbone）とも。スペイン名はマリーア・ルイサ・デ・ボルボーン・イ・ボルボーン＝パルマ（María Luisa de Borbón y Borbón-Parma）。"
+            },
+            {
                 "datetime": "2025年07月02日 01時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1153649",
                 "title": "千種堅",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2480834",
                 "title": "リレーションシップ・マーケティング",
                 "text": "〇〇は、1990年代に発展したマーケティングの一手法である。"
-            },
-            {
-                "datetime": "2025年06月30日 10時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1509740",
-                "title": "ジョー・エリオット",
-                "text": "〇〇は、イギリスのロックバンド、デフ・レパードのヴォーカリストである。身長187cm。"
             }
         ]
     }
