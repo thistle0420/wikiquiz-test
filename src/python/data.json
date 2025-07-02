@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年07月03日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3554546",
+                "title": "ボストン・オペラ・カンパニー",
+                "text": "〇〇は、アメリカ合衆国マサチューセッツ州ボストンで1909年から1915年に活動していたオペラ・カンパニー。"
+            },
+            {
                 "datetime": "2025年07月02日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1291847",
                 "title": "NHK地域応援キャンペーン",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=147319",
                 "title": "SHINGO",
                 "text": "〇〇は、日本の男性ミュージシャン、シンガーソングライター。本名：非公開。東京都世田谷区出身。所属個人事務所はSunFlower、所属レーベルはSunFlowerLabel。身長170センチメートル。"
-            },
-            {
-                "datetime": "2025年07月01日 08時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3632078",
-                "title": "名古屋市立川中小学校",
-                "text": "〇〇は、名古屋市北区福徳町の公立小学校。土日祝は名古屋北トップドリームズがグラウンドを使用している。"
             }
         ]
     }
