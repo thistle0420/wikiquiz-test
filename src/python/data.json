@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年07月03日 07時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1232708",
+                "title": "松本市の歴史",
+                "text": "〇〇は、長野県〇〇および年表と、現在の松本市に至るまでの行政区画の変遷について述べる。"
+            },
+            {
                 "datetime": "2025年07月03日 06時の問題",
                 "url": "https://ja.wikipedia.org/?curid=220230",
                 "title": "えふえむ・エヌ・ワン",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3600490",
                 "title": "成長接合型トランジスタ",
                 "text": "〇〇は、トランジスタの一形式。"
-            },
-            {
-                "datetime": "2025年07月01日 15時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4656139",
-                "title": "Rチャンネル",
-                "text": "〇〇は、楽天グループが提供する無料のリニア型動画配信サービス及び日本の広告付無料ストリーミングテレビ（FAST）である。"
             }
         ]
     }
