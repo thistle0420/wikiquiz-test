@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年07月02日 18時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2149000",
+                "title": "マリア・アナ・ヴィトリア・デ・ブラガンサ",
+                "text": "〇〇は、ポルトガルの王族。ポルトガル女王マリア1世とその夫君ペドロ3世の間の次女で、スペイン王子ガブリエルの妃。全名はマリア・アナ・ヴィトリア・ジュゼファ・フランシスカ・シャヴィエル・ディ・パウラ・アントニエータ・ジュアーナ・ドゥミンガス・ガブリエーラ（Maria Ana Vitória Josefa Francisca Xavier de Paula Antonieta Joana Domingas Gabriela de Bragança）。"
+            },
+            {
                 "datetime": "2025年07月02日 17時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1809885",
                 "title": "ラトビアのユーロビジョン・ソング・コンテスト",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=212366",
                 "title": "ムラサキウマゴヤシ",
                 "text": "〇〇は、マメ科ウマゴヤシ属の多年草。西南アジア原産。アルファルファ（スペイン語: alfalfa）、ルーサン（英: lucerne）とも呼ばれる。"
-            },
-            {
-                "datetime": "2025年07月01日 02時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2843043",
-                "title": "M1A",
-                "text": "〇〇は、アメリカのスプリングフィールド・アーモリー社によって製造されている民生用自動小銃。軍用小銃M14の民生用モデルとして1974年から生産が開始された。"
             }
         ]
     }
