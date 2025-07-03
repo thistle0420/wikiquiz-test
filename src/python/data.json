@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年07月03日 22時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4100749",
+                "title": "松戸市立馬橋小学校",
+                "text": "〇〇は、千葉県松戸市西馬橋一丁目にある市立小学校。通称は「馬小（まばしょう、うましょう）」。"
+            },
+            {
                 "datetime": "2025年07月03日 21時の問題",
                 "url": "https://ja.wikipedia.org/?curid=670056",
                 "title": "浅賀一恵",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1308815",
                 "title": "大分日産自動車",
                 "text": "〇〇は、大分県大分市に本社を置く、日産自動車の販売会社である。"
-            },
-            {
-                "datetime": "2025年07月02日 06時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1989013",
-                "title": "2008年ブータン総選挙",
-                "text": "〇〇は、2008年3月24日にブータンで行われた国民議会議員の総選挙である。"
             }
         ]
     }
