@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年07月03日 20時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4927132",
+                "title": "新宿町 (豊川市)",
+                "text": "〇〇は、愛知県豊川市の地名。"
+            },
+            {
                 "datetime": "2025年07月03日 19時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1805922",
                 "title": "Switch (mihimaru GTの曲)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=488307",
                 "title": "花よりもなほ",
                 "text": "〇〇は、2006年6月3日に公開された日本映画。主演は岡田准一。監督は是枝裕和。配給は松竹。"
-            },
-            {
-                "datetime": "2025年07月02日 04時の問題",
-                "url": "https://ja.wikipedia.org/?curid=393104",
-                "title": "庄川口駅",
-                "text": "〇〇は、富山県射水市庄川本町にある万葉線の駅。"
             }
         ]
     }
