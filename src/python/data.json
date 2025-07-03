@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年07月03日 23時の問題",
+                "url": "https://ja.wikipedia.org/?curid=66430",
+                "title": "少年ビッグコミック",
+                "text": "〇〇は、小学館が発行していた月2回刊の漫画雑誌。『マンガくん』→『〇〇』→『ヤングサンデー』（後に週刊化）と変遷した。"
+            },
+            {
                 "datetime": "2025年07月03日 22時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4100749",
                 "title": "松戸市立馬橋小学校",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4122259",
                 "title": "柳家圭花",
                 "text": "〇〇は、落語協会に所属する落語家。本名∶北村 圭太。"
-            },
-            {
-                "datetime": "2025年07月02日 07時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1308815",
-                "title": "大分日産自動車",
-                "text": "〇〇は、大分県大分市に本社を置く、日産自動車の販売会社である。"
             }
         ]
     }
