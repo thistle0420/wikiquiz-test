@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年07月05日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1405501",
+                "title": "星影の小径",
+                "text": "〇〇は、1950年（昭和25年）にキングレコードから、小畑実の歌唱で発売された歌謡曲である。"
+            },
+            {
                 "datetime": "2025年07月05日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2231369",
                 "title": "フリーストール牛舎",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=261415",
                 "title": "岡山県道159号久米中央線",
                 "text": "〇〇は、岡山県津山市から久米郡美咲町に至る一般県道である。"
-            },
-            {
-                "datetime": "2025年07月03日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4139414",
-                "title": "Mass Effect シリーズ",
-                "text": "〇〇は、バイオウェアが開発し、エレクトロニック・アーツが発売したアクションロールプレイングゲームシリーズ。"
             }
         ]
     }
