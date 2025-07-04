@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年07月04日 17時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4893023",
+                "title": "カトリック浅子教会",
+                "text": "〇〇は、長崎県佐世保市にある、キリスト教（カトリック）の聖堂。"
+            },
+            {
                 "datetime": "2025年07月04日 16時の問題",
                 "url": "https://ja.wikipedia.org/?curid=4971830",
                 "title": "マツモト産業",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3929983",
                 "title": "緑花台",
                 "text": "〇〇は、愛知県名古屋市緑区の町名。丁番を持たない単独町名である。住居表示未実施。"
-            },
-            {
-                "datetime": "2025年07月03日 01時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3006709",
-                "title": "三浦敏明",
-                "text": "〇〇は、日本の英文学者・英語学者・歌人。東洋大学名誉教授。"
             }
         ]
     }
