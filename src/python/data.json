@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年07月05日 10時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3211075",
+                "title": "永原稔",
+                "text": "〇〇は、日本の政治家。新自由クラブ衆議院議員(1期)。"
+            },
+            {
                 "datetime": "2025年07月05日 09時の問題",
                 "url": "https://ja.wikipedia.org/?curid=313940",
                 "title": "デクスターズラボ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1805922",
                 "title": "Switch (mihimaru GTの曲)",
                 "text": "〇〇は、2009年6月17日に発売されたmihimaru GTの20枚目のシングル。発売元はユニバーサルミュージック。"
-            },
-            {
-                "datetime": "2025年07月03日 18時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3884348",
-                "title": "楠木ともりのともりるきゃんどる",
-                "text": "〇〇は、2018年7月10日から2023年7月22日まで音泉で配信されていたラジオ番組。パーソナリティは楠木ともり。音泉プレミアム会員は、おまけ放送も聞くことができる。"
             }
         ]
     }
