@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年07月06日 06時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1374889",
+                "title": "ポートレイツ-ヴァンゲリス・コレクション",
+                "text": "〇〇は、ヴァンゲリスが1996年に発表したベスト・アルバム。"
+            },
+            {
                 "datetime": "2025年07月06日 05時の問題",
                 "url": "https://ja.wikipedia.org/?curid=594226",
                 "title": "Week!",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1558372",
                 "title": "嘉納愛子",
                 "text": "〇〇は、日本の声楽家（メゾソプラノ）・音楽教育者。相愛大学名誉教授（2011年時点）。"
-            },
-            {
-                "datetime": "2025年07月04日 14時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1569374",
-                "title": "マノン",
-                "text": "〇〇は、ヨーロッパ系の女性名。"
             }
         ]
     }
