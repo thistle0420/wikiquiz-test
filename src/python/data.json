@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年07月05日 11時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4371595",
+                "title": "バスケットボールマダガスカル代表",
+                "text": "〇〇は、マダガスカルバスケットボール連盟により国際大会に派遣される男子バスケットボールのナショナルチームである。"
+            },
+            {
                 "datetime": "2025年07月05日 10時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3211075",
                 "title": "永原稔",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4927132",
                 "title": "新宿町 (豊川市)",
                 "text": "〇〇は、愛知県豊川市の地名。"
-            },
-            {
-                "datetime": "2025年07月03日 19時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1805922",
-                "title": "Switch (mihimaru GTの曲)",
-                "text": "〇〇は、2009年6月17日に発売されたmihimaru GTの20枚目のシングル。発売元はユニバーサルミュージック。"
             }
         ]
     }
