@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年07月07日 04時の問題",
+                "url": "https://ja.wikipedia.org/?curid=989193",
+                "title": "ノイゼッツ",
+                "text": "〇〇は、イングランド・ロンドン出身のロック・バンドである。2006年1月、デビュー。"
+            },
+            {
                 "datetime": "2025年07月07日 03時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2033202",
                 "title": "中国社会党",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1236670",
                 "title": "藤懸静也",
                 "text": "〇〇は、日本美術史学者、東京帝国大学教授。"
-            },
-            {
-                "datetime": "2025年07月05日 12時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1276602",
-                "title": "シェルイ・ティボール",
-                "text": "〇〇は、ハンガリーの作曲家、ヴァイオリニスト、ヴィオリスト。"
             }
         ]
     }
