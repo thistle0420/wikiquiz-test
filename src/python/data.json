@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年07月07日 11時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4415788",
+                "title": "ヤバいよ!リアルガチVEGAS!!",
+                "text": "〇〇は、日本テレビ系列で放送されていたスポーツ番組・バラエティ番組・特別番組である。"
+            },
+            {
                 "datetime": "2025年07月07日 10時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1750841",
                 "title": "リインカーネーション",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4924697",
                 "title": "三都橋",
                 "text": "〇〇は、愛知県北設楽郡設楽町の地名。"
-            },
-            {
-                "datetime": "2025年07月05日 19時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2476147",
-                "title": "2014 FIFAワールドカップ・アフリカ1次予選",
-                "text": "〇〇は、2014 FIFAワールドカップ・アフリカ予選の1次予選の結果をまとめたものである。"
             }
         ]
     }
