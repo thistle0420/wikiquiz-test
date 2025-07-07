@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年07月07日 22時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4057476",
+                "title": "2020年のサッカー",
+                "text": "〇〇は、〇〇関連の出来事をまとめる。2019年のサッカー - 〇〇 - 2021年のサッカー"
+            },
+            {
                 "datetime": "2025年07月07日 21時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2479309",
                 "title": "Milestone (BoAの曲)",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4463149",
                 "title": "モズナガレボシ",
                 "text": "〇〇は、日本の競走馬。2021年の小倉記念の勝ち馬である。馬名の意味は、冠名＋流れ星。"
-            },
-            {
-                "datetime": "2025年07月06日 06時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1374889",
-                "title": "ポートレイツ-ヴァンゲリス・コレクション",
-                "text": "〇〇は、ヴァンゲリスが1996年に発表したベスト・アルバム。"
             }
         ]
     }
