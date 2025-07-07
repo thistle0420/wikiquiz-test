@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年07月07日 21時の問題",
+                "url": "https://ja.wikipedia.org/?curid=2479309",
+                "title": "Milestone (BoAの曲)",
+                "text": "〇〇は、BoAの32枚目のシングル。2011年12月7日にavex traxから発売された。"
+            },
+            {
                 "datetime": "2025年07月07日 20時の問題",
                 "url": "https://ja.wikipedia.org/?curid=958632",
                 "title": "日本橋箱崎町",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=1374889",
                 "title": "ポートレイツ-ヴァンゲリス・コレクション",
                 "text": "〇〇は、ヴァンゲリスが1996年に発表したベスト・アルバム。"
-            },
-            {
-                "datetime": "2025年07月06日 05時の問題",
-                "url": "https://ja.wikipedia.org/?curid=594226",
-                "title": "Week!",
-                "text": "〇〇は、日本のロックバンド・Do As Infinityの9作目のシングル。"
             }
         ]
     }
