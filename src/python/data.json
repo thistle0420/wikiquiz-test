@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年07月07日 10時の問題",
+                "url": "https://ja.wikipedia.org/?curid=1750841",
+                "title": "リインカーネーション",
+                "text": "〇〇は、転生（輪廻）を意味する。"
+            },
+            {
                 "datetime": "2025年07月07日 09時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3046464",
                 "title": "カーリンジャル城",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=2476147",
                 "title": "2014 FIFAワールドカップ・アフリカ1次予選",
                 "text": "〇〇は、2014 FIFAワールドカップ・アフリカ予選の1次予選の結果をまとめたものである。"
-            },
-            {
-                "datetime": "2025年07月05日 18時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3509285",
-                "title": "シェイン・ダフィー",
-                "text": "〇〇は、北アイルランド・ロンドンデリー出身のプロサッカー選手。アイルランド代表。ノリッジ・シティFC所属。ポジションはDF。"
             }
         ]
     }
