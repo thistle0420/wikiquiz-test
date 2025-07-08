@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年07月08日 16時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4924973",
+                "title": "セムジュ・デビッド",
+                "text": "〇〇は、ウガンダのプロボクサー。カンパラ出身。第59代日本ウェルター級王者。中日ボクシングジム所属。"
+            },
+            {
                 "datetime": "2025年07月08日 15時の問題",
                 "url": "https://ja.wikipedia.org/?curid=901669",
                 "title": "五郎丸信号場",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=3957560",
                 "title": "BIOMUTANT",
                 "text": "〇〇は、スウェーデンのゲーム開発スタジオExperiment 101が開発しTHQ Nordicより発売されたオープンワールドアクションRPG。"
-            },
-            {
-                "datetime": "2025年07月07日 00時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1652279",
-                "title": "長寛勘文",
-                "text": "〇〇は、平安時代の長寛年間（1163年 - 1164年）に編纂された勘文。"
             }
         ]
     }
