@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年07月08日 12時の問題",
+                "url": "https://ja.wikipedia.org/?curid=5066328",
+                "title": "中澤瞳 (哲学者)",
+                "text": "〇〇は、日本の哲学者。日本大学通信教育部・大学院総合社会情報研究科 准教授。"
+            },
+            {
                 "datetime": "2025年07月08日 11時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2673284",
                 "title": "ベトナムにおけるLGBTの権利",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=338015",
                 "title": "石川県立金沢錦丘中学校・高等学校",
                 "text": "〇〇は、石川県金沢市窪にある公立の中高一貫校。"
-            },
-            {
-                "datetime": "2025年07月06日 20時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1719363",
-                "title": "石巻神社",
-                "text": "〇〇は、愛知県豊橋市石巻町にある神社である。式内社（三河国八名郡〇〇）。旧社格は郷社であり、三河国四宮とされる。"
             }
         ]
     }
