@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年07月09日 02時の問題",
+                "url": "https://ja.wikipedia.org/?curid=353939",
+                "title": "ジーン・バッキー",
+                "text": "〇〇は、アメリカ合衆国ルイジアナ州ラファイエット出身のプロ野球選手（投手）。NPBの外国人選手として初めて沢村栄治賞を受賞した。"
+            },
+            {
                 "datetime": "2025年07月09日 01時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3517839",
                 "title": "ヴォルゴグラード・アリーナ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4415788",
                 "title": "ヤバいよ!リアルガチVEGAS!!",
                 "text": "〇〇は、日本テレビ系列で放送されていたスポーツ番組・バラエティ番組・特別番組である。"
-            },
-            {
-                "datetime": "2025年07月07日 10時の問題",
-                "url": "https://ja.wikipedia.org/?curid=1750841",
-                "title": "リインカーネーション",
-                "text": "〇〇は、転生（輪廻）を意味する。"
             }
         ]
     }
