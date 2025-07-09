@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年07月09日 13時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4486443",
+                "title": "アクシスルートホールディングス",
+                "text": "〇〇は、東京都千代田区に本社を置く、アクシスルートグループの持株会社。"
+            },
+            {
                 "datetime": "2025年07月09日 12時の問題",
                 "url": "https://ja.wikipedia.org/?curid=18542",
                 "title": "JR神戸線",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4057476",
                 "title": "2020年のサッカー",
                 "text": "〇〇は、〇〇関連の出来事をまとめる。2019年のサッカー - 〇〇 - 2021年のサッカー"
-            },
-            {
-                "datetime": "2025年07月07日 21時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2479309",
-                "title": "Milestone (BoAの曲)",
-                "text": "〇〇は、BoAの32枚目のシングル。2011年12月7日にavex traxから発売された。"
             }
         ]
     }
