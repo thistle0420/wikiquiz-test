@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年07月09日 11時の問題",
+                "url": "https://ja.wikipedia.org/?curid=401725",
+                "title": "アカビタイボウシインコ",
+                "text": "〇〇は、オウム目インコ科に分類される鳥類。"
+            },
+            {
                 "datetime": "2025年07月09日 10時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1236892",
                 "title": "ギンイロシマアジ",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=958632",
                 "title": "日本橋箱崎町",
                 "text": "〇〇は、東京都中央区の地名で、旧日本橋区に当たる日本橋地域内である。「丁目」の設定のない単独町名である。住居表示実施済区域。"
-            },
-            {
-                "datetime": "2025年07月07日 19時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3947004",
-                "title": "高田正二郎",
-                "text": "〇〇は、日本の洋画家、グラフィックデザイナー。"
             }
         ]
     }
