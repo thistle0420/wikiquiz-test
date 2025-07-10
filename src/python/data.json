@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年07月10日 09時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4027934",
+                "title": "寺田町 (大阪市)",
+                "text": "〇〇は、大阪府大阪市天王寺区にある町名。現行行政地名は寺田町一丁目および寺田町二丁目。"
+            },
+            {
                 "datetime": "2025年07月10日 08時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2200999",
                 "title": "キース・ウォーカー",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4702203",
                 "title": "スーパーソニック (ジャミロクワイの曲)",
                 "text": "〇〇は、1999年のジャミロクワイの楽曲。"
-            },
-            {
-                "datetime": "2025年07月08日 17時の問題",
-                "url": "https://ja.wikipedia.org/?curid=545168",
-                "title": "宿南信号場",
-                "text": "〇〇は、兵庫県養父市八鹿町宿南にある西日本旅客鉄道（JR西日本）山陰本線の信号場である。"
             }
         ]
     }
