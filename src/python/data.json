@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年07月10日 19時の問題",
+                "url": "https://ja.wikipedia.org/?curid=125559",
+                "title": "三菱UFJニコス",
+                "text": "〇〇は、東京都千代田区外神田（秋葉原）に本社を置く、株式会社三菱UFJフィナンシャル・グループ (MUFG) の中核企業で、日本の大手クレジットカード会社である。MUFG内略称はニコス。"
+            },
+            {
                 "datetime": "2025年07月10日 18時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2337201",
                 "title": "京都府立医科大学附属病院",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=165305",
                 "title": "糠部郡",
                 "text": "〇〇は、かつて陸奥国にあった郡。現在の青森県東部から岩手県北部にかけて広がっていた。"
-            },
-            {
-                "datetime": "2025年07月09日 03時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3721869",
-                "title": "館村駅",
-                "text": "〇〇は、大韓民国全北特別自治道任実郡にある韓国鉄道公社（KORAIL）全羅線の駅である。"
             }
         ]
     }
