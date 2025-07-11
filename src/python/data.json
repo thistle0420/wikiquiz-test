@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年07月11日 10時の問題",
+                "url": "https://ja.wikipedia.org/?curid=4706443",
+                "title": "普門院 (柏市)",
+                "text": "〇〇は、千葉県柏市にある真言宗豊山派の寺院。"
+            },
+            {
                 "datetime": "2025年07月11日 09時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1118945",
                 "title": "デロリアン・モーター・カンパニー",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=81066",
                 "title": "国道116号",
                 "text": "〇〇は、新潟県柏崎市から新潟市中央区に至る一般国道である。"
-            },
-            {
-                "datetime": "2025年07月09日 18時の問題",
-                "url": "https://ja.wikipedia.org/?curid=846934",
-                "title": "ル・ルドゥタブル級原子力潜水艦",
-                "text": "〇〇は、フランス海軍の原子力弾道ミサイル潜水艦（仏  sous-marin nucléaires lanceurs d'engins, SNLE、英 SSBN）。5隻が建造され、2003年のランドンターブルの退役を持って全て退役した。"
             }
         ]
     }
