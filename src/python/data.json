@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年07月12日 01時の問題",
+                "url": "https://ja.wikipedia.org/?curid=66157",
+                "title": "日本高速通信",
+                "text": "〇〇は、かつて日本に存在した第一種電気通信事業を事業内容とする会社である。現在のKDDIの前身会社の1つ。"
+            },
+            {
                 "datetime": "2025年07月12日 00時の問題",
                 "url": "https://ja.wikipedia.org/?curid=3933035",
                 "title": "三澤憲司",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=793971",
                 "title": "日本国際協力システム",
                 "text": "〇〇は、ODA二国間援助の無償資金協力、有償資金協力（円借款）、技術協力等の実施を支援する組織。"
-            },
-            {
-                "datetime": "2025年07月10日 09時の問題",
-                "url": "https://ja.wikipedia.org/?curid=4027934",
-                "title": "寺田町 (大阪市)",
-                "text": "〇〇は、大阪府大阪市天王寺区にある町名。現行行政地名は寺田町一丁目および寺田町二丁目。"
             }
         ]
     }
