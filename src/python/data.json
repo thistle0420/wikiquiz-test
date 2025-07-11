@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年07月12日 03時の問題",
+                "url": "https://ja.wikipedia.org/?curid=852556",
+                "title": "愛知県道・岐阜県道8号津島南濃線",
+                "text": "〇〇は、愛知県津島市から岐阜県海津市に至る主要地方道に指定された県道である。"
+            },
+            {
                 "datetime": "2025年07月12日 02時の問題",
                 "url": "https://ja.wikipedia.org/?curid=849597",
                 "title": "サーレマー島",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=271263",
                 "title": "足柄平野",
                 "text": "〇〇は、神奈川県南西部に位置する平野である。関東平野の一部である。酒匂川低地とも呼ばれている。"
-            },
-            {
-                "datetime": "2025年07月10日 11時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2198594",
-                "title": "菅佐原英一",
-                "text": "〇〇は、日本の俳優。神奈川県出身。"
             }
         ]
     }
