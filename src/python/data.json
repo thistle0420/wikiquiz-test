@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年07月12日 00時の問題",
+                "url": "https://ja.wikipedia.org/?curid=3933035",
+                "title": "三澤憲司",
+                "text": "〇〇は、日本の彫刻家。長野県長野市信州新町生まれ。"
+            },
+            {
                 "datetime": "2025年07月11日 23時の問題",
                 "url": "https://ja.wikipedia.org/?curid=2198267",
                 "title": "望月俊男",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=4027934",
                 "title": "寺田町 (大阪市)",
                 "text": "〇〇は、大阪府大阪市天王寺区にある町名。現行行政地名は寺田町一丁目および寺田町二丁目。"
-            },
-            {
-                "datetime": "2025年07月10日 08時の問題",
-                "url": "https://ja.wikipedia.org/?curid=2200999",
-                "title": "キース・ウォーカー",
-                "text": "〇〇は、アメリカ合衆国のプロレスラー、元ボディビルダー。イリノイ州シカゴ出身。"
             }
         ]
     }
