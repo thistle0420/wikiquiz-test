@@ -2,6 +2,12 @@
     "data": {
         "wiki": [
             {
+                "datetime": "2025年07月13日 08時の問題",
+                "url": "https://ja.wikipedia.org/?curid=391906",
+                "title": "G-SAVIOURの登場兵器",
+                "text": "〇〇は、特撮映画及びゲーム『G-SAVIOUR』に登場する架空の兵器について説明する。"
+            },
+            {
                 "datetime": "2025年07月13日 07時の問題",
                 "url": "https://ja.wikipedia.org/?curid=1128828",
                 "title": "宮原厚次",
@@ -234,12 +240,6 @@
                 "url": "https://ja.wikipedia.org/?curid=106017",
                 "title": "フィリピンの大統領",
                 "text": "〇〇は、フィリピン共和国の元首であり行政府の長たる大統領。"
-            },
-            {
-                "datetime": "2025年07月11日 16時の問題",
-                "url": "https://ja.wikipedia.org/?curid=3368789",
-                "title": "沼津市立開北小学校",
-                "text": "〇〇は、静岡県沼津市高沢町にある公立小学校。卒業生は主に沼津市立第五中学校へ進学する。"
             }
         ]
     }
